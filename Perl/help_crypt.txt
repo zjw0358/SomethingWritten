@@ -1,0 +1,77 @@
+    crypt PLAINTEXT,SALT
+            Creates a digest string exactly like the crypt(3) function in
+            the C library (assuming that you actually have a version there
+            that has not been extirpated as a potential munitions).
+
+            crypt() is a one-way hash function. The PLAINTEXT and SALT is
+            turned into a short string, called a digest, which is returned.
+            The same PLAINTEXT and SALT will always return the same string,
+            but there is no (known) way to get the original PLAINTEXT from
+            the hash. Small changes in the PLAINTEXT or SALT will result in
+            large changes in the digest.
+
+            There is no decrypt function. This function isn't all that
+            useful for cryptography (for that, look for Crypt modules on
+            your nearby CPAN mirror) and the name "crypt" is a bit of a
+            misnomer. Instead it is primarily used to check if two pieces of
+            text are the same without having to transmit or store the text
+            itself. An example is checking if a correct password is given.
+            The digest of the password is stored, not the password itself.
+            The user types in a password that is crypt()'d with the same
+            salt as the stored digest. If the two digests match the password
+            is correct.
+
+            When verifying an existing digest string you should use the
+            digest as the salt (like "crypt($plain, $digest) eq $digest").
+            The SALT used to create the digest is visible as part of the
+            digest. This ensures crypt() will hash the new string with the
+            same salt as the digest. This allows your code to work with the
+            standard crypt and with more exotic implementations. In other
+            words, do not assume anything about the returned string itself,
+            or how many bytes in the digest matter.
+
+            Traditionally the result is a string of 13 bytes: two first
+            bytes of the salt, followed by 11 bytes from the set
+            "[./0-9A-Za-z]", and only the first eight bytes of the digest
+            string mattered, but alternative hashing schemes (like MD5),
+            higher level security schemes (like C2), and implementations on
+            non-UNIX platforms may produce different strings.
+
+            When choosing a new salt create a random two character string
+            whose characters come from the set "[./0-9A-Za-z]" (like "join
+            '', ('.', '/', 0..9, 'A'..'Z', 'a'..'z')[rand 64, rand 64]").
+            This set of characters is just a recommendation; the characters
+            allowed in the salt depend solely on your system's crypt
+            library, and Perl can't restrict what salts "crypt()" accepts.
+
+            Here's an example that makes sure that whoever runs this program
+            knows their password:
+
+                $pwd = (getpwuid($<))[1];
+
+                system "stty -echo";
+                print "Password: ";
+                chomp($word = <STDIN>);
+                print "\n";
+                system "stty echo";
+
+                if (crypt($word, $pwd) ne $pwd) {
+                    die "Sorry...\n";
+                } else {
+                    print "ok\n";
+                }
+
+            Of course, typing in your own password to whoever asks you for
+            it is unwise.
+
+            The crypt function is unsuitable for hashing large quantities of
+            data, not least of all because you can't get the information
+            back. Look at the Digest module for more robust algorithms.
+
+            If using crypt() on a Unicode string (which *potentially* has
+            characters with codepoints above 255), Perl tries to make sense
+            of the situation by trying to downgrade (a copy of the string)
+            the string back to an eight-bit byte string before calling
+            crypt() (on that copy). If that works, good. If not, crypt()
+            dies with "Wide character in crypt".
+

@@ -1,0 +1,30 @@
+    fork
+   Does a fork(2) system call to create a new process running the
+            same program at the same point. It returns the child pid to the
+            parent process, 0 to the child process, or "undef" if the fork
+            is unsuccessful. File descriptors (and sometimes locks on those
+            descriptors) are shared, while everything else is copied. On
+            most systems supporting fork(), great care has gone into making
+            it extremely efficient (for example, using copy-on-write
+            technology on data pages), making it the dominant paradigm for
+            multitasking over the last few decades.
+
+            Beginning with v5.6.0, Perl will attempt to flush all files
+            opened for output before forking the child process, but this may
+            not be supported on some platforms (see perlport). To be safe,
+            you may need to set $| ($AUTOFLUSH in English) or call the
+            "autoflush()" method of "IO::Handle" on any open handles in
+            order to avoid duplicate output.
+
+            If you "fork" without ever waiting on your children, you will
+            accumulate zombies. On some systems, you can avoid this by
+            setting $SIG{CHLD} to "IGNORE". See also perlipc for more
+            examples of forking and reaping moribund children.
+
+            Note that if your forked child inherits system file descriptors
+            like STDIN and STDOUT that are actually connected by a pipe or
+            socket, even if you exit, then the remote server (such as, say,
+            a CGI script or a backgrounded job launched from a remote shell)
+            won't think you're done. You should reopen those to /dev/null if
+            it's any issue.
+
