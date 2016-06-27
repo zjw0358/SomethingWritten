@@ -31,8 +31,4 @@ for i in Eight_wheel:
 	print(round(Crankset_53/i*Wheel_size_16,2))
 print("Crankset_48 vs 11-32t")
 for i in Eight_wheel:
-	print(round(Crankset_48/i*Wheel_size_16,2))
-
-print("Crankset_46 vs 11-32t")
-for i in Eight_wheel:
-	print(round(Crankset_46/i*Wheel_size_16,2))	
+	print(round(Crankset_48/i*Wheel_size_16,2))	
