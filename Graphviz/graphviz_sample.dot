@@ -1,0 +1,23 @@
+
+digraph flow{
+
+node [fontname=SimSun shape="record"]; #中文字体=[FangSong ,SimSun, ...]
+edge [style="dashed"];
+
+a [style="filled", color="black", fillcolor="chartreuse"];
+
+a ;
+肺;
+subgraph cluster_cd{
+label ="c and d"
+bgcolor="mintcream"
+c;
+d;
+}
+
+a->b;
+b->d;
+c->d [color ="red"];
+
+}
+

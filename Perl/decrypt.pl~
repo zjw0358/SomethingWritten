@@ -28,7 +28,7 @@ sub dir{
 if ($File::Find::name)
 {
     $f_count++;
-  if(/(.*)(\.c$)/i)
+  if(/(.*)(\.cx$)/i)
   {
 if($debug_flag==0)	
 {
@@ -38,7 +38,7 @@ if($debug_flag==0)
     $path=getcwd;
     $src_file=$path."/".$_;
     $file_name=$1;
-    $dest_file=$path."/".$file_name.".cx";
+    $dest_file=$path."/".$file_name.".c";
 
 
     $c_count++;
@@ -47,7 +47,7 @@ if($debug_flag==0)
     &get_src($src_file,$dest_file);
     }
   }
-   elsif(/(.*)(\.h$)/i)
+   elsif(/(.*)(\.hx$)/i)
   {
 if($debug_flag==0)
 {
@@ -57,7 +57,7 @@ if($debug_flag==0)
     $path=getcwd;
     $src_file=$path."/".$_;
     $file_name=$1;
-    $dest_file=$path."/".$file_name.".hx";
+    $dest_file=$path."/".$file_name.".h";
 
     $h_count++;
 #    print "SRC FILE is -----",$src_file,"\n";
@@ -65,7 +65,7 @@ if($debug_flag==0)
     &get_src($src_file,$dest_file);    
 }
   }
-  elsif(/(.*)(\.mak$)/i)
+  elsif(/(.*)(\.mx$)/i)
   {
 	  if($debug_flag==0)
 	  {
@@ -75,7 +75,7 @@ if($debug_flag==0)
     $path=getcwd;
     $src_file=$path."/".$_;
     $file_name=$1;
-    $dest_file=$path."/".$file_name.".mx";
+    $dest_file=$path."/".$file_name.".mak";
    
     $mak_count++;
 #    print "SRC FILE is -----",$src_file,"\n";
