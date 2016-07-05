@@ -1,7 +1,7 @@
 
 digraph flow{
 
-node [fontname=SimSun shape="record"]; #中文字体=[FangSong ,SimSun, ...]
+node [fontname=SimSun shape="record"]; #涓枃瀛椾綋=[FangSong ,SimSun, ...]
 edge [style="dashed"];
 
 a [style="filled", color="black", fillcolor="chartreuse"];
