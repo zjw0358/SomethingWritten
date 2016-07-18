@@ -1,0 +1,4 @@
+digraph G{
+node [fontname=FangSong shape="record"]
+阳明经病->"目痛，鼻干，唇焦，漱水不欲咽，脉长，亦有头痛发热"
+}

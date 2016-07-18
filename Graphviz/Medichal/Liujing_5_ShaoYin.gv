@@ -1,0 +1,7 @@
+digraph G{
+node [fontname=FangSong shape="record"]
+
+少阴经病->传经之邪[style="dashed"]
+少阴经病->直中之邪[style="dashed"]
+少阴经病->"口燥，咽干而渴或咽痛，下利清水，色纯青，心下硬，下利肠垢，目不明"
+}

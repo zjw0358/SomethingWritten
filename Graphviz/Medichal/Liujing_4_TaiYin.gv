@@ -1,0 +1,8 @@
+digraph G{
+node [fontname=FangSong shape="record"]
+
+太阴经病->传经之邪[style="dashed"]
+太阴经病->直中之邪[style="dashed"]
+太阴经病->误下内陷之邪[style="dashed"]
+太阴经病->"腹满痛，下利，脉实沉"
+}

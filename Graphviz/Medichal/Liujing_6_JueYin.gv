@@ -1,0 +1,7 @@
+digraph G{
+node [fontname=FangSong shape="record"]
+
+厥阴经病->传经之邪[style="dashed"]
+厥阴经病->直中之邪[style="dashed"]
+厥阴经病->"少腹满，舌卷，囊缩，烦躁，厥逆，消渴"
+}

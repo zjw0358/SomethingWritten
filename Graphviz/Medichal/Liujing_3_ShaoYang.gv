@@ -1,0 +1,5 @@
+digraph G{
+node [fontname=FangSong shape="record"]
+
+少阳经病->"目眩，口苦，耳聋，胸满，胁痛，寒热往来，呕吐，头汗，盗汗，舌滑，脉弦"
+}
