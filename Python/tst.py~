@@ -229,10 +229,3 @@ from ftplib import FTP
 f=FTP('ftp.python.org')
 f.login('anonymous','guess@who.org')
 f.quit()
-
-# module zipFile
-import zipFile
-filename="abdcd.zip"
-z=zipfile.ZipFile(filename,"r")
-z.extractall()
-z.close()
