@@ -36,49 +36,49 @@ day1={
 	'formhash':'dcd1f829',
 	'qdxq':'kx',
 	'qdmode':'1',
-	'todaysay':'好天气,又可以骑车了',
+	'todaysay':'好天气,又可以骑车了'.encode('gbk'),
 	'fastreply':'0'
 	}  
 day2={
 	'formhash':'dcd1f829',
 	'qdxq':'fd',
 	'qdmode':'1',
-	'todaysay':'完全不知道说什么',
+	'todaysay':'完全不知道说什么'.encode('gbk'),
 	'fastreply':'0'
 	} 
 day3={
 	'formhash':'dcd1f829',
 	'qdxq':'wl',
 	'qdmode':'1',
-	'todaysay':'慵懒无聊的一天',
+	'todaysay':'慵懒无聊的一天'.encode('gbk'),
 	'fastreply':'0'
 	} 
 day4={
 	'formhash':'dcd1f829',
 	'qdxq':'yl',
 	'qdmode':'1',
-	'todaysay':'发红包就好了',
+	'todaysay':'发红包就好了'.encode('gbk'),
 	'fastreply':'0'
 	} 
 day5={
 	'formhash':'dcd1f829',
 	'qdxq':'kx',
 	'qdmode':'1',
-	'todaysay':'如果有一天奇迹会出现',
+	'todaysay':'如果有一天奇迹会出现'.encode('gbk'),
 	'fastreply':'0'
 	} 
 day6={
 	'formhash':'dcd1f829',
 	'qdxq':'fd',
 	'qdmode':'1',
-	'todaysay':'心情不美丽了',
+	'todaysay':'心情不美丽了'.encode('gbk'),
 	'fastreply':'0'
 	} 
 day7={
 	'formhash':'dcd1f829',
 	'qdxq':'wl',
 	'qdmode':'1',
-	'todaysay':'上发士大夫安抚',
+	'todaysay':'我想去旅行'.encode('gbk'),
 	'fastreply':'0'
 	} 
 
@@ -91,7 +91,7 @@ def Goto_sigin(data_sent2):
 
 	postdata=urllib.parse.urlencode(data_sent2)
 
-	postdata=postdata.encode('utf8') # utf8  ascii
+	postdata=postdata.encode('utf8') # utf8  ascii  gbk
 
 	req = urllib.request.Request(url_sigin, postdata, headers)  # POST
 	with urllib.request.urlopen(req) as response:
