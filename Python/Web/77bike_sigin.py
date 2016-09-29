@@ -73,7 +73,7 @@ with urllib.request.urlopen(req) as response:
 
 index = (html.find('½ðÇ®'))
 
-info_f.write(time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time())) + ' ' + html[index:index+8])
+info_f.write(time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time())) + ' ' + html[index:index+8] +'\n')
 info_f.close()
 
 
