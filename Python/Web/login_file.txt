@@ -11,3 +11,9 @@ Sigin in time: 2016-09-26 09:40:40	I have BIKETO coin : 609
 Sigin in time: 2016-09-27 09:40:32	I have BIKETO coin : 615 
 Sigin in time: 2016-09-28 09:40:42	I have BIKETO coin : 619 
 Sigin in time: 2016-09-29 09:40:38	I have BIKETO coin : 624 
+Sigin in time: 2016-09-30 09:40:36	I have BIKETO coin : 631 
+Sigin in time: 2016-10-08 09:40:44	I have BIKETO coin : 636 
+Sigin in time: 2016-10-09 09:41:13	I have BIKETO coin : 640 
+Sigin in time: 2016-10-10 09:40:36	I have BIKETO coin : 645 
+Sigin in time: 2016-10-11 09:40:32	I have BIKETO coin : 650 
+Sigin in time: 2016-10-12 09:40:33	I have BIKETO coin : 656 
