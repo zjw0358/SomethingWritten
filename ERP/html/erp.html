@@ -22,6 +22,8 @@ width:200px;
                      return false;
                  }
                  else{
+                    //window.location.href="index.html";
+                    setTimeout('window.location="index.html"',0)
                      return true;
                  }
 
@@ -29,7 +31,7 @@ width:200px;
      </script>
 </head>
 <body>
-<form name="Form_Data" action="/cgi-bin/hello_get.py" method="post" onsubmit="return toVaild()">
+<form name="Form_Data" action="/cgi-bin/insert2db.py" method="post" onsubmit="return toVaild()">
 
 <div width=500 ><div>录入日期: </div><div><input type="text" name="inputDate" size="30" maxlength=100> <br /></div></div>
 <div width=500 ><div>仪器名称: </div><div><input type="text" name="dev_name" size="30" maxlength=100>   <br /></div></div>
@@ -67,3 +69,4 @@ width:200px;
 </body>
 
 </html>
+
