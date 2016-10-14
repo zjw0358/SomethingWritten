@@ -1,8 +1,10 @@
-
+#! /usr/bin/python3
+#-*-coding:utf-8 -*-
 
 import sqlite3
 import os
 import cgi,cgitb
+import types
 
 global DB_FILE_PATH,TABLE_NAME,INPUT_DATA
 global sql_select
@@ -15,7 +17,8 @@ Table_tag = "(inputDate,devName,module,config,imei,\
              reasonByExchange,dateByRework,dateByReworkOK,noteByRework,dateByReturn,\
              imeiByReturn,supplierByReturn,noteByReturn)" 
 
-DB_FILE_PATH = "F:\\WorkHard\\SomethingWritten\\ERP\\warehouse.db"
+#DB_FILE_PATH = "F:\\WorkHard\\SomethingWritten\\ERP\\warehouse.db"
+DB_FILE_PATH = "warehouse.db"
 TABLE_NAME = "summary"
 INPUT_DATA =  [ ('1112', 'Hong', 'ADK-10', 'MTK6555,双卡双待', '455578589652', 
              '20160922', '20160923', '合力泰', '一年','已签',
@@ -35,8 +38,22 @@ sql_insert='INSERT INTO '+ TABLE_NAME + ' '+ Table_tag +' values ' + '(?, ?, ?, 
 
 
 def ShowResult(list_data):
+    print("Content-type:text/html")
+    print("\n\n")
+    print ('<html>')
+    print ('<head>')
+    print ('<meta charset="utf-8">')
+    print ('<title>Hello Word  </title>')
+    print ('</head>')
+    print ('<body>')
+    #print ('<h2>Hello Word!--- 我的CGI测试 </h2>')
     for i in list_data:
-        print(i)
+        print(str(i).encode('gb2312'))
+    print ('</body>')
+    print ('</html>')
+
+    #for i in list_data:
+    #    print(i)
 
 def CheckTableFromDB(db_name,table_name): 
     sql_select='SELECT * FROM '+ table_name  
@@ -47,8 +64,21 @@ def CheckTableFromDB(db_name,table_name):
         r=cu.fetchall()
         cu.close()
     except (Exception) as error_msg:
-        print(error_msg)        
-    ShowResult(r)
+        print(error_msg)
+
+    r1=[]	
+    for i in r:
+        r1.append(list(i))
+    #print(r1)     
+    #for i in r1:
+    	#for j in i:
+    		#if type(j) is not types.IntType and  j is not None	:
+    			#j.decode('gbk')
+    		#if type(j) is types.StringType:
+    			#j.encode('gbk')
+    			#print(j+' is string')
+    #print(r1)			
+    ShowResult(r1)
 
 def CommitToTable(db_name,input_data):
     try:
