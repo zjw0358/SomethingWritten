@@ -1,0 +1,98 @@
+
+Ó³ÏñÃû³Æ                       PID ·þÎñ                                        
+========================= ======== ============================================
+System Idle Process              0 ÔÝÈ±                                        
+System                           4 ÔÝÈ±                                        
+smss.exe                       332 ÔÝÈ±                                        
+csrss.exe                      524 ÔÝÈ±                                        
+wininit.exe                    600 ÔÝÈ±                                        
+csrss.exe                      624 ÔÝÈ±                                        
+services.exe                   692 ÔÝÈ±                                        
+lsass.exe                      708 KeyIso, SamSs                               
+lsm.exe                        720 ÔÝÈ±                                        
+winlogon.exe                   768 ÔÝÈ±                                        
+svchost.exe                    872 DcomLaunch, PlugPlay, Power                 
+nvvsvc.exe                     940 nvsvc                                       
+svchost.exe                    984 RpcEptMapper, RpcSs                         
+svchost.exe                    368 AudioSrv, Dhcp, eventlog, lmhosts           
+svchost.exe                    528 AudioEndpointBuilder, hidserv, Netman,      
+                                   SysMain, UxSms, Wlansvc, wudfsvc            
+svchost.exe                    780 AeLookupSvc, AppMgmt, BITS, Browser,        
+                                   EapHost, gpsvc, IKEEXT, LanmanServer,       
+                                   MMCSS, ProfSvc, Schedule, SENS,             
+                                   ShellHWDetection, Themes, Winmgmt           
+svchost.exe                   1084 EventSystem, netprofm, nsi                  
+svchost.exe                   1180 CryptSvc, Dnscache, LanmanWorkstation,      
+                                   NlaSvc                                      
+nvxdsync.exe                  1324 ÔÝÈ±                                        
+nvvsvc.exe                    1336 ÔÝÈ±                                        
+spoolsv.exe                   1604 Spooler                                     
+svchost.exe                   1636 BFE, MpsSvc                                 
+httpd.exe                     1792 Apache2.2                                   
+atkexComSvc.exe               1820 asComSvc                                    
+svchost.exe                   1884 HpSvc                                       
+pcas.exe                      1952 pcas                                        
+QQProtect.exe                 2032 QPCore                                      
+secbizsrv.exe                 1148 secbizsrv                                   
+svchost.exe                   1548 stisvc                                      
+VisualSVNServer.exe           1744 VisualSVNServer                             
+vmnat.exe                      680 VMware NAT Service                          
+httpd.exe                     2188 ÔÝÈ±                                        
+svchost.exe                   2500 XLServicePlatform                           
+vmware-authd.exe              2532 VMAuthdService                              
+VisualSVNServer.exe           2552 ÔÝÈ±                                        
+iexplore.exe                  3252 ÔÝÈ±                                        
+vmnetdhcp.exe                 3504 VMnetDHCP                                   
+vmware-usbarbitrator64.ex     3660 VMUSBArbService                             
+BuildService.exe              3712 IncrediBuild_Agent                          
+CoordService.exe              3748 IncrediBuild_Coordinator                    
+WUDFHost.exe                  3212 ÔÝÈ±                                        
+svchost.exe                   3776 PolicyAgent                                 
+taskhost.exe                  4532 ÔÝÈ±                                        
+dwm.exe                       4688 ÔÝÈ±                                        
+explorer.exe                  4732 ÔÝÈ±                                        
+svchost.exe                   4860 FontCache, SSDPSRV                          
+aliwssv.exe                   4976 ÔÝÈ±                                        
+conhost.exe                   4984 ÔÝÈ±                                        
+lantern.exe                   3624 ÔÝÈ±                                        
+Resilio Sync.exe              4584 ÔÝÈ±                                        
+TSVNCache.exe                 4500 ÔÝÈ±                                        
+ApacheMonitor.exe             4632 ÔÝÈ±                                        
+xgTrayIcon.exe                4200 ÔÝÈ±                                        
+vmware-tray.exe               4220 ÔÝÈ±                                        
+lantern.exe                   1488 ÔÝÈ±                                        
+SogouCloud.exe                5024 ÔÝÈ±                                        
+MobaXterm_Personal_9.3.ex     4880 ÔÝÈ±                                        
+XWin_MobaX.exe                3296 ÔÝÈ±                                        
+MoTTY.exe                     5300 ÔÝÈ±                                        
+iexplore.exe                   892 ÔÝÈ±                                        
+audiodg.exe                  13720 ÔÝÈ±                                        
+flash_tool.exe               10024 ÔÝÈ±                                        
+QQ.exe                       24276 ÔÝÈ±                                        
+TXPlatform.exe               14352 ÔÝÈ±                                        
+firefox.exe                  21204 ÔÝÈ±                                        
+Uedit32.exe                  28916 ÔÝÈ±                                        
+Insight3.exe                 19876 ÔÝÈ±                                        
+plugin-container.exe         16248 ÔÝÈ±                                        
+FlashPlayerPlugin_21_0_0_    30784 ÔÝÈ±                                        
+FlashPlayerPlugin_21_0_0_    28572 ÔÝÈ±                                        
+cmd.exe                      14528 ÔÝÈ±                                        
+conhost.exe                  21456 ÔÝÈ±                                        
+wps.exe                       5608 ÔÝÈ±                                        
+wpsrenderer.exe              16412 ÔÝÈ±                                        
+cefpluginhost.exe            31168 ÔÝÈ±                                        
+AndroidServer.exe            18620 ÔÝÈ±                                        
+tadb.exe                     18188 ÔÝÈ±                                        
+sublime_text.exe             16824 ÔÝÈ±                                        
+plugin_host.exe               9860 ÔÝÈ±                                        
+SearchIndexer.exe            13124 WSearch                                     
+armsvc.exe                   23504 AdobeARMservice                             
+QQExternal.exe               27412 ÔÝÈ±                                        
+QQExternal.exe                7392 ÔÝÈ±                                        
+QQExternal.exe                4068 ÔÝÈ±                                        
+MoTTY.exe                    27876 ÔÝÈ±                                        
+BCompare.exe                 30956 ÔÝÈ±                                        
+wpscloudsvr.exe              31480 ÔÝÈ±                                        
+taskeng.exe                  13180 ÔÝÈ±                                        
+tasklist.exe                 20268 ÔÝÈ±                                        
+WmiPrvSE.exe                 17960 ÔÝÈ±                                        
