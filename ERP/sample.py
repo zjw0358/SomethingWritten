@@ -5,11 +5,13 @@ import sqlite3
 import os
 import cgi,cgitb
 import types
+import platform
+from prettytable import PrettyTable
 
 global DB_FILE_PATH,TABLE_NAME,INPUT_DATA
 global sql_select
 global Table_tag
-
+global Row_Field
 Table_tag = "(inputDate,devName,module,config,imei,\
              dateBydelivery,effective_date,customer,term,contract_status,\
              device_corp,device_outside,dev_outside_date,effective_dateByoutside,transfer_supplier,\
@@ -17,8 +19,8 @@ Table_tag = "(inputDate,devName,module,config,imei,\
              reasonByExchange,dateByRework,dateByReworkOK,noteByRework,dateByReturn,\
              imeiByReturn,supplierByReturn,noteByReturn)" 
 
-#DB_FILE_PATH = "F:\\WorkHard\\SomethingWritten\\ERP\\warehouse.db"
-DB_FILE_PATH = "warehouse.db"
+DB_FILE_PATH = "F:\\WorkHard\\SomethingWritten\\ERP\\warehouse.db"
+#DB_FILE_PATH = "warehouse.db"
 TABLE_NAME = "summary"
 INPUT_DATA =  [ ('1112', 'Hong', 'ADK-10', 'MTK6555,双卡双待', '455578589652', 
              '20160922', '20160923', '合力泰', '一年','已签',
@@ -35,26 +37,71 @@ sql_insert='INSERT INTO '+ TABLE_NAME + ' '+ Table_tag +' values ' + '(?, ?, ?, 
                                               ?, ?, ?, ?, ?, \
                                               ?, ?, ?, ?, ?, \
                                               ?, ?, ?)'
-
+Row_Field=[
+	"id",
+	"日期",
+	"仪器",
+	"型号",
+	"配置",
+	"串号",
+	"送货",
+	"生效",
+	"客户",
+	"租期",
+	"合同",
+	"公司设备",
+	"外调设备",
+	"外调日期",
+	"生效日期",
+	"供应商",
+	"调货价格",
+	"外租价格",
+	"付款",
+	"换货日期",
+	"换货串号",
+	"换货原因",
+	"退回时间",
+	"维修OK时间",
+	"维修备注",
+	"归还日期",
+	"归还串号",
+	"归还供应商",
+	"归还备注" 
+	]
+def ShowRowField():
+	for i in Row_Field:
+		print(i)
+	print('<br/>')
 
 def ShowResult(list_data):
     print("Content-type:text/html")
     print("\n\n")
     print ('<html>')
     print ('<head>')
-    print ('<meta charset="utf-8">')
+    print ('<meta charset="gbk">')
     print ('<title>Hello Word  </title>')
     print ('</head>')
     print ('<body>')
-    #print ('<h2>Hello Word!--- 我的CGI测试 </h2>')
-    for i in list_data:
+    #ShowRowField()
+    if 'Windows'==platform.system():
+    	mix=PrettyTable()
+    	mix.field_names=Row_Field
+    	#mix.align["id"]	="c"
+    	#mix.padding_width=5
+    	for i in list_data:
+    		mix.add_row(i)
+    	print(mix.get_html_string()) 
+    else:    
+      for i in list_data:
         print(str(i).encode('gb2312'))
+
     print ('</body>')
     print ('</html>')
 
-    #for i in list_data:
-    #    print(i)
-
+     # 	print(i)
+     # 	for j in i:
+     # 		print("%20s"%(j))
+     # 	print('<br/>')
 def CheckTableFromDB(db_name,table_name): 
     sql_select='SELECT * FROM '+ table_name  
     try:    
