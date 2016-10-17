@@ -280,8 +280,8 @@ Table_tag = ['inputDate','devName','module','config','imei',
 def init():
 
     global DB_FILE_PATH
-    #DB_FILE_PATH = 'F:\\WorkHard\\SomethingWritten\\ERP\\warehouse.db'
-    DB_FILE_PATH = 'C:\\Program Files (x86)\\Apache Software Foundation\\Apache2.2\\cgi-bin\\warehouse.db'
+    DB_FILE_PATH = 'F:\\WorkHard\\SomethingWritten\\ERP\\warehouse.db'
+    #DB_FILE_PATH = 'C:\\Program Files (x86)\\Apache Software Foundation\\Apache2.2\\cgi-bin\\warehouse.db'
 
     global TABLE_NAME
     TABLE_NAME = 'summary'
