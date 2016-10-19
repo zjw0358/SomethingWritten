@@ -73,9 +73,7 @@ def ShowRowField():
 		print(i)
 	print('<br/>')
 
-def ShowResult(list_data):
-    print("Content-type:text/html")
-    print("\n\n")
+def ShowResult(list_data):    
     print ('<html>')
     print ('<head>')
     print ('<meta charset="gbk">')
@@ -139,9 +137,10 @@ def CommitToTable(db_name,input_data):
         print(error_msg)    
 
 def DeleteItem(db_name,table_name,item,data2del):
-    delete_sql = 'DELETE FROM '+ table_name + ' WHERE '+ item +' = ' + "'"+data2del+"'"  # others str
+    #delete_sql = 'DELETE FROM '+ table_name + ' WHERE '+ item +' = ' + "'"+data2del+"'"  # others str
     #delete_sql = 'DELETE FROM '+ table_name + ' WHERE '+ item +' = ' + str(data2del) # id int
-    print(delete_sql)
+    #delete_sql = 'DELETE FROM '+ table_name
+    #print(delete_sql)
     try:
         conn = sqlite3.connect(db_name)
         cu = conn.cursor() 
@@ -231,17 +230,59 @@ def UpdateData(db_name,table_name,item,data2update):
         print('except in UpdateData: ')
         print(error_msg)  
 
+def CheckRecord(db_name,table_name):
+    sql_select="SELECT * FROM "+ table_name +" order by id ASC" 
+    try:    
+        conn = sqlite3.connect(db_name)
+        cu = conn.cursor()     
+        cu.execute(sql_select)
+        r=cu.fetchall()
+        cu.close()
+    except (Exception) as error_msg:
+        print(error_msg)
+
+    r1=[] 
+    for i in r:
+        r1.append(list(i))    
+    #print(r1)    
+    ShowResult(r1)
+
+def ifExist(db_name,table_name,item,value):
+    sql_query = 'SELECT count(1) from '+ table_name +' WHERE '+ item +'='+ "'"+ value +"'"
+    print(sql_query)
+    try:
+        conn = sqlite3.connect(db_name)
+        cu = conn.cursor() 
+
+        cu.execute(sql_query)
+        res = cu.fetchone()
+        print(res)
+        cu.close()
+    except (Exception) as error_msg:
+        print('except in CheckValid: ')
+        print(error_msg)
+
+    if res[0]==1:
+        print("there is")
+        return True
+    else:
+        print("there NOT")
+        return False
 
 def main():
+    print("Content-type:text/html")
+    print("\n\n")
     #init()
     #CreateTable(DB_FILE_PATH,TABLE_NAME)
-    CheckTableFromDB(DB_FILE_PATH,TABLE_NAME)
+    #CheckTableFromDB(DB_FILE_PATH,TABLE_NAME)
+    #CheckRecord(DB_FILE_PATH,TABLE_NAME)
     #CommitToTable(DB_FILE_PATH,INPUT_DATA)
     #DropTable(DB_FILE_PATH,TABLE_NAME)
     
     #DeleteItem(DB_FILE_PATH,TABLE_NAME,'devName','HongtenDF')
     #DeleteItem(DB_FILE_PATH,TABLE_NAME,'id',12)
     #UpdateData(DB_FILE_PATH,TABLE_NAME,'devName','huangda')
+    ifExist(DB_FILE_PATH,TABLE_NAME,'id','42')
 
 if __name__ == '__main__':
     main()

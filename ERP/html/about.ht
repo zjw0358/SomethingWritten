@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>关于</title>
+<style type="text/css">
+div div{
+float:left;
+width:100px
+}
+div{
+width:200px;
+}
+</style>
+<script type="text/javascript">
+
+             function toCheckInput(){
+                 var val ;
+                 val = document.Form_Data.id.value;
+             	if(val == ""){
+                     alert("id不能为空");
+                     return false;
+                 }
+                 else{
+                    //window.location.href="index.html";
+                   // setTimeout('window.location="index.html"',0)
+                     return true;
+                 }
+
+             }
+     </script>
+</head>
+<body>
+<p> V0.1测试版 之 潜龙勿用</p>
+<p> <a href="mailto:huangda-hd@163.com">宝贵意见和建议，请mail我</a> </p>
+</body>
+
+</html>
+

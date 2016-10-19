@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>系统录入</title>
+<title>修改记录</title>
 <style type="text/css">
 div div{
 float:left;
@@ -16,9 +16,9 @@ width:200px;
 
              function toCheckInput(){
                  var val ;
-                 val = document.Form_Data.inputDate.value;
+                 val = document.Form_Data.id.value;
              	if(val == ""){
-                     alert("录入时间不能为空");
+                     alert("id不能为空");
                      return false;
                  }
                  else{
@@ -31,8 +31,8 @@ width:200px;
      </script>
 </head>
 <body>
-<form name="Form_Data" action="/cgi-bin/insert2db.py" method="post" onsubmit="return toCheckInput()">
-
+<form name="Form_Data" action="/cgi-bin/update2db.py" method="post" onsubmit="return toCheckInput()">
+<div width=500 ><div>id: </div><div><input type="text" name="id" size="30" maxlength=100 placeholder="请输入唯一的id号"> <br /></div></div>
 <div width=500 ><div>录入日期: </div><div><input type="text" name="inputDate" size="30" maxlength=100 placeholder="日期格式2016-01-01"> <br /></div></div>
 <div width=500 ><div>仪器名称: </div><div><input type="text" name="dev_name" size="30" maxlength=100>   <br /></div></div>
 <div width=500 ><div>型号: </div><div><input type="text" name="module" size="30"  maxlength=100> <br /></div></div>
@@ -67,9 +67,7 @@ width:200px;
 <div width=500 ><div><input type="reset" value="重置" /></div><div>
 </form>
 
-<form name="Form_Data" action="/cgi-bin/queryfromdb.py" method="post" >
-<div width=500 ><div><input type="submit" value="查询" /></div><div>
-</form>
+
 </body>
 
 </html>
