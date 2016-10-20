@@ -5,20 +5,20 @@ import sqlite3
 import os
 import cgi,cgitb
 import time
+import custom_data
 
 global DB_FILE_PATH
-DB_FILE_PATH = 'F:\\WorkHard\\SomethingWritten\\ERP\\warehouse.db'
 global TABLE_NAME
-TABLE_NAME = 'summary'
+
+DB_FILE_PATH = custom_data.DB_FILE_PATH
+TABLE_NAME = custom_data.TABLE_NAME 
 
 
 global Table_field
-Table_field = "(inputDate,devName,module,config,imei,\
-             dateBydelivery,effective_date,customer,term,contract_status,\
-             device_corp,device_outside,dev_outside_date,effective_dateByoutside,transfer_supplier,\
-             transfer_price,priceByRent,payment_date,dateByExchange,imeiByExchange,\
-             reasonByExchange,dateByRework,dateByReworkOK,noteByRework,dateByReturn,\
-             imeiByReturn,supplierByReturn,noteByReturn)" 
+Table_field = str(custom_data.TableTagForInsert)
+
+global Table_tag
+Table_tag = list(custom_data.TableTagForInsert)
 
 def save_test(db_name,input_data):
     sql_insert='INSERT INTO '+ TABLE_NAME + ' '+ Table_field +' values ' + '(?, ?, ?, ?, ?, \
@@ -39,13 +39,7 @@ def save_test(db_name,input_data):
         print(error_msg)  
 
 
-global Table_tag
-Table_tag = ['inputDate','devName','module','config','imei',
-             'dateBydelivery','effective_date','customer','term','contract_status',
-             'device_corp','device_outside','dev_outside_date','effective_dateByoutside','transfer_supplier',
-             'transfer_price','priceByRent','payment_date','dateByExchange','imeiByExchange',
-             'reasonByExchange','dateByRework','dateByReworkOK','noteByRework','dateByReturn',
-             'imeiByReturn','supplierByReturn','noteByReturn'  ]
+
 
 def is_valid_date(str):
 	#print(str)
@@ -70,7 +64,7 @@ def GetFromClient():
         print("日期格式错误")
         print("<br/>")
         return    
-    #print(len(tb_id[0]))
+    #print(tb_id)
     #print("<br/>")            
     save_test(DB_FILE_PATH,tb_id) 
     #print('Content-type: text/html\n\n')

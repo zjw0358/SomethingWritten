@@ -7,33 +7,20 @@ import cgi,cgitb
 import types
 import platform
 from prettytable import PrettyTable
+import custom_data
 
 global DB_FILE_PATH,TABLE_NAME,INPUT_DATA
-global sql_select
-global Table_tag_Sql
-global Row_Field
-global Max_Rol
 global Table_tag
 
-Table_tag = ['id','inputDate','devName','module','config','imei',
-             'dateBydelivery','effective_date','customer','term','contract_status',
-             'device_corp','device_outside','dev_outside_date','effective_dateByoutside','transfer_supplier',
-             'transfer_price','priceByRent','payment_date','dateByExchange','imeiByExchange',
-             'reasonByExchange','dateByRework','dateByReworkOK','noteByRework','dateByReturn',
-             'imeiByReturn','supplierByReturn','noteByReturn'  ]
-
-Table_tag_Sql = "(id,inputDate,devName,module,config,imei,\
-             dateBydelivery,effective_date,customer,term,contract_status,\
-             device_corp,device_outside,dev_outside_date,effective_dateByoutside,transfer_supplier,\
-             transfer_price,priceByRent,payment_date,dateByExchange,imeiByExchange,\
-             reasonByExchange,dateByRework,dateByReworkOK,noteByRework,dateByReturn,\
-             imeiByReturn,supplierByReturn,noteByReturn)" 
-
-DB_FILE_PATH = "F:\\WorkHard\\SomethingWritten\\ERP\\warehouse.db"
-#DB_FILE_PATH = "warehouse.db"
-TABLE_NAME = "summary"
 
 
+
+
+
+
+DB_FILE_PATH = custom_data.DB_FILE_PATH
+TABLE_NAME = custom_data.TABLE_NAME 
+Table_tag = custom_data.TableTagForModifyDelete
 
 
 
@@ -50,7 +37,7 @@ def DeleteItem(db_name,table_name,item,value):
         cu.execute(delete_sql)
         conn.commit()
         cu.close()
-        print("删除成功")
+        print("????")
     except (Exception) as error_msg:
         print('except in DeleteItem: ')
         print(error_msg)   
@@ -99,7 +86,7 @@ def GetFromClient():
     if ifExist(DB_FILE_PATH,TABLE_NAME,'id',tb_id[0]): 
         DeleteItem(DB_FILE_PATH,TABLE_NAME,'id',tb_id[0]) 
     else:
-        print("无此数据，请检查id号") 
+        print("????,???id?") 
 
 
 def main():

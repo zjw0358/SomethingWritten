@@ -31,10 +31,18 @@ width:200px;
      </script>
 </head>
 <body>
+<div id="time">    
+<script>     
+    document.getElementById('time').innerHTML=new Date().toLocaleString();     
+    setInterval("document.getElementById('time').innerHTML=new Date().toLocaleString();",1000);  
+</script>    
+
+</div> 
+<br/>
 <form name="Form_Data" action="/cgi-bin/update2db.py" method="post" onsubmit="return toCheckInput()">
 <div width=500 ><div>id: </div><div><input type="text" name="id" size="30" maxlength=100 placeholder="请输入唯一的id号"> <br /></div></div>
 <div width=500 ><div>录入日期: </div><div><input type="text" name="inputDate" size="30" maxlength=100 placeholder="日期格式2016-01-01"> <br /></div></div>
-<div width=500 ><div>仪器名称: </div><div><input type="text" name="dev_name" size="30" maxlength=100>   <br /></div></div>
+<div width=500 ><div>仪器名称: </div><div><input type="text" name="devName" size="30" maxlength=100>   <br /></div></div>
 <div width=500 ><div>型号: </div><div><input type="text" name="module" size="30"  maxlength=100> <br /></div></div>
 <div width=500 ><div>配置: </div><div><input type="text" name="config" size="30" maxlength=100>   <br /></div></div>
 <div width=500 ><div>串号: </div><div><input type="text" name="imei" size="30" maxlength=100 > <br /></div></div>

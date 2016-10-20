@@ -7,6 +7,7 @@ import cgi,cgitb
 import types
 import platform
 from prettytable import PrettyTable
+import custom_data
 
 global DB_FILE_PATH,TABLE_NAME,INPUT_DATA
 global sql_select
@@ -14,43 +15,13 @@ global sql_select
 global Row_Field
 
 
-DB_FILE_PATH = "F:\\WorkHard\\SomethingWritten\\ERP\\warehouse.db"
-#DB_FILE_PATH = "warehouse.db"
-TABLE_NAME = "summary"
+DB_FILE_PATH = custom_data.DB_FILE_PATH 
 
+TABLE_NAME = custom_data.TABLE_NAME 
 
+Row_Field = custom_data.Row_FieldForDisplay
   
-Row_Field=[
-	"id",
-	"日期",
-	"仪器",
-	"型号",
-	"配置",
-	"串号",
-	"送货",
-	"生效",
-	"客户",
-	"租期",
-	"合同",
-	"公司设备",
-	"外调设备",
-	"外调日期",
-	"生效日期",
-	"供应商",
-	"调货价格",
-	"外租价格",
-	"付款",
-	"换货日期",
-	"换货串号",
-	"换货原因",
-	"退回时间",
-	"维修OK时间",
-	"维修备注",
-	"归还日期",
-	"归还串号",
-	"归还供应商",
-	"归还备注" 
-	]
+
 def ShowRowField():
 	for i in Row_Field:
 		print(i)

@@ -6,33 +6,24 @@ import os
 import cgi,cgitb
 
 from prettytable import PrettyTable
+import custom_data
 
 global DB_FILE_PATH,TABLE_NAME,INPUT_DATA
-
-
-
-
 global Table_tag
 
-Table_tag = ['id','inputDate','devName','module','config','imei',
-             'dateBydelivery','effective_date','customer','term','contract_status',
-             'device_corp','device_outside','dev_outside_date','effective_dateByoutside','transfer_supplier',
-             'transfer_price','priceByRent','payment_date','dateByExchange','imeiByExchange',
-             'reasonByExchange','dateByRework','dateByReworkOK','noteByRework','dateByReturn',
-             'imeiByReturn','supplierByReturn','noteByReturn'  ]
 
 
+DB_FILE_PATH = custom_data.DB_FILE_PATH
+TABLE_NAME = custom_data.TABLE_NAME 
+Table_tag = custom_data.TableTagForModifyDelete
 
-DB_FILE_PATH = "F:\\WorkHard\\SomethingWritten\\ERP\\warehouse.db"
-#DB_FILE_PATH = "warehouse.db"
-TABLE_NAME = "summary"
 INPUT_DATA =  [ ('1112', 'Hong', 'ADK-10', 'MTK6555,双卡双待', '455578589652', 
              '20160922', '20160923', '合力泰', '一年','已签',
              '终测仪','电源','20160502','20160503','合总',
              '15万','2000','未付','20160102','98474637',
              '电源坏','20160402','20160409','因为坏','20160905',
              'OI292838','华为','已归还')
-         ]
+         ] # for test only
 
   
 
@@ -152,12 +143,14 @@ def ifExist(db_name,table_name,item,value):
         return False
 
 def GetFromClient():
+    print('Content-type: text/html\n\n')
     form = cgi.FieldStorage()
     tb_id=[]
     for i in range(len(Table_tag)):
         tb_id.append(form.getvalue(Table_tag[i]))
 
-    print('Content-type: text/html\n\n')  
+     
+    #print(tb_id) 
     if ifExist(DB_FILE_PATH,TABLE_NAME,'id',tb_id[0]): 
         update2db(DB_FILE_PATH,TABLE_NAME,tb_id) 
     else:

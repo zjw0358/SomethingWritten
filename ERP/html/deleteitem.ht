@@ -31,6 +31,14 @@ width:200px;
      </script>
 </head>
 <body>
+<div id="time">    
+<script>     
+    document.getElementById('time').innerHTML=new Date().toLocaleString();     
+    setInterval("document.getElementById('time').innerHTML=new Date().toLocaleString();",1000);  
+</script>    
+
+</div> 
+<br/>
 <form name="Form_Data" action="/cgi-bin/deleteitem.py" method="post" onsubmit="return toCheckInput()">
 <div width=500 ><div>id: </div><div><input type="text" name="id" size="30" maxlength=100 placeholder="请输入唯一的id号"> <br /></div></div>
 <div width=500 ><div><input type="submit" value="提交" /></div><div>
