@@ -7,6 +7,7 @@ import cgi,cgitb
 import time
 import custom_data
 
+global status
 global DB_FILE_PATH
 global TABLE_NAME
 
@@ -61,10 +62,14 @@ def CreateTable(db_name,table_name):
         cu.execute(sql_createTB)
         conn.commit()
         cu.close()
+        status=True
     except (Exception) as error_msg:
+        status=False
         print('except in CreateTable: ')
         print(error_msg)   
 
+    if status==True:
+        print("init OK")
 
 
 

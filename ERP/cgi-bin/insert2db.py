@@ -13,6 +13,7 @@ global TABLE_NAME
 DB_FILE_PATH = custom_data.DB_FILE_PATH
 TABLE_NAME = custom_data.TABLE_NAME 
 
+global status
 
 global Table_field
 Table_field = str(custom_data.TableTagForInsert)
@@ -35,8 +36,10 @@ def save_test(db_name,input_data):
             cu.execute(sql_insert,d)
             conn.commit()
         cu.close()
+        status=True
     except (Exception) as error_msg:
-        print(error_msg)  
+    	status=False
+    	print(error_msg)  
 
 
 
@@ -68,7 +71,8 @@ def GetFromClient():
     #print("<br/>")            
     save_test(DB_FILE_PATH,tb_id) 
     #print('Content-type: text/html\n\n')
-    print("提交成功!")
+    if status==True:
+    	print("提交成功!")
 
 
 

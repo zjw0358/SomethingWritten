@@ -37,7 +37,7 @@ def DeleteItem(db_name,table_name,item,value):
         cu.execute(delete_sql)
         conn.commit()
         cu.close()
-        print("????")
+        print("删除成功")
     except (Exception) as error_msg:
         print('except in DeleteItem: ')
         print(error_msg)   
@@ -86,7 +86,7 @@ def GetFromClient():
     if ifExist(DB_FILE_PATH,TABLE_NAME,'id',tb_id[0]): 
         DeleteItem(DB_FILE_PATH,TABLE_NAME,'id',tb_id[0]) 
     else:
-        print("????,???id?") 
+        print("无此数据，请检查id号") 
 
 
 def main():

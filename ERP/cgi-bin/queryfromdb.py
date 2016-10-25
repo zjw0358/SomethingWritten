@@ -35,17 +35,13 @@ def ShowResult(list_data):
     print ('</head>')
     print ('<body>')
     #ShowRowField()
-    if 'Windows'==platform.system():
-    	mix=PrettyTable()
-    	mix.field_names=Row_Field
-    	#mix.align["id"]	="c"
-    	#mix.padding_width=5
-    	for i in list_data:
-    		mix.add_row(i)
-    	print(mix.get_html_string()) 
-    else:    
-      for i in list_data:
-        print(str(i).encode('gb2312'))
+    mix=PrettyTable()
+    mix.field_names=Row_Field
+    
+    for i in list_data:
+        mix.add_row(i)
+    print(mix.get_html_string()) 
+
 
     print ('</body>')
     print ('</html>')
@@ -66,14 +62,7 @@ def CheckTableFromDB(db_name,table_name):
     for i in r:
         r1.append(list(i))
     #print(r1)     
-    #for i in r1:
-    	#for j in i:
-    		#if type(j) is not types.IntType and  j is not None	:
-    			#j.decode('gbk')
-    		#if type(j) is types.StringType:
-    			#j.encode('gbk')
-    			#print(j+' is string')
-    #print(r1)			
+
     ShowResult(r1)    
 
 
@@ -90,7 +79,14 @@ def CheckRecord(db_name,table_name):
 
     r1=[] 
     for i in r:
-        r1.append(list(i))    
+        r1.append(list(i))  
+
+    #mix=PrettyTable()
+    #mix.field_names=Row_Field[0:8]
+    
+    #for i in r1:
+    #    mix.add_row(i[0:8])
+    #print(mix)          
     #print(r1)    
     ShowResult(r1)
 
