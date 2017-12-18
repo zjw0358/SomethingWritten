@@ -18,7 +18,7 @@ def Write2log(logString):
 	login_f.close()
 
 url_sigin="http://bbs.biketo.com/plugin.php?id=dsu_paulsign:sign&operation=qiandao&infloat=1&inajax=1"
-
+							   
 url_myspace="http://bbs.biketo.com/home.php?mod=space&uid=410094&do=profile&from=space"
 
 
@@ -33,49 +33,49 @@ headers={
 
 
 day1={
-	'formhash':'dcd1f829',
+	'formhash':'1edc5ad1',#'dcd1f829',
 	'qdxq':'kx',
 	'qdmode':'1',
 	'todaysay':'好天气,又可以骑车了'.encode('gbk'),
 	'fastreply':'0'
 	}  
 day2={
-	'formhash':'dcd1f829',
+	'formhash':'1edc5ad1',#'dcd1f829',
 	'qdxq':'fd',
 	'qdmode':'1',
 	'todaysay':'完全不知道说什么'.encode('gbk'),
 	'fastreply':'0'
 	} 
 day3={
-	'formhash':'dcd1f829',
+	'formhash':'1edc5ad1',#'dcd1f829',
 	'qdxq':'wl',
 	'qdmode':'1',
 	'todaysay':'慵懒无聊的一天'.encode('gbk'),
 	'fastreply':'0'
 	} 
 day4={
-	'formhash':'dcd1f829',
+	'formhash':'1edc5ad1',#'dcd1f829',
 	'qdxq':'yl',
 	'qdmode':'1',
 	'todaysay':'发红包就好了'.encode('gbk'),
 	'fastreply':'0'
 	} 
 day5={
-	'formhash':'dcd1f829',
+	'formhash':'1edc5ad1',#'dcd1f829',
 	'qdxq':'kx',
 	'qdmode':'1',
 	'todaysay':'如果有一天奇迹会出现'.encode('gbk'),
 	'fastreply':'0'
 	} 
 day6={
-	'formhash':'dcd1f829',
+	'formhash':'1edc5ad1',#'dcd1f829',
 	'qdxq':'fd',
 	'qdmode':'1',
 	'todaysay':'心情不美丽了'.encode('gbk'),
 	'fastreply':'0'
 	} 
 day7={
-	'formhash':'dcd1f829',
+	'formhash':'1edc5ad1',#'dcd1f829',
 	'qdxq':'wl',
 	'qdmode':'1',
 	'todaysay':'我想去旅行'.encode('gbk'),

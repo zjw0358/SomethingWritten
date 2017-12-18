@@ -1,0 +1,1636 @@
+STR_GLOBAL_ABORT	Abort	§±§â§Ö§â§Ó§Ñ§ä§î	§±§Ö§â§Ö§â§Ó§Ñ§ä§Ú
+STR_GLOBAL_ABORTING	Aborting	§°§ä§Þ§Ö§ß§Ñ §à§á§Ö§â§Ñ§è§Ú§Ú	§±§Ö§â§Ö§â§Ú§Ó§Ñ§ß§ß§ñ
+STR_GLOBAL_ACCEPT	Accept	§±§â§Ú§ß§ñ§ä§î	
+STR_GLOBAL_ACCOUNTS	Accounts	§µ§é§Ö§ä§ß§í§Ö §Ù§Ñ§á§Ú§ã§Ú	
+STR_GLOBAL_ACTIVATE	Activate	§¡§Ü§ä§Ú§Ó.	§¡§Ü§ä§Ú§Ó§å§Ó§Ñ§ä§Ú
+STR_GLOBAL_ACTIVATED	Activated	§¡§Ü§ä§Ú§Ó§Ú§â§à§Ó§Ñ§ß	§¡§Ü§ä§Ú§Ó§à§Ó§Ñ§ß§à
+STR_GLOBAL_ADD	Add	§¥§à§Ò§Ñ§Ó§Ú§ä§î	§¥§à§Õ§Ñ§ä§Ú
+STR_GLOBAL_ADDRESS	Address	§¡§Õ§â§Ö§ã	
+STR_GLOBAL_ADVANCED	Advanced	§¥§à§á§à§Ý§ß§Ú§ä§Ö§Ý§î§ß§à	
+STR_GLOBAL_ALARM	Alarm	§¢§å§Õ§Ú§Ý§î§ß§Ú§Ü	
+STR_GLOBAL_ALWAYS_ASK	Always ask	§£§ã§Ö§Ô§Õ§Ñ §ã§á§â§Ñ§ê§Ú§Ó§Ñ§ä§î	
+STR_GLOBAL_AS_EMAIL	As Email	§±§à §ï§Ý§Ö§Ü§ä§â§à§ß§ß§à§Û §á§à§é§ä§Ö	
+STR_GLOBAL_AS_MULTIMEDIA_MSG	As multimedia message	§¬§Ñ§Ü MMS	
+STR_GLOBAL_AS_TEXT_MESSAGE	As text message	§¬§Ñ§Ü §ä§Ö§Ü§ã§ä§à§Ó§à§Ö §ã§à§à§Ò§ë§Ö§ß§Ú§Ö	
+STR_GLOBAL_ATTACHMENT	Attachment	§£§Ý§à§Ø§Ö§ß§Ú§Ö	
+STR_GLOBAL_AUTHENTICATION	Authentication	§±§â§à§Ó§Ö§â§Ü§Ñ §á§à§Õ§Ý§Ú§ß§ß§à§ã§ä§Ú	?§Õ§Ö§ß§ä§Ú§æ?§Ü§Ñ§è?§ñ
+STR_GLOBAL_AUTOMATIC	Automatic	§¡§Ó§ä§à§Þ.	
+STR_GLOBAL_BACK	Back	§¯§Ñ§Ù§Ñ§Õ	§¯§Ñ§Ù§Ñ§Õ
+STR_GLOBAL_BLUETOOTH	Bluetooth	Bluetooth	
+STR_GLOBAL_BUSY_TRY_LATER	Busy	§©§Ñ§ß§ñ§ä	§©§Ñ§Û§ß§ñ§ä§à
+STR_GLOBAL_CANCEL	Cancel	§°§ä§Þ§Ö§ß§Ñ	§£?§Õ§Þ?§ß§Ú§ä§Ú
+STR_GLOBAL_CANCELLING	Cancelling	§°§ä§Þ§Ö§ß§Ñ	Cancelling
+STR_GLOBAL_CLEAR	Clear	§°§é§Ú§ã§ä.	§°§é§Ú§ã§ä§Ú§ä§Ú
+STR_GLOBAL_CLOSE	Close	§©§Ñ§Ü§â§í§ä§î	§©§Ñ§Ü§â§Ú§ä§Ú
+STR_GLOBAL_CONFIRM	Confirm	§±§à§Õ§ä§Ó§Ö§â§Ø§Õ§Ö§ß§Ú§Ö	
+STR_GLOBAL_CONNECT	Connect	§±§à§Õ§Ü§Ý§ð§é§Ú§ä§î	
+STR_GLOBAL_CONNECTING	Connecting	§µ§ã§ä§Ñ§ß§à§Ó§Ü§Ñ §ã§à§Ö§Õ§Ú§ß§Ö§ß§Ú§ñ	
+STR_GLOBAL_CONTENT	Content	§³§à§Õ§Ö§â§Ø§Ú§Þ§à§Ö	
+STR_GLOBAL_CONTINUE	Continue	§¥§Ñ§Ý§Ö§Ö	
+STR_GLOBAL_COPY	Copy	§¬§à§á§Ú§â§à§Ó§Ñ§ä§î	
+STR_GLOBAL_COPYING	Copying	§¬§à§á§Ú§â§à§Ó§Ñ§ß§Ú§Ö	
+STR_GLOBAL_CURRENTLY_NOT_AVAILABLE	Currently not available	§¯§Ö§Õ§à§ã§ä§å§á§Ö§ß §ß§Ñ §Õ§Ñ§ß§ß§í§Û §Þ§à§Þ§Ö§ß§ä	Currently not available
+STR_GLOBAL_CURRENTLY_NOT_AVAILABLE_IN_CALL	Not available during the call	§¯§Ö§Õ§à§ã§ä§å§á§Ö§ß §Ó§à §Ó§â§Ö§Þ§ñ §Ù§Ó§à§ß§Ü§Ñ	Not available during the call
+STR_GLOBAL_CUSTOM	Custom	§±§à§Ý§î§Ù§à§Ó§Ñ§ä§Ö§Ý§î§ã§Ü§Ú§Û	
+STR_GLOBAL_DATA_ACCOUNT	Data account	§µ§é§Ö§ä§ß§Ñ§ñ §Ù§Ñ§á§Ú§ã§î	
+STR_GLOBAL_DATA_ACCOUNTS	Data accounts	§µ§é§Ö§ä§ß§í§Ö §Ù§Ñ§á§Ú§ã§Ú §á§Ö§â§Ö§Õ§Ñ§é§Ú §Õ§Ñ§ß§ß§í§ç	
+STR_GLOBAL_DATA_CONN_SETTING	Data connection settings	§¯§Ñ§ã§ä§â§à§Û§Ü§Ú §á§Ö§â§Ö§Õ§Ñ§é§Ú §Õ§Ñ§ß§ß§í§ç	
+STR_GLOBAL_DATE	Date	§¥§Ñ§ä§Ñ	
+STR_GLOBAL_DEACTIVATE	Deactivate	§°§ä§Ü§Ý.	§¥§Ö§Ñ§Ü§ä§Ú§Ó§å§Ó§Ñ§ä§Ú
+STR_GLOBAL_DEFAULT	Default	§±§à §å§Þ§à§Ý§é§Ñ§ß§Ú§ð	
+STR_GLOBAL_DELETE	Delete	§µ§Õ§Ñ§Ý§Ú§ä§î	§£§Ú§Õ§Ñ§Ý§Ú§ä§Ú
+STR_GLOBAL_DELETE_ALL	Delete all	§µ§Õ§Ñ§Ý§Ú§ä§î §Ó§ã§Ö	§£§Ú§Õ§Ñ§Ý§Ú§ä§Ú §Ó§ã§Ö
+STR_GLOBAL_DELETED	Deleted	§µ§Õ§Ñ§Ý§Ö§ß§à	§£?§Õ§Õ§Ñ§Ý§Ö§ß§Ú§Û
+STR_GLOBAL_DELETING	Deleting	§µ§Õ§Ñ§Ý§Ö§ß§Ú§Ö	
+STR_GLOBAL_DETAILS	Details	§³§Ó§Ö§Õ§Ö§ß§Ú§ñ	
+STR_GLOBAL_DIALLED_CALLS	Dialled calls	§ª§ã§ç§à§Õ§ñ§ë§Ú§Ö §Ù§Ó§à§ß§Ü§Ú	Dialled calls
+STR_GLOBAL_DIAL	Call	§¯§Ñ§Ò§à§â	§¯§Ñ§Ò§â§Ñ§ä§Ú
+STR_GLOBAL_DISCARD	Discard	§³§Ò§â§à§ã§Ú§ä§î	
+STR_GLOBAL_DISCONNECT	Disconnect	§°§ä§Ü§Ý§ð§é§Ö§ß§Ú§Ö	
+STR_GLOBAL_DISCONNECTING	Disconnecting	§²§Ñ§Ù§â§í§Ó §ã§à§Ö§Õ§Ú§ß§Ö§ß§Ú§ñ	
+STR_GLOBAL_DONE	Done	§¤§à§ä§à§Ó§à	§£§Ú§Ü§à§ß§Ñ§ß§à
+STR_GLOBAL_DOWNLOAD	Download	§©§Ñ§Ô§â§å§Ù§Ü§Ñ	§©§Ñ§Ó§Ñ§ß§ä§Ñ§Ø§Ú§ä§Ú
+STR_GLOBAL_DOWNLOAD_ASK	Download?	§©§Ñ§Ô§â§å§Ù§Ú§ä§î? 	§©§Ñ§Ó§Ñ§ß§ä§Ñ§Ø§Ú§ä§Ú?
+STR_GLOBAL_DOWNLOADING	Downloading	§©§Ñ§Ô§â§å§Ù§Ü§Ñ	
+STR_GLOBAL_DRAFTS	Drafts	§¹§Ö§â§ß§à§Ó§Ú§Ü§Ú	
+STR_GLOBAL_DRM_FS_ERROR	File access error	§°§ê§Ú§Ò§Ü§Ñ §Õ§à§ã§ä§å§á§Ñ §Ü §æ§Ñ§Û§Ý§å	§±§à§Þ§Ú§Ý§Ü§Ñ §Õ§à§ã§ä§å§á§å §Õ§à §æ§Ñ§Û§Ý§å
+STR_GLOBAL_DRM_INVALID_FORMAT	File format error	§°§ê§Ú§Ò§Ü§Ñ §æ§à§â§Þ§Ñ§ä§Ñ §æ§Ñ§Û§Ý§Ñ	§±§à§Þ§Ú§Ý§Ü§Ñ §æ§à§â§Þ§Ñ§ä§å
+STR_GLOBAL_DRM_NON_DRM	Not DRM file	§¯§Ö§ä §æ§Ñ§Û§Ý§Ñ DRM	§¯§Ö DRM §æ§Ñ§Û§Ý
+STR_GLOBAL_DRM_PROCESSING	Processing	§°§Ò§â§Ñ§Ò§à§ä§Ü§Ñ DRM	§°§Ò§â§à§Ò§Ü§Ñ DRM
+STR_GLOBAL_DRM_PROHIBITED	Locked	§©§Ñ§Ò§Ý§à§Ü§Ú§â§à§Ó§Ñ§ß§à	DRM §Ù§Ñ§Ò§à§â§à§ß§Ö§ß§Ú§Û
+STR_GLOBAL_EARPHONE_IN	Earphone plugged in	§¯§Ñ§å§ê§ß§Ú§Ü§Ú  §Ó§Ü§Ý.	§¯§Ñ§Ó§å§ê§ß§Ú§Ü§Ú §á?§Õ'?§Õ§ß§Ñ§ß§à!
+STR_GLOBAL_EARPHONE_OUT	Earphone plugged out	§¯§Ñ§å§ê§ß§Ú§Ü§Ú  §Ó§í§Ü§Ý.	§¯§Ñ§Ó§å§ê§ß§Ú§Ü§Ú §Ó?§Õ'?§Õ§ß§Ñ§ß§à!
+STR_GLOBAL_EDIT	Edit	§²§Ö§Õ§Ñ§Ü§ä.	§²§Ö§Õ§Ñ§Ô§å§Ó§Ñ§ä§Ú
+STR_GLOBAL_EDIT_BEFORE_CALL	Edit before call	§ª§Ù§Þ§Ö§ß§Ú§ä§î §á§Ö§â§Ö§Õ §Ó§í§Ù§à§Ó§à§Þ	
+STR_GLOBAL_EMAIL	Email	§¿§Ý. §á§à§é§ä§Ñ	
+STR_GLOBAL_EMPTY	Empty	§±§å§ã§ä§à	§±§à§é§Ú§ã§ä§Ú§ä§Ú
+STR_GLOBAL_EMPTY_LIST	<Empty>	<§±§å§ã§ä§à>	<§±§à§â§à§Ø§ß§î§à>
+STR_GLOBAL_ERROR	Error	§°§ê§Ú§Ò§Ü§Ñ	§±§à§Þ§Ú§Ý§Ü§Ñ
+STR_GLOBAL_EXIT	Exit	§£§í§ç§à§Õ	
+STR_GLOBAL_FAILED	Failed	§³§Ò§à§Û	
+STR_GLOBAL_FAILED_TO_SAVE	Failed to save	§³§à§ç§â§Ñ§ß§Ú§ä§î §ß§Ö §å§Õ§Ñ§Ý§à§ã§î	
+STR_GLOBAL_FAILED_TO_SEND	Failed to send	§°§ä§á§â§Ñ§Ó§Ú§ä§î §ß§Ö §å§Õ§Ñ§Ý§à§ã§î	
+STR_GLOBAL_FAST	Fast	§¢§í§ã§ä§â§à	Fast
+STR_GLOBAL_FILE_ALREADY_EXISTS	File already exists	§¶§Ñ§Û§Ý §ã§å§ë§Ö§ã§ä§Ó§å§Ö§ä	
+STR_GLOBAL_FILE_NOT_FOUND	File not found	§¶§Ñ§Û§Ý §ß§Ö §ß§Ñ§Û§Õ§Ö§ß	File not found
+STR_GLOBAL_FILENAME	Filename	§ª§Þ§ñ §æ§Ñ§Û§Ý§Ñ	?§Þ'§ñ §æ§Ñ§Û§Ý§å
+STR_GLOBAL_FORWARD	Forward	§±§Ö§â§Ö§Ñ§Õ§â§Ö§ã§Ñ§è§Ú§ñ	
+STR_GLOBAL_GO_TO	Go to	§±§Ö§â§Ö§Û§ä§Ú §Ü	
+STR_GLOBAL_GPRS	GPRS	GPRS	
+STR_GLOBAL_HELP	Help	§³§á§â§Ñ§Ó§Ü§Ñ	
+STR_GLOBAL_HIGH	High	§£§í§ã§à§Ü§Ú§Û	
+STR_GLOBAL_HTTP	HTTP	HTTP	
+STR_GLOBAL_INBOX	Inbox	§£§ç§à§Õ§ñ§ë§Ú§Ö	
+STR_GLOBAL_INPUT_METHOD	Input method	§®§Ö§ä§à§Õ §Ó§Ó§à§Õ§Ñ	§³§á§à§ã?§Ò §Ó§Ó§à§Õ§å
+STR_GLOBAL_INSERT_SIM_CARD	Please insert a SIM card	§£§ã§ä§Ñ§Ó§î§ä§Ö SIM-§Ü§Ñ§â§ä§å	
+STR_GLOBAL_INSTALL	Install	§µ§ã§ä§Ñ§ß§à§Ó§Ü§Ñ	§£§ã§ä§Ñ§ß§à§Ó§Ú§ä§Ú
+STR_GLOBAL_INSUFFICIENT_MEMORY	Insufficient memory	§¯§Ö§Õ§à§ã§ä§Ñ§ä§à§é§ß§à §á§Ñ§Þ§ñ§ä§Ú	
+STR_GLOBAL_INVALID	Invalid	§¯§Ö§Õ§Ö§Û§ã§ä§Ó§Ú§ä§Ö§Ý§î§ß§í§Û	§¯§Ö§Ó?§â§ß§à
+STR_GLOBAL_INVALID_DATA_ACCOUNT	Invalid data account. Configure?	§¯§Ö§Õ§Ö§Û§ã§ä§Ó§Ú§ä§Ö§Ý§î§ß§Ñ§ñ §å§é§Ö§ä§ß§Ñ§ñ §Ù§Ñ§á§Ú§ã§î §Õ§Ñ§ß§ß§í§ç. §£§í§á§à§Ý§ß§Ú§ä§î §Ü§à§ß§æ§Ú§Ô§å§â§Ñ§è§Ú§ð?	
+STR_GLOBAL_INVALID_EMAIL_ADDRESS	Invalid Email address	§¯§Ö§Õ§Ö§Û§ã§ä§Ó§Ú§ä§Ö§Ý§î§ß§í§Û §ï§Ý. §Ñ§Õ§â§Ö§ã	
+STR_GLOBAL_INVALID_EMAIL_ADDRESSES	Invalid Email addresses	§¯§Ö§Õ§Ö§Û§ã§ä§Ó§Ú§ä§Ö§Ý§î§ß§í§Ö §ï§Ý. §Ñ§Õ§â§Ö§ã§Ñ	
+STR_GLOBAL_INVALID_FILENAME	Invalid filename	§¯§Ö§Õ§à§á§å§ã§ä§Ú§Þ§à§Ö §Ú§Þ§ñ §æ§Ñ§Û§Ý§Ñ	
+STR_GLOBAL_INVALID_FORMAT	Invalid format	§¯§Ö§Ó§Ö§â§ß§í§Û §æ§à§â§Þ§Ñ§ä	
+STR_GLOBAL_INVALID_INPUT	Invalid input	§¯§Ö§Õ§à§á§å§ã§ä§Ú§Þ§í§Ö §Õ§Ñ§ß§ß§í§Ö	
+STR_GLOBAL_INVALID_NUMBER	Invalid number	§¯§Ö§Õ§Ö§Û§ã§ä§Ó§Ú§ä§Ö§Ý§î§ß§í§Û §ß§à§Þ§Ö§â	
+STR_GLOBAL_INVALID_NUMBERS	Invalid numbers	§¯§Ö§Õ§Ö§Û§ã§ä§Ó§Ú§ä§Ö§Ý§î§ß§í§Ö §ß§à§Þ§Ö§â§Ñ	
+STR_GLOBAL_INVALID_RECIPIENTS	Invalid recipients	§¯§Ö§Õ§Ö§Û§ã§ä§Ó§Ú§ä§Ö§Ý§î§ß§í§Ö §Ñ§Õ§â§Ö§ã§Ñ §á§à§Ý§å§é§Ñ§ä§Ö§Ý§Ö§Û	
+STR_GLOBAL_INVALID_URL	Invalid URL	§¯§Ö§Õ§Ö§Û§ã§ä§Ó§Ú§ä§Ö§Ý§î§ß§í§Û URL 	§¯§Ö§Ó?§â§ß§Ñ URL
+STR_GLOBAL_LIST	List	§³§á§Ú§ã§à§Ü	
+STR_GLOBAL_LOADING	Loading	§©§Ñ§Ô§â§å§Ù§Ü§Ñ	
+STR_GLOBAL_LOGIN	Login	§£§ç§à§Õ	
+STR_GLOBAL_LOGOUT	Logout	§£§í§ç§à§Õ	
+STR_GLOBAL_LOW	Low	§¯§Ú§Ù§Ü§Ú§Û	
+STR_GLOBAL_MANUAL	Manual	§²§å§é§ß§à§Û	
+STR_GLOBAL_MARK	Mark	§°§ä§Þ§Ö§ä§Ú§ä§î	
+STR_GLOBAL_MARK_ALL	Mark all	§°§ä§Þ§Ö§ä§Ú§ä§î §Ó§ã§Ö	
+STR_GLOBAL_MAXIMUM	Maximum	§®§Ñ§Ü§ã§Ú§Þ§Ñ§Ý§î§ß§í§Û §à§Ò§ì§Ö§Þ	
+STR_GLOBAL_MEDIUM	Medium	§³§â§Ö§Õ§ß§Ú§Û	
+STR_GLOBAL_MEMORY_CARD	Memory card	§¬§Ñ§â§ä§Ñ §á§Ñ§Þ§ñ§ä§Ú	§¬§Ñ§â§ä§Ñ §á§Ñ§Þ\u0026#39;§ñ§ä?
+STR_GLOBAL_MEMORY_FULL	Memory full	§±§Ñ§Þ§ñ§ä§î §Ù§Ñ§á§à§Ý§ß§Ö§ß§Ñ	
+STR_GLOBAL_MEMORY_STATUS	Memory status	§³§ä§Ñ§ä§å§ã §á§Ñ§Þ§ñ§ä§Ú	
+STR_GLOBAL_MESSAGE	Message	§³§à§à§Ò§ë§Ö§ß§Ú§Ö	
+STR_GLOBAL_MISSED_CALLS	Missed calls	§±§â§à§á§å§ë§Ö§ß§ß§í§Ö §Ó§í§Ù§à§Ó§í	
+STR_GLOBAL_MODE	Mode	§²§Ö§Ø§Ú§Þ	
+STR_GLOBAL_MOVE	Move	§±§Ö§â§Ö§Þ§Ö§ã§ä§Ú§ä§î	
+STR_GLOBAL_MOVING	Moving	§±§Ö§â§Ö§ß§Ö§ã§Ö§ß§Ú§Ö	
+STR_GLOBAL_MULTIMEDIA_MESSAGE	Multimedia message	MMS	
+STR_GLOBAL_MUTE	Mute	§¯§Ö§Þ§à§Û	
+STR_GLOBAL_NETWORK_SETTINGS	Network settings	§¯§Ñ§ã§ä§â§à§Û§Ü§Ú §ã§Ö§ä§Ú	
+STR_GLOBAL_NO	No	§¯§Ö§ä	§¯?
+STR_GLOBAL_NO_MEMORY_CARD	No memory card	§¯§Ö§ä §Ü§Ñ§â§ä§í §á§Ñ§Þ§ñ§ä§Ú	
+STR_GLOBAL_NONE	None	§¯§Ö§ä	§¯§Ö§Þ§Ñ?
+STR_GLOBAL_NORMAL	Normal	§¯§à§â§Þ§Ñ§Ý§î§ß§í§Û	§¯§à§â§Þ§Ñ§Ý§î§ß§Ú§Û
+STR_GLOBAL_NOT_AVAILABLE	Not available	§¯§Ö§ä §Õ§Ñ§ß§ß§í§ç	§¯§Ö§Õ§à§ã§ä§å§á§ß§à
+STR_GLOBAL_NOT_AVAILABLE_DURING_VIDEO_CALL	Not available during video call	§¯§Ö§Õ§à§ã§ä§å§á§ß§à §Ó§à §Ó§â§Ö§Þ§ñ §Ó§Ú§Õ§Ö§à§Ó§í§Ù§à§Ó§Ñ	
+STR_GLOBAL_NOT_ENOUGH_MEMORY	Not enough memory	§¯§Ö§Õ§à§ã§ä§Ñ§ä§à§é§ß§à §á§Ñ§Þ§ñ§ä§Ú	
+STR_GLOBAL_NOT_SUPPORTED	Not supported	§¯§Ö§á§à§Õ§Õ§Ö§â§Ø§Ú§Ó§Ñ§Ö§Þ§í§Û	
+STR_GLOBAL_OFF	Off	§£§í§Ü§Ý.	§£§Ú§Þ§Ü§ß§å§ä§Ú
+STR_GLOBAL_OK	OK	OK	§¤§Ñ§â§Ñ§Ù§Õ
+STR_GLOBAL_ON	On	§£§Ü§Ý.	§µ§Ó?§Þ§Ü§ß§å§ä§Ú
+STR_GLOBAL_OPEN	Open	§°§ä§Ü§â§í§ä§î	§£?§Õ§Ü§â§Ú§ä§Ú
+STR_GLOBAL_OPTIONS	Options	§°§á§è§Ú§Ú	§°§á§è?§ñ
+STR_GLOBAL_OUTBOX	Outbox	§ª§ã§ç§à§Õ§ñ§ë§Ú§Ö	
+STR_GLOBAL_OVERWRITE_EXISTING_FILE	Overwrite existing file?	§©§Ñ§Þ§Ö§ß§Ú§ä§î §ã§å§ë§Ö§ã§ä§Ó§å§ð§ë§Ú§Û §æ§Ñ§Û§Ý?	
+STR_GLOBAL_PASSWORD	Password	§±§Ñ§â§à§Ý§î 	§±§Ñ§â§à§Ý§î
+STR_GLOBAL_PAUSE	Pause	§±§Ñ§å§Ù§Ñ	
+STR_GLOBAL_PHONE	Phone	§´§Ö§Ý.	§´§Ö§Ý§Ö§æ§à§ß
+STR_GLOBAL_PICTURE	Picture	§ª§Ù§à§Ò§â§Ñ§Ø§Ö§ß§Ú§Ö	
+STR_GLOBAL_PLAY	Play	§£§à§ã§á§â§à§Ú§Ù§Ó.	
+STR_GLOBAL_PLEASE_WAIT	Please wait	§°§Ø§Ú§Õ§Ñ§ß§Ú§Ö	§¢§å§Õ§î §Ý§Ñ§ã§Ü§Ñ, §Ù§Ñ§é§Ö§Ü§Ñ§Û§ä§Ö...
+STR_GLOBAL_PLEASE_INPUT_THE_FILENAME	Please input the filename	§£§Ó§Ö§Õ§Ú§ä§Ö §Ú§Þ§ñ §æ§Ñ§Û§Ý§Ñ	Please input the filename
+STR_GLOBAL_PREFERRED_STORAGE	Preferred storage	§±§à§á§å§Ý§ñ§â§ß§í§Ö §ç§â§Ñ§ß§Ö§ß§Ú§ñ	§±§à§á§å§Ý§ñ§â§ß? §Ù§Ò§Ö§â?§Ô§Ñ§ß§ß§ñ
+STR_GLOBAL_PREV	Prev.	§±§â§Ö§Õ.	
+STR_GLOBAL_PREVIEW	Preview	§±§â§à§ã§Þ§à§ä§â	
+STR_GLOBAL_PRINT	Print	§±§Ö§é§Ñ§ä§î	
+STR_GLOBAL_PRIORITY	Priority	§±§â§Ú§à§â§Ú§ä§Ö§ä	
+STR_GLOBAL_PROXY	Proxy	§±§â§à§Ü§ã§Ú	
+STR_GLOBAL_QUIT	Quit	§£§í§ç§à§Õ	§£§Ú§Û§ä§Ú
+STR_GLOBAL_READ	Read	§³§é§Ú§ä.	
+STR_GLOBAL_RECEIVED	Received	§±§à§Ý§å§é§Ö§ß§à	
+STR_GLOBAL_RECEIVED_CALLS	Received calls	§£§ç§à§Õ§ñ§ë§Ú§Ö §Ù§Ó§à§ß§Ü§Ú	Received calls
+STR_GLOBAL_RECEIVING	Receiving	§±§à§Ý§å§é§Ö§ß§Ú§Ö	
+STR_GLOBAL_RECIPIENTS	Recipients	§±§à§Ý§å§é§Ñ§ä§Ö§Ý§Ú	
+STR_GLOBAL_REFRESH	Refresh	§°§Ò§ß§à§Ó§Ú§ä§î	
+STR_GLOBAL_REMOVE	Remove	§µ§Õ§Ñ§Ý§Ú§ä§î	
+STR_GLOBAL_REMOVED	Removed	§µ§Õ§Ñ§Ý§Ö§ß§à	
+STR_GLOBAL_RENAME	Rename	§±§Ö§â§Ö§Ú§Þ§Ö§ß§à§Ó§Ñ§ä§î	
+STR_GLOBAL_REPLACE	Replace	§©§Ñ§Þ§Ö§ß§Ú§ä§î	
+STR_GLOBAL_REPLY	Reply	§°§ä§Ó§Ö§ä	§£?§Õ§á§à§Ó?§ã§ä§Ú
+STR_GLOBAL_RESEND	Resend	§±§à§ã§Ý§Ñ§ä§î §á§à§Ó§ä§à§â§ß§à	
+STR_GLOBAL_RESET	Reset	§³§Ò§â§à§ã	
+STR_GLOBAL_RESUME	Resume	§£§à§Ù§à§Ò§ß§à§Ó§Ú§ä§î	
+STR_GLOBAL_RINGTONE	Ringtone	§®§Ö§Ý§à§Õ§Ú§ñ §Ù§Ó§à§ß§Ü§Ñ	
+STR_GLOBAL_SAVE	Save	§³§à§ç§â.	§©§Ò§Ö§â§Ö§Ô§ä§Ú
+STR_GLOBAL_SAVE_ASK	Save?	§³§à§ç§â.?	Save?
+STR_GLOBAL_SAVE_TO_PHONEBOOK	Save to Phonebook	§³§à§ç§â§Ñ§ß§Ú§ä§î §Ó §ä§Ö§Ý§Ö§æ§à§ß§ß§à§Û §Ü§ß§Ú§Ô§Ö	
+STR_GLOBAL_SAVED	Saved	§³§à§ç§â.	§©§Ò§Ö§â§Ö§Ø§Ö§ß§à
+STR_GLOBAL_SAVING	Saving	§³§à§ç§â.	§©§Ò§Ö§â§Ö§Ø§Ö§ß§ß§ñ
+STR_GLOBAL_SEARCH	Search	§±§à§Ú§ã§Ü	§º§å§Ü§Ñ§ä§Ú
+STR_GLOBAL_SEARCHING	Searching	§±§à§Ú§ã§Ü	§±§à§ê§å§Ü
+STR_GLOBAL_SELECT	Select	§£§í§Ò§à§â	§£§Ú§Ò§â§Ñ§ä§Ú
+STR_GLOBAL_SEND	Send	§°§ä§à§ã§Ý§Ñ§ä§î	§¯§Ñ§Õ?§ã§Ý§Ñ§ä§Ú
+STR_GLOBAL_SEND_MESSAGE	Send message	§°§ä§á§â§Ñ§Ó§Ú§ä§î §ã§à§à§Ò§ë§Ö§ß§Ú§Ö	
+STR_GLOBAL_SEND_MULTIMEDIA_MESSAGE	Send multimedia message	§°§ä§á§â§Ñ§Ó§Ú§ä§î MMS-§ã§à§à§Ò§ë§Ö§ß§Ú§Ö	Send multimedia message
+STR_GLOBAL_SEND_TEXT_MESSAGE	Send text message	§°§ä§á§â§Ñ§Ó§Ú§ä§î SMS-§ã§à§à§Ò§ë§Ö§ß§Ú§Ö	Send text message
+STR_GLOBAL_SENDING	Sending	§°§ä§á§â§Ñ§Ó§Ü§Ñ	
+STR_GLOBAL_SENT	Sent	§°§ä§á§â§Ñ§Ó§Ý§Ö§ß§à	
+STR_GLOBAL_SETTINGS	Settings	§¯§Ñ§ã§ä§â§à§Û§Ü§Ú	
+STR_GLOBAL_SILENT	Silent	§¢§Ö§ã§ê§å§Þ§ß§í§Û	
+STR_GLOBAL_SIM	SIM	SIM	
+STR_GLOBAL_SIM_3	SIM 3	SIM-§Ü§Ñ§â§ä§Ñ 3	
+STR_GLOBAL_SIM_4	SIM 4	SIM-§Ü§Ñ§â§ä§Ñ 4	
+STR_GLOBAL_SLOW	Slow	§®§Ö§Õ§Ý§Ö§ß.	Slow
+STR_GLOBAL_SORT_BY	Sort by	§³§à§â§ä§Ú§â§à§Ó§Ñ§ä§î §á§à	
+STR_GLOBAL_START	Start	§¯§Ñ§é§Ñ§ä§î	
+STR_GLOBAL_STOP	Stop	§°§ã§ä§Ñ§ß§à§Ó.	
+STR_GLOBAL_STORAGE	Storage	§±§Ñ§Þ§ñ§ä§î	
+STR_GLOBAL_SUBJECT	Subject	§´§Ö§Þ§Ñ	
+STR_GLOBAL_TEXT	Text	§´§Ö§Ü§ã§ä	
+STR_GLOBAL_TEXT_MESSAGE	Text message	§´§Ö§Ü§ã§ä§à§Ó§à§Ö §ã§à§à§Ò§ë§Ö§ß§Ú§Ö	
+STR_GLOBAL_TIME	Time	§£§â§Ö§Þ§ñ	
+STR_GLOBAL_UNAVAILABLE_IN_FLIGHT_MODE	Unavailable in flight mode	§¯§Ö§Ó§à§Ù§Þ§à§Ø§ß§à §Ú§ã§á§à§Ý§î§Ù§à§Ó§Ñ§ä§î §Ó §â§Ö§Ø§Ú§Þ§Ö §á§à§Ý§Ö§ä§Ñ	
+STR_GLOBAL_UNAVAILABLE_SIM	Unavailable SIM	SIM-§Ü§Ñ§â§ä§Ñ §ß§Ö§Õ§à§ã§ä§å§á§ß§Ñ	
+STR_GLOBAL_UNFINISHED	Unfinished	§¯§Ö§Ù§Ñ§Ü§à§ß§é.	§¯§Ö §Ù§Ñ§Ó§Ö§â§ê§Ö§ß§Ö
+STR_GLOBAL_UNMARK	Unmark	§³§ß§ñ§ä§î §Þ§Ö§ä§Ü§å	
+STR_GLOBAL_UNMARK_ALL	Unmark all	§³§ß§ñ§ä§î §Ó§ã§Ö §Þ§Ö§ä§Ü§Ú	
+STR_GLOBAL_UNSUPPORTED_FORMAT	Unsupported format	§¯§Ö§á§à§Õ§Õ§Ö§â§Ø§í§Ó§Ñ§Ö§Þ§í§Û §æ§à§â§Þ§Ñ§ä 	§¶§à§â§Þ§Ñ§ä §ß§Ö §á?§Õ§ä§â§Ú§Þ§å?§ä§î§ã§ñ
+STR_GLOBAL_UPDATE	Update	§°§Ò§ß§à§Ó§Ý.	Update
+STR_GLOBAL_URL	URL	URL	
+STR_GLOBAL_USE	Use	§ª§ã§á§à§Ý§î§Ù§à§Ó§Ñ§ä§î	
+STR_GLOBAL_USE_TEMPLATE	Insert templates	§£§ã§ä§Ñ§Ó§Ú§ä§î §ê§Ñ§Ò§Ý§à§ß	§£§Ú§Ü§à§â§Ú§ã§ä§à§Ó§å§Ó§Ñ§ä§Ú §ê§Ñ§Ò§Ý§à§ß
+STR_GLOBAL_USERNAME	Username	§ª§Þ§ñ §á§à§Ý§î§Ù§à§Ó.	?§Þ'§ñ §Ü§à§â§Ú§ã§ä§å§Ó§Ñ§é§Ñ
+STR_GLOBAL_VIA_BLUETOOTH	Via Bluetooth	§¹§Ö§â§Ö§Ù Bluetooth	
+STR_GLOBAL_VIA_INFRARED	Via infrared	§¹§Ö§â§Ö§Ù §Ú§ß§æ§â§Ñ§Ü§â§Ñ§ã§ß§í§Û §á§à§â§ä	
+STR_GLOBAL_VIDEO	Video	§£§Ú§Õ§Ö§à	
+STR_GLOBAL_VIEW	View	§£§Ú§Õ	§±§Ö§â§Ö§Ô§Ý§ñ§ß§å§ä§Ú
+STR_GLOBAL_VOLUME	Volume	§¤§â§à§Þ§Ü§à§ã§ä§î	
+STR_GLOBAL_WALLPAPER	Wallpaper	§¶§à§ß§à§Ó§í§Û §â§Ú§ã§å§ß§à§Ü	
+STR_GLOBAL_WAP	WAP	WAP	
+STR_GLOBAL_WIFI	WLAN	Wi-Fi	
+STR_GLOBAL_YES	Yes	§¥§Ñ	§´§Ñ§Ü
+STR_GLOBAL_INSERT_MEMORY_CARD	Please insert memory card	§£§ã§ä§Ñ§Ó§î§ä§Ö §Ü§Ñ§â§ä§å §á§Ñ§Þ§ñ§ä§Ú	§¢§å§Õ§î §Ý§Ñ§ã§Ü§Ñ, §Ó§ã§ä§Ñ§Ó§ä§Ö §Ü§Ñ§â§ä§Ü§å §á§Ñ§Þ\u0026#39;§ñ§ä?
+STR_GLOBAL_MC_REMOVED_USE_PHONE	Memory card removed. Use phone?	§¬§Ñ§â§ä§Ñ §á§Ñ§Þ§ñ§ä§Ú §à§ä§ã§å§ä§ã§ä§Ó§å§Ö§ä. §ª§ã§á§à§Ý§î§Ù§à§Ó§Ñ§ä§î §á§Ñ§Þ§ñ§ä§î §ä§Ö§Ý§Ö§æ§à§ß§Ñ?	
+STR_GLOBAL_MC_REMOVED	Memory card removed	§¬§Ñ§â§ä§Ñ §á§Ñ§Þ§ñ§ä§Ú §à§ä§ã§å§ä§ã§ä§Ó§å§Ö§ä	§¬§Ñ§â§ä§Ñ §á§Ñ§Þ\u0026#39;§ñ§ä? §Ó§Ú§Õ§Ñ§Ý§Ö§ß?
+STR_GLOBAL_MC_INSERTED	Memory card inserted	§¬§Ñ§â§ä§Ñ §á§Ñ§Þ§ñ§ä§Ú §Ó§ã§ä§Ñ§Ó§Ý§Ö§ß§Ñ	
+STR_GLOBAL_OTG_REMOVED_USE_PHONE	OTG device removed. Phone will be used.	§µ§ã§ä§â§à§Û§ã§ä§Ó§à OTG §à§ä§Ü§Ý§ð§é§Ö§ß§à. §¢§å§Õ§Ö§ä §Ú§ã§á§à§Ý§î§Ù§à§Ó§Ñ§ß §ä§Ö§Ý§Ö§æ§à§ß.	
+STR_GLOBAL_OTG_REMOVED_USE_PHONE_QUERY	OTG device removed. Use phone?	§µ§ã§ä§â§à§Û§ã§ä§Ó§à OTG §à§ä§Ü§Ý§ð§é§Ö§ß§à. §ª§ã§á§à§Ý§î§Ù§à§Ó§Ñ§ä§î §ä§Ö§Ý§Ö§æ§à§ß?	
+STR_GLOBAL_OTG_REMOVED	OTG device removed	§µ§ã§ä§â§à§Û§ã§ä§Ó§à OTG §à§ä§Ü§Ý§ð§é§Ö§ß§à.	
+STR_GLOBAL_OTG_CONNECTED	OTG device connected	§µ§ã§ä§â§à§Û§ã§ä§Ó§à OTG §á§à§Õ§Ü§Ý§ð§é§Ö§ß§à	
+STR_GLOBAL_NOT_AVAILABLE_IN_MASS_STORAGE_MODE	Not available in Mass storage mode	§¯§Ö§Õ§à§ã§ä§å§á§ß§à §Ó §â§Ö§Ø§Ú§Þ§Ö §Þ§Ñ§ã§ã§à§Ó§à§Û §á§Ñ§Þ§ñ§ä§Ú	
+STR_GLOBAL_NO_NUMBER	No number	§¯§à§Þ§Ö§â §à§ä§ã§å§ä§ã§ä§Ó§å§Ö§ä	
+STR_GLOBAL_SUNDAY	Sunday	§£§à§ã§Ü§â§Ö§ã§Ö§ß§î§Ö	
+STR_GLOBAL_MONDAY	Monday	§±§à§ß§Ö§Õ§Ö§Ý§î§ß§Ú§Ü	
+STR_GLOBAL_TUESDAY	Tuesday	§£§ä§à§â§ß§Ú§Ü	
+STR_GLOBAL_WEDNESDAY	Wednesday	§³§â§Ö§Õ§Ñ	
+STR_GLOBAL_THURSDAY	Thursday	§¹§Ö§ä§Ó§Ö§â§Ô	
+STR_GLOBAL_FRIDAY	Friday	§±§ñ§ä§ß§Ú§è§Ñ	
+STR_GLOBAL_SATURDAY	Saturday	§³§å§Ò§Ò§à§ä§Ñ	
+STR_GLOBAL_SUNDAY_SHORT	Sun	§£§ã	
+STR_GLOBAL_MONDAY_SHORT	Mon	§±§ß	
+STR_GLOBAL_TUESDAY_SHORT	Tue	§£§ä	
+STR_GLOBAL_WEDNESDAY_SHORT	Wed	§³§â	
+STR_GLOBAL_THURSDAY_SHORT	Thu	§¹§ä	
+STR_GLOBAL_FRIDAY_SHORT	Fri	§±§ä	
+STR_GLOBAL_SATURDAY_SHORT	Sat	§³§Ò	
+STR_GLOBAL_JANUARY_SHORT	Jan	§Á§ß§Ó	
+STR_GLOBAL_FEBRUARY_SHORT	Feb	§¶§Ö§Ó	
+STR_GLOBAL_MARCH_SHORT	Mar	§®§Ñ§â	
+STR_GLOBAL_APRIL_SHORT	Apr	§¡§á§â	
+STR_GLOBAL_MAY_SHORT	May	§®§Ñ§Û	
+STR_GLOBAL_JUNE_SHORT	Jun	§ª§ð§ß	
+STR_GLOBAL_JULY_SHORT	Jul	§ª§ð§Ý	
+STR_GLOBAL_AUGEST_SHORT	Aug	§¡§Ó§Ô	
+STR_GLOBAL_SEPTEMBER_SHORT	Sep	§³§Ö§ß	
+STR_GLOBAL_OCTOBER_SHORT	Oct	§°§Ü§ä	
+STR_GLOBAL_NOVEMBER_SHORT	Nov	§¯§à§ñ	
+STR_GLOBAL_DECEMBER_SHORT	Dec	§¥§Ö§Ü	
+STR_GLOBAL_DIAL_VIDEO_CALL	Video call	§£§Ú§Õ§Ö§à§Ó§í§Ù§à§Ó	
+STR_GLOBAL_DELETE_ASK	Delete?	§µ§Õ§Ñ§Ý§Ú§ä§î?	
+STR_GLOBAL_DELETE_ALL_ASK	Delete all?	§µ§Õ§Ñ§Ý§Ú§ä§î §Ó§ã§Ö?	
+STR_GLOBAL_USE_AS	Use as	§ª§ã§á§à§Ý§î§Ù§à§Ó§Ñ§ä§î §Ü§Ñ§Ü	
+STR_GLOBAL_STATUS	Status	§³§à§ã§ä§à§ñ§ß§Ú§Ö	
+SSC_SCR_LANGUAGE_ENGLISH_STR_ID	Language set to English	§Á§Ù§í§Ü §å§ã§ä§Ñ§ß§Ñ§Ó§Ý§Ö§ß §ß§Ñ §Ñ§ß§Ô§Ý§Ú§Û§ã§Ü§Ú§Û	§£§ã§ä§Ñ§ß§à§Ó§Ý§Ö§ß§Ñ §Þ§à§Ó§Ñ §Ñ§ß§Ô§Ý?§Û§ã§î§Ü§Ñ
+SSC_SCR_LANGUAGE_FRENCH_STR_ID	Language set to French	§Á§Ù§í§Ü §å§ã§ä§Ñ§ß§à§Ó§Ý§Ö§ß §ß§Ñ §æ§â§Ñ§ß§è§å§Ù§ã§Ü§Ú§Û	§£§ã§ä§Ñ§ß§à§Ó§Ý§Ö§ß§Ñ §Þ§à§Ó§Ñ §æ§â§Ñ§ß§è§å§Ù§î§Ü§Ñ
+SSC_SCR_LANGUAGE_GREEK_STR_ID	Language set to Greek	§Á§Ù§í§Ü §å§ã§ä§Ñ§ß§à§Ó§Ý§Ö§ß §ß§Ñ §Ô§â§Ö§é§Ö§ã§Ü§Ú§Û	§£§ã§ä§Ñ§ß§à§Ó§Ý§Ö§ß§Ñ §Þ§à§Ó§Ñ §Ô§â§Ö§è§î§Ü§Ñ
+SSC_SCR_LANGUAGE_DEFAULT_STR_ID	Language set to default	§µ§ã§ä§Ñ§ß§à§Ó§Ü§Ñ §ñ§Ù. §á§à §å§Þ§à§Ý§é§Ñ§ß§Ú§ð	§£§ã§ä§Ñ§ß§à§Ó§Ý§Ö§ß§Ñ §Þ§à§Ó§Ñ §Ù§Ñ §Ù§Ñ§Þ§à§Ó§é§å§Ó§Ñ§ß§ß§ñ§Þ
+SSC_STR_ERR_SET_DEFAULT	Error in set default language	§°§ê§Ú§Ò§Ü§Ñ:  §å§ã§ä§Ñ§ß§à§Ó§Ü§Ñ §ñ§Ù.  §á§à §å§Þ§à§Ý§é§Ñ§ß§Ú§ð	§±§à§Þ§Ú§Ý§Ü§Ñ §Ó§ã§ä§Ñ§ß§à§Ó§Ý§Ö§ß§ß§ñ §Þ§à§Ó§Ú §Ù§Ñ §Ù§Ñ§Þ§à§Ó§Þ§å§Ó§Ñ§ß§ß§ñ§Þ
+SSC_STR_ERR_SET_ENGLISH	Error in set English language	§°§ê§Ú§Ò§Ü§Ñ: §å§ã§ä§Ñ§ß§à§Ó§Ü§Ñ §Ñ§ß§Ô§Ý§Ú§Û§ã§Ü§à§Ô§à §ñ§Ù.	§±§à§Þ§Ú§Ý§Ü§Ñ §Ó§ã§ä§Ñ§ß§à§Ó§Ý§Ö§ß§ß§ñ §Ñ§ß§Ô§Ý?§Û§ã§î§Ü§à? §Þ§à§Ó§Ú
+SSC_STR_ERR_SET_FRENCH	Error in set French	§°§ê§Ú§Ò§Ü§Ñ §á§â§Ú §å§ã§ä§Ñ§ß§à§Ó§Ü§Ö §æ§â§Ñ§ß§è§å§Ù§ã§Ü§à§Ô§à §ñ§Ù.	§±§à§Þ§Ú§Ý§Ü§Ñ §Ó§ã§ä§Ñ§ß§à§Ó§Ý§Ö§ß§ß§ñ §æ§â§Ñ§ß§è§å§Ù§î§Ü§à? §Þ§à§Ó§Ú
+SSC_STR_ERR_SET_GREEK	Error in set Greek	§°§ê§Ú§Ò§Ü§Ñ §á§â§Ú §å§ã§ä§Ñ§ß§à§Ó§Ü§Ö §Ô§â§Ö§é§Ö§ã§Ü§à§Ô§à §ñ§Ù.	§±§à§Þ§Ú§Ý§Ü§Ñ §Ó§ã§ä§Ñ§ß§à§Ó§Ý§Ö§ß§ß§ñ §Ô§â§Ö§è§î§Ü§à? §Þ§à§Ó§Ú
+SSC_SCR_IMEI_CAPTION_ID	IMEI	IMEI	
+SSC_SCR_HW_VERSION_CAPTION_ID	Hardware version	§£§Ö§â§ã§Ú§ñ §´§°	§£§Ö§â§ã?§ñ §Ñ§á§Ñ§â§Ñ§ä§ß§à§Ô§à §Ù§Ñ§Ò§Ö§Ù§á§Ö§é§Ö§ß§ß§ñ
+SERVICES_TITLE_STRING_ID	Services	§³§Ý§å§Ø§Ò§í	§³§Ý§å§Ø§Ò§Ú
+STR_ID_FMGR_FILE_LIMIT_IMAGE_TOO_LARGE	Unsupported resolution	§¯§Ö§á§à§Õ§Õ§Ö§â§Ø§Ú§Ó§Ñ§Ö§Þ§à§Ö §â§Ñ§Ù§â§Ö§ê§Ö§ß§Ú§Ö	§²§à§Ù§Þ?§â §Ù§à§Ò§â§Ñ§Ø§Ö§ß§ß§ñ §Ù§Ñ§ß§Ñ§Õ§ä§à §Ó§Ö§Ý§Ú§Ü§Ú§Û\n§°§Ò§Þ§Ö§Ø§Ö§ß§à
+STR_ID_FMGR_FILE_LIMIT_VIDEO_TOO_LARGE	Video size too large,\nlimit 	§£§Ú§Õ§Ö§à §ã§Ý§Ú§ê§Ü§à§Þ §Ò§à§Ý§î§ê§à§Ö 	§²§à§Ù§Þ?§â §Ó?§Õ§Ö§à §Ù§Ñ§ß§Ñ§Õ§ä§à §Ó§Ö§Ý§Ú§Ü§Ú§Û\n§°§Ò§Þ§Ö§Ø§Ö§ß§ß§ñ
+STR_ID_FMGR_FILE_LIMIT_VIDEO_TOO_LONG	Video too long 	§£§Ú§Õ§Ö§à §ã§Ý§Ú§ê§Ü§à§Þ §Ò§à§Ý§î§ê§à§Ö 	§£?§Õ§Ö§à §Ù§Ñ§ß§Ñ§Õ§ä§à §Õ§à§Ó§Ô§Ö\n§°§Ò§Þ§Ö§Ø§Ö§ß§ß§ñ
+STR_ID_FMGR_FILE_LIMIT_FILE_TOO_LARGE	File too large 	§¶§Ñ§Û§Ý §ã§Ý§Ú§ê§Ü§à§Þ §Ò§à§Ý§î§ê§à§Û 	§¶§Ñ§Û§Ý §Ù§Ñ§ß§Ñ§Õ§ä§à §Ó§Ö§Ý§Ú§Ü§Ú§Û\n§°§Ò§Þ§Ö§Ø§Ö§ß§ß§ñ
+STR_ID_FMGR_FWD_CONTACT	Contact	§¬§à§ß§ä§Ñ§Ü§ä	
+STR_ID_DLS_QUERY	You need to download the application first. Download it now?	§³§ß§Ñ§é§Ñ§Ý§Ñ §Ù§Ñ§Ô§â§å§Ù§Ú§ä§Ö §á§â§Ú§Ý§à§Ø§Ö§ß§Ú§Ö. §©§Ñ§Ô§â§å§Ù§Ú§ä§î §ã§Ö§Û§é§Ñ§ã?	
+STR_DI_DLS_NETWORK_PROBLEM	Failed to download application. Please check network.	§°§ê§Ú§Ò§Ü§Ñ §Ù§Ñ§Ô§â§å§Ù§Ü§Ú §á§â§Ú§Ý§à§Ø§Ö§ß§Ú§ñ. §±§â§à§Ó§Ö§â§î§ä§Ö §ã§Ö§ä§î.	
+STR_DI_DLS_FAIL_MAY_DISK_FULL	Not enough memory	§¯§Ö §å§Õ§Ñ§Ý§à§ã§î §Ù§Ñ§Ô§â§å§Ù§Ú§ä§î	
+STR_ID_DLS_NO_UPDATE	No update	§ß§Ö§ä §à§Ò§ß§à§Ó§Ý§Ö§ß§Ú§Û	
+STR_ID_DLS_DOWNLOADING	Downloading	§Ó§í§á§à§Ý§ß§ñ§Ö§ä§ã§ñ §Ù§Ñ§Ô§â§å§Ù§Ü§Ñ	
+STR_ID_DLS_DOWNLOADED	Downloaded	§Ù§Ñ§Ô§â§å§Ø§Ö§ß§à	
+STR_ID_DLS_HOST_NOT_FOUND	Connection failed	§°§ä§Ü§Ñ§Ù DNS-§ã§Ö§â§Ó§Ö§â§Ñ	
+STR_ID_DLS_PIPE_CLOSED	Server close	§à§ä§Ü§Ý§ð§é§Ö§ß§Ú§Ö §ã§Ö§â§Ó§Ö§â§Ñ	
+STR_ID_DLS_ERR_PATH	Failed to install	§à§ê§Ú§Ò§Ü§Ñ §á§å§ä§Ú	
+STR_ID_DLS_INSTALL_SECC	Install successfully	§å§ã§ä§Ñ§ß§à§Ó§Ü§Ñ §Ù§Ñ§Ó§Ö§â§ê§Ö§ß§Ñ §å§ã§á§Ö§ê§ß§à	
+STR_ID_DLS_INSTALLING	Installing	§£§í§á§à§Ý§ß§ñ§Ö§ä§ã§ñ §å§ã§ä§Ñ§ß§à§Ó§Ü§Ñ	
+STR_ID_DLS_INSTALL_FAIL	Install failed	§å§ã§ä§Ñ§ß§à§Ó§Ü§Ñ §Ù§Ñ§Ó§Ö§â§ê§Ö§ß§Ñ §ã §à§ê§Ú§Ò§Ü§à§Û	
+STR_ID_DLS_NA_NAME	(Not download)	(§¯§Ö §Ù§Ñ§Ô§â§å§Ø§Ö§ß§à)	
+STR_ID_DLS_NA_SLK	Download	§©§Ñ§Ô§â§å§Ù§Ú§ä§î	
+STR_MRE_TITLE	Fun & Games	§²§Ñ§Ù§Ó§Ý§Ö§é§Ö§ß§Ú§ñ §Ú §ª§Ô§â§í	
+STR_MRE_NETWORK_CMWAP	Fun & Games(CMWAP)	§²§Ñ§Ù§Ó§Ý§Ö§é§Ö§ß§Ú§ñ §Ú §Ú§Ô§â§í (CMWAP)	
+STR_MRE_NETWORK_CMNET	Fun & Games(CMNET)	§²§Ñ§Ù§Ó§Ý§Ö§é§Ö§ß§Ú§ñ §Ú §Ú§Ô§â§í (CMNET)	
+STR_MRE_NETWORK_CMWAP_DIS_WLAN	Fun & Games(CMNET)	§ª§Ô§â§í §Ú §â§Ñ§Ù§Ó§Ý§Ö§é§Ö§ß§Ú§ñ(CMNET)	
+STR_MRE_NETWORK_CMNET_DIS_WLAN	Fun & Games(CMWAP)	§ª§Ô§â§í §Ú §â§Ñ§Ù§Ó§Ý§Ö§é§Ö§ß§Ú§ñ(CMWAP)	
+STR_MRE_NETWORK_CMWAP_ONLY_DIS_WLAN	Fun & Games(CMNET)	§ª§Ô§â§í §Ú §â§Ñ§Ù§Ó§Ý§Ö§é§Ö§ß§Ú§ñ(CMNET)	
+STR_MRE_NETWORK_CMNET_ONLY_DIS_WLAN	Fun & Games(CMWAP)	§ª§Ô§â§í §Ú §â§Ñ§Ù§Ó§Ý§Ö§é§Ö§ß§Ú§ñ(CMWAP)	
+STR_MRE_APP0	MRE APP0	§±§²§ª§­§°§¨. MRE 0	
+STR_MRE_APP1	MRE APP1	§±§²§ª§­§°§¨. MRE 1	
+STR_MRE_APP2	MRE APP2	§±§²§ª§­§°§¨. MRE 2	
+STR_MRE_APP3	MRE APP3	§±§²§ª§­§°§¨. MRE 3	
+STR_MRE_APP4	MRE APP4	§±§²§ª§­§°§¨. MRE 4	
+STR_MRE_REACH_MAX_NUM	Cannot install any more app due to memory limitation	§ª§Ù-§Ù§Ñ §à§Ô§â§Ñ§ß§Ú§é§Ö§ß§Ú§Û §á§Ñ§Þ§ñ§ä§Ú §ß§Ö§Ó§à§Ù§Þ§à§Ø§ß§à §å§ã§ä§Ñ§ß§à§Ó§Ú§ä§î §Õ§â§å§Ô§Ú§Ö §á§â§Ú§Ý§à§Ø§Ö§ß§Ú§ñ	
+STR_MRE_POPUP_CONFLICTS	Resource conflicts, the application cannot run in the background	§¬§à§ß§æ§Ý§Ú§Ü§ä §â§Ö§ã§å§â§ã§à§Ó, §á§â§Ú§Ý§à§Ø§Ö§ß§Ú§Ö §ß§Ö §Þ§à§Ø§Ö§ä §â§Ñ§Ò§à§ä§Ñ§ä§î §Ó §æ§à§ß§à§Ó§à§Þ §â§Ö§Ø§Ú§Þ§Ö	
+STR_MRE_POPUP_FORCE_FREE	Memory is not enough, the application is forced to exit	§¯§Ö§Õ§à§ã§ä§Ñ§ä§à§é§ß§à §á§Ñ§Þ§ñ§ä§Ú. §±§â§Ú§Ý§à§Ø§Ö§ß§Ú§Ö §Ò§å§Õ§Ö§ä §á§â§Ú§ß§å§Õ§Ú§ä§Ö§Ý§î§ß§à §Ù§Ñ§Ü§â§í§ä§à	
+STR_MRE_UPDATE_TITLE	MRE application update	§°§Ò§ß§à§Ó§Ý§Ö§ß§Ú§Ö §á§â§à§Ô§â§Ñ§Þ§Þ§í MRE	
+STR_MRE_UPDATE_QUERY	Do you want to update application now?\nIt will exit running app.	§°§Ò§ß§à§Ó§Ú§ä§î §á§â§à§Ô§â§Ñ§Þ§Þ§å §ã§Ö§Û§é§Ñ§ã?\n§©§Ñ§á§å§ë§Ö§ß§ß§Ñ§ñ §á§â§à§Ô§â§Ñ§Þ§Þ§Ñ §Ò§å§Õ§Ö§ä §Ù§Ñ§Ü§â§í§ä§Ñ.	
+STR_MRE_UPDATE_UPDATING	Updating	§°§Ò§ß§à§Ó§Ý§Ö§ß§Ú§Ö	
+STR_MRE_UPDATE_SUCCESS	Update is successful.\nLaunch application now?	§°§Ò§ß§à§Ó§Ý§Ö§ß§Ú§Ö §å§ã§á§Ö§ê§ß§à §Ù§Ñ§Ó§Ö§â§ê§Ö§ß§à.\n§©§Ñ§á§å§ã§ä§Ú§ä§î §á§â§à§Ô§â§Ñ§Þ§Þ§å?	
+STR_MRE_UPDATE_FAIL	Update fail.\nPlease check disk space.	§°§ê§Ú§Ò§Ü§Ñ §á§â§Ú §à§Ò§ß§à§Ó§Ý§Ö§ß§Ú§Ú.\n§£§à§Ù§Þ§à§Ø§ß§à, §ß§Ö§Õ§à§ã§ä§Ñ§ä§à§é§ß§à §ã§Ó§à§Ò§à§Õ§ß§à§Ô§à §Þ§Ö§ã§ä§Ñ.	
+STR_BT_MENU_TITLE	Bluetooth	Bluetooth 	Bluetooth
+STR_BT_CM_SETPATH	Swapping Bluetooth voice path	§°§Ò§Þ§Ö§ß §Ô§à§Ý§à§ã§à§Ó§í§ç §Õ§à§â§à§Ø§Ö§Ü Bluetooth	§°§Ò§Þ?§ß §Ô§à§Ý§à§ã§à§Ó§à? §Õ§à§â?§Ø§Ü§Ú Bluetooth
+STR_BT_AUDIO_CONN_ED	Audio device connected	§¡§å§Õ§Ú§à§å§ã§ä§â§à§Û§ã§ä§Ó§à §á§à§Õ§Ü§Ý§ð§é§Ö§ß§à	
+STR_BT_AUDIO_DISC_ED	Audio device disconnected	§¡§å§Õ§Ú§à§å§ã§ä§â§à§Û§ã§ä§Ó§à §à§ä§Ü§Ý§ð§é§Ö§ß§à	
+STR_BT_NO_DEFAULT_HEADSET	No default Bluetooth headset	§³§ä§Ñ§ß§Õ§Ñ§â§ä§ß§Ñ§ñ §Ô§Ñ§â§ß§Ú§ä§å§â§Ñ Bluetooth §ß§Ö §Ù§Ñ§Õ§Ñ§ß§Ñ	
+STR_BT_POWER	Power	§±§Ú§ä§Ñ§ß§Ú§Ö	§¨§Ú§Ó§Ý§Ö§ß§ß§ñ
+STR_BT_SWITCHING	Switching	§±§Ö§â§Ö§Ü§Ý§ð§é§Ö§ß§Ú§Ö	§±§Ö§â§Ö§Þ§Ú§Ü§Ñ§ß§ß§ñ
+STR_BT_RELEASE_ALL_CONN	Release all connections	§±§â§Ö§â§Ó§Ñ§ä§î §Ó§ã§Ö §á§à§Õ§Ü§Ý§ð§é§Ö§ß§Ú§ñ	§²§à§Ù'?§Õ§ß§Ñ§ä§Ú §Ó§ã? §Ù'?§Õ§ß§Ñ§ß§ß§ñ
+STR_BT_RELEASE_DEV_CONN	Release device connections	§±§â§Ö§â§Ó§Ñ§ä§î §ã§à§Ö§Õ§Ú§ß§Ö§ß§Ú§ñ §ã §å§ã§ä§â§à§Û§ã§ä§Ó§à§Þ	§²§à§Ù'?§Õ§ß§Ñ§ä§Ú §Ù'?§Õ§ß§Ñ§ß§ß§ñ §á§â§Ú§ã§ä§â§à§ð
+STR_BT_RELEASING	Releasing	§©§Ñ§Ó§Ö§â§ê§Ö§ß§Ú§Ö §ã§à§Ö§Õ§Ú§ß§Ö§ß§Ú§ñ	§²§à§Ù'?§Õ§ß§Ñ§ß§ß§ñ
+STR_BT_SCH_ALL_DEV	Search new device	§°§á§â§à§ã§Ú§ä§î §ß§à§Ó§à§Ö §å§ã§ä§â§à§Û§ã§ä§Ó§à	§°§á§Ú§ä§å§Ó§Ñ§ß§ß§ñ BT §á§â§Ú§ã§ä§â§à§ð
+STR_BT_SCH_RESULT	Found devices	§°§Ò§ß§Ñ§â§å§Ø§Ö§ß§ß§à§Ö §å§ã§ä§â§à§Û§ã§ä§Ó§à	§£§Ú§ñ§Ó§Ý§Ö§ß§Ú§Û §á§â§Ú§ã§ä§â?§Û
+STR_BT_INQUIRY_STOPPING	Stop searching	§°§ã§ä§Ñ§ß§à§Ó§Ú§ä§î §á§à§Ú§ã§Ü	§±§â§Ú§á§Ú§ß§Ú§ä§Ú §á§à§ê§å§Ü
+STR_BT_DEVICE_BEING_CONNECTED	The device is already in connection	§µ§ã§ä§â§à§Û§ã§ä§Ó§à §å§Ø§Ö §á§à§Õ§Ü§Ý§ð§é§Ö§ß§à	
+STR_BT_ENTER_PASSCODE	Passcode	§±§Ñ§â§à§Ý§î	§±§Ñ§â§à§Ý§î
+STR_BT_PAIR_REQ	Pair	§³§à§á§â§ñ§Ø§Ö§ß§Ú§Ö	§©'?§Õ§ß§Ñ§ä§Ú §á§à§á§Ñ§â§ß§à
+STR_BT_PAIR_FAILED	Pairing failed	§³§Ò§à§Û §ã§à§á§â§ñ§Ø§Ö§ß§Ú§ñ	§¯§Ö §Ó§Õ§Ñ§Ý§à§ã§ñ §Ù'?§Õ§ß§Ñ§ä§Ú
+STR_BT_START_PAIRING	Pairing	§³§à§á§â§ñ§Ø§Ö§ß§Ú§Ö	§±§à§á§Ñ§â§ß§Ö §Ù'?§Õ§ß§Ñ§ß§ß§ñ
+STR_BT_CONNECT_CONFIRM	Connect?	§±§à§Õ§Ü§Ý§ð§é§Ú§ä§î?	
+STR_BT_ACCEPT_CONNECT_FROM	Accept %w from %w?	§±§â§Ú§ß§ñ§ä§î §á§à§Õ§Ü§Ý§ð§é§Ö§ß§Ú§Ö %w §à§ä %w?	§±§â§Ú§Û§ß§ñ§ä§Ú §Ù'?§Õ§ß§Ñ§ß§ß§ñ §Ó?§Õ
+STR_BT_REACH_MAX_PAIR_NUM	The max paired device number has reached	§¥§à§ã§ä§Ú§Ô§ß§å§ä§à §Þ§Ñ§Ü§ã§Ú§Þ§Ñ§Ý§î§ß§à§Ö §Ü§à§Ý§Ú§é§Ö§ã§ä§Ó§à §á§Ñ§â§ß§í§ç §å§ã§ä§â§à§Û§ã§ä§Ó	
+STR_BT_CONN_FAILED	Connection Failed	§°§ä§ã§å§ä§ã§ä§Ó§å§Ö§ä §á§à§Õ§Ü§Ý§ð§é§Ö§ß§Ú§Ö	
+STR_BT_MYDEVICE	My device	§®§à§Ö §å§ã§ä§â§à§Û§ã§ä§Ó§à	§®?§Û §á§â§Ú§ã§ä§â?§Û
+STR_BT_DEV_SET_VIS	Visibility	§£§Ú§Õ§Ú§Þ§à§ã§ä§î	§£§Ú§Õ§Ú§Þ?§ã§ä§î
+STR_BT_DEV_SET_NAME	My name	§³§Þ§Ö§ß§Ú§ä§î §Ú§Þ§ñ §å§ã§ä§â§à§Û§ã§ä§Ó§Ñ	§©§Þ?§ß§Ú§ä§Ú§Ú §ß§Ñ§Ù§Ó§å §á§â§Ú§ã§ä§â§à§ð
+STR_BT_DEV_SET_AUDIO_PATH	Audio path	§©§Ó§å§Ü	§º§Ý§ñ§ç §Ñ§å§Õ?§à
+STR_BT_ABOUT	About	§° §á§â§à§Ô§â§Ñ§Þ§Þ§Ö	§±§â§à
+STR_BT_HELP	Help	§³§á§â§Ñ§Ó§Ü§Ñ	
+STR_BT_BD_NAME	Device name:	§ª§Þ§ñ §å§ã§ä§â§à§Û§ã§ä§Ó§Ñ	§¯§Ñ§Ù§Ó§Ñ §á§â§Ú§ã§ä§â§à§ð:
+STR_BT_SERVICE	Supported services:	§±§à§Õ§Õ§Ö§â§Ø§Ú§Ó§Ñ§Ö§Þ§í§Ö §ã§Ý§å§Ø§Ò§í:	§±?§Õ§ä§â§Ú§Þ§å§Ó§Ñ§ß? §á§à§ã§Ý§å§Ô§Ú:
+STR_BT_BD_ADDR	Device address:	§¡§Õ§â§Ö§ã §å§ã§ä§â§à§Û§ã§ä§Ó§Ñ:	§¡§Õ§â. BD:
+STR_BT_PROF_OPP	Object exchange	§±§â§à§æ§Ú§Ý§î OPP	§±§â§à§æ?§Ý§î OPP
+STR_BT_PROF_HF	Handsfree	§±§â§à§æ§Ú§Ý§î Handsfree	§±§â§à§æ?§Ý§î Handsfree
+STR_BT_PROF_HS	Headset	§±§â§à§æ§Ú§Ý§î §Ô§Ñ§â§ß§Ú§ä§å§â§í	§±§â§à§æ?§Ý§î Headset
+STR_BT_PROF_UNKNOWN	Unknown profile	§¯§Ö§Ú§Ù§Ó§Ö§ã§ä§ß§í§Û §á§â§à§æ§Ú§Ý§î	§¯§Ö§Ó?§Õ§à§Þ§Ú§Û §á§â§à§æ?§Ý§î
+STR_BT_NOT_READY	Bluetooth initializing. Please wait.	§ª§Õ§Ö§ä §Ú§ß§Ú§è§Ú§Ñ§Ý§Ú§Ù§Ñ§è§Ú§ñ Bluetooth. §±§à§Ø§Ñ§Ý§å§Û§ã§ä§Ñ, §á§à§Õ§à§Ø§Õ§Ú§ä§Ö.	§£?§Õ§Ò§å§Ó§Ñ?§ä§î§ã§ñ  ?§ß?§è?§Ñ§Ý?§Ù§Ñ§è?§ñ Bluetooth, §Ù§Ñ§é§Ö§Ü§Ñ§Û§ä§Ö!
+STR_BT_PWR_ON_CNF	Power on Bluetooth first?	§£§Ü§Ý§ð§é§Ú§ä§î Bluetooth?	§µ§Ó?§Þ§Ü§ß§å§ä§Ú §ã§á§à§é§Ñ§ä§Ü§å Bluetooth?
+STR_BT_POWER_ON_IN_FLIGHT_MODE_CNF	Turn on BT in flight mode?	§¡§Ü§ä§Ú§Ó§Ú§â§à§Ó§Ñ§ä§î §æ§å§ß§Ü§è§Ú§ð Java Bluetooth §Ó §â§Ö§Ø§Ú§Þ§Ö §á§à§Ý§Ö§ä§Ñ?	
+STR_BT_DISCONN_ALL_CONN	Please release all connections first	§³§ß§Ñ§é§Ñ§Ý§Ñ §à§ä§Ü§Ý§ð§é§Ú§ä§Ö §Ó§ã§Ö §á§à§Õ§Ü§Ý§ð§é§Ö§ß§Ú§ñ	
+STR_BT_DISCONN_DEV_CONN_CNF	Release device connections first?	§±§â§Ö§â§Ó§Ñ§ä§î §á§à§Õ§Ü§Ý§ð§é§Ö§ß§Ú§ñ §å§ã§ä§â§à§Û§ã§ä§Ó§Ñ?	§²§à§Ù'?§Õ§ß§Ñ§ä§Ú §ã§á§à§é§Ñ§ä§Ü§å §Ù'?§Õ§ß§Ñ§ß§ß§ñ §á§â§Ú§ã§ä§â§à§ð?
+STR_BT_DISCONN_DEV_CONN	Please release device connections first	§³§ß§Ñ§é§Ñ§Ý§Ñ §à§ä§Ü§Ý§ð§é§Ú§ä§Ö §Ó§ã§Ö §å§ã§ä§â§à§Û§ã§ä§Ó§Ñ	
+STR_BT_DISCONN_AUD_DEV_CONN_CNF	Release another audio device connection	§°§ã§Ó§à§Ò§à§Õ§Ú§ä§î §á§à§Õ§Ü§Ý§ð§é§Ö§ß§Ú§Ö §Ü §Õ§â§å§Ô§à§Þ§å §Ñ§å§Õ§Ú§à§å§ã§ä§â§à§Û§ã§ä§Ó§å?	
+STR_BT_PAIRED_DEV_FULL	Cannot pair more devices	§³§á§Ú§ã§à§Ü §ã§Ó§ñ§Ù§Ñ§ß§ß§í§ç §å§ã§ä§â§à§Û§ã§ä§Ó§à §á§Ö§â§Ö§á§à§Ý§ß§Ö§ß, §ã§ß§Ñ§é§Ñ§Ý§Ñ §å§Õ§Ñ§Ý§Ú§ä§Ö §ß§Ö§Ü§à§ä§à§â§í§Ö §å§ã§ä§â§à§Û§ã§ä§Ó§Ñ	§±?§Õ'?§Õ§ß§Ñ§ß§Ú§Û §á§â§Ú§ã§ä§â?§Û §Ù§Ñ§á§à§Ó§ß§Ö§ß§Ú§Û, §Ó§Ú§Õ§Ñ§Ý?§ä§î §ã§á§à§é§Ñ§ä§Ü§å §Õ§Ö§ñ§Ü? ?§ß§ê? §á§â§Ú§ã§ä§â§à?
+STR_BT_PROHIBIT_VIS_BY_A2DP	Prohibited by Advanced audio	§©§Ñ§á§â§Ö§ë§Ö§ß§à A2DP	§©§Ñ§Ò§à§â§à§ß§Ö§ß§à A2DP
+STR_BT_OPERATION_NOT_ALLOWED_DIS_HFP_FIRST	Disconnect HFP or HSP first	§°§á§Ö§â§Ñ§è§Ú§ñ §Ù§Ñ§á§â§Ö§ë§Ö§ß§Ñ. §³§ß§Ñ§é§Ñ§Ý§Ñ §à§ä§Ü§Ý§ð§é§Ú§ä§Ö§ã§î §à§ä HFP §Ú§Ý§Ú HSP.	§°§á§Ö§â§Ñ§è?§ñ §Ù§Ñ§Ò§à§â§à§ß§Ö§ß§Ñ, §Ò§å§Õ§î §Ý§Ñ§ã§Ü§Ñ, §ã§á§à§é§Ñ§ä§Ü§å §Ó?§Õ'?§Õ§ß§Ñ§Û§ä§Ö HFP
+STR_BT_PROHIBIT_BY_SIMAP	Deactivate remote SIM mode first	§°§á§Ö§â§Ñ§è§Ú§ñ §Ù§Ñ§á§â§Ö§ë§Ö§ß§Ñ §Ó §â§Ö§Ø§Ú§Þ§Ö §å§Õ§Ñ§Ý§Ö§ß§ß§à§Û SIM-§Ü§Ñ§â§ä§í. §³§Þ§Ö§ß§Ú§ä§Ö §â§Ö§Ø§Ú§Þ.	§©§Ñ§Ò§à§â§à§ß§Ö§ß§à §â§Ö§Ø§Ú§Þ§à§Þ §¥§Ú§ã§ä§Ñ§ß§è?§Û§ß§à? SIM, §ß§Ö§à§Ò§ç?§Õ§ß§à §ã§á§à§é§Ñ§ä§Ü§å §Õ§Ö§Ñ§Ü§ä§Ú§Ó§å§Ó§Ñ§ä§Ú §â§Ö§Ø§Ú§Þ §¥§Ú§ã§ä§Ñ§ß§è?§Û§ß§à? SIM!
+STR_BT_WRITE_FILE_FAIL	Failed to write file	§³§Ò§à§Û §Ù§Ñ§á§Ú§ã§Ú §æ§Ñ§Û§Ý§Ñ	
+STR_BT_RECEIVE_FAIL	Failed to receive file	§¯§Ö §å§Õ§Ñ§Ý§à§ã§î §á§à§Ý§å§é§Ú§ä§î §æ§Ñ§Û§Ý	
+STR_BT_SEND_ALL_SENT	All sent	§£§ã§Ö §à§ä§á§â§Ñ§Ó§Ý§Ö§ß§ß§í§Ö	
+STR_BT_SEND_PARTIAL_1	file sent	§æ§Ñ§Û§Ý §à§ä§á§â§Ñ§Ó§Ý§Ö§ß	
+STR_BT_SEND_PARTIAL	files sent	§æ§Ñ§Û§Ý§à§Ó §à§ä§á§â§Ñ§Ó§Ý§Ö§ß§à	
+STR_BT_DRM_PROHIBITED	Invalid DRM file,discarded	§¯§Ö§Õ§à§á§å§ã§ä§Ú§Þ§í§Û §æ§Ñ§Û§Ý DRM, §à§ä§Ü§Ý§à§ß§Ö§ß	
+STR_OPP_UNSUPPORT_FILE_TYPE	Remote unsupported file type 	§´§Ú§á §à§ä§á§â§Ñ§Ó§Ý§ñ§Ö§Þ§à§Ô§à §æ§Ñ§Û§Ý§Ñ §ß§Ö §á§à§Õ§Õ§Ö§â§Ø§Ú§Ó§Ñ§Ö§ä§ã§ñ 	
+STR_ID_FAILED_SHARE_AS_DILAER_CONNED	Failure, because BT is connected	§±§â§à§Ú§Ù§à§ê§Ö§Ý §ã§Ò§à§Û, §ä.§Ü. §á§à§Õ§Ü§Ý§ð§é§Ö§ß BT	
+STR_ID_BOOTUP_NAND_QUOTA_OVER_DISK	Quota over the memory space	§¯§Ñ §Õ§Ú§ã§Ü §å§ã§ä§Ñ§ß§à§Ó§Ý§Ö§ß§Ñ §Ü§Ó§à§ä§Ñ	
+STR_ID_BOOTUP_NAND_QUOTA_USAGE_WARNING	Improper quota usage	§±§â§Ö§Õ§å§á§â§Ö§Ø§Õ§Ö§ß§Ú§Ö §à§Ò §Ú§ã§á§à§Ý§î§Ù§à§Ó§Ñ§ß§Ú§Ú §Ü§Ó§à§ä§í	
+STR_ID_BOOTUP_FLIGHT_MODE_ASK	Flight mode?	§²§Ö§Ø§Ú§Þ §á§à§Ý§Ö§ä§Ñ?	
+STR_ID_BOOTUP_SOFTKEY_EMERGENCY	SOS	SOS	
+STR_ID_BOOTUP_INPUT_PHONE_PASSWORD	Password:	§£§Ó§Ö§Õ§Ú§ä§Ö §Ü§à§Õ §Ò§Ý§à§Ü§Ú§â§à§Ó§Ü§Ú §ä§Ö§Ý§Ö§æ§à§ß§Ñ	
+STR_ID_BOOTUP_WRONG_PHONE_PASSWORD	Wrong password	§¯§Ö§Ó§Ö§â§ß§í§Û §á§Ñ§â§à§Ý§î	
+STR_ID_BOOTUP_EMERGENCY_CALL_ASK	Dial SOS number?	§¯§Ñ§Ò§â§Ñ§ä§î §ß§à§Þ§Ö§â §ï§Ü§ã§ä§â§Ö§ß§ß§à§Û §ã§Ý§å§Ø§Ò§í?	
+STR_ID_BOOTUP_REMAINING_TRIALS_PROMPT	Trials remain: %d	§°§ã§ä§Ñ§Ý§à§ã§î §á§à§á§í§ä§à§Ü: %d	
+STR_ID_BOOTUP_INPUT_CHV1	Input PIN	§£§Ó§Ö§Õ§Ú§ä§Ö PIN-§Ü§à§Õ	
+STR_ID_BOOTUP_INPUT_UBCHV1	Input PUK	§£§Ó§Ö§Õ§Ú§ä§Ö PUK-§Ü§à§Õ	
+STR_ID_BOOTUP_NEW_CHV1	Input new PIN	§£§Ó§Ö§Õ§Ú§ä§Ö §ß§à§Ó§í§Û PIN-§Ü§à§Õ	
+STR_ID_BOOTUP_WRONG_CHV1	Wrong PIN	§¯§Ö§Ó§Ö§â§ß§í§Û PIN-§Ü§à§Õ	
+STR_ID_BOOTUP_WRONG_UBCHV1	Wrong PUK	§¯§Ö§Ó§Ö§â§ß§í§Û PUK-§Ü§à§Õ	
+STR_ID_BOOTUP_CONFIRM_NEW_CHV1	Confirm new PIN	§±§à§Õ§ä§Ó§Ö§â§Õ§Ú§ä§Ö §ß§à§Ó§í§Û PIN-§Ü§à§Õ	
+STR_ID_BOOTUP_CHV1_NOT_MATCH	New PIN not match	§¯§à§Ó§í§Ö PIN-§Ü§à§Õ§í §â§Ñ§Ù§Ý§Ú§é§Ñ§ð§ä§ã§ñ	
+STR_ID_BOOTUP_INPUT_NP	Input NP code	§£§Ó§Ö§Õ§Ú§ä§Ö NP §Ü§à§Õ	
+STR_ID_BOOTUP_INPUT_NSP	Input NSP code	§£§Ó§Ö§Õ§Ú§ä§Ö NSP §Ü§à§Õ	
+STR_ID_BOOTUP_INPUT_SP	Input SP code	§£§Ó§Ö§Õ§Ú§ä§Ö SP §Ü§à§Õ	
+STR_ID_BOOTUP_INPUT_CP	Input CP code	§£§Ó§Ö§Õ§Ú§ä§Ö CP §Ü§à§Õ	
+STR_ID_BOOTUP_INPUT_SIMP	Input SIMP code	§£§Ó§Ö§Õ§Ú§ä§Ö SIMP §Ü§à§Õ	
+STR_ID_BOOTUP_WRONG_NP	Wrong NP code	§¯§Ö§Ó§Ö§â§ß§í§Û NP §Ü§à§Õ	
+STR_ID_BOOTUP_WRONG_NSP	Wrong NSP code	§¯§Ö§Ó§Ö§â§ß§í§Û NSP §Ü§à§Õ	
+STR_ID_BOOTUP_WRONG_SP	Wrong SP code	§¯§Ö§Ó§Ö§â§ß§í§Û SP §Ü§à§Õ	
+STR_ID_BOOTUP_WRONG_CP	Wrong CP code	§¯§Ö§Ó§Ö§â§ß§í§Û CP §Ü§à§Õ	
+STR_ID_BOOTUP_WRONG_SIMP	Wrong SIMP code	§¯§Ö§Ó§Ö§â§ß§í§Û SIMP §Ü§à§Õ	
+STR_ID_BOOTUP_SIM_ACCESS_ERROR	SIM access error	§°§ê§Ú§Ò§Ü§Ñ §Õ§à§ã§ä§å§á§Ñ §Ü SIM-§Ü§Ñ§â§ä§Ö	
+STR_ID_BOOTUP_SIM_CHV1_BLOCKED	PIN blocked	PIN-§Ü§à§Õ §Ù§Ñ§Ò§Ý§à§Ü§Ú§â§à§Ó§Ñ§ß	
+STR_ID_BOOTUP_SIM_BLOCKED	SIM blocked	SIM-§Ü§Ñ§â§ä§Ñ §Ù§Ñ§Ò§Ý§à§Ü§Ú§â§à§Ó§Ñ§ß§Ñ	
+STR_ID_BOOTUP_WAIT_FOR_SIM	SIM is not ready. Please wait	SIM-§Ü§Ñ§â§ä§Ñ §ß§Ö §Ô§à§ä§à§Ó§Ñ. §±§à§Õ§à§Ø§Õ§Ú§ä§Ö	
+STR_ID_BOOTUP_SIM_CAME_OFF	SIM came off	SIM-§Ü§Ñ§â§ä§Ñ §à§ä§Ü§Ý§ð§é§Ö§ß§Ñ	
+STR_ID_SECSET_APP_NAME	Security settings	§¯§Ñ§ã§ä§â§à§Û§Ü§Ú §Ò§Ö§Ù§à§á§Ñ§ã§ß§à§ã§ä§Ú	
+STR_ID_SECSET_CHANGE_PASSWORD	Change password	§±§Ñ§â§à§Ý§î §Ú§Ù§Þ§Ö§ß§Ö§ß	
+STR_ID_SECSET_PHONE_LOCK	Phone lock	§¢§Ý§à§Ü. §ä§Ö§Ý.	
+STR_ID_SECSET_LOCKED	Locked	§©§Ñ§Ò§Ý§à§Ü§Ú§â§à§Ó§Ñ§ß§à	
+STR_ID_SECSET_UNLOCKED	Unlocked	§²§Ñ§Ù§Ò§Ý§à§Ü§Ú§â§à§Ó§Ñ§ß§à	
+STR_ID_SECSET_TEMP_FAIL	Please try later	§±§à§Ó§ä§à§â§Ú§ä§Ö §á§à§á§í§ä§Ü§å §á§à§Ù§Ø§Ö	
+STR_ID_SECSET_INVALID_LENGTH	Invalid length	§¯§Ö§Õ§Ö§Û§ã§ä§Ó§Ú§ä§Ö§Ý§î§ß§Ñ§ñ §Õ§Ý§Ú§ß§Ñ	
+STR_ID_SECSET_SIM_SETTING	SIM security	§©§Ñ§ë§Ú§ä§Ñ SIM-§Ü§Ñ§â§ä§í	
+STR_ID_SECSET_PHONE_SETTING	Phone security	§©§Ñ§ë§Ú§ä§Ñ §ä§Ö§Ý§Ö§æ§à§ß§Ñ	
+STR_ID_SECSET_CHV1_LOCK	PIN lock	§¢§Ý§à§Ü§Ú§â§à§Ó§Ü§Ñ PIN	
+STR_ID_SECSET_CHANGE_CHV1_PASSWORD	Change PIN	§ª§Ù§Þ§Ö§ß§Ú§ä§î §Ü§à§Õ PIN	
+STR_ID_SECSET_CHANGE_CHV2_PASSWORD	Change PIN2	§ª§Ù§Þ§Ö§ß§Ú§ä§î §Ü§à§Õ PIN2	
+STR_ID_SECSET_OLD_PHONE_PASSWORD	Input old password	§£§Ó§Ö§Õ§Ú§ä§Ö §ã§ä§Ñ§â§í§Û §á§Ñ§â§à§Ý§î	
+STR_ID_SECSET_NEW_PHONE_PASSWORD	Input new password	§£§Ó§Ö§Õ§Ú§ä§Ö §ß§à§Ó§í§Û §á§Ñ§â§à§Ý§î	
+STR_ID_SECSET_CONFIRM_NEW_PHONE_PASSWORD	Confirm new password	§±§à§Õ§ä§Ó§Ö§â§Õ§Ú§ä§Ö §ß§à§Ó§í§Û §á§Ñ§â§à§Ý§î	
+STR_ID_SECSET_DIFF_NEW_PHONE_PASSWORD	New password not match	§¯§à§Ó§í§Ö §á§Ñ§â§à§Ý§Ú §ß§Ö §ã§à§Ó§á§Ñ§Õ§Ñ§ð§ä	
+STR_ID_SECSET_ENABLE_CHV1_PROMPT	PIN lock must be enabled	§¢§Ý§à§Ü§Ú§â§à§Ó§Ü§Ñ PIN §Õ§à§Ý§Ø§ß§Ñ §Ò§í§ä§î §Ó§Ü§Ý§ð§é§Ö§ß§Ñ	
+STR_ID_SECSET_CHV2_DISABLED	PIN2 is disabled	§¬§à§Õ PIN2 §à§ä§Ü§Ý§ð§é§Ö§ß	
+STR_ID_SECSET_OLD_CHV1	Input old PIN	§£§Ó§Ö§Õ§Ú§ä§Ö §ã§ä§Ñ§â§í§Û §Ü§à§Õ PIN	
+STR_ID_SECSET_CHV2_BLOCKED	SIM PIN2 blocked	SIM-§Ü§Ñ§â§ä§Ñ §Ù§Ñ§Ò§Ý§à§Ü§Ú§â§à§Ó§Ñ§ß§Ñ PIN2	
+STR_ID_SECSET_UBCHV2_BLOCKED	SIM PUK2 blocked	SIM-§Ü§Ñ§â§ä§Ñ §Ù§Ñ§Ò§Ý§à§Ü§Ú§â§à§Ó§Ñ§ß§Ñ PUK2	
+STR_ID_SECSET_WRONG_CHV2	Wrong PIN2	§¯§Ö§á§â§Ñ§Ó§Ú§Ý§î§ß§í§Û §Ü§à§Õ PIN2	
+STR_ID_SECSET_WRONG_UBCHV2	Wrong PUK2	§¯§Ö§á§â§Ñ§Ó§Ú§Ý§î§ß§í§Û §Ü§à§Õ PUK2	
+STR_ID_SECSET_CHV2_NOT_MATCH	New PIN2 not match	§¯§à§Ó§í§Ö §Ü§à§Õ§í PIN2 §ß§Ö §ã§à§Ó§á§Ñ§Õ§Ñ§ð§ä	
+STR_ID_SECSET_SIM_ERROR	SIM error	§°§ê§Ú§Ò§Ü§Ñ SIM-§Ü§Ñ§â§ä§í	
+STR_ID_CUI_PWD_DIFFERENT_INPUT	Different input of new password	§¯§à§Ó§í§Ö §á§Ñ§â§à§Ý§Ú §à§ä§Ý§Ú§é§Ñ§ð§ä§ã§ñ	
+STR_ID_CAMERA_APP_NAME	Camera	§¬§Ñ§Þ§Ö§â§Ñ	§¬§Ñ§Þ§Ö§â§Ñ
+STR_ID_CAMERA_TO_IMGVIEW	Photos	§¶§à§ä§à§Ô§â§Ñ§æ§Ú§Ú	§¡§Ý§î§Ò§à§Þ
+STR_ID_CAMERA_CAMERA_SETTING	Camera settings	§µ§ã§ä§Ñ§ß§à§Ó§Ü§Ñ §Ü§Ñ§Þ§Ö§â§í	§µ§ã§ä§Ñ§ß§à§Ó§Ü§Ú §Ü§Ñ§Þ§Ö§â§Ú
+STR_ID_CAMERA_IMAGE_SETTING	Image settings	§µ§ã§ä§Ñ§ß§à§Ó§Ü§Ñ §Ú§Ù§à§Ò§â§Ñ§Ø§Ö§ß§Ú§ñ	§µ§ã§ä§Ñ§ß§à§Ó§Ü§Ú §Ù§à§Ò§â§Ñ§Ø§Ö§ß§ß§ñ
+STR_ID_CAMERA_TO_VDOREC	Switch to video recorder	§£§Ü§Ý§ð§é§Ú§ä§î §Ó§Ú§Õ§Ö§à§Ù§Ñ§á§Ú§ã§î	
+STR_ID_CAMERA_RESTORE_DEFAULT	Restore default	§£§à§ã§ä§Ñ§ß§à§Ó§Ý§Ö§ß§Ú§Ö §Ú§ã§ç§à§Õ§ß§í§ç §á§Ñ§â§Ñ§Þ§Ö§ä§â§à§Ó	§£?§Õ§ß§à§Ó§Ú§ä§Ú §ß§Ñ§Ý§Ñ§ê§ä§å§Ó§Ñ§ß§ß§ñ §Ù§Ñ §Ù§Ñ§Þ§à§Ó§é§å§Ó§Ñ§ß§ß§ñ§Þ
+STR_ID_CAMERA_DELETE_ASK	Delete?	§µ§Õ§Ñ§Ý§Ú§ä§î?	§£§Ú§Õ§Ñ§Ý§Ú§ä§Ú
+STR_ID_CAMERA_DELAY_TIMER	Delay timer	§£§â§Ö§Þ§ñ §Ù§Ñ§Õ§Ö§â§Ø§Ü§Ú	§£?§Õ§Ü§Ý§Ñ§Õ§Ö§ß§ß§ñ §ã§á§å§ã§Ü§å
+STR_ID_CAMERA_DELAY_TIMER_OFF	Off	§£§í§Ü§Ý.	§£§Ú§Þ§Ü§ß§å§ä§Ú
+STR_ID_CAMERA_DELAY_TIMER_1	5 sec	5 §ã	
+STR_ID_CAMERA_DELAY_TIMER_2	10 sec	10 §ã	
+STR_ID_CAMERA_DELAY_TIMER_3	15 sec	15 §ã	
+STR_ID_CAMERA_WB	White balance	§¢§Ñ§Ý§Ñ§ß§ã §Ò§Ö§Ý§à§Ô§à	§¢§Ñ§Ý§Ñ§ß§ã §Ò?§Ý§à§Ô§à
+STR_ID_CAMERA_WB_AUTO	Auto	§¡§Ó§ä§à	§¡§Ó§ä§à§Þ§Ñ§ä§Ú§é§ß§à
+STR_ID_CAMERA_WB_DAYLIGHT	Daylight	§¥§ß§Ö§Ó§ß§à§Ö §Ó§â§Ö§Þ§ñ	§¥§Ö§ß§ß§Ö §ã§Ó?§ä§Ý§à
+STR_ID_CAMERA_WB_TUNGSTEN	Tungsten	§£§à§Ý§î§æ§â§Ñ§Þ	§£§à§Ý§î§æ§â§Ñ§Þ
+STR_ID_CAMERA_WB_FLUORESCENT	Fluorescent	§¶§Ý§å§à§â§Ö§ã§è§Ö§ß§ä§ß§í§Û	§­§ð§Þ?§ß?§ã§è§Ö§ß§ä§ß§Ñ §Ý§Ñ§Þ§á§Ñ
+STR_ID_CAMERA_WB_CLOUD	Cloudy	§°§Ò§Ý§Ñ§é§ß§í§Û	§·§Þ§Ñ§â§ß§à
+STR_ID_CAMERA_WB_INCANDESCENCE	Incandescent	§­§Ñ§Þ§á§Ñ §ß§Ñ§Ü§Ñ§Ý§Ú§Ó§Ñ§ß§Ú§ñ	§­§Ñ§Þ§á§Ñ §â§à§Ù§Ø§Ñ§â§ð§Ó§Ñ§ß§ß§ñ
+STR_ID_CAMERA_DSC_MODE	Scene mode	§³§ð§Ø§Ö§ä§ß§í§Û §â§Ö§Ø§Ú§Þ	§²§Ö§Ø§Ú§Þ §ã§ð§Ø§Ö§ä?§Ó
+STR_ID_CAMERA_DSC_MODE_AUTO	Auto	§¡§Ó§ä§à	§¡§Ó§ä§à§Þ§Ñ§ä§Ú§é§ß§à
+STR_ID_CAMERA_DSC_MODE_NIGHT	Night	§¯§à§é§î	§¯?§é
+STR_ID_CAMERA_BANDING	Anti-flicker	§µ§ã§ä§â§Ñ§ß§Ö§ß§Ú§Ö §Þ§Ö§â§è§Ñ§ß§Ú§ñ	§¥?§Ñ§á§Ñ§Ù§à§ß
+STR_ID_CAMERA_IMAGE_SIZE	Image size	§²§Ñ§Ù§Þ§Ö§â §Ú§Ù§à§Ò§â.	§²§à§Ù§Þ?§â §Ù§à§Ò§â§Ñ§Ø§Ö§ß§ß§ñ
+STR_ID_CAMERA_IMAGE_QTY	Image quality	§¬§Ñ§é§Ö§ã§ä§Ó§à §Ú§Ù§à§Ò§â.	§Á§Ü?§ã§ä§î §Ù§à§Ò§â§Ñ§Ø§Ö§ß§ß§ñ
+STR_ID_CAMERA_IMAGE_QTY_LOW	Low	§¯§Ú§Ù§Ü§à§Ö	§¯§Ú§Ù§î§Ü§Ñ
+STR_ID_CAMERA_IMAGE_QTY_NORMAL	Normal	§¯§à§â§Þ§Ñ§Ý§î§ß§à§Ö	§¯§à§â§Þ§Ñ§Ý§î§ß§Ñ
+STR_ID_CAMERA_IMAGE_QTY_HIGH	Good	§£§í§ã§à§Ü§à§Ö	§£§Ú§ã§à§Ü§Ñ
+STR_ID_CAMERA_NOTIFY_NO_MEMORY_CARD	Storage not ready	§·§â§Ñ§ß§Ú§Ý§Ú§ë§Ö §ß§Ö §Ô§à§ä§à§Ó§à	§¯§Ö§Þ§Ñ? §Ü§Ñ§â§ä§Ú §á§Ñ§Þ'§ñ§ä?
+STR_ID_CAMERA_NOTIFY_WRITE_PROTECTION	Memory card is locked.\nCan't write in	§¬§Ñ§â§ä§Ñ §á§Ñ§Þ§ñ§ä§Ú §Ù§Ñ§Ò§Ý§à§Ü§Ú§â§à§Ó§Ñ§ß§Ñ.\n§¯§Ö§Ó§à§Ù§Þ§à§Ø§ß§à §Ù§Ñ§á§Ú§ã§Ñ§ä§î.	§¬§Ñ§â§ä§Ñ §á§Ñ§Þ'§ñ§ä? §Ù§Ñ§Ò§Ý§à§Ü§à§Ó§Ñ§ß§Ñ.\n§¯§Ö§Þ§à§Ø§Ý§Ú§Ó§à §Ù§Ñ§á§Ú§ã§Ñ§ä§Ú
+STR_ID_CAMERA_NOTIFY_HW_NOT_READY	Camera module not ready	§®§à§Õ§å§Ý§î §Ü§Ñ§Þ§Ö§â§í §ß§Ö §Ô§à§ä§à§Ó.	§®§à§Õ§å§Ý§î §Ü§Ñ§Þ§Ö§â§Ú §ß§Ö §Ô§à§ä§à§Ó§Ú§Û
+STR_ID_CAMERA_NOTIFY_ERROR	Camera error	§°§ê§Ú§Ò§Ü§Ñ §Ü§Ñ§Þ§Ö§â§í	§±§à§Þ§Ú§Ý§Ü§Ñ §Ü§Ñ§Þ§Ö§â§Ú
+STR_ID_CAMERA_NOTIFY_SAVING_FAIL	Fail to Save	§³§à§ç§â§Ñ§ß§Ú§ä§î §ß§Ö §å§Õ§Ñ§Ý§à§ã§î	§¯§Ö §Ó§Õ§Ñ§Ý§à§ã§ñ §Ù§Ò§Ö§â§Ö§Ô§ä§Ú..
+STR_ID_CAMERA_NOTIFY_CREATE_DIR_ERR	Create folder failed	§¯§Ö §å§Õ§Ñ§Ý§à§ã§î §ã§à§Ù§Õ§Ñ§ä§î §á§Ñ§á§Ü§å	
+STR_ID_CAMERA_NOTIFY_CAPTURE_FAILED	Capture failed	§©§Ñ§ç§Ó§Ñ§ä §ß§Ö §å§Õ§Ñ§Ý§ã§ñ	§£?§Õ§Ù§ß§ñ§ä§Ú §ß§Ö §Ó§Õ§Ñ§Ý§à§ã§ñ
+STR_ID_CAMERA_NOTIFY_BT_IS_WORKING	Bluetooth is working. Turn it off.	§£§Ü§Ý§ð§é§Ö§ß Bluetooth. §°§ä§Ü§Ý§ð§é§Ú§ä§Ö §Ö§Ô§à.	§±§â§Ñ§è§ð? BT! §£§Ú§Þ§Ü§ß?§ä§î §Û§à§Ô§à
+STR_ID_CAMERA_NOTIFY_BEARER_IS_ACTIVE	GPRS/CSD is running. Please disconnect it.	§£§Ü§Ý§ð§é§Ö§ß §â§Ö§Ø§Ú§Þ GPRS/CSD. §°§ä§Ü§Ý§ð§é§Ú§ä§Ö §Ö§Ô§à.	
+STR_ID_CAMERA_NOTIFY_XENON_TIMEOUT	Charging timeout. Turn flash off.	§£§â§Ö§Þ§ñ §Ù§Ñ§â§ñ§Õ§Ü§Ú §Ú§ã§ä§Ö§Ü§Ý§à. §°§ä§Ü§Ý§ð§é§Ú§ä§Ö §Ó§ã§á§í§ê§Ü§å.	§´§Ñ§Û§Þ-§Ñ§å§ä §á?§Õ§Ù§Ñ§â§ñ§Õ§Ü§Ú! §£§ª§®§¬§¯?§´§¾ §ã§á§Ñ§Ý§Ñ§ç!
+STR_ID_CAMERA_NOTIFY_XENON_LOW_BATTERY	Low battery. Turn flash off.	§¢§Ñ§ä§Ñ§â§Ö§ñ §â§Ñ§Ù§â§ñ§Ø§Ñ§Ö§ä§ã§ñ. §°§ä§Ü§Ý§ð§é§Ú§ä§Ö §Ó§ã§á§í§ê§Ü§å.	§¢§Ñ§ä§Ñ§â§Ö§ñ §â§à§Ù§â§ñ§Õ§Ø§Ö§ß§Ñ! §£§ª§®§¬§¯?§´§¾ §ã§á§Ñ§Ý§Ñ§ç!
+STR_ID_IMGVIEW_NAME	Image viewer	§±§â§à§ã§Þ§à§ä§â §Ú§Ù§à§Ò§â§Ñ§Ø§Ö§ß§Ú§Û	§±§â§à§Ô§â§Ñ§Þ§Ñ §Õ§Ý§ñ §á§Ö§â§Ö§Ô§Ý§ñ§Õ§å §Ù§à§Ò§â§Ñ§Ø§Ö§ß§î
+STR_ID_IMGVIEW_ROTATE_VIEW	Rotate view	§±§à§Ó§Ö§â§ß§å§ä§î §Ú§Ù§à§Ò§â§Ñ§Ø§Ö§ß§Ú§Ö	
+STR_ID_IMGVIEW_OPTION_IMG_INFO	Image information	§¥§Ñ§ß§ß§í§Ö §Ú§Ù§à§Ò§â§Ñ§Ø§Ö§ß§Ú§ñ	
+STR_ID_IMGVIEW_OPTION_IMG_INFO_FILENAME	Name:	§¯§Ñ§Ù§Ó§Ñ§ß§Ú§Ö:	
+STR_ID_IMGVIEW_OPTION_IMG_INFO_RESOLUTION	Resolution:	§²§Ñ§Ù§â§Ö§ê§Ö§ß§Ú§Ö:	
+STR_ID_IMGVIEW_OPTION_IMG_INFO_SIZE	Size:	§²§Ñ§Ù§Þ§Ö§â:	
+STR_ID_IMGVIEW_OPTION_IMG_INFO_CREATE_TIME	Create time:	§£§â§Ö§Þ§ñ §ã§à§Ù§Õ§Ñ§ß§Ú§ñ:	
+STR_ID_SNDREC_MAIN	Sound recorder	§µ§ã§ä§â§à§Û§ã§ä§Ó§à §Ù§Ó§å§Ü§à§Ù§Ñ§á§Ú§ã§Ú	§¥§Ú§Ü§ä§à§æ§à§ß
+STR_ID_SNDREC_NEW_RECORD	New record	§¯§à§Ó§Ñ§ñ §Ù§Ñ§á§Ú§ã§î	§¯§à§Ó§Ú§Û §Ù§Ñ§á§Ú§ã
+STR_ID_SNDREC_SETTING_QUALITY	Audio quality	§¬§Ñ§é§Ö§ã§ä§Ó§à §Ñ§å§Õ§Ú§à	§Á§Ü?§ã§ä§î §Ñ§å§Õ?§à
+STR_ID_SNDREC_SYSTEM_ERROR	System error	§³§Ú§ã§ä§Ö§Þ§ß§Ñ§ñ §à§ê§Ú§Ò§Ü§Ñ	
+STR_ID_SNDREC_AUTO_RECORD_ON	Auto recording	§¡§Ó§ä§à§Ù§Ñ§á§Ú§ã§î	§¡§Ó§ä§à§Þ§Ñ§ä§Ú§é§ß§Ö §Ù§Ñ§á§Ú§ã§å§Ó§Ñ§ß§ß§ñ!
+STR_ID_SNDREC_AUDIO_PLAY_FAIL	Failed to play	§³§Ò§à§Û §Ó§à§ã§á§â§à§Ú§Ù§Ó§Ö§Õ§Ö§ß§Ú§ñ	
+STR_ID_SNDREC_REC_ERROR	Failed to record	§¯§Ö §å§Õ§Ñ§Ý§à§ã§î §Ù§Ñ§á§Ú§ã§Ñ§ä§î	
+STR_ID_SNDREC_SPEECH_OFF	Speech is off	§²§Ö§é§î §Ó§í§Ü§Ý§ð§é§Ö§ß§Ñ	
+STR_ID_SNDREC_SMS_RECORD_TIMEOUT	Size limit reached	§±§â§Ö§Ó§í§ê§Ö§ß §á§â§Ö§Õ§Ö§Ý, §å§ã§ä§Ñ§ß§à§Ó§Ý§Ö§ß§ß§í§Û §á§â§Ú§Ý§à§Ø§Ö§ß§Ú§Ö§Þ	§±§Ö§â§Ö§Ó§Ú§ë§Ö§ß§à §Þ§Ö§Ø? §á§â§à§Ô§â§Ñ§Þ§Ú
+STR_ID_SNDREC_DISC_FULL	Not enough memory and record saved	§¯§Ö§Õ§à§ã§ä§Ñ§ä§à§é§ß§à §á§Ñ§Þ§ñ§ä§Ú, §Ù§Ñ§á§Ú§ã§î §ã§à§ç§â§Ñ§ß§Ö§ß§Ñ	
+STR_ID_FMRDO_TITLE	FM radio	§²§Ñ§Õ§Ú§à FM 	§²§Ñ§Õ?§à FM
+STR_ID_FMRDO_CHANNEL_LIST	Channel list	§³§á§Ú§ã§à§Ü §Ü§Ñ§ß§Ñ§Ý§à§Ó	§³§á§Ú§ã§à§Ü §Ü§Ñ§ß§Ñ§Ý?§Ó
+STR_ID_FMRDO_MANUAL_INPUT	Manual input	§²§å§é§ß§à§Û §Ó§Ó§à§Õ 	§²§å§é§ß§Ú§Û §Ó§Ó§à§Õ
+STR_ID_FMRDO_PRESET_AUTO_SEARCH	Auto search	§¡§Ó§ä§à§á§à§Ú§ã§Ü 	§±§à§ê§å§Ü §Ñ§Ó§ä§à§Þ§Ñ§ä§Ú§ß§Ú§ç §å§ã§ä§Ñ§ß§à§Ó§à§Ü
+STR_ID_FMRDO_BACKGROUND_PLAY	Background play	§¶§à§ß§à§Ó§à§Ö §Ó§à§ã§á§â.	§¶§à§ß§à§Ó§Ö §á§â§à§Ô§â§Ñ§Ó§Ñ§ß§ß§ñ
+STR_ID_FMRDO_PRESET_LIST	Auto search and save channels?	§¡§Ó§ä§à§á§à§Ú§ã§Ü §Ú §ã§à§ç§â§Ñ§ß§Ö§ß§Ú§Ö §Ü§Ñ§ß§Ñ§Ý§à§Ó	§³§á§Ú§ã§à§Ü §å§ã§ä§Ñ§ß§à§Ó§à§Ü
+STR_ID_FMRDO_CHANNEL_NAME	Channel name	§ª§Þ§ñ §Ü§Ñ§ß§Ñ§Ý§Ñ 	§¯§Ñ§Ù§Ó§Ñ §Ü§Ñ§ß§Ñ§Ý§å
+STR_ID_FMRDO_FREQUENCY	Frequency	§¹§Ñ§ã§ä§à§ä§Ñ 	§¹§Ñ§ã§ä§à§ä§Ñ
+STR_ID_FMRDO_VALID_FM_BANDWIDTH	Frequency: 87.5 ~ 108.0	§¹§Ñ§ã§ä§à§ä§Ñ: 87,5 ~ 108 	§¹§Ñ§ã§ä§à§ä§Ñ: 87.5 ~ 108.0
+STR_ID_FMRDO_VALID_FM_DECIMAL	One decimal digit only	§¯§Ö §Ò§à§Ý§î§ê§Ö §à§Õ§ß§à§Ô§à §Ù§ß§Ñ§Ü§Ñ §á§à§ã§Ý§Ö §Ù§Ñ§á§ñ§ä§à§Û	§´?§Ý§î§Ü§Ú §à§Õ§ß§à§è§Ú§æ§â§à§Ó§Ö §é§Ú§ã§Ý§à
+STR_ID_FMRDO_NEW_CHANNEL	New channel	§¯§à§Ó§í§Û §Ü§Ñ§ß§Ñ§Ý 	§¯§à§Ó§Ú§Û §Ü§Ñ§ß§Ñ§Ý
+STR_ID_FMRDO_SET_CH_LIST	Set channel list first	§³§ß§Ñ§é§Ñ§Ý§Ñ §Ù§Ñ§á§à§Ý§ß§Ú§ä§Ö §ã§á§Ú§ã§à§Ü §Ü§Ñ§ß§Ñ§Ý§à§Ó	
+STR_ID_FMRDO_POWER_ON_FIRST	Please power on first	§³§ß§Ñ§é§Ñ§Ý§Ñ §ß§Ö§à§Ò§ç§à§Õ§Ú§Þ§à §á§à§Õ§Ü§Ý§ð§é§Ú§ä§î§ã§ñ	§¢§å§Õ§î §Ý§Ñ§ã§Ü§Ñ, §ã§á§à§é§Ñ§ä§Ü§å §å§Ó?§Þ§Ü§ß?§ä§î §Ø§Ú§Ó§Ý§Ö§ß§ß§ñ
+STR_ID_FMRDO_LOUD_SPEAKER	Loudspeaker	§¤§â§à§Þ§Ü§Ñ§ñ §ã§Ó§ñ§Ù§î	§¤§å§é§ß§à§Þ§à§Ó§Ö§è§î
+STR_ID_AUDPLY_TITLE	Audio player	§¡§å§Õ§Ú§à§á§Ý§Ö§Ö§â	§¡§å§Õ?§à§á§â§à§Ô§â§Ñ§Ó§Ñ§é
+STR_ID_AUDPLY_LIST_FULL	List full	§³§á§Ú§ã§à§Ü §á§à§Ý§ß§í§Û 	§³§á§Ú§ã§à§Ü §Ù§Ñ§á§à§Ó§ß§Ö§ß§Ú§Û
+STR_ID_AUDPLY_OPEN_FILE_ERROR	Failed to open file	§³§Ò§à§Û §à§ä§Ü§â§í§ä§Ú§ñ §æ§Ñ§Û§Ý§Ñ	§¶§Ñ§Û§Ý §ß§Ö §Ù§ß§Ñ§Û§Õ§Ö§ß§à
+STR_ID_AUDPLY_COMMAND_ERROR	Failed to play	§³§Ò§à§Û §Ó§à§ã§á§â§à§Ú§Ù§Ó.	§¯§Ö §Ó§Õ§Ñ§Ý§à§ã§ñ §á§â§à§Ô§â§Ñ§ä§Ú
+STR_ID_AUDPLY_DEVICE_BUSY	Device busy	§µ§ã§ä§â§à§Û§ã§ä§Ó§à §Ù§Ñ§ß§ñ§ä§à	§±§â§Ú§ã§ä§â?§Û §Ù§Ñ§Û§ß§ñ§ä§Ú§Û
+STR_ID_AUDPLY_BAD_FORMAT	Bad format	§±§Ý§à§ç§à§Û §æ§à§â§Þ§Ñ§ä 	§¯§Ö§Ó?§â§ß§Ú§Û §æ§à§â§Þ§Ñ§ä
+STR_ID_AUDPLY_NO_SPACE	Exceed file limit	§±§â§Ö§Ó§í§ê§Ö§ß §Ý§Ú§Þ§Ú§ä §æ§Ñ§Û§Ý§Ñ 	§±§Ö§â§Ö§Ó§Ú§ë§Ö§ß§à §à§Ò§Þ§Ö§Ø§Ö§ß§ß§ñ §æ§Ñ§Û§Ý§å
+STR_ID_AUDPLY_ERROR	Audio content error	§°§ê§Ú§Ò§Ü§Ñ §ã§à§Õ§Ö§â§Ø§Ñ§ß§Ú§ñ §Ñ§å§Õ§Ú§à	§±§à§Þ§Ú§Ý§Ü§Ñ §Ñ§å§Õ?§à§Ü§à§ß§ä§Ö§ß§ä§å
+STR_ID_AUDPLY_UNSUPPORTED_CHANNEL	Unsupported channel	§¯§Ö§á§à§Õ§Õ§Ö§â§Ø§Ú§Ó§Ñ§Ö§Þ§í§Û §Ü§Ñ§ß§Ñ§Ý	§¯§Ö§á?§Õ§ä§â§Ú§Þ§å§Ó§Ñ§ß§Ú§Û §Ü§Ñ§ß§Ñ§Ý
+STR_ID_AUDPLY_UNSUPPORTED_FREQ	Unsupported frequency	§¯§Ö§á§à§Õ§Õ§Ö§â§Ø§Ú§Ó§Ñ§Ö§Þ§Ñ§ñ §é§Ñ§ã§ä§à§ä§Ñ	§¯§Ö§á?§Õ§ä§â§Ú§Þ§å§Ó§Ñ§ß§Ñ §é§Ñ§ã§ä§à§ä§Ñ
+STR_ID_AUDPLY_UNSUPPORTED_TYPE	Unsupported type	§¯§Ö§á§à§Õ§Õ§Ö§â§Ø§Ú§Ó§Ñ§Ö§Þ§í§Û §ä§Ú§á	§¯§Ö§á?§Õ§ä§â§Ú§Þ§å§Ó§Ñ§ß§Ú§Û §ä§Ú§á
+STR_ID_AUDPLY_NO_AUDIO_TRACK	No audio track	§¯§Ö§ä §Ñ§å§Õ§Ú§à§Õ§à§â§à§Ø§Ü§Ú	§¯§Ö§Þ§Ñ? §Ñ§å§Õ?§à§ä§â§Ö§Ü§Ñ
+STR_ID_AUDPLY_DECODER_NOT_SUPPORT	Audio content not support	§¡§å§Õ§Ú§à §ß§Ö §á§à§Õ§Õ§Ö§â§Ø§Ú§Ó§Ñ§Ö§ä§ã§ñ	§¡§å§Õ?§à§Ü§à§ß§ä§Ö§ß§ä §ß§Ö §á?§Õ§ä§â§Ú§Þ§å?§ä§î§ã§ñ
+STR_ID_AUDPLY_UNSUPPORTED_SPEED	Speed not support	§³§Ü§à§â§à§ã§ä§î §ß§Ö §á§à§Õ§Õ§Ö§â§Ø§Ú§Ó§Ñ§Ö§ä§ã§ñ	§º§Ó§Ú§Õ§Ü?§ã§ä§î §ß§Ö §á?§Õ§ä§â§Ú§Þ§å?§ä§î§ã§ñ
+STR_ID_AUDPLY_PLAYLIST_ERR_WRITE_FAILED	Failed to write playlist	§³§Ò§à§Û §Ù§Ñ§á§Ú§ã§Ú §ã§á§Ú§ã§Ü§Ñ §Ó§à§ã§á§â.	MTK
+STR_ID_AUDPLY_PLAYLIST_ERR_READ_FAILED	Failed to read playlist	§³§Ò§à§Û §é§ä§Ö§ß§Ú§ñ §ã§á§Ú§ã§Ü§Ñ §Ó§à§ã§á§â.	MTK
+STR_ID_AUDPLY_PLAYLIST_ERR_UNKNOWN_ERROR	Unknown error	§¯§Ö§Ú§Ù§Ó§Ö§ã§ä§ß§Ñ§ñ §à§ê§Ú§Ò§Ü§Ñ	§¯§Ö§Ó?§Õ§à§Þ§Ñ §á§à§Þ§Ú§Ý§Ü§Ñ
+STR_ID_AUDPLY_PLAYLIST_ERR_CREATE_FAILED	Create playlist failed	§¯§Ö §å§Õ§Ñ§Ý§à§ã§î §ã§à§Ù§Õ§Ñ§ä§î §ã§á§Ú§ã§à§Ü §Ó§à§ã§á§â.	
+STR_ID_AUDPLY_PLAYLIST_ERR_OPEN_FAILED	Open playlist failed	§¯§Ö §å§Õ§Ñ§Ý§à§ã§î §à§ä§Ü§â§í§ä§î §ã§á§Ú§ã§à§Ü §Ó§à§ã§á§â.	
+STR_ID_AUDPLY_PLAYLIST_ERR_DAMAGED	Playlist damaged 	§³§á§Ú§ã§à§Ü §á§à§Ó§â§Ö§Ø§Õ§Ö§ß	
+STR_ID_AUDPLY_PLAYLIST_ERR_WRONG_VERSION	Wrong version	§£§Ö§â§ã§Ú§ñ §ß§Ö §á§à§Õ§Õ§Ö§â§Ø§Ú§Ó§Ñ§Ö§ä§ã§ñ	
+STR_ID_AUDPLY_SETTINGS_BLUETOOTH	Bluetooth settings	§¯§Ñ§ã§ä§â§à§Û§Ü§Ú Bluetooth	
+STR_ID_AUDPLY_PLAYLIST	Playlist	§³§á§Ú§ã§à§Ü §Ó§à§ã§á§â§à§Ú§Ù§Ó.	§³§á§Ú§ã§à§Ü
+STR_ID_AUDPLY_OPTION_ADD_TO_RINGS	Add to ringtones	§¥§à§Ò§Ñ§Ó§Ú§ä§î §Ó §ä§à§ß§í §Ù§Ó§à§ß§Ü§Ñ	§¥§à§Õ§Ñ§ä§Ú §å §¥§Ù§Ó?§ß§Ü§Ú
+STR_ID_AUDPLY_OPTION_REMOVE_ALL	Remove all	§µ§Õ§Ñ§Ý§Ú§ä§î §Ó§ã§Ö	§£§Ú§Õ§Ñ§Ý§Ú§ä§Ú §Ó§ã?
+STR_ID_AUDPLY_OPTION_REMOVE_ASK	Remove?	§µ§Õ§Ñ§Ý§Ú§ä§î?	
+STR_ID_AUDPLY_OPTION_REMOVE_ALL_ASK	Remove all?	§µ§Õ§Ñ§Ý§Ú§ä§î §Ó§ã§Ö?	
+STR_ID_AUDPLY_OPTION_REGEN_LIST	Refresh list	§°§Ò§ß§à§Ó§Ú§ä§î §ã§á§Ú§ã§à§Ü	§°§ß§à§Ó§Ú§ä§Ú §ã§á§Ú§ã§à§Ü
+STR_ID_AUDPLY_PLAYER_SETTINGS	Player settings	§¯§Ñ§ã§ä§â§à§Û§Ü§Ú §á§â§à§Ú§Ô§â§í§Ó§Ñ§ä§Ö§Ý§ñ	§µ§ã§ä§Ñ§ß§à§Ó§Ü§Ú §á§â§à§Ô§â§Ñ§Ó§Ñ§é§Ñ
+STR_ID_AUDPLY_DISPLAY_SETTINGS	Display settings	§¯§Ñ§ã§ä§â§à§Û§Ü§Ú §ï§Ü§â§Ñ§ß§Ñ	§µ§ã§ä§Ñ§ß§à§Ó§Ü§Ú §Õ§Ú§ã§á§Ý§Ö§ñ
+STR_ID_AUDPLY_SETTINGS_SKIN1	Skin 1	§°§Ò§Ý§à§Ø§Ü§Ñ 1	§°§æ§à§â§Þ§Ý§Ö§ß§ß§ñ1
+STR_ID_AUDPLY_SETTINGS_SKIN2	Skin 2	§°§Ò§Ý§à§Ø§Ü§Ñ 2	§°§æ§à§â§Þ§Ý§Ö§ß§ß§ñ2
+STR_ID_AUDPLY_SETTINGS_SKIN3	Skin 3	§°§Ò§Ý§à§Ø§Ü§Ñ 3	§°§æ§à§â§Þ§Ý§Ö§ß§ß§ñ3
+STR_ID_AUDPLY_SETTINGS_ONE	One	§°§Õ§Ú§ß 	§°§Õ§Ú§ß
+STR_ID_AUDPLY_SETTINGS_ALL	All	§£§ã§Ö	§µ§ã?
+STR_ID_AUDPLY_SETTINGS_LIST_AUTO_GEN	List auto gen.	§¡§Ó§ä§à§Þ. §ã§à§Ù§Õ§Ñ§ß§ß§í§Û §ã§á§Ú§ã§à§Ü	§³§á§Ú§ã§à§Ü §Ñ§Ó§ä§à §Ô§Ö§ß§Ö§â.
+STR_ID_AUDPLY_SETTINGS_PREFER_LIST	Pre. playlist	§³§á§Ú§ã§à§Ü §Ó§à§ã§á§â§à§Ú§Ù§Ó§Ö§Õ§Ö§ß§Ú§ñ	§£§Ý§Ñ§ã§ß§Ú§Û §ã§á§Ú§ã§à§Ü §Õ§Ý§ñ §á§â§à§Ô§â§Ñ§Ó§Ñ§ß§ß§ñ
+STR_ID_AUDPLY_SETTINGS_SKIN	Skin	§°§Ò§Ý§à§Ø§Ü§Ñ	§°§æ§à§â§Þ§Ý§Ö§ß§ß§ñ
+STR_ID_AUDPLY_SETTINGS_REPEAT	Repeat	§±§à§Ó§ä§à§â§Ú§ä§î	§±§à§Ó§ä§à§â§Ú§ä§Ú
+STR_ID_AUDPLY_SETTINGS_SHUFFLE	Shuffle	§²§Ñ§Ù§ß§à§Ò§à§Û	§±§Ö§â§Ö§Þ?§ê§Ñ§ä§Ú
+STR_ID_AUDPLY_SETTINGS_BACKGROUND_PLAY	Background play	§¶§à§ß§à§Ó§à§Ö §Ó§à§ã§á§â§à§Ú§Ù§Ó.	§¶§à§ß§à§Ó§Ö §á§â§à§Ô§â§Ñ§Ó§Ñ§ß§ß§ñ
+STR_ID_AUDPLY_SETTINGS_SPECTRUM_DISPLAY_STYLE	Spectrum display	§£§Ú§Ù§å§Ñ§Ý§Ú§Ù§Ñ§è§Ú§ñ	§£?§Õ§à§Ò§â§Ñ§Ø§Ö§ß§ß§ñ §Õ?§Ñ§á§Ñ§Ù§à§ß§å
+STR_ID_AUDPLY_SETTINGS_SPECTRUM_DISPLAY_STYLE_1	Style 1	§³§ä§Ú§Ý§î 1	§³§ä§Ú§Ý§î 1
+STR_ID_AUDPLY_SETTINGS_SPECTRUM_DISPLAY_STYLE_2	Style 2	§³§ä§Ú§Ý§î 2	§³§ä§Ú§Ý§î 2
+STR_ID_AUDPLY_SETTINGS_LYRICS_DISPLAY	Lyrics display	§°§ä§à§Ò§â§Ñ§Ø§Ö§ß§Ú§Ö §ä§Ö§Ü§ã§ä§Ñ §á§Ö§ã§Ö§ß	§£?§Õ§à§Ò§â§Ñ§Ø§Ö§ß§ß§ñ §ä§Ö§Ü§ã§ä§å
+STR_ID_AUDPLY_DETAIL_SIZE	Size	§²§Ñ§Ù§Þ§Ö§â 	§²§à§Ù§Þ?§â
+STR_ID_AUDPLY_DETAIL_TITLE	Title	§¯§Ñ§Ù§Ó§Ñ§ß§Ú§Ö	§¯§Ñ§Ù§Ó§Ñ
+STR_ID_AUDPLY_DETAIL_ARTIST	Artist	§ª§ã§á§à§Ý§ß§Ú§ä§Ö§Ý§î	§£§Ú§Ü§à§ß§Ñ§Ó§Ö§è§î
+STR_ID_AUDPLY_DETAIL_ALBUM	Album	§¡§Ý§î§Ò§à§Þ 	§¡§Ý§î§Ò§à§Þ
+STR_ID_AUDPLY_DETAIL_GENRE	Genre	§¨§Ñ§ß§â 	§¨§Ñ§ß§â
+STR_ID_AUDPLY_DETAIL_YEAR	Year	§¤§à§Õ 	§²?§Ü
+STR_ID_AUDPLY_CANNOT_UPDATE_LIST_FS_FAIL	Cannot update list: Access file fail	§¯§Ö§Ó§à§Ù§Þ§à§Ø§ß§à §à§Ò§ß§à§Ó§Ú§ä§î §ã§á§Ú§ã§à§Ü: §ã§Ò§à§Û §Õ§à§ã§ä§å§á§Ñ §Ü §æ§Ñ§Û§Ý§å	§¯§Ö§Þ§à§Ø§Ý§Ú§Ó§à §à§ß§à§Ó§Ú§ä§Ú §ã§á§Ú§ã§à§Ü: §¯§Ö§Þ§à§Ø§Ý§Ú§Ó§Ú§Û §Õ§à§ã§ä§å§á §Õ§à §æ§Ñ§Û§Ý§å
+STR_ID_AUDPLY_FILE_IN_DIFFERENT_STORAGE	File in different storage	§¶§Ñ§Û§Ý §ß§Ñ§ç§à§Õ§Ú§ä§î§ã§ñ §Ó §Õ§â§å§Ô§à§Û §á§Ñ§Þ§ñ§ä§Ú	§¶§Ñ§Û§Ý §Ù§Ò§Ö§â?§Ô§Ñ?§ä§î§ã§ñ §å ?§ß§ê§à§Þ§å §Þ?§ã§è?
+STR_ID_AUDPLY_CANNOT_PAUSE	Cannot pause	§¯§Ö§Ó§à§Ù§Þ§à§Ø§ß§à §à§ã§ä§Ñ§ß§à§Ó§Ú§ä§î	§¯§Ö§Þ§à§Ø§Ý§Ú§Ó§à §á§à§ã§ä§Ñ§Ó§Ú§ä§Ú §ß§Ñ §á§Ñ§å§Ù§å
+STR_ID_AUDPLY_ALL_AUDIO	All songs	§£§ã§Ö §á§Ö§ã§ß§Ú	§µ§ã? §á?§ã§ß?
+STR_ID_CAMCO_APP_NAME	Camcorder	§£§Ú§Õ§Ö§à§Ü§Ñ§Þ§Ö§â§Ñ	
+STR_ID_CALLSET_CALL_CENTER	Call center	§¸§Ö§ß§ä§â §Ó§í§Ù§à§Ó§à§Ó	
+STR_ID_CALLSET_CALL_SETTING	Call settings	§¯§Ñ§ã§ä§â§à§Û§Ü§Ú §Ó§í§Ù§à§Ó§à§Ó	
+STR_ID_CALLSET_MORE	Advanced settings	§²§Ñ§ã§ê§Ú§â§Ö§ß§ß§í§Ö §ß§Ñ§ã§ä§â§à§Û§Ü§Ú	
+STR_ID_CALLSET_CALLFWD	Call divert	§°§ä§Ü§Ý§à§ß§Ö§ß§Ú§Ö §Ó§í§Ù§à§Ó§à§Ó	
+STR_ID_CALLSET_CFU_VOICE	Divert all voice calls	§°§ä§Ü§Ý§à§ß§Ú§ä§î §Ó§ã§Ö §Ô§à§Ý§à§ã§à§Ó§í§Ö §Ó§í§Ù§à§Ó§í	
+STR_ID_CALLSET_CFNRC	Divert if unreachable	§°§ä§Ü§Ý§à§ß§ñ§ä§î, §Ö§ã§Ý§Ú §Ñ§Ò§à§ß§Ö§ß§ä §ß§Ñ§ç§à§Õ§Ú§ä§ã§ñ §Ó§ß§Ö §Ù§à§ß§í §Õ§Ö§Û§ã§ä§Ó§Ú§ñ §ã§Ö§ä§Ú	
+STR_ID_CALLSET_CFNRY	Divert if no answer	§°§ä§Ü§Ý§à§ß§ñ§ä§î §Ó §ã§Ý§å§é§Ñ§Ö §à§ä§ã§å§ä§ã§ä§Ó§Ú§ñ §à§ä§Ó§Ö§ä§Ñ	
+STR_ID_CALLSET_CFB	Divert if busy	§°§ä§Ü§Ý§à§ß§ñ§ä§î §Ö§ã§Ý§Ú §Ý§Ú§ß§Ú§ñ §Ù§Ñ§ß§ñ§ä§Ñ	
+STR_ID_CALLSET_CFU_DATA	Divert all data calls	§°§ä§Ü§Ý§à§ß§Ú§ä§î §Ó§ã§Ö §Ú§ß§æ§à§â§Þ§Ñ§è§Ú§à§ß§ß§í§Ö §Ó§í§Ù§à§Ó§í	
+STR_ID_CALLSET_CALLFWD_CANCELALL	Cancel all diverts	§°§ä§Þ§Ö§ß§Ú§ä§î §Ó§ã§Ö §à§ä§Ü§Ý§à§ß§Ö§ß§Ú§ñ §Ó§í§Ù§à§Ó§à§Ó	
+STR_ID_CALLSET_CALLFWD_OPT	Call divert options	§±§Ñ§â§Ñ§Þ§Ö§ä§â§í §à§ä§Ü§Ý§à§ß§Ö§ß§Ú§ñ §Ó§í§Ù§à§Ó§à§Ó	
+STR_ID_CALLSET_CF_TO_NEW	To new number	§¯§Ñ §ß§à§Ó§í§Û §ß§à§Þ§Ö§â	
+STR_ID_CALLSET_CF_TO_VM	To voicemail	§¯§Ñ §Ô§à§Ý§à§ã§à§Ó§å§ð §á§à§é§ä§å	
+STR_ID_CALLSET_CALL_BAR	Call barring	§©§Ñ§á§â§Ö§ë§Ö§ß§Ú§Ö §Ó§í§Ù§à§Ó§à§Ó	
+STR_ID_CALLSET_CB_OUT	Outgoing calls	§ª§ã§ç§à§Õ§ñ§ë§Ú§Ö §Ó§í§Ù§à§Ó§í	
+STR_ID_CALLSET_CB_IN	Incoming calls	§£§ç§à§Õ§ñ§ë§Ú§Ö §Ó§í§Ù§à§Ó§í	
+STR_ID_CALLSET_CB_CANCELALL	Cancel all	§°§ä§Þ§Ö§ß§Ú§ä§î §Ó§ã§Ö	
+STR_ID_CALLSET_CB_CHANGEPASS	Change barring password	§ª§Ù§Þ§Ö§ß§Ú§ä§î §á§Ñ§â§à§Ý§î §Ù§Ñ§á§â§Ö§ë§Ö§ß§Ú§ñ	
+STR_ID_CALLSET_CB_BAOC_BAIC_VOICE	All voice calls	§£§ã§Ö §Ô§à§Ý. §Ó§í§Ù§à§Ó§í	
+STR_ID_CALLSET_CB_OUT_BOIC_VOICE	International voice calls	§®§Ö§Ø§Õ§å§ß§Ñ§â§à§Õ§ß§í§Ö §Ô§à§Ý. §Ó§í§Ù§à§Ó§í	
+STR_ID_CALLSET_CB_OUT_BOICEXHC_VOICE	International voice calls except to home PLMN	§®§Ö§Ø§Õ§å§ß§Ñ§â. §Ü§â§à§Þ§Ö §Ó§í§Ù§à§Ó§à§Ó §ß§Ñ §ã§à§ä§à§Ó§í§Û §Ó §ã§Ó§à§Ö§Û §ã§ä§â§Ñ§ß§Ö	
+STR_ID_CALLSET_CB_IN_BAICROAM_VOICE	Voice calls when roaming	§¤§à§Ý§à§ã§à§Ó§í§Ö §Ó§í§Ù§à§Ó§í §Ó §â§à§å§Þ§Ú§ß§Ô§Ö	
+STR_ID_CALLSET_CALLFWD_TO_NUM	Divert number	§°§ä§Ü§Ý§à§ß§Ú§ä§î §ß§à§Þ§Ö§â	
+STR_ID_CALLSET_CF_NUM_EDIT_FROM_PHB	From phonebook	§ª§Ù §Ù§Ñ§á§Ú§ã§ß§à§Û §Ü§ß§Ú§Ø§Ü§Ú	
+STR_ID_CALLSET_CFNRY_WAIT_TIME	Waiting time	§£§â§Ö§Þ§ñ §à§Ø§Ú§Õ§Ñ§ß§Ú§ñ	
+STR_ID_CALLSET_CFNRY_5_SEC	 5 seconds	 5 §ã§Ö§Ü§å§ß§Õ	
+STR_ID_CALLSET_CFNRY_10_SEC	 10 seconds	 10 §ã§Ö§Ü§å§ß§Õ	
+STR_ID_CALLSET_CFNRY_15_SEC	 15 seconds	 15 §ã§Ö§Ü§å§ß§Õ	
+STR_ID_CALLSET_CFNRY_20_SEC	 20 seconds	 20 §ã§Ö§Ü§å§ß§Õ	
+STR_ID_CALLSET_CFNRY_25_SEC	 25 seconds	 25 §ã§Ö§Ü§å§ß§Õ	
+STR_ID_CALLSET_CFNRY_30_SEC	 30 seconds	 30 §ã§Ö§Ü§å§ß§Õ	
+STR_ID_CALLSET_CB_PASSWD	Call barring password	§±§Ñ§â§à§Ý§î §Ù§Ñ§á§â§Ö§ë§Ö§ß§Ú§ñ §Ó§í§Ù§à§Ó§à§Ó	
+STR_ID_CALLSET_CB_PASSWD_OLD	Old password	§³§ä§Ñ§â§í§Û §á§Ñ§â§à§Ý§î	
+STR_ID_CALLSET_CB_PASSWD_NEW	New password	§¯§à§Ó§í§Û §á§Ñ§â§à§Ý§î	
+STR_ID_CALLSET_CB_PASSWD_CNF	Confirm new password	§±§à§Õ§ä§Ó§Ö§â§Õ§Ú§ä§î §ß§à§Ó§í§Û §á§Ñ§â§à§Ý§î	
+STR_ID_CALLSET_CALLWAIT	Call waiting	§°§Ø§Ú§Õ§Ñ§ß§Ú§Ö §Ó§í§Ù§à§Ó§Ñ	
+STR_ID_CALLSET_NUMBER_TOO_LONG	Number too long	§³§Ý§Ú§ê§Ü§à§Þ §Ò§à§Ý§î§ê§à§Ö §Ü§à§Ý§Ú§é§Ö§ã§ä§Ó§à §ã§Ú§Þ§Ó§à§Ý§à§Ó §Ó §ß§à§Þ§Ö§â§Ö	
+STR_ID_CALLSET_CID	Caller ID	Caller ID	
+STR_ID_CALLSET_CID_HIDE	Hide ID	§¯§Ö §á§à§Ü§Ñ§Ù§í§Ó§Ñ§ä§î ID	
+STR_ID_CALLSET_CID_SEND	Send ID	§±§Ö§â§Ö§ã§Ý§Ñ§ä§î ID	
+STR_ID_CALLSET_CID_AUTO	Set by network	§µ§ã§ä§Ñ§ß§à§Ó§Ú§ä§î §Õ§Ý§ñ §ã§Ö§ä§Ú	
+STR_ID_CALLSET_QUERY	Query status	§³§à§ã§ä§à§ñ§ß§Ú§Ö §Ù§Ñ§á§â§à§ã§Ñ	
+STR_ID_CALLSET_CTR	Call time reminder	§¯§Ñ§á§à§Þ§Ú§ß§Ñ§ß§Ú§Ö §Ó§â§Ö§Þ§Ö§ß§Ú §Ó§í§Ù§à§Ó§Ñ	
+STR_ID_CALLSET_CTR_TIME	Set reminder time	§µ§ã§ä§Ñ§ß§à§Ó§Ú§ä§î §ß§Ñ§á§à§Þ§Ú§ß§Ñ§ß§Ú§Ö	
+STR_ID_CALLSET_CTR_SING	Single	§°§Õ§ß§à§Ü§â§Ñ§ä§ß§à	
+STR_ID_CALLSET_CTR_PERIOD	Periodic	§±§Ö§â§Ú§à§Õ§Ú§é§Ö§ã§Ü§Ú	
+STR_ID_CALLSET_CTR_RANGE_SING	1 - 3000 secs	1 - 3000 (§ã§Ö§Ü)	
+STR_ID_CALLSET_CTR_RANGE_PERIODIC	30 - 60 secs	30 - 60 (§ã§Ö§Ü)	
+STR_ID_CALLSET_ANS_MODE_ANYKEY	Any key	§­§ð§Ò§Ñ§ñ §Ü§Ý§Ñ§Ó§Ú§ê§Ñ	
+STR_ID_CALLSET_ANS_MODE	Answer mode	§²§Ö§Ø§Ú§Þ §à§ä§Ó§Ö§ä§Ñ	
+STR_ID_CALLSET_ANS_MODE_AUTO	Auto answer when headset mode	§¡§Ó§ä§à§Þ§Ñ§ä§Ú§é§Ö§ã§Ü§Ú§Û §à§ä§Ó§Ö§ä §ã §á§à§Õ§Ü§Ý§ð§é§Ö§ß§ß§à§Û §Ô§Ñ§â§ß§Ú§ä§å§â§à§Û	
+STR_ID_SS_TITLE	Supplementary service	§¥§à§á§à§Ý§ß§Ú§ä§Ö§Ý§î§ß§Ñ§ñ §å§ã§Ý§å§Ô§Ñ	
+STR_ID_SS_REQUESTING	Sending request	§©§Ñ§á§â§à§ã §ß§Ñ §à§ä§á§â§Ñ§Ó§Ü§å	
+STR_ID_SS_USSD_MSG	Information	§ª§ß§æ§à§â§Þ§Ñ§è§Ú§ñ	
+STR_ID_SS_PERIOD	. 	. 	
+STR_ID_SS_SECOND	 second(s)	 §ã§Ö§Ü§å§ß§Õ§Ñ(-§í)	
+STR_ID_SS_CHANGE_PSW_SUC	Barring password changed successfully	§±§Ñ§â§à§Ý§î §Ù§Ñ§á§â§Ö§ë§Ö§ß§Ú§ñ §å§ã§á§Ö§ê§ß§à §Ú§Ù§Þ§Ö§ß§Ö§ß	
+STR_ID_SS_CANCELLED	Cancelled	§°§ä§Þ§Ö§ß§Ö§ß§à	
+STR_ID_DTCNT_RENAME	Account name	§ª§Þ§ñ §Ù§Ñ§á§Ú§ã§Ú	§¯§Ñ§Ù§Ó§Ñ §à§Ò§Ý?§Ü§à§Ó§à§Ô§à §Ù§Ñ§á§Ú§ã§å
+STR_ID_DTCNT_ADVANCED_SETTING	Advanced settings	§²§Ñ§ã§ê§Ú§â§Ö§ß§ß§í§Ö §ß§Ñ§ã§ä§â§à§Û§Ü§Ú	
+STR_ID_DTCNT_HOME_PAGE	Homepage	§¥§à§Þ§Ñ§ê§ß§ñ§ñ §ã§ä§â§Ñ§ß§Ú§è§Ñ	
+STR_ID_DTCNT_CONNECTION_TYPE	Connection type	§³§á§à§ã§à§Ò §ã§à§Ö§Õ§Ú§ß§Ö§ß§Ú§ñ	
+STR_ID_DTCNT_USE_PROXY	Use proxy	§ª§ã§á§à§Ý§î§Ù§à§Ó§Ñ§ä§î §á§â§à§Ü§ã§Ú §ã§Ö§â§Ó§Ö§â	
+STR_ID_DTCNT_PROXY_ADDRESS	Proxy address	§¡§Õ§â§Ö§ã §á§â§à§Ü§ã§Ú §ã§Ö§â§Ó§Ö§â§Ñ	
+STR_ID_DTCNT_PROXY_PORT	Proxy port	§±§à§â§ä §á§â§à§Ü§ã§Ú §ã§Ö§â§Ó§Ö§â§Ñ	
+STR_ID_DTCNT_PROXY_USER_NAME	Proxy user name	§ª§Þ§ñ §á§à§Ý§î§Ù§à§Ó§Ñ§ä§Ö§Ý§ñ §á§â§à§Ü§ã§Ú §ã§Ö§â§Ó§Ö§â§Ñ	
+STR_ID_DTCNT_PROXY_PASS_WORD	Proxy password	§±§Ñ§â§à§Ý§î §á§â§à§Ü§ã§Ú §ã§Ö§â§Ó§Ö§â§Ñ	
+STR_ID_DTCNT_DNS_ADDRESS1	Primary DNS	§°§ã§ß§à§Ó§ß§à§Û DNS-§ã§Ö§â§Ó§Ö§â	
+STR_ID_DTCNT_DNS_ADDRESS2	Secondary DNS	§¡§Ý§î§ä§Ö§â§ß§Ñ§ä§Ú§Ó§ß§í§Û DNS-§ã§Ö§â§Ó§Ö§â	
+STR_ID_DTCNT_IP_ADDRESS	IP address	IP §Ñ§Õ§â§Ö§ã	
+STR_ID_DTCNT_SUBNET_MASK	Subnet mask	§®§Ñ§ã§Ü§Ñ §á§à§Õ§ã§Ö§ä§Ú	
+STR_ID_DTCNT_ADD_GPRS	Add PS account	§¥§à§Ò§Ñ§Ó§Ú§ä§î §å§é§Ö§ä§ß§å§ð §Ù§Ñ§á§Ú§ã§î PS	
+STR_ID_DTCNT_MAX_CSD_ACCOUNT_REACHED	Max account reached	§¥§à§ã§ä§Ú§Ô§ß§å§ä§à §Þ§Ñ§Ü§ã§Ú§Þ§Ñ§Ý§î§ß§à§Ö §Ü§à§Ý§Ú§é§Ö§ã§ä§Ó§à §å§é§Ö§ä§ß§í§ç §Ù§Ñ§á§Ú§ã§Ö§Û CSD	
+STR_ID_DTCNT_NOT_ALLOW_DELETE	Account is in use, not allowed to delete	§µ§é§Ö§ä§ß§Ñ§ñ §Ù§Ñ§á§Ú§ã§î §Ú§ã§á§à§Ý§î§Ù§å§Ö§ä§ã§ñ, §ß§Ö§Ó§à§Ù§Þ§à§Ø§ß§à §å§Õ§Ñ§Ý§Ú§ä§î §å§é§Ö§ä§ß§å§ð §Ù§Ñ§á§Ú§ã§î	
+STR_ID_DTCNT_NOT_ALLOW_EDIT	Account is in use, not allowed to edit	§µ§é§Ö§ä§ß§Ñ§ñ §Ù§Ñ§á§Ú§ã§î §Ú§ã§á§à§Ý§î§Ù§å§Ö§ä§ã§ñ, §â§Ö§Õ§Ñ§Ü§ä§Ú§â§à§Ó§Ñ§ß§Ú§Ö §Ù§Ñ§á§â§Ö§ë§Ö§ß§à	
+STR_ID_DTCNT_GPRS_CHAP_AUTH	Secure	§¢§Ö§Ù§à§á§Ñ§ã§ß§í§Û 	§¢§Ö§Ù§á§Ö§é§ß§Ö
+STR_ID_DTCNT_GPRS_APN	APN	§ª§Þ§ñ §ä§à§é§Ü§Ú §Õ§à§ã§ä§å§á§Ñ	
+STR_ID_DTCNT_GPRS_AUTH_TYP	Auth. type	§´§Ú§á §Ú§Õ§Ö§ß§ä.	§´§Ú§á §Ñ§å§ä§Ö§ß§ä§Ú§æ?§Ü§Ñ§è??
+STR_ID_DTCNT_GPRS_INPUT_LACK	APN required. Input again?	§´§â§Ö§Ò§å§Ö§ä§ã§ñ §Ó§Ó§Ö§ã§ä§Ú APN. §±§à§Ó§ä§à§â§Ú§ä§î §Ó§Ó§à§Õ?	
+STR_ID_DTCNT_NAME_INVALID	Invalid data account	§¯§Ö§Õ§Ö§Û§ã§ä§Ó§Ú§ä§Ö§Ý§î§ß§Ñ§ñ §å§é§Ö§ä§ß§Ñ§ñ §Ù§Ñ§á§Ú§ã§î §Õ§Ñ§ß§ß§í§ç	
+STR_ID_DTCNT_CHANGE_DEFAULT	Set as default	§ª§Ù§Þ§Ö§ß§Ú§ä§î §ß§Ñ§ã§ä§â§à§Û§Ü§Ú §á§à §å§Þ§à§Ý§é§Ñ§ß§Ú§ð	
+STR_ID_DTCNT_ERR_MSG_INVALID_PORT	Valid port range: 1-65535	§¥§à§á§å§ã§ä§Ú§Þ§í§Û §Õ§Ú§Ñ§á§Ñ§Ù§à§ß §á§à§â§ä§à§Ó: 1-65535	
+STR_ID_DTCNT_ERR_MSG_EMPTY_PORT_NUMBER	Empty port number	§°§ä§ã§å§ä§ã§ä§Ó§å§Ö§ä §ß§à§Þ§Ö§â §á§à§â§ä§Ñ	
+STR_ID_DTCNT_NOT_READY	Data account is not ready	§µ§é§Ö§ä§ß§Ñ§ñ §Ù§Ñ§á§Ú§ã§î §á§Ö§â§Ö§Õ§Ñ§é§Ú §Õ§Ñ§ß§ß§í§ç §ß§Ö §Ô§à§ä§à§Ó§Ñ	
+STR_ID_DATA_CONNECTION_SIM	Data connection SIM	§±§à§Õ§Ü§Ý§ð§é§Ö§ß§Ú§Ö §á§Ö§â§Ö§Õ§Ñ§é§Ú §Õ§Ñ§ß§ß§í§ç SIM-§Ü§Ñ§â§ä§í	
+STR_ID_DATA_CONNECTION_SIM_NOT_ALLOW_CHANGED	%S in use. Cannot be changed	%S §Ú§ã§á§à§Ý§î§Ù§å§Ö§ä§ã§ñ. §ª§Ù§Þ§Ö§ß§Ö§ß§Ú§Ö §ß§Ö§Ó§à§Ù§Þ§à§Ø§ß§à	
+STR_ID_DTCNT_NO_AVAILABLE_ACCOUNT	No available account	§µ§é§Ö§ä§ß§í§Ö §Ù§Ñ§á§Ú§ã§Ú §à§ä§ã§å§ä§ã§ä§Ó§å§ð§ä	
+STR_ID_CLOG_CALL_LOG	Call logs	§¨§å§â§ß§Ñ§Ý §Ó§í§Ù§à§Ó§à§Ó	
+STR_ID_CLOG_ALL_CALL	All calls	§£§ã§Ö §Ó§í§Ù§à§Ó§í	
+STR_ID_CLOG_DIALED_CALL	Dialled call	§ª§ã§ç§à§Õ§ñ§ë§Ú§Û §Ó§í§Ù§à§Ó	
+STR_ID_CLOG_RECVED_CALL	Received call	§£§ç§à§Õ§ñ§ë§Ú§Û §Ó§í§Ù§à§Ó	
+STR_ID_CLOG_MISSED_CALL	Missed call	§±§â§à§á§å§ë§Ö§ß§ß§í§Û §Ó§í§Ù§à§Ó	
+STR_ID_CLOG_UNKOWN_CALL	UNKNOWN	§¯§¦§ª§©§£§¦§³§´§¯§½§«	
+STR_ID_CLOG_DELETE_BOX	Delete call logs	§°§é§Ú§ã§ä§Ú§ä§î §Ø§å§â§ß§Ñ§Ý §Ù§Ó§à§ß§Ü§à§Ó	
+STR_ID_CLOG_CLEARING	Clearing	§°§é§Ú§ã§ä§Ü§Ñ	
+STR_ID_CLOG_SINGLE_MISSED_CALL	missed call	§á§â§à§á§å§ë§Ö§ß§ß§í§Û §Ó§í§Ù§à§Ó	
+STR_ID_CLOG_MULTI_MISSED_CALLS	missed calls	§á§â§à§á§å§ë§Ö§ß§ß§í§Ö §Ó§í§Ù§à§Ó§í	
+STR_ID_CLOG_UNKNOWN_NUMBER	Unknown number	§¯§Ö§Ú§Ù§Ó§Ö§ã§ä§ß§í§Û §ß§à§Þ§Ö§â	
+STR_ID_CLOG_ANON_URI	Anonymous	§¡§ß§à§ß§Ú§Þ§ß§í§Û	
+STR_ID_CLOG_NO_ENTRY	No entry	§©§Ñ§á§Ú§ã§î §à§ä§ã§å§ä§ã§ä§Ó§å§Ö§ä	
+STR_ID_CLOG_ENTRY	entry	§Ù§Ñ§á§Ú§ã§î	
+STR_ID_CLOG_ENTRIES	entries	§Ù§Ñ§á§Ú§ã§Ú	
+STR_ID_CLOG_NUMBER	Number:	§¯§à§Þ§Ö§â:	
+STR_ID_CLOG_TIMESTAMP	Call time:	§£§â§Ö§Þ§ñ §Ó§í§Ù§à§Ó§Ñ:	
+STR_ID_CLOG_CTIME_SIM1_RESET_ALL	SIM 1 reset all	§°§Ò§ë§Ú§Û §ã§Ò§â§à§ã SIM1	
+STR_ID_CLOG_CTIME_SIM2_RESET_ALL	SIM 2 reset all	§°§Ò§ë§Ú§Û §ã§Ò§â§à§ã SIM2	
+STR_ID_CLOG_CTIME_SIM3_RESET_ALL	SIM 3 reset all	SIM3: §ã§Ò§â§à§ã§Ú§ä§î §Ó§ã§Ö	
+STR_ID_CLOG_CTIME_SIM4_RESET_ALL	SIM 4 reset all	SIM4: §ã§Ò§â§à§ã§Ú§ä§î §Ó§ã§Ö	
+STR_ID_CLOG_CTIME_RESET_ALL	Reset all	§°§Ò§ë§Ú§Û §ã§Ò§â§à§ã	
+STR_ID_CLOG_CTIME_SIM1_LAST_CALL	SIM 1 last call	§±§à§ã§Ý§Ö§Õ§ß§Ú§Û §Ó§í§Ù§à§Ó SIM 1	
+STR_ID_CLOG_CTIME_SIM1_ALL_DIALED_CALL	SIM 1 dialled calls	§ª§ã§ç§à§Õ§ñ§ë§Ú§Ö §Ó§í§Ù§à§Ó§í SIM 1	
+STR_ID_CLOG_CTIME_SIM1_ALL_RECIVED_CALL	SIM 1 received calls	§±§â§Ú§ß§ñ§ä§í§Ö §Ó§í§Ù§à§Ó§í SIM 1	
+STR_ID_CLOG_CTIME_SIM2_LAST_CALL	SIM 2 last call	§±§à§ã§Ý§Ö§Õ§ß§Ú§Û §Ó§í§Ù§à§Ó SIM 2	
+STR_ID_CLOG_CTIME_SIM2_ALL_DIALED_CALL	SIM 2 dialled calls	§ª§ã§ç§à§Õ§ñ§ë§Ú§Ö §Ó§í§Ù§à§Ó§í SIM 2	
+STR_ID_CLOG_CTIME_SIM2_ALL_RECIVED_CALL	SIM 2 received calls	§±§â§Ú§ß§ñ§ä§í§Ö §Ó§í§Ù§à§Ó§í SIM 2	
+STR_ID_CLOG_CTIME_SIM3_LAST_CALL	SIM 3 last call	§±§à§ã§Ý§Ö§Õ§ß§Ú§Û §Ó§í§Ù§à§Ó SIM 3	
+STR_ID_CLOG_CTIME_SIM3_ALL_DIALED_CALL	SIM 3 dialled calls	§£§ã§Ö §Ú§ã§ç§à§Õ§ñ§ë§Ú§Ö §Ó§í§Ù§à§Ó§í SIM 3	
+STR_ID_CLOG_CTIME_SIM3_ALL_RECIVED_CALL	SIM 3 received calls	§£§ã§Ö §á§â§Ú§ß§ñ§ä§í§Ö §Ó§í§Ù§à§Ó§í SIM 3	
+STR_ID_CLOG_CTIME_SIM4_LAST_CALL	SIM 4 last call	§±§à§ã§Ý§Ö§Õ§ß§Ú§Û §Ó§í§Ù§à§Ó SIM 4	
+STR_ID_CLOG_CTIME_SIM4_ALL_DIALED_CALL	SIM 4 dialled calls	§£§ã§Ö §Ú§ã§ç§à§Õ§ñ§ë§Ú§Ö §Ó§í§Ù§à§Ó§í SIM 4	
+STR_ID_CLOG_CTIME_SIM4_ALL_RECIVED_CALL	SIM 4 received calls	§£§ã§Ö §á§â§Ú§ß§ñ§ä§í§Ö §Ó§í§Ù§à§Ó§í SIM 4	
+STR_ID_CLOG_CTIME_IF_RESET_ALL	Reset all?	§³§Ò§â§à§ã§Ú§ä§î §Ó§ã§Ö §ß§Ñ§ã§ä§â§à§Û§Ü§Ú?	
+STR_ID_CLOG_CTIME_IF_RESET_ALL_SIM1	SIM 1 reset all?	SIM 1 §³§Ò§â§à§ã§Ú§ä§î §Ó§ã§Ö §ß§Ñ§ã§ä§â§à§Û§Ü§Ú?	
+STR_ID_CLOG_CTIME_IF_RESET_ALL_SIM2	SIM 2 reset all?	SIM 2 §³§Ò§â§à§ã§Ú§ä§î §Ó§ã§Ö §ß§Ñ§ã§ä§â§à§Û§Ü§Ú?	
+STR_ID_CLOG_CTIME_IF_RESET_ALL_SIM3	SIM 3 reset all?	SIM 3 §³§Ò§â§à§ã§Ú§ä§î §Ó§ã§Ö §ß§Ñ§ã§ä§â§à§Û§Ü§Ú?	
+STR_ID_CLOG_CTIME_IF_RESET_ALL_SIM4	SIM 4 reset all?	SIM 4 §³§Ò§â§à§ã§Ú§ä§î §Ó§ã§Ö §ß§Ñ§ã§ä§â§à§Û§Ü§Ú?	
+STR_ID_CLOG_CALL_TIME	Call timers	§¥§Ý§Ú§ä§Ö§Ý§î§ß§à§ã§ä§î §Ó§í§Ù§à§Ó§à§Ó	
+STR_ID_CLOG_VIEW_MISSED_CALL	Missed call	§±§â§à§á§å§ë§Ö§ß§ß§í§Ö	
+STR_ID_CLOG_VIEW_RING_ONES	Ring once	§©§Ó§à§ß§Ü§Ú	
+STR_ID_CLOG_VIEW_UNKNOWN	Unknown	§¯§Ö§Ú§Ù§Ó§Ö§ã§ä§ß§í§Û	
+STR_ID_PROF_CAPTION	Profiles	§±§â§à§æ§Ú§Ý§Ú §á§à§Ý§î§Ù§à§Ó§Ñ§ä§Ö§Ý§ñ	
+STR_ID_PROF_GENERAL	General	§°§Ò§ë§Ú§Û	
+STR_ID_PROF_SILENT	Silent	§¢§Ö§Ù §Ù§Ó§å§Ü§Ñ 	§´§Ú§ê§Ñ
+STR_ID_PROF_MEETING	Meeting	§³§à§Ó§Ö§ë§Ñ§ß§Ú§Ö	
+STR_ID_PROF_OUTDOOR	Outdoor	§¯§Ñ §å§Ý§Ú§è§Ö	
+STR_ID_PROF_MY_STYLE	My style	§³§à§Ò§ã§ä§Ó§Ö§ß§ß§í§Û	
+STR_ID_PROF_GENERAL_ACTIVATED	General mode activated	§¡§Ü§ä§Ú§Ó§Ú§â§à§Ó§Ñ§ß §à§Ò§ë§Ú§Û §â§Ö§Ø§Ú§Þ	
+STR_ID_PROF_SILENT_ACTIVATED	Silent mode activated	§¡§Ü§ä§Ú§Ó§Ú§â§à§Ó§Ñ§ß §ä§Ú§ç§Ú§Û §â§Ö§Ø§Ú§Þ	
+STR_ID_PROF_MEETING_ACTIVATED	Meeting mode activated	§¡§Ü§ä§Ú§Ó§Ú§â§à§Ó§Ñ§ß §â§Ö§Ø§Ú§Þ ?§ã§à§Ó§Ö§ë§Ñ§ß§Ú§Ö?	
+STR_ID_PROF_OUTDOOR_ACTIVATED	Outdoor mode activated	§¡§Ü§ä§Ú§Ó§Ú§â§à§Ó§Ñ§ß §â§Ö§Ø§Ú§Þ ?§ß§Ñ §å§Ý§Ú§è§Ö?	
+STR_ID_PROF_MODE_ACTIVATED	 mode activated	§Ñ§Ü§ä§Ú§Ó§Ú§â§à§Ó§Ñ§ß §â§Ö§Ø§Ú§Þ	
+STR_ID_PROF_CUSTOMIZE	Customize	§¯§Ñ§ã§ä§â§à§Ú§ä§î	
+STR_ID_PROF_ALERT_TYPE	Alert type	§´§Ú§á §à§á§à§Ó§Ö§ë§Ö§ß§Ú§ñ	
+STR_ID_PROF_RING_ONLY	Ring	§´§à§Ý§î§Ü§à §Ù§Ó§à§ß§à§Ü	
+STR_ID_PROF_VIB_ONLY	Vibrate only	§´§à§Ý§î§Ü§à §Ó§Ú§Ò§â§Ñ§è§Ú§ñ	
+STR_ID_PROF_VIB_AND_RING	Vibrate and ring	§£§Ú§Ò§â§Ñ§è§Ú§ñ §Ú §Ù§Ó§à§ß§à§Ü	
+STR_ID_PROF_VIB_THEN_RING	Vibrate then ring	§£§Ú§Ò§â§Ñ§è§Ú§ñ, §Ñ §Ù§Ñ§ä§Ö§Þ §Ù§Ó§à§ß§à§Ü	
+STR_ID_PROF_RING_TYPE	Ring type	§´§Ú§á §Ù§Ó§à§ß§Ü§Ñ	
+STR_ID_PROF_RINGING	Repeat	§±§à§Ó§ä§à§â§ñ§ð§ë§Ú§Û§ã§ñ	
+STR_ID_PROF_BEEP_ONCE	Beep once	§°§Õ§ß§à§Ü§â§Ñ§ä§ß§í§Û	
+STR_ID_PROF_RING_TONE	Ringtone	§£§ç§à§Õ§ñ§ë§Ú§Û §Ó§í§Ù§à§Ó	
+STR_ID_PROF_SIM1_RING_TONE	SIM 1 Ringtone	§£§ç§à§Õ§ñ§ë§Ú§Û §Ó§í§Ù§à§Ó SIM1	
+STR_ID_PROF_SIM2_RING_TONE	SIM 2 Ringtone	§£§ç§à§Õ§ñ§ë§Ú§Û §Ó§í§Ù§à§Ó SIM2	
+STR_ID_PROF_SIM3_RING_TONE	SIM 3 Ringtone	§£§ç§à§Õ§ñ§ë§Ú§Û §Ó§í§Ù§à§Ó SIM3	
+STR_ID_PROF_SIM4_RING_TONE	SIM 4 Ringtone	§£§ç§à§Õ§ñ§ë§Ú§Û §Ó§í§Ù§à§Ó SIM4	
+STR_ID_PROF_RING_VOL	Ringtone volume	§¤§â§à§Þ§Ü§à§ã§ä§î §Ù§Ó§à§ß§Ü§Ñ	
+STR_ID_PROF_MSG_VOL	Message volume	§¤§â§à§Þ§Ü§à§ã§ä§î §ã§Ú§Ô§ß§Ñ§Ý§Ñ §ã§à§à§Ò§ë§Ö§ß§Ú§ñ	
+STR_ID_PROF_KEYPAD_TONE	Keypad	§¬§Ý§Ñ§Ó§Ú§Ñ§ä§å§â§Ñ	
+STR_ID_PROF_CLICK	Click	§»§Ö§Ý§é§à§Ü	
+STR_ID_PROF_TONE	Tone	§©§Ó§å§Ü	
+STR_ID_PROF_KEYPAD_VOL	Keytone volume	§¤§â§à§Þ§Ü§à§ã§ä§î §ã§Ú§Ô§ß§Ñ§Ý§Ñ §ß§Ñ§Ø§Ñ§ä§Ú§ñ §Ü§Ý§Ñ§Ó§Ú§ê	
+STR_ID_PROF_SYSTEM_ALERT	System alert	§³§Ú§ã§ä§Ö§Þ§ß§à§Û §à§á§à§Ó§Ö§ë§Ö§ß§Ú§Ö	
+STR_ID_PROF_CHANGE	Change	§©§Ñ§Þ§Ö§ß§Ñ	
+STR_ID_PROF_SELECT_FROM_FILE	Select from file	§£§í§Ò§â§Ñ§ä§î §Ú§Ù §æ§Ñ§Û§Ý§Ñ	
+STR_ID_PROF_FILE_TOO_LARGE	File too large	§²§Ñ§Ù§Þ§Ö§â §æ§Ñ§Û§Ý§Ñ §ã§Ý§Ú§ê§Ü§à§Þ §Ó§Ö§Ý§Ú§Ü	
+STR_ID_PROF_NAME_EMPTY	This profile's name cannot be empty!	§ª§Þ§ñ §ï§ä§à§Ô§à §á§â§à§æ§Ú§Ý§ñ §ß§Ö §Þ§à§Ø§Ö§ä §Ò§í§ä§î §á§å§ã§ä§í§Þ!	
+STR_ID_PROF_NAME_INVALID	This profile's name is invalid!	§¯§Ö§Õ§à§á§å§ã§ä§Ú§Þ§à§Ö §Ú§Þ§ñ §á§â§à§æ§Ú§Ý§ñ!	
+STR_ID_PROF_QUESTION_MARK	?	?	
+STR_FMGR_TITLE	File manager	§µ§á§â§Ñ§Ó§Ý§Ö§ß§Ú§Ö §æ§Ñ§Û§Ý§Ñ§Þ§Ú	§®§Ö§ß§Ö§Õ§Ø§Ö§â §æ§Ñ§Û§Ý?§Ó
+STR_ID_FMGR_NO_FORWARD_OPTION	No forward options	§±§Ö§â§Ö§ß§Ñ§á§â§Ñ§Ó§Ý§Ö§ß§Ú§Ö §ß§Ö§Õ§à§ã§ä§å§á§ß§à	
+STR_FMGR_FOLDER_CREATE	New folder	§¯§à§Ó§Ñ§ñ §á§Ñ§á§Ü§Ñ	§³§ä§Ó§à§â§Ú§ä§Ú §á§Ñ§á§Ü§å
+STR_FMGR_FORMATING	Formatting	§¶§à§â§Þ§Ñ§ä§Ú§â§à§Ó§Ñ§ß§Ú§Ö	§¶§à§â§Þ§Ñ§ä§å§Ó§Ñ§ß§ß§ñ
+STR_FMGR_UNMOUNTING	Removing	§µ§Õ§Ñ§Ý§Ö§ß§Ú§Ö 	§±§Ö§â§Ö§Þ?§ë§Ö§ß§ß§ñ
+STR_FMGR_CARD_NAME	Name:	§ª§Þ§ñ:	
+STR_ID_FMGR_TOTAL_SIZE	Total size:	§°§Ò§ë§Ú§Û §â§Ñ§Ù§Þ§Ö§â:	
+STR_ID_FMGR_FREE_SIZE	Free size: 	§³§Ó§à§Ò§à§Õ§ß§à:	
+STR_FMGR_USE	Use as	§±§â§Ú§Þ§Ö§ß§Ö§ß§Ú§Ö	
+STR_FMGR_COPY_TO	Copy to	§¬§à§á§Ú§â§à§Ó§Ñ§ß§Ú§Ö §Ó	
+STR_FMGR_MOVE_TO	Move to	§±§Ö§â§Ö§Þ§Ö§ë§Ö§ß§Ú§Ö §Ó	
+STR_ID_FMGR_FILE_DATE	Date:	§¥§Ñ§ä§Ñ: 	§¥§Ñ§ä§Ñ:
+STR_ID_FMGR_FILE_SIZE	Size:	§²§Ñ§Ù§Þ§Ö§â: 	§²§à§Ù§Þ?§â:
+STR_ID_FMGR_SYSTEM_BUSY_TO_DECODE	System busy or decode timeout	§³§Ú§ã§ä§Ö§Þ§Ñ §Ù§Ñ§ß§ñ§ä§Ñ §Ú§Ý§Ú §Ú§ã§ä§Ö§Ü§Ý§à §Ó§â§Ö§Þ§ñ §Õ§Ö§Ü§à§Õ§Ú§â§à§Ó§Ñ§ß§Ú§ñ	§³§Ú§ã§ä§Ö§Þ§Ñ §Ù§Ñ§Û§ß§ñ§ä§Ñ §Ñ§Ò§à §ä§Ñ§Û§Þ-§Ñ§å§ä §Õ§Ö§ê§Ú§æ§â§å§Ó§Ñ§ß§ß§ñ
+STR_ID_FMGR_NEW_FOLDER_LSK	New	§³§à§Ù§Õ§Ñ§ä§î	
+STR_ID_FMGR_FOLDER_NAME	Folder name	§ª§Þ§ñ §á§Ñ§á§Ü§Ú	
+STR_ID_FMGR_NO_FILES	No files	§¯§Ö§ä §æ§Ñ§Û§Ý§à§Ó	
+STR_ID_FMGR_NO_FOLDERS	No folders	§¯§Ö§ä §á§Ñ§á§à§Ü	
+STR_WALLPAPER_SYSTEM	System	§³§Ú§ã§ä§Ö§Þ§Ñ	§³§Ú§ã§ä§Ö§Þ§ß§Ú§Û
+STR_WALLPAPER_DOWNLOAD	User defined	§°§á§â§Ö§Õ§Ö§Ý§Ö§ß. §á§à§Ý§î§Ù§à§Ó§Ñ§ä§Ö§Ý§Ö§Þ	§£§Ý§Ñ§ã§ß§Ú§Û
+STR_WP_IDLE_WP_DECODE_ERR	File error, restore default	§°§ê§Ú§Ò§Ü§Ñ §æ§Ñ§Û§Ý§Ñ, §Ó§à§ã§ã§ä§Ñ§ß§à§Ó§Ú§ä§î §Ù§ß§Ñ§é§Ö§ß§Ú§Ö §á§à §å§Þ§à§Ý§é§Ñ§ß§Ú§ð	
+STR_ID_DISPCHAR_THEME_WALLPAPER	Theme picture	§ª§Ù§à§Ò§â§Ñ§Ø§Ö§ß§Ú§Ö §Ú§Ù §ä§Ö§Þ§í	§©§à§Ò§â§Ñ§Ø§Ö§ß§ß§ñ §ä§Ö§Þ§Ú
+STR_ID_STATIC_WALLPAPER	Static wallpaper	§³§ä§Ñ§ä§Ú§é§Ö§ã§Ü§Ú§Ö §à§Ò§à§Ú	
+STR_ID_HOMESCREEN_WALLPAPER	Home screen wallpaper	§°§Ò§à§Ú §Ô§Ý§Ñ§Ó§ß§à§Ô§à §ï§Ü§â§Ñ§ß§Ñ	
+STR_ID_LOCKSCREEN_WALLPAPER	Lock screen wallpaper	§°§Ò§à§Ú §Ù§Ñ§Ò§Ý§à§Ü§Ú§â§à§Ó§Ñ§ß§ß§à§Ô§à §ï§Ü§â§Ñ§ß§Ñ	
+STR_ID_PHNSET_ON_OFF_SYSTEM	System	§³§Ú§ã§ä§Ö§Þ§Ñ	§³§Ú§ã§ä§Ö§Þ§ß§à
+STR_ID_PHNSET_ON_OFF_DOWNLOAD	User defined	§°§á§â§Ö§Õ§Ö§Ý§Ö§ß. §á§à§Ý§î§Ù§à§Ó§Ñ§ä§Ö§Ý§Ö§Þ	§£§Ý§Ñ§ã§ß? §ß§Ñ§Ý§Ñ§ê§ä§å§Ó§Ñ§ß§ß§ñ
+STR_SETTING_POWER_ON_DISPLAY	Power on display	§£§Ü§Ý§ð§é§Ú§ä§î §ï§Ü§â§Ñ§ß	§µ§Ó?§Þ§Ü§ß§å§ä§Ú §Õ§Ú§ã§á§Ý§Ö§Û
+STR_SETTING_POWER_OFF_DISPLAY	Power off display	§£§í§Ü§Ý§ð§é§Ú§ä§î §ï§Ü§â§Ñ§ß	§£§Ú§Þ§Ü§ß§å§ä§Ú §Õ§Ú§ã§á§Ý§Ö§Û
+STR_MENU_FLIGHT_MODE	Flight mode	§£ §ã§Ñ§Þ§à§Ý§Ö§ä§Ö	§²§Ö§Ø§Ú§Þ §á§à§Ý§î§à§ä§å
+STR_FLIGHT_MODE_NORMAL	Normal mode	§°§Ò§í§é§ß§í§Û §â§Ö§Ø§Ú§Þ	§¯§à§â§Þ§Ñ§Ý§î§ß§Ú§Û §â§Ö§Ø§Ú§Þ
+STR_FLIGHT_MODE_SILENT	Flight mode	§£ §ã§Ñ§Þ§à§Ý§Ö§ä§Ö	§²§Ö§Ø§Ú§Þ §á§à§Ý§î§à§ä§å
+STR_FLIGHT_MODE_PROGRESS	Mode switching	§³§Þ§Ö§ß§Ñ §â§Ö§Ø§Ú§Þ§Ñ	§±§Ö§â§Ö§Þ§Ú§Ü§Ñ§ß§ß§ñ §â§Ö§Ø§Ú§Þ§å
+STR_MENU9102_INITIAL_SETUP	Phone settings	§¯§Ñ§ã§ä§â§à§Û§Ü§Ú §ä§Ö§Ý§Ö§æ§à§ß§Ñ	§¯§Ñ§Ý§Ñ§ê§ä§å§Ó§Ñ§ß§ß§ñ §ä§Ö§Ý§Ö§æ§à§ß§å
+STR_MENU9141_TIME_AND_DATE	Set date and time	§£§â§Ö§Þ§ñ §Ú §Õ§Ñ§ä§Ñ	§¹§Ñ§ã §ä§Ñ §Õ§Ñ§ä§Ñ
+STR_MENU9142_SETHOMECITY	Set home city	§µ§Ü§Ñ§Ø§Ú§ä§Ö §Ô§à§â§à§Õ	§£§ã§ä§Ñ§ß§à§Ó§Ú§ä§Ú §ã§Ó§à? §Þ?§ã§ä§à
+STR_ID_TZ_CHANGE_DATETIME_TITLE	Updt. with time zone	§°§Ò§ß§à§Ó§Ý§Ö§ß§Ú§Ö §ã §å§é§Ö§ä§à§Þ §é§Ñ§ã§à§Ó§à§Ô§à §á§à§ñ§ã§Ñ	
+STR_ID_PHNSET_SET_DT	Set time/date	§µ§Ü§Ñ§Ø§Ú§ä§Ö §Ó§â§Ö§Þ§ñ/§Õ§Ñ§ä§å	§£§ã§ä§Ñ§ß§à§Ó§Ú§ä§Ú §é§Ñ§ã/§Õ§Ñ§ä§å
+STR_MENU9144_SETTIMEANDDATEFORMAT	Set format	§µ§Ü§Ñ§Ø§Ú§ä§Ö §æ§à§â§Þ§Ñ§ä	§£§ã§ä§Ñ§ß§à§Ó§Ý§Ö§ß§ß§ñ §æ§à§â§Þ§Ñ§ä§å
+STR_ID_PHNSET_SET_DST	Daylight saving	§­§Ö§ä§ß§Ö§Ö §Ó§â§Ö§Þ§ñ	§­?§ä§ß?§Û §é§Ñ§ã
+STR_ENTER_TIME_FORMAT_DISP_CAPTION	HH:MM	§¹§Ñ§ã:§®§Ú§ß	§¤§¤:§·§·
+STR_ENTER_DATE_FORMAT_DISP_CAPTION	YYYY/MM/DD	§¤§¤§¤§¤/§®§®/§¥§¥	
+STR_ID_PHNSET_SET_DATE_SEP	Date separator	§²§Ñ§Ù§Õ§Ö§Ý§Ú§ä§Ö§Ý§î §Õ§Ñ§ä§í	
+STR_ID_DD_MM_YYYY_S	DD MM YYYY	§¥§Ñ§ä§Ñ §®§Ö§ã§ñ§è §¤§à§Õ	
+STR_ID_MM_DD_YYYY_S	MM DD YYYY	§®§Ö§ã§ñ§è §¥§Ñ§ä§Ñ §¤§à§Õ	
+STR_ID_YYYY_MM_DD_S	YYYY MM DD	§¤§¤§¤§¤ §®§® §¥§¥	
+STR_MENU_LANGUAGE	Language	§Á§Ù§í§Ü	§®§à§Ó§Ñ
+STR_IDLE_SCR_DISP	Display	§±§Ñ§â§Ñ§Þ§Ö§ä§â§í §ï§Ü§â§Ñ§ß§Ñ	§£§Ý§Ñ§ã§ä§Ú§Ó§à§ã§ä? §Õ§Ú§ã§á§Ý§Ö§ñ
+STR_ID_PHNSET_DISPCHAR_IMGID_START	Image 1	§ª§Ù§à§Ò§â§Ñ§Ø§Ö§ß§Ú§Ö 1	
+STR_ID_PHNSET_DISPCHAR_ANMID_START	Animation 1	§¡§ß§Ú§Þ§Ñ§è§Ú§ñ 1	
+STR_ID_PHNSET_DISPCHAR_ANMID_1	Animation 2	§¡§ß§Ú§Þ§Ñ§è§Ú§ñ 2	§¡§ß?§Þ§Ñ§è?§ñ 2
+STR_ID_PHNSET_DISPCHAR_ANMID_2	Animation 3	§¡§ß§Ú§Þ§Ñ§è§Ú§ñ 3	§¡§ß?§Þ§Ñ§è?§ñ 3
+STR_ID_PHNSET_DISPCHAR_ANMID_3	Animation 4	§¡§ß§Ú§Þ§Ñ§è§Ú§ñ 4	§¡§ß?§Þ§Ñ§è?§ñ 4
+STR_ID_PHNSET_DISPCHAR_ANMID_4	Animation 5	§¡§ß§Ú§Þ§Ñ§è§Ú§ñ 5	§¡§ß?§Þ§Ñ§è?§ñ 5
+STR_ID_PHNSET_DISPCHAR_ANMID_5	Animation 6	§¡§ß§Ú§Þ§Ñ§è§Ú§ñ 6	§¡§ß?§Þ§Ñ§è?§ñ 6
+STR_ID_PHNSET_DISPCHAR_ANMID_6	Animation 7	§¡§ß§Ú§Þ§Ñ§è§Ú§ñ 7	§¡§ß?§Þ§Ñ§è?§ñ 7
+STR_ID_PHNSET_DISPCHAR_ANMID_7	Animation 8	§¡§ß§Ú§Þ§Ñ§è§Ú§ñ 8	§¡§ß?§Þ§Ñ§è?§ñ 8
+STR_ID_PHNSET_DISPCHAR_ANMID_8	Animation 9	§¡§ß§Ú§Þ§Ñ§è§Ú§ñ 9	§¡§ß?§Þ§Ñ§è?§ñ 9
+STR_ID_PHNSET_DISPCHAR_ANMID_9	Animation 10	§¡§ß§Ú§Þ§Ñ§è§Ú§ñ 10	§¡§ß?§Þ§Ñ§è?§ñ 10
+STR_ID_PHNSET_DISPCHAR_ANMID_10	Animation 11	§¡§ß§Ú§Þ§Ñ§è§Ú§ñ 11	§¡§ß?§Þ§Ñ§è?§ñ 11
+STR_ID_PHNSET_DISPCHAR_ANMID_11	Animation 12	§¡§ß§Ú§Þ§Ñ§è§Ú§ñ 12	§¡§ß?§Þ§Ñ§è?§ñ 12
+STR_ID_PHNSET_DISPCHAR_ANMID_12	Animation 13	§¡§ß§Ú§Þ§Ñ§è§Ú§ñ 13	§¡§ß?§Þ§Ñ§è?§ñ 13
+STR_ID_PHNSET_DISPCHAR_ANMID_13	Animation 14	§¡§ß§Ú§Þ§Ñ§è§Ú§ñ 14	§¡§ß?§Þ§Ñ§è?§ñ 14
+STR_ID_PHNSET_DISPCHAR_ANMID_14	Animation 15	§¡§ß§Ú§Þ§Ñ§è§Ú§ñ 15	§¡§ß?§Þ§Ñ§è?§ñ 15
+STR_ID_PHNSET_DISPCHAR_ANMID_15	Animation 16	§¡§ß§Ú§Þ§Ñ§è§Ú§ñ 16	§¡§ß?§Þ§Ñ§è?§ñ 16
+STR_ID_PHNSET_DISPCHAR_VDOID_START	Video 1	§£§Ú§Õ§Ö§à 1	
+STR_ID_PHNSET_DISPCHAR_VDOID_1	Video 2	§£§Ú§Õ§Ö§à 2	§£?§Õ§Ö§à 2
+STR_ID_PHNSET_DISPCHAR_VDOID_2	Video 3	§£§Ú§Õ§Ö§à 3	§£?§Õ§Ö§à 3
+STR_ID_PHNSET_DISPCHAR_VDOID_3	Video 4	§£§Ú§Õ§Ö§à 4	§£?§Õ§Ö§à 4
+STR_ID_PHNSET_DISPCHAR_VDOID_4	Video 5	§£§Ú§Õ§Ö§à 5	§£?§Õ§Ö§à 5
+STR_ID_PHNSET_DISPCHAR_VDOID_5	Video 6	§£§Ú§Õ§Ö§à 6	§£?§Õ§Ö§à 6
+STR_ID_PHNSET_DISPCHAR_VDOID_6	Video 7	§£§Ú§Õ§Ö§à 7	§£?§Õ§Ö§à 7
+STR_ID_PHNSET_DISPCHAR_VDOID_7	Video 8	§£§Ú§Õ§Ö§à 8	§£?§Õ§Ö§à 8
+STR_ID_PHNSET_DISPCHAR_VDOID_8	Video 9	§£§Ú§Õ§Ö§à 9	§£?§Õ§Ö§à 9
+STR_ID_PHNSET_DISPCHAR_VDOID_9	Video 10	§£§Ú§Õ§Ö§à 10	§£?§Õ§Ö§à 10
+STR_ID_PHNSET_DISPCHAR_VDOID_10	Video 11	§£§Ú§Õ§Ö§à 11	§£?§Õ§Ö§à 11
+STR_ID_PHNSET_DISPCHAR_VDOID_11	Video 12	§£§Ú§Õ§Ö§à 12	§£?§Õ§Ö§à 12
+STR_ID_PHNSET_DISPCHAR_VDOID_12	Video 13	§£§Ú§Õ§Ö§à 13	§£?§Õ§Ö§à 13
+STR_ID_PHNSET_DISPCHAR_VDOID_13	Video 14	§£§Ú§Õ§Ö§à 14	§£?§Õ§Ö§à 14
+STR_ID_PHNSET_DISPCHAR_VDOID_14	Video 15	§£§Ú§Õ§Ö§à 15	§£?§Õ§Ö§à 15
+STR_ID_PHNSET_DISPCHAR_VDOID_15	Video 16	§£§Ú§Õ§Ö§à 16	§£?§Õ§Ö§à 16
+STR_SETTING_SHOW_DT_TIME	Show date and time	§±§à§Ü§Ñ§Ù §Õ§Ñ§ä§í §Ú §Ó§â§Ö§Þ§Ö§ß§Ú	§±§à§Ü§Ñ§Ù§å§Ó§Ñ§ä§Ú §Õ§Ñ§ä§å §ä§Ñ §é§Ñ§ã
+STR_DT_SEP_DOT	.	.	
+STR_DT_SEP_COLON	:	:	
+STR_DT_SEP_SLOPE	/	/	
+STR_DT_SEP_LINE	-	-	
+STR_24	24	24	
+STR_12	12	12	
+STR_PHNSET_DATETIME_DATE	Date	§¥§Ñ§ä§Ñ	
+STR_PHNSET_DATETIME_TIME	Time	§£§â§Ö§Þ§ñ	
+STR_PHNSET_DATETIME_DISPLAY	Display	§°§ä§à§Ò§â§Ñ§Ù§Ú§ä§î	
+STR_PHNSET_FORMATE_TIMEFORMATE	Time format	§¶§à§â§Þ§Ñ§ä §Ó§â§Ö§Þ§Ö§ß§Ú	
+STR_PHNSET_FORMATE_DATEFORMATE	Date format	§¶§à§â§Þ§Ñ§ä §Õ§Ñ§ä§í	
+STR_SETTING_SOS_MAINMEN	SOS Setting		
+STR_SETTING_SOS_KEY_STATUS	SOS Status		
+STR_SETTING_SOS_KEY_STATUS_ON	SOS On		
+STR_SETTING_SOS_KEY_STATUS_OFF	SOS Off		
+STR_SETTING_SOS_HELIP_MESSAGE	SOS text		
+STR_SETTING_SOS_HELIP_MESSAGE_STATUS	SMS_Switch		
+STR_SETTING_SOS_HELIP_MESSAGE_STATUS_ON	SOS_SMS On		
+STR_SETTING_SOS_HELIP_MESSAGE_STATUS_OFF	SOS_SMS Off		
+STR_SETTING_SOS_USER_INFORMATION	User info		
+STR_SETTING_SOS_HELIP_DESICRIPTION	Help info		
+STR_SETTING_SOS_STOP	SOS Aborted		
+STR_SETTING_SOS_SEND_MSG	Send Message!		
+STR_SETTING_SOS_SEND_SUCCUESS	Sent Successufully!		
+STR_SOS_HELIP_DESICRIPTION	Long press the SOS_key 3 sec will open this feature.The number in Emergence Number will be dialed and SOS_SMS will be send.If answered,this flow will be over.Otherwise,alert will keep alarm with one hour and popup the user's information.To cancel this feature,just long press the SOS_Key.		
+STR_SETTING_SOS_USER_INFO_DEFAULT	User information here		
+STR_SETTING_SOS_ALERT	In the emergency...		
+STR_ALARM_SOUND	Alarm sound		
+STR_SETTING_SOS_SWITCH	SOS Switch		
+STR_SETTING_SOS_MESSAGE_MENU	SOS Message		
+STR_SETTING_SOS_MESSAGE	SOS message		
+STR_SETTING_SOS_ALARM	SOS alarm		
+STR_SETTING_RESTORE_CONFIRM	Restore settings and restart the phone?	§£§à§ã§ã§ä§Ñ§ß§à§Ó§Ú§ä§î §ß§Ñ§ã§ä§â§à§Û§Ü§Ú §Ú §á§Ö§â§Ö§Ù§Ñ§Ô§â§å§Ù§Ú§ä§î?	§´§Ñ§Ü §Õ§Ý§ñ §Ó?§Õ§ß§à§Ó§Ý§Ö§ß§ß§ñ §ä§Ñ §á§Ö§â§Ö§Ù§Ñ§Ó§Ñ§ß§ä§Ñ§Ø§Ö§ß§ß§ñ
+STR_SETTING_RESTORE_PROCESSING	Restore processing	§£§à§ã§ã§ä§Ñ§ß§à§Ó§Ú§ä§î §à§Ò§â§Ñ§Ò§à§ä§Ü§å 	§£?§Õ§ß§à§Ó§Ú§ä§Ú §à§Ò§â§à§Ò§Ü§å
+STR_ID_RESTORE_TITLE	Restore settings	§£§à§ã§ã§ä§Ñ§ß§à§Ó§Ý§Ö§ß§Ú§Ö §ß§Ñ§ã§ä§â§à§Ö§Ü	
+STR_ID_NETSET_NETWORK_SELECTION	Network selection	§£§í§Ò§à§â §ã§Ö§ä§Ú	
+STR_ID_NETSET_NETSEL_SELECTION_MODE	Selection mode	§²§Ö§Ø§Ú§Þ §Ó§í§Ò§à§â§Ñ	
+STR_ID_NETSET_NETSEL_NETWORK_LIST	Network list	§³§á§Ú§ã§à§Ü §ã§Ö§ä§Ö§Û	
+STR_ID_NETSET_NW_LIST_FAIL	Failed to search network	§¯§Ö §å§Õ§Ñ§Ý§à§ã§î §ß§Ñ§Û§ä§Ú §ã§Ö§ä§î	§¯§Ö §Ó§Õ§Ñ§Ý§à§ã§ñ §Ù§ß§Ñ§Û§ä§Ú §Þ§Ö§â§Ö§Ø§å!
+STD_ID_NETSET_NW_SELECT_FAIL	Failed to register	§¯§Ö §å§Õ§Ñ§Ý§à§ã§î §Ù§Ñ§â§Ö§Ô§Ú§ã§ä§â§Ú§â§à§Ó§Ñ§ä§î§ã§ñ §Ó §ã§Ö§ä§Ú	§¯§Ö §Ó§Õ§Ñ§Ý§à§ã§ñ §Ù§Ñ§â§Ö?§ã§ä§â§å§Ó§Ñ§ä§Ú§ã§ñ!
+STR_ID_NETSET_REGISTERING_NW	Registering	§²§Ö§Ô§Ú§ã§ä§â§Ñ§è§Ú§ñ	§²§Ö?§ã§ä§â§Ñ§è?§ñ
+STR_ID_NETSET_GPRS_CONNECTION	GPRS connection	GPRS §ã§à§Ö§Õ§Ú§ß§Ö§ß§Ú§Ö	
+STR_ID_NETSET_GPRS_CONNECTION_ALWAYS	Always	§£§ã§Ö§Ô§Õ§Ñ	
+STR_ID_NETSET_GPRS_CONNECTION_WHENNEEDED	When needed	§£ §ã§Ý§å§é§Ñ§Ö §ß§Ö§à§Ò§ç§à§Õ§Ú§Þ§à§ã§ä§Ú	
+STR_ID_NETSET_PCH	GPRS transfer pref.	§¯§Ñ§ã§ä§â§à§Û§Ü§Ú §á§Ö§â§Ö§Õ§Ñ§é§Ú GPRS.	
+STR_ID_NETSET_PCH_DATA_PREFER	Data prefer	§±§â§Ö§Õ§á. §á§Ö§â§Ö§Õ§Ñ§é§Ñ §Õ§Ñ§ß§ß§í§ç	
+STR_ID_NETSET_PCH_CALL_PREFER	Call prefer	§±§â§Ö§Õ§á. §Ó§í§Ù§à§Ó§í	
+STR_ID_MODE_SWITCH_SWITCHING	Mode switching	§±§Ö§â§Ö§Ü§Ý§ð§é§Ö§ß§Ú§Ö §Õ§Ó§à§Û§ß§à§Ô§à §â§Ö§Ø§Ú§Þ§Ñ	
+STR_ID_MODE_SWITCH_INVALID	Disable switch mode	§°§ä§Ü§Ý§ð§é§Ú§ä§î §â§Ö§Ø§Ú§Þ §á§Ö§â§Ö§Ü§Ý§ð§é§Ö§ß§Ú§ñ	
+STR_ID_PHNSET_DOWNLOAD_DATA_INVALID	Invalid download RF calibration data (affects UE performance test)	§¯§Ö§Õ§à§á§å§ã§ä§Ú§Þ§í§Ö §Ù§Ñ§Ô§â§å§Ø§Ö§ß§ß§í§Ö §Õ§Ñ§ß§ß§í§Ö §Ü§Ñ§Ý§Ú§Ò§â§à§Ó§Ü§Ú	
+STR_ID_SAT_SIM_REFRESH	SIM is refreshing	§°§Ò§ß§à§Ó§Ý§Ö§ß§Ú§Ö SIM	
+STR_ID_SAT_LANGUAGE_CHANGED	Language changed	§Á§Ù§í§Ü §Ú§Ù§Þ§Ö§ß§Ö§ß	
+STR_MAIN_MENU_ID	Main menu	§¤§Ý§Ñ§Ó§ß§à§Ö §Þ§Ö§ß§ð	
+SHORTCUTS_TITLE_STRING_ID	Shortcuts	§Á§â§Ý§í§Ü§Ú	§º§Ó§Ú§Õ§Ü? §Ü§Ý§Ñ§Ó?§ê?
+SHORTCUTS_FULL_MSG_STRING_ID	Full	§³§Ó§à§Ò§à§Õ§ß§à§Ô§à §Þ§Ö§ã§ä§Ñ §ß§Ö§ä	§©§Ñ§á§à§Ó§ß§Ö§ß§à
+SHORTCUTS_CHANGE_ORDER_STRING_ID	Change order	§ª§Ù§Þ§Ö§ß§Ú§ä§î §á§à§â§ñ§Õ§à§Ü	§©§Þ?§ß§Ú§ä§Ú §á§à§â§ñ§Õ§à§Ü
+STR_DEDICATED_KEY	Dedicated keys	§³§á§Ö§è. §Ü§Ý§ð§é	§£§Ú§Õ?§Ý§Ö§ß§Ú§Û §Ü§Ý§ð§é
+STR_DEDICATED_UP_KEY	Up	§£§Ó§Ö§â§ç	§£§Ô§à§â§å
+STR_DEDICATED_DOWN	Down	§£§ß§Ú§Ù	§£§ß§Ú§Ù
+STR_DEDICATED_LEFT	Left	§£§Ý§Ö§Ó§à	§­?§Ó§à§â§å§é
+STR_DEDICATED_RIGHT	Right	§£§á§â§Ñ§Ó§à	§±§â§Ñ§Ó§à§â§å§é
+STR_ID_CALC_MENU	Calculator	§¬§Ñ§Ý§î§Ü§å§Ý§ñ§ä§à§â	§¬§Ñ§Ý§î§Ü§å§Ý§ñ§ä§à§â
+ALARMS_SNOOZE_STRINGID	Snooze	§¥§â§Ö§Þ§à§ä§Ñ	§¥§â?§Þ§Ñ§ä§Ú
+ALARM_REPEAT_STRING	Repeat	§±§à§Ó§ä§à§â	§±§à§Ó§ä§à§â§Ú§ä§Ú
+ALARM_ONCE_STRING	Once	§°§Õ§Ú§ß §â§Ñ§Ù	§°§Õ§Ú§ß §â§Ñ§Ù
+ALARM_EVREYDAY_STRING	Everyday	§¦§Ø§Ö§Õ§ß§Ö§Ó§ß§à	§»§à§Õ§ß§ñ
+ALARM_DAYS_STRING	Custom	§¥§ß§Ú	§¥§ß?§Ó
+ALARM_WEEKLY_STRING	Weekly	§¦§Ø§Ö§ß§Ö§Õ§Ö§Ý§î§ß§à	§»§à§ä§Ú§Ø§ß§ñ
+ALARM_MONTHLY_STRING	Monthly	§¦§Ø§Ö§Þ§Ö§ã§ñ§é§ß§à	§»§à§Þ?§ã§ñ§è§ñ
+ALARM_YEARLY_STRING	Yearly	§¦§Ø§Ö§Ô§à§Õ§ß§à	§»§à§â§à§Ü§å
+ALARMS_POWER_ON	Power on?	§£§Ü§Ý.?	§µ§Ó?§Þ§Ü§ß§å§ä§Ú
+STR_ID_ALM_AUDIO_OPTIONS	Alarm tone	§©§Ó§à§ß§à§Ü §Ò§å§Õ§Ú§Ý§î§ß§Ú§Ü§Ñ	§°§á§è?? §Ñ§å§Õ?§à
+STR_ID_ALM_AUDIO_OPTIONS_TONE_FILE_NOT_AVAILABLE	Tone file not available	§¡§å§Õ§Ú§à§æ§Ñ§Û§Ý §ß§Ö§Õ§à§ã§ä§å§á§Ö§ß	
+ALARMS_SETTING_SNOOZE_INTERVAL	Snooze (min)	§¥§à§ã§í§á§Ñ§ä§î (§Þ§Ú§ß.)	§¥§â?§Þ§Ñ§ä§Ú(§ç§Ó)
+STR_ID_ALM_DISABLE_ASK	Invalid repeat type, disable the alarm?	§¯§Ö§Ó§Ö§â§ß§í§Û §ä§Ú§á §á§à§Ó§ä§à§â§Ö§ß§Ú§ñ, §à§ä§Ü§Ý§ð§é§Ú§ä§î §ä§â§Ö§Ó§à§Ô§å?	
+STR_ID_ALM_NO_MARKED	No marked	§¯§Ö §à§ä§Þ§Ö§é§Ö§ß§à	
+ORGANIZER_MENU_CALENDER_STRINGID	Calendar	§¬§Ñ§Ý§Ö§ß§Õ§Ñ§â§î	§¬§Ñ§Ý§Ö§ß§Õ§Ñ§â
+STR_CLNDR_JUMP_TO	Jump to date	§±§Ö§â§Ö§Û§ä§Ú §Ü §Õ§Ñ§ä§Ö	§±§Ö§â§Ö§Û§ä§Ú §ß§Ñ §Õ§Ñ§ä§å
+STR_CLNDR_GOTO_TODAY	Go to today	§±§Ö§â§Ö§Û§ä§Ú §Ü §ã§Ö§Ô§à§Õ§ß§ñ§ê§ß§Ö§Û §Õ§Ñ§ä§Ö	
+STR_CLNDR_WRONG_DATE	Date error	§°§ê§Ú§Ò§Ü§Ñ §Õ§Ñ§ä§í	§±§à§Þ§Ú§Ý§Ü§Ñ §Õ§Ñ§ä§Ú!
+STR_CLNDR_OUT_OF_CALENDAR	Valid date is 1970~2030	§¥§Ö§Û§ã§ä§Ó. §Õ§Ñ§ä§Ñ 2000~2030	§¥?§Û§ã§ß§Ñ §Õ§Ñ§ä§Ñ: 1970~2030
+STR_CLNDR_WEEKLY_VIEW	Go to weekly view	§±§â§à§ã§Þ§à§ä§â §á§à §ß§Ö§Õ§Ö§Ý§ñ§Þ	§±§Ö§â§Ö§Û§ä§Ú §Õ§à §á§Ö§â§Ö§Ô§Ý§ñ§Õ§å §Ù§Ñ §ä§Ú§Ø§ß§ñ§Þ§Ú
+STR_CLNDR_MONTHLY_VIEW	Go to monthly view	§±§â§à§ã§Þ§à§ä§â §á§à §Þ§Ö§ã§ñ§è§Ñ§Þ	§±§Ö§â§Ö§Û§ä§Ú §Õ§à §á§Ö§â§Ö§Ô§Ý§ñ§Õ§å §Ù§Ñ §Þ?§ã§ñ§è§ñ§Þ§Ú
+STR_CLNDR_DAILY_VIEW	Go to daily view	§°§ä§Ü§â§í§ä§î §Ö§Ø§Ö§Õ§ß§Ö§Ó§ß§Ú§Ü	
+STR_ID_CLNDR_DELETE_EVENT	Delete event	§µ§Õ§Ñ§Ý§Ú§ä§î §ã§à§Ò§í§ä§Ú§Ö	
+STR_ID_CLNDR_DELETE_ALL	All	§£§ã§Ö	
+STR_ID_CLNDR_DELETE_ALL_OVERDUE_QUERY	Delete overdue events?	§µ§Õ§Ñ§Ý§Ú§ä§î §á§â§à§ã§â§à§é§Ö§ß§ß§í§Ö §ã§à§Ò§í§ä§Ú§ñ?	
+STR_ID_CLNDR_DELETE_ALL_QUERY	Delete all events?	§µ§Õ§Ñ§Ý§Ú§ä§î §Ó§ã§Ö §ã§à§Ò§í§ä§Ú§ñ?	
+STR_ID_CLNDR_DELETE_ALL_OVERDUE	Overdue	§±§â§à§ã§â§à§é§Ö§ß§ß§í§Ö	
+STR_ID_CLNDR_DELETE_SPEC_PERIOD_QUERY	Delete events in this period?	§µ§Õ§Ñ§Ý§Ú§ä§î §ã§à§Ò§í§ä§Ú§ñ §Ù§Ñ §å§Ü§Ñ§Ù§Ñ§ß§ß§í§Û §á§Ö§â§Ú§à§Õ?	
+STR_ID_CLNDR_DELETE_SPEC_PERIOD	Specific period	§µ§Ü§Ñ§Ù§Ñ§ß§ß§í§Û §á§Ö§â§Ú§à§Õ	
+STR_CLNDR_ADD_TASK	Add event	§¥§à§Ò§Ñ§Ó§Ú§ä§î §ã§à§Ò§í§ä§Ú§Ö	§¥§à§Õ§Ñ§ä§Ú §Ù§Ñ§Ó§Õ§Ñ§ß§ß§ñ
+STR_ID_CLNDR_VIEW_ALL	View all	§³§Þ§à§ä§â§Ö§ä§î §Ó§ã§Ö	
+STR_ID_TDL_EVENT_DELETED	 event deleted	  §ã§à§Ò§í§ä§Ú§Ö §å§Õ§Ñ§Ý§Ö§ß§à	
+STR_ID_TDL_EVENTS_DELETED	 events deleted	  §ã§à§Ò§í§ä. §å§Õ§Ñ§Ý§Ö§ß§à	
+STR_ID_CLNDR_EVENT_SELECT_ALL	Select all	§£§í§Ò§â§Ñ§ä§î §Ó§ã§Ö	
+STR_ID_CLNDR_EVENT_LOCAL	Local event	§­§à§Ü§Ñ§Ý§î§ß§à§Ö §ã§à§Ò§í§ä§Ú§Ö	
+STR_ID_CLNDR_EVENT_FACEBOOK	Facebook	Facebook	
+STR_ID_CLNDR_EVENT_KAIXIN	Kaixin	Kaixin	
+STR_ID_CLNDR_EVENT_RENREN	Renren	Renren	
+STR_ID_CLNDR_EVENT_TWITTER	Twitter	§´§Ó§Ú§ä§ä§Ö§â	
+STR_ID_CAL_COLON	:	:	
+STR_ID_CLNDR_FIRST_DAY_OF_WEEK	Week starts on	§¯§Ñ§é§Ñ§Ý§à §ß§Ö§Õ§Ö§Ý§Ú	
+STR_TODO_LIST_USE_TEMPLATE	Templates	§º§Ñ§Ò§Ý§à§ß§í	§£§Ú§Ü§à§â§Ú§ã§ä§Ñ§ä§Ú §º§Ñ§Ò§Ý§à§ß
+STR_TODO_LIST_DELETE_ONE_TASK_QUERY	Delete?	§µ§Õ§Ñ§Ý§Ú§ä§î?	§£§Ú§Õ§Ñ§Ý§Ú§ä§Ú
+STR_TODO_LIST_DELETE_ALL_TASK_QUERY	Delete all?	§µ§Õ§Ñ§Ý§Ú§ä§î §Ó§ã§Ö?	§£§Ú§Õ§Ñ§Ý§Ú§ä§Ú §Ó§ã§Ö
+STR_TODO_TEMPLATE_1	Have a date with somebody	§¤§à§Õ§à§Ó§ë§Ú§ß§Ñ	§±?§ä§Ú §Ù §Ü§Ú§Þ§à§ã§î §ß§Ñ §á§à§Ò§Ñ§é§Ö§ß§ß§ñ
+STR_TODO_TEMPLATE_2	Meeting on Tue	§³§Ó§Ú§Õ§Ñ§ß§Ú§Ö	§©§å§ã§ä§â?§é §å §£§ä
+STR_TODO_TEMPLATE_3	Make a phone call to somebody	§±§à§ç§à§Õ §Ù§Ñ §á§à§Ü§å§á§Ü§Ñ§Þ§Ú	§©§Ñ§ä§Ö§Ý§Ö§æ§à§ß§å§Ó§Ñ§ä§Ú §Ü§à§Þ§å§ã§î
+STR_TODO_TEMPLATE_4	Go shopping with somebody	§£§ã§ä§â§Ö§é§Ñ	§±?§ä§Ú §Ù §Ü§Ú§Þ§à§ã§î §Ù§Ñ §á§à§Ü§å§á§Ü§Ñ§Þ§Ú
+STR_TODO_TEMPLATE_5	Send mail to somebody	§£§Ö§é§Ö§â§Ú§ß§Ü§Ñ	§¯§Ñ§Õ?§ã§Ý§Ñ§ä§Ú §Ü§à§Þ§å§ã§î §Ý§Ú§ã§ä§Ñ
+STR_TODO_TEMPLATE_6	Remember to bring something	§£§Ù§ñ§ä§î §ã §ã§à§Ò§à§Û	§¯§Ö §Ù§Ñ§Ò§å§ä§Ú §ë§à§ã§î §á§â§Ú§ß§Ö§ã§ä§Ú
+STR_TODO_TEMPLATE_7	Buy something	§¬§å§á§Ú§ä§î	§»§à§ã§î §Ü§å§á§Ú§ä§Ú
+STR_TODO_TEMPLATE_8	Take child at 12:00	§©§Ñ§Ò§â§Ñ§ä§î §â§Ö§Ò§Ö§ß§Ü§Ñ §Ó 12:00	§©§Ñ§Ò§â§Ñ§ä§Ú §Õ§Ú§ä§Ú§ß§å §à 12.00
+STR_TODO_TEMPLATE_9	Somebody's birthday	§¥§Ö§ß§î §â§à§Ø§Õ§Ö§ß§Ú§ñ	§µ §Ü§à§Ô§à§ã§î §Õ§Ö§ß§î §ß§Ñ§â§à§Õ§Ø§Ö§ß§ß§ñ
+STR_TODO_TEMPLATE_10	Wedding anniversary	§¤§à§Õ§à§Ó§ë§Ú§ß§Ñ §ã§Ó§Ñ§Õ§î§Ò§í	§²?§é§ß§Ú§è§ñ §Ó§Ö§ã?§Ý§Ý§ñ
+STR_TODO_TEMPLATE_NOT_ENOUGH_SPACE	Not enough space	§¯§Ö§Õ§à§ã§ä§Ñ§ä§à§é§ß§à §Þ§Ö§ã§ä§Ñ	
+STR_TODO_REPEAT	Repeat	§±§à§Ó§ä§à§â	§±§à§Ó§ä§à§â§Ú§ä§Ú
+STR_TODO_ALARM_BEFORE_5_MINS	5 min before	§©§Ñ 5 §Þ§Ú§ß.	§©§Ñ 5 §ç§Ó.
+STR_TODO_ALARM_BEFORE_10_MINS	10 min before	§©§Ñ 10 §Þ§Ú§ß.	
+STR_TODO_ALARM_BEFORE_15_MINS	15 min before	§©§Ñ 15 §Þ§Ú§ß.	§©§Ñ 15 §ç§Ó.
+STR_TODO_ALARM_BEFORE_30_MINS	30 min before	§©§Ñ 30 §Þ§Ú§ß.	§©§Ñ 30 §ç§Ó.
+STR_TODO_SET_REPEAT_ONCE	Saved. Repeat should be once	§¥§Ý§ñ §á§à§Ó§ä§à§â§Ñ §Õ§à§Ý§Ø§ß§à §ã§ä§à§ñ§ä§î §Ù§ß§Ñ§é§Ö§ß§Ú§Ö ?§°§Õ§Ú§ß §â§Ñ§Ù?	§±§à§Ó§ä§à§â §á§à§Ó§Ú§ß§Ö§ß §Ò§å§ä§Ú §à§Õ§Ú§ß §â§Ñ§Ù
+STR_TODO_REPEAT_INVALID	Repeat type invalid	§¯§Ö§Õ§à§á§å§ã§ä§Ú§Þ§í§Û §â§Ö§Ø§Ú§Þ §á§à§Ó§ä§à§â§Ñ	
+STR_ID_TDL_TODAY	Today	§³§Ö§Ô§à§Õ§ß§ñ	
+STR_ID_TDL_SELECT	Select	§£§í§Ò§à§â	§£§Ú§Ò§â§Ñ§ä§Ú
+STR_ID_TDL_NO_CONTENT	No content	§¯§Ö§ä §ã§à§Õ§Ö§â§Ø§Ú§Þ§à§Ô§à	
+STR_ID_TDL_CATEGORY	Type	§´§Ú§á	
+STR_ID_TODO_STATUS_UNDONE	Undone	§¯§Ö§Ô§à§ä§à§Ó§à	
+STR_TODO_ALARM_OFF_DONE	Saved. Invalid alarm time	§³§à§ç§â§Ñ§ß§Ö§ß§à. §¢§å§Õ§Ú§Ý§î§ß§Ú§Ü §Ó§í§Ü§Ý§ð§é§Ö§ß.	§£§Ú§Ü§à§ß§Ñ§ß§à. §¢§å§Õ§Ú§Ý§î§ß§Ú§Ü §Ó§Ú§Þ§Ü§ß§Ö§ß§à.
+STR_ID_TODO_SEARCH_BY_TIME	By time	§±§à §Ó§â§Ö§Þ§Ö§ß§Ú	
+STR_ID_TODO_SEARCH_BY_NOTE	By subject	§±§à §ä§Ö§Þ§Ö	
+STR_ID_TODO_SEARCH_BY_LOCATION	By location	§±§à §Þ§Ö§ã§ä§à§á§à§Ý§à§Ø§Ö§ß§Ú§ð	
+ORGANIZER_MENU_TODOLIST_STRINGID	Tasks	§©§Ñ§Õ§Ñ§é§Ú	§³§á§Ú§ã§à§Ü §»§à §Ù§â§à§Ò§Ú§ä§Ú
+STR_TODO_LIST_LIST_FULL_MSG	Task list is full	§³§á§Ú§ã§à§Ü §Ù§Ñ§Õ§Ñ§é §á§à§Ý§ß§í§Û	§³§á§Ú§ã§à§Ü §Ù§Ñ§Ó§Õ§Ñ§ß§î §Ù§Ñ§á§à§Ó§ß§Ö§ß§Ú§Û!
+STR_ID_TDL_NO_TASKS	No tasks	§¯§Ö§ä §Ù§Ñ§Õ§Ñ§é	
+STR_ID_TDL_TASK_DELETED	 task deleted	  §Ù§Ñ§Õ§Ñ§é§Ñ §å§Õ§Ñ§Ý§Ö§ß§Ñ	
+STR_ID_TDL_TASKS_DELETED	 tasks deleted	  §Ù§Ñ§Õ§Ñ§é §å§Õ§Ñ§Ý§Ö§ß§à	
+STR_ID_TDL_ADD_TASK	Add task	§¥§à§Ò§Ñ§Ó§Ú§ä§î §Ù§Ñ§Õ§Ñ§é§å	
+STR_ID_TDL_TASKS	Tasks	§©§Ñ§Õ§Ñ§é§Ú	
+STR_ID_TODO_STATUS	Status	§³§ä§Ñ§ä§å§ã	
+STR_TODO_LIST_VIEW_UNDONE	View uncompleted	§±§â§à§ã§Þ§à§ä§â §ß§Ö§Ù§Ñ§Ó§Ö§â§ê§Ö§ß	
+STR_TODO_LIST_JUMP_TO_DATE	Jump to date	§±§Ö§â§Ö§Û§ä§Ú §Ü §Õ§Ñ§ä§Ö	
+STR_TODO_LIST_OVERWRITE_QUERY	Overwrite the old one?	§©§Ñ§Þ§Ö§ß§Ú§ä§î §ã§ä§Ñ§â§í§Û?	
+STR_TODO_LIST_DELETE_ALL_QUERY	Delete all tasks?	§µ§Õ§Ñ§Ý§Ú§ä§î §Ó§ã§Ö §Ù§Ñ§Õ§Ñ§é§Ú?	
+STR_TODO_LIST_DELETE_OVERDUE_QUERY	Delete overdue tasks?	§µ§Õ§Ñ§Ý§Ú§ä§î §á§â§à§ã§â§à§é§Ö§ß§ß§í§Ö §Ù§Ñ§Õ§Ñ§é§Ú?	
+STR_TODO_LIST_DELETE_OVERDUE	Delete overdue	§µ§Õ§Ñ§Ý§Ú§ä§î §á§â§à§ã§â§à§é§Ö§ß§ß§í§Ö	
+STR_ID_TDL_DUETIME	Due Time	§¯§Ñ§Õ§Ý§Ö§Ø§Ñ§ë§Ú§Û §ã§â§à§Ü	
+STR_TODO_LIST_WRONG_DATE_MSG	End time should not be earlier than start time	§£§â§Ö§Þ§ñ §à§Ü§à§ß§é§Ñ§ß§Ú§ñ §Õ§à§Ý§Ø§ß§à §Ò§í§ä§î §Ò§à§Ý§î§ê§Ö §Ó§â§Ö§Þ§Ö§ß§Ú §ß§Ñ§é§Ñ§Ý§Ñ	§£§Ó§Ö§Õ?§ä§î §á§â§Ñ§Ó§Ú§Ý§î§ß§å §Õ§Ñ§ä§å
+STR_TODO_START_TIME	Start	§¯§Ñ§é§Ñ§Ý§à	§±§à§é§Ú§ß§Ñ?§ä§î§ã§ñ
+STR_TODO_END_TIME	End	§¬§à§ß§Ö§è	§©§Ñ§Ü?§ß§é§å?§ä§î§ã§ñ
+STR_TODO_LOCATION	Location	§²§Ñ§ã§á§à§Ý§à§Ø§Ö§ß§Ú§Ö	§²§à§Ù§ä§Ñ§ê§å§Ó§Ñ§ß§ß§ñ
+STR_ID_TDL_CAL	Calendar	§¬§Ñ§Ý§Ö§ß§Õ§Ñ§â§î	
+STR_ID_TDL_NO_EVENTS	No events	§¯§Ö§ä §ã§à§Ò§í§ä§Ú§Û	
+STR_ID_TDL_CAL_FULL	Calendar list is full	§³§á§Ú§ã§à§Ü §Ü§Ñ§Ý§Ö§ß§Õ§Ñ§â§ñ §Ù§Ñ§á§à§Ý§ß§Ö§ß	
+STR_ID_TDL_ADD_APPOINTMENT	Add appointment	§¥§à§Ò§Ñ§Ó§Ú§ä§î §Ó§ã§ä§â§Ö§é§å	
+STR_ID_TDL_ADD_EVENT	Add event	§¥§à§Ò§Ñ§Ó§Ú§ä§î §ã§à§Ò§í§ä§Ú§Ö	
+STR_ID_TDL_EVENTS	Events	§³§à§Ò§í§ä§Ú§ñ	
+STR_TODO_REMINDER	Reminder	§¯§Ñ§á§à§Þ§Ú§ß§Ñ§ß§Ú§Ö	§¯§Ñ§Ô§Ñ§Õ§å§Ó§Ñ§ß§ß§ñ
+STR_TODO_MEETING	Meeting	§£§ã§ä§â§Ö§é§Ñ	§©§å§ã§ä§â?§é
+STR_TODO_COURSE	Course	§¬§å§â§ã	§±§â§Ú§é§Ú§ß§Ñ
+STR_TODO_DATE	Date	§¥§Ñ§ä§Ñ	§¥§Ñ§ä§Ñ
+STR_TODO_CALL	Call	§£§í§Ù§à§Ó	§±§à§Õ§Ù§Ó§à§ß§Ú§ä§Ú
+STR_TODO_ANNIVERSARY	Anniversary	§¥§Ö§ß§î §â§à§Ø§Õ§Ö§ß§Ú§ñ	§²?§é§ß§Ú§è§ñ
+STR_TODO_BIRTHDAY	Birthday	§¥§Ö§ß§î §â§à§Ø§Õ§Ö§ß§Ú§ñ	
+STR_ID_TDL_EVENT_INVALID_END_TIME	Please set the end time after the start time	§©§Ñ§Õ§Ñ§Û§ä§Ö §Ó§â§Ö§Þ§ñ §à§Ü§à§ß§é§Ñ§ß§Ú§ñ §á§à§ã§Ý§Ö §Ó§â§Ö§Þ§Ö§ß§Ú §ß§Ñ§é§Ñ§Ý§Ñ	
+STR_TODO_NO_CONTENT_TO_SELECT	No task or calendar to select	§¯§Ö§ä §Ù§Ñ§Õ§Ñ§é §Ú§Ý§Ú §Ü§Ñ§Ý§Ö§ß§Õ§Ñ§â§ñ	
+STR_ID_VCLNDR	vCalendar	vCalendar	
+STR_ID_VOBJ_RECV_VCLNDR	Received vCalendar	§±§à§Ý§å§é§Ö§ß§ß§à§Ö §â§Ñ§ã§á§Ú§ã§Ñ§ß§Ú§Ö	§°§ä§â§Ú§Þ§Ñ§ä§Ú §Ü§Ñ§Ý§Ö§ß§Õ§Ñ§â
+STR_ID_VOBJ_RECEIVE_FALL	Failed to receive	§³§Ò§à§Û §á§à§Ý§å§é§Ö§ß§Ú§ñ	
+STR_ID_VOBJ_FORWARD_TO_FILE_MGR	Save as file	§³§à§ç§â§Ñ§ß. §Ü§Ñ§Ü §æ§Ñ§Û§Ý	§©§Ò§Ö§â§Ö§Ô§ä§Ú §å §æ§Ñ§Û§Ý
+STR_ID_VCLNDR_FORWARD	Send vCalendar	§°§ä§á§â§Ñ§Ó§Ú§ä§î §â§Ñ§ã§á§Ú§ã§Ñ§ß§Ú§Ö	§¯§Ñ§Õ?§ã§Ý§Ñ§ä§Ú vCalendar
+STR_ID_VCLNDR_SAVE_TO_TDL	Save to Tasks	C§à§ç§â§Ñ§ß. §©§Ñ§Õ§Ñ§é§Ú	
+STR_ID_VCLNDR_SAVE_TO_CLNDR	Save to Calendar	§³§à§ç§â§Ñ§ß§Ú§ä§î §Ó §Ü§Ñ§Ý§Ö§ß§Õ§Ñ§â§Ö	
+STR_ID_VCLNDR_TASK_FULL	Task full	§©§Ñ§Õ§Ñ§é§Ñ §á§à§Ý§ß§Ñ§ñ	§©§Ñ§Ó§Õ§Ñ§ß§ß§ñ §Ù§Ñ§á§à§Ó§ß§Ö§ß?
+STR_ID_UCM_DIALER	Dialer	§¯§à§Þ§Ö§â§à§ß§Ñ§Ò§Ú§â§Ñ§ä§Ö§Ý§î	
+STR_ID_UCM_CALLING	Calling	§¥§à§Ù§Ó§à§ß	§£§Ú§Ü§Ý§Ú§Ü
+STR_ID_UCM_VOICE_ACTIVE	Voice active	§¤§à§Ý§à§ã §Ó§Ü§Ý§ð§é§Ö§ß	§¤§à§Ý§à§ã§à§Ó§Ú§Û §Ù§Ó'§ñ§Ù§à§Ü §Ñ§Ü§ä§Ú§Ó§ß§Ú§Û
+STR_ID_UCM_VOICE_HOLD	Voice held	§¤§à§Ý§à§ã §å§Õ§Ö§â§Ø§Ú§Ó§Ñ§Ö§ä§ã§ñ	§¤§à§Ý§à§ã§à§Ó§Ú§Û §Ù§Ó'§ñ§Ù§à§Ü §ß§Ñ §å§ä§â§Ú§Þ§Ñ§ß§ß?
+STR_ID_UCM_REJECT	Reject	§°§ä§Ü§Ý§à§ß§Ú§ä§î	§£?§Õ§ç§Ú§Ý§Ú§ä§Ú
+STR_ID_UCM_SILENT	Silent	§¢§Ö§Ù §Ù§Ó§å§Ü§Ñ 	§´§Ú§ê§Ñ
+STR_ID_UCM_ANSWER	Answer	§°§ä§Ó§Ö§ä§Ú§ä§î	§£?§Õ§á§à§Ó?§ã§ä§Ú
+STR_ID_UCM_HAND_HELD	H-Held	§´§â§å§Ò§Ü§Ñ	H-Held
+STR_ID_UCM_HAND_FREE	H-Free	§¤§Ñ§â§ß§Ú§ä§å§â§Ñ	H-Free
+STR_ID_UCM_PROCESSING	Processing	§°§Ò§â§Ñ§Ò§à§ä§Ü§Ñ	§°§Ò§â§à§Ò§Ü§Ñ
+STR_ID_UCM_NOT_ALLOW_TO_HOLD	Not allowed to hold	§±§à§ã§ä§Ñ§Ó§Ú§ä§î §ß§Ñ §å§Õ§Ö§â§Ø§Ñ§ß§Ú§Ö §ß§Ö§Ý§î§Ù§ñ	§¯§Ö §Õ§à§Ù§Ó§à§Ý§Ö§ß§à §å§ä§â§Ú§Þ§å§Ó§Ñ§ä§Ú
+STR_ID_UCM_NOT_ALLOW_TO_SWAP	Not allowed to swap	§°§Ò§Þ§Ö§ß§ñ§ä§î §ß§Ö§Ý§î§Ù§ñ	
+STR_ID_UCM_HOLD	Hold	§µ§Õ§Ö§â§Ø§Ñ§ß§Ú§Ö	§µ§ä§â§Ú§Þ§Ñ§ä§Ú
+STR_ID_UCM_RETRIEVE	Retrieve	§©§Ñ§Ô§â§å§Ù§Ú§ä§î	§°§ä§â§Ú§Þ§Ñ§ß§ß§ñ
+STR_ID_UCM_SWAP	Swap	§°§Ò§Þ§Ö§ß§ñ§ä§î	§©§Þ?§ß§Ú§ä§Ú
+STR_ID_UCM_CONFERENCE	Conference	§¬§à§ß§æ§Ö§â§Ö§ß§è§Ú§ñ	§¬§à§ß§æ§Ö§â§Ö§ß§è?§ñ
+STR_ID_UCM_SPLIT	Split	§²§Ñ§Ù§Õ§Ö§Ý§Ú§ä§î	§²§à§Ù§Õ?§Ý§Ú§ä§Ú
+STR_ID_UCM_END_SINGLE	End single call	§©§Ñ§Ó§Ö§â§ê§Ú§ä§î §à§Õ§Ú§ß§à§é§ß§í§Û §Ó§í§Ù§à§Ó	§©§Ñ§Ó§Ö§â§ê§Ú§ä§Ú §à§Õ§Ú§ß§Ú§é§ß§Ú§Û
+STR_ID_UCM_END_CONFERENCE	End conf. call	§©§Ñ§Ó§Ö§â§ê§Ú§ä§î §Ü§à§ß§æ§Ö§â§Ö§ß§è§Ú§ð	§©§Ñ§Ó§Ö§â§ê§Ú§ä§Ú §Ü§à§ß§æ§Ö§â§Ö§ß§è?§ð
+STR_ID_UCM_END_ALL	End all calls	§©§Ñ§Ó§Ö§â§ê§Ú§ä§î §Ó§ã§Ö §Ó§í§Ù§à§Ó§í	§©§Ñ§Ó§Ö§â§ê§Ú§ä§Ú §Ó§ã?
+STR_ID_UCM_END_CALL	End call	§©§Ñ§Ó§Ö§â§ê§Ú§ä§î §Ó§í§Ù§à§Ó	§©§Ñ§Ó§Ö§â§ê§Ú§ä§Ú §Ó§Ú§Ü§Ý§Ú§Ü
+STR_ID_UCM_NEW_CALL	New call	§¯§à§Ó§í§Û §Ó§í§Ù§à§Ó	§¯§à§Ó§Ú§Û §Ó§Ú§Ü§Ý§Ú§Ü
+STR_ID_UCM_PHONEBOOK	Phonebook	§´§Ö§Ý§Ö§æ§à§ß§ß§Ñ§ñ §Ü§ß§Ú§Ô§Ñ	§´§Ö§Ý§Ö§æ§à§ß§ß§Ú§Û §Õ§à§Ó?§Õ§ß§Ú§Ü
+STR_ID_UCM_SOUND_RECORDER	Sound recorder	§¥§Ú§Ü§ä§à§æ§à§ß	§¥§Ú§Ü§ä§à§æ§à§ß
+STR_ID_UCM_DTMF	DTMF	DTMF	
+STR_ID_UCM_VOICE_CALL	Voice call	§¤§à§Ý§à§ã§à§Ó§à§Û §Ó§í§Ù§à§Ó	§¤§à§Ý§à§ã§à§Ó§Ú§Û §Ó§Ú§Ü§Ý§Ú§Ü
+STR_ID_UCM_SWITCH_AUDIO_PATH	Switch audio path	§±§Ö§â§Ö§Ü§Ý§ð§é§Ú§ä§î §Ù§Ó§å§Ü	§±§Ö§â§Ö§Þ§Ü§ß§å§ä§Ú §ê§Ý§ñ§ç §Ñ§å§Õ?§à
+STR_ID_UCM_ACTIVE	Active	§¡§Ü§ä§Ú§Ó§ß§à	
+STR_ID_UCM_END_ALL_ACTIVE	End all active	§©§Ñ§Ó§Ö§â§ê§Ú§ä§î §Ó§ã§Ö §Ñ§Ü§ä§Ú§Ó§ß§í§Ö	
+STR_ID_UCM_END_ALL_HELD	End all held	§©§Ñ§Ó§Ö§â§ê§Ú§ä§î §Ó§ã§Ö §à§Ø§Ú§Õ§Ñ§Ö§Þ§í§Ö	
+STR_ID_UCM_ACCEPT	Accept	§±§â§Ú§ß§ñ§ä§î	
+STR_ID_UCM_BT_CALLING	Dialing	§¯§Ñ§Ò§à§â §ß§à§Þ§Ö§â§Ñ	
+STR_ID_UCM_BT_REJECT	Reject	§°§ä§Ü§Ý§à§ß§Ú§ä§î	
+STR_ID_UCM_VOICE_INCOMING	Incoming call	§£§ç§à§Õ§ñ§ë§Ú§Û §Ó§í§Ù§à§Ó	
+STR_ID_UCM_BT_ANSWER	Answer	§°§ä§Ó§Ö§ä§Ú§ä§î	
+STR_ID_UCM_BT_HOLD	Hold	§µ§Õ§Ö§â§Ø§Ñ§ß§Ú§Ö	
+STR_ID_UCM_BT_RETRIEVE	Retrieve	§±§à§Ý§å§é§Ú§ä§î	
+STR_ID_UCM_BT_SWAP	Swap	§±§Ö§â§Ö§Ü§Ý§ð§é§Ú§ä§î	
+STR_ID_UCM_BT_END_SINGLE	End single call	§©§Ñ§Ó§Ö§â§ê§Ú§ä§î §à§Õ§Ú§ß §Ó§í§Ù§à§Ó	
+STR_ID_UCM_BT_END_ALL	End all calls	§©§Ñ§Ó§Ö§â§ê§Ú§ä§î §Ó§ã§Ö §Ó§í§Ù§à§Ó§í	
+STR_ID_UCM_BT_END_CALL	End	§©§Ñ§Ó§Ö§â§ê§Ú§ä§î	
+STR_ID_UCM_BT_UNMUTE	Unmute	§£§Ü§Ý§ð§é§Ú§ä§î §Ù§Ó§å§Ü	
+STR_ID_UCM_BT_HAND_HELD	H-Held	§±§à§â§ä§Ñ§ä§Ú§Ó§ß§í§Û	
+STR_ID_UCM_BT_HAND_FREE	H-Free	§¤§Ñ§â§ß§Ú§ä§å§â§Ñ	
+STR_ID_UCM_BT_ACTIVE	Paired voice active	§³§à§á§â§ñ§Ø§Ö§ß§Ú§Ö §Ô§à§Ý§à§ã§Ñ §Ñ§Ü§ä§Ú§Ó§ß§à	
+STR_ID_UCM_BT_PAIRED_HOLD	Paired voice hold	§³§à§á§â§ñ§Ø§Ö§ß§Ú§Ö §Ô§à§Ý§à§ã§Ñ §å§Õ§Ö§â§Ø§Ñ§ß§Ú§Ö	
+STR_ID_UCM_BT_CALL_ENDED	Call ended	§£§í§Ù§à§Ó §Ù§Ñ§Ó§Ö§â§ê§Ö§ß	
+STR_ID_UCM_BT_PROCESSING	Processing	§°§Ò§â§Ñ§Ò§à§ä§Ü§Ñ	
+STR_ID_UCM_EMERGENCY_CALLS_ONLY	Emergency number only	§´§à§Ý§î§Ü§à §ß§à§Þ§Ö§â §ï§Ü§ã§ä§â§Ö§ß§ß§à§Ô§à §Ó§í§Ù§à§Ó§Ñ	
+STR_ID_UCM_BT_CALL_WILL_BE_ENDED	The active call will be ended	§¡§Ü§ä§Ú§Ó§ß§í§Û §Ó§í§Ù§à§Ó §Ò§å§Õ§Ö§ä §Ù§Ñ§Ó§Ö§â§ê§Ö§ß	
+STR_ID_UCM_BT_DTMF	DTMF	DTMF	
+STR_ID_UCM_BT_SWITCH_AUDIO_PATH	Switch audio path	§±§Ö§â§Ö§Ü§Ý§ð§é§Ú§ä§î §á§å§ä§î §Ü §Ñ§å§Õ§Ú§à §å§ã§ä§â§à§Û§ã§ä§Ó§å	
+STR_ID_SMS_VM_VMAIL_MENUENTRY	Voicemail server	§³§Ö§â§Ó§Ö§â §Ô§à§Ý§à§ã§à§Ó§í§ç §ã§à§à§Ò§ë§Ö§ß§Ú§Û	
+STR_ID_SMS_SMS_SOS_MENUENTRY	SMS Content	§º§Ñ§Ò§Ý§à§ß§í SMS	
+STR_ID_DEFAULT_SOS_SMS	SOS!!!		
+STR_ID_SMS_VM_VOICE_MAIL_NAME	Name	§ª§Þ§ñ	
+STR_ID_SMS_VM_VOICE_MAIL_NUM	Number	§¯§à§Þ§Ö§â	
+STR_ID_SMS_VM_VOICE_MAIL_NOT_READY_YET	Voicemail not ready	§¤§à§Ý§à§ã§à§Ó§Ñ§ñ §á§à§é§ä§Ñ §ß§Ö §Ô§à§ä§à§Ó§Ñ	
+STR_ID_SMS_VM_SET_VOICEMAIL_QUERY_ID	Set voicemail number first?	§£§Ó§Ö§ã§ä§Ú §ã§ß§Ñ§é§Ñ§Ý§Ñ §ß§à§Þ§Ö§â §Ô§à§Ý§à§ã§à§Ó§à§Û §á§à§é§ä§í?	
+STR_ID_SMS_VM_EDIT_VM	Edit voicemail	§ª§Ù§Þ§Ö§ß§Ö§ß§Ú§Ö §Ô§à§Ý§à§ã§à§Ó§à§Û §á§à§é§ä§í	
+STR_ID_SMS_EDIT_PROFILE	Edit profile	§²§Ö§Õ§Ñ§Ü§ä§Ú§â§à§Ó§Ñ§ä§î §á§â§à§æ§Ú§Ý§î	
+STR_ID_SMS_FDN_FAIL	Fixed dial number only enabled	§²§Ñ§Ù§â§Ö§ê§Ö§ß§í §ä§à§Ý§î§Ü§à §ß§à§Þ§Ö§â§Ñ §ã§á§Ú§ã§Ü§Ñ §æ§Ú§Ü§ã§Ú§â§à§Ó§Ñ§ß§ß§à§Ô§à §ß§Ñ§Ò§à§â§Ñ	
+STR_ID_SMS_MESSAGESETUP_MENUENTRY	SMS settings	§¯§Ñ§ã§ä§â§à§Û§Ü§Ú SMS	
+STR_ID_SMS_MEMSTATUS_PREFIX_SIM	SIM:	SIM: 	
+STR_ID_SMS_MEMSTATUS_PREFIX_PHONE	Phone:	§¯§à§Þ§Ö§â §ä§Ö§Ý§Ö§æ§à§ß§Ñ:	
+STR_ID_SMS_PROFILE_NAME	Profile name	§¯§Ñ§Ù§Ó§Ñ§ß§Ú§Ö §á§â§à§æ§Ú§Ý§ñ	
+STR_ID_SMS_PROFILE_SC	SMSC address	§¡§Õ§â§Ö§ã SMSC 	
+STR_ID_SMS_PROFILE_VP	Validity period	§³§â§à§Ü §Õ§Ö§Û§ã§ä§Ó§Ú§ñ	
+STR_ID_SMS_PROFILE_MSG_TYPE	Message type	§´§Ú§á §ã§à§à§Ò§ë§Ö§ß§Ú§ñ	
+STR_ID_SMS_VP_1HOUR_MENUENTRY	1 hour	1 §é§Ñ§ã	
+STR_ID_SMS_VP_6HOUR_MENUENTRY	6 hours	6 §é§Ñ§ã§à§Ó	
+STR_ID_SMS_VP_12HOUR_MENUENTRY	12 hours	12 §é§Ñ§ã§à§Ó	
+STR_ID_SMS_VP_24HOUR_MENUENTRY	1 day	1 §Õ§Ö§ß§î	
+STR_ID_SMS_VP_3DAY_MENUENTRY	3 days	3 §Õ§ß§ñ	
+STR_ID_SMS_VP_1WEEK_MENUENTRY	1 week	1 §ß§Ö§Õ§Ö§Ý§ñ	
+STR_ID_SMS_TYPE_FAX_MENUENTRY	Fax group 3	§¶§Ñ§Ü§ã§à§Ó§Ñ§ñ §Ô§â§å§á§á§Ñ 3	
+STR_ID_SMS_TYPE_GROUP4_FAX_MENUENTRY	Fax group 4	§¶§Ñ§Ü§ã§à§Ó§Ñ§ñ §Ô§â§å§á§á§Ñ 4	
+STR_ID_SMS_TYPE_PAGE_MENUENTRY	Page	§³§ä§â§Ñ§ß§Ú§è§Ñ	
+STR_ID_SMS_PROFILE_SETTING_MENUENTRY	Profile settings	§¯§Ñ§ã§ä§â§à§Û§Ü§Ú §á§â§à§æ§Ú§Ý§ñ	
+STR_ID_SMS_SET0_MENUENTRY	Profile 1	§±§â§à§æ§Ú§Ý§î 1	
+STR_ID_SMS_SET1_MENUENTRY	Profile 2	§±§â§à§æ§Ú§Ý§î 2	
+STR_ID_SMS_SET2_MENUENTRY	Profile 3	§±§â§à§æ§Ú§Ý§î 3	
+STR_ID_SMS_SET3_MENUENTRY	Profile 4	§±§â§à§æ§Ú§Ý§î 4	
+STR_ID_SMS_COMMONSETTING_MENUENTRY	Common settings	§°§Ò§ë§Ú§Ö §ß§Ñ§ã§ä§â§à§Û§Ü§Ú	
+STR_ID_SMS_REPLY_PATH_MENUENTRY	Reply path	§±§å§ä§î §à§ä§Ó§Ö§ä§Ñ	
+STR_RECEIVED_SMS	New message	§¯§à§Ó§à§Ö §ã§à§à§Ò§ë§Ö§ß§Ú§Ö	§¯§à§Ó§Ö §á§à§Ó?§Õ§à§Þ§Ý§Ö§ß§ß§ñ!
+STR_ID_SMS_MESSAGES	Messaging	§³§à§à§Ò§ë§Ö§ß§Ú§ñ	
+STR_ID_SMS_USE_NUM_ADDRESS	Use number	§ª§ã§á§à§Ý§î§Ù§à§Ó§Ñ§ä§î §ß§à§Þ§Ö§â	
+STR_ID_SMS_USE_USSD_ADDRESS	Use USSD	§ª§ã§á§à§Ý§î§Ù§à§Ó§Ñ§ä§î USSD	
+STR_ID_SMS_SEND_TO	Send to	§°§ä§á§â§Ñ§Ó§Ú§ä§î	
+STR_ID_SMS_INSERT_NUMBER	Insert number	§£§ã§ä§Ñ§Ó§Ú§ä§î §ß§à§Þ§Ö§â	
+STR_ID_SMS_INSERT_NAME	Insert name	§£§ã§ä§Ñ§Ó§Ú§ä§î §Ú§Þ§ñ	
+STR_ID_SMS_ADD_RECIPIENT	Add recipient	§¥§à§Ò§Ñ§Ó§Ú§ä§î §á§à§Ý§å§é§Ñ§ä§Ö§Ý§ñ	
+STR_ID_SMS_EDIT_RECIPIENT	Edit recipient	§²§Ö§Õ§Ñ§Ü§ä§Ú§â§à§Ó§Ñ§ä§î §Õ§Ñ§ß§ß§í§Ö §á§à§Ý§å§é§Ñ§ä§Ö§Ý§ñ	
+STR_ID_SMS_REMOVE_RECIPIENT	Remove recipient	§µ§Õ§Ñ§Ý§Ú§ä§î §á§à§Ý§å§é§Ñ§ä§Ö§Ý§ñ	
+STR_ID_SMS_REMOVE_ALL_RECIPIENT	Remove all recipients	§µ§Õ§Ñ§Ý§Ú§ä§î §Ó§ã§Ö§ç §á§à§Ý§å§é§Ñ§ä§Ö§Ý§Ö§Û	
+STR_ID_SMS_REMOVE_RECIPIENT_QUERY	Remove recipient?	§µ§Õ§Ñ§Ý§Ú§ä§î §á§à§Ý§å§é§Ñ§ä§Ö§Ý§ñ?	
+STR_ID_SMS_REMOVE_ALL_RECIPIENT_QUERY	Remove all recipients?	§µ§Õ§Ñ§Ý§Ú§ä§î §Ó§ã§Ö§ç §á§à§Ý§å§é§Ñ§ä§Ö§Ý§Ö§Û?	
+STR_ID_SMS_ENTER_NUMBER	Enter number	§£§Ó§Ö§Õ§Ú§ä§Ö §ß§à§Þ§Ö§â	
+STR_ID_SMS_ADD_FROM_CONTACTS	Add from Phonebook	§¥§à§Ò§Ñ§Ó§Ú§ä§î §ã §ä§Ö§Ý§Ö§æ§à§ß§ß§à§Û §Ü§ß§Ú§Ø§Ü§Ú	
+STR_ID_SMS_RECIPIENTS_FULL	Recipients list is full	§³§á§Ú§ã§à§Ü §á§à§Ý§å§é§Ñ§ä§Ö§Ý§Ö§Û §Ù§Ñ§á§à§Ý§ß§Ö§ß	
+STR_ID_SMS_INVLAID_NUMBERS_REMOVED	Invalid recipients removed	§¯§Ö§Õ§Ö§Û§ã§ä§Ó§Ú§ä§Ö§Ý§î§ß§í§Ö §ß§à§Þ§Ö§â§Ñ §å§Õ§Ñ§Ý§Ö§ß§í	
+STR_ID_SMS_CAN_ONLY_ADD_FIRST	Can only add 	§®§à§Ø§ß§à §ä§à§Ý§î§Ü§à §Õ§à§Ò§Ñ§Ó§Ú§ä§î	
+STR_ID_SMS_CAN_ONLY_SEND_TO_FIRST	Can only send to 	§®§à§Ø§ß§à §ä§à§Ý§î§Ü§à §à§ä§á§â§Ñ§Ó§Ú§ä§î	
+STR_ID_SMS_CONTACT_CONTINUE_QUERY	 contact. Continue?	 §Ü§à§ß§ä§Ñ§Ü§ä. §±§â§à§Õ§à§Ý§Ø§Ú§ä§î?	
+STR_ID_SMS_CONTACTS_CONTINUE_QUERY	 contacts. Continue?	§Ü§à§ß§ä§Ñ§Ü§ä§í. §±§â§à§Õ§à§Ý§Ø§Ú§ä§î?	
+STR_ID_SMS_BY_SIM1	From SIM1	§³ SIM1	
+STR_ID_SMS_FROM_LOWER_CASE	 from 	 §Ú§Ù 	
+STR_ID_SMS_SET_SC_NUMBER_QUERY	Set message center first?	§£§í§Ò§â§Ñ§ä§î §ã§ß§Ñ§é§Ñ§Ý§Ñ §è§Ö§ß§ä§â §ã§à§à§Ò§ë§Ö§ß§Ú§Û?	
+STR_ID_SMS_SENDING_TO_CAPTION	Sending to	§£§í§á§à§Ý§ß§ñ§Ö§ä§ã§ñ §à§ä§á§â§Ñ§Ó§Ü§Ñ	
+STR_SMS_MESSAGE_HEADER_TO	To: 	§¬§à§Þ§å:	
+STR_ID_SMS_SAVE_SENT_SMS	Save sent message	§³§à§ç§â§Ñ§ß§Ú§ä§î §à§ä§á§â§Ñ§Ó§Ý§Ö§ß§ß§à§Ö §ã§à§à§Ò§ë§Ö§ß§Ú§Ö	
+STR_SMS_MSG_NOT_READY_YET	Text message not ready	§´§Ö§Ü§ã§ä§à§Ó§à§Ö §ã§à§à§Ò§ë§Ö§ß§Ú§Ö §ß§Ö §Ô§à§ä§à§Ó§à	SMS §ë§Ö §ß§Ö §Ô§à§ä§à§Ó§Ö!
+STR_CLASS0_MESSAGE_CAPTION	Incoming text message	§£§ç§à§Õ§ñ§ë§Ö§Ö SMS	§£§ç?§Õ§ß§Ö SMS
+STR_NOUSSD_NOTIFICATION	No USSD	§¢§Ö§Ù USSD	No USSD
+STR_ID_SMS_CANCELLED	Cancelled	§°§ä§Þ§Ö§ß§Ö§ß§à	Cancelled
+STR_ID_SMS_MESSAGES_UPDATED	Messages updating	§³§à§à§Ò§ë§Ö§ß§Ú§ñ §à§Ò§ß§à§Ó§Ý§Ö§ß§í 	Messages updated
+STR_SR_DELIVERD_ID	Delivery report	§°§ä§é§Ö§ä §à §Õ§à§ã§ä§Ñ§Ó§Ü§Ö	§¥§à§ã§ä§Ñ§Ó§Ý§Ö§ß§à
+STR_SR_PENDING_ID	Pending	§°§Ø§Ú§Õ§Ñ§ð§ë§Ú§Û	§£ §à§é?§Ü§å§Ó§Ñ§ß§ß?
+STR_INBOX_REPORT_ID	Report	§°§ä§é§Ö§ä	§©§Ó?§ä
+STR_WMESSAGE_MENUENTRY	Write message	§¯§Ñ§á§Ú§ã§Ñ§ä§î §ã§à§à§Ò§ë§Ö§ß§Ú§Ö	§¯§Ñ§á§Ú§ã§Ñ§ä§Ú §á§à§Ó?§Õ§à§Þ§Ý§Ö§ß§ß§ñ
+STR_SMS_SAVE_TO_DRAFTS_MENU_ITEM	Save to Drafts	§³§à§ç§â§Ñ§ß§Ú§ä§î §é§Ö§â§ß§à§Ó§Ú§Ü	§©§Ò§Ö§â§Ö§Ô§ä§Ú §å §¹§Ö§â§ß§Ö§ä§Ü§Ú
+STR_ID_SMS_SAVE_TO_INBOX	Save to Inbox	§³§à§ç§â§Ñ§ß§Ú§ä§î §Ó§à §£§ç§à§Õ§ñ§ë§Ú§ç	
+STR_SCR6024_CAPTION	Message body	§´§Ö§Ü§ã§ä §ã§à§à§Ò§ë§Ö§ß§Ú§ñ	§´§Ö§Ü§ã§ä §á§à§Ó?§Õ§à§Þ§Ý§Ö§ß§ß§ñ
+STR_SUCCESS_CAPTION	Success	§µ§ã§á§Ö§ê§ß§à	§µ§ã§á?§ê§ß§à!
+STR_FAILURE_CAPTION	Failure	§³§Ò§à§Û	§±§à§Þ§Ú§Ý§Ü§Ñ!
+STR_SCR6042_CAPTION	Notification	§µ§Ó§Ö§Õ§à§Þ§Ý§Ö§ß§Ú§Ö	§±§à§Ó?§Õ§à§Þ§Ý§Ö§ß§ß§ñ!
+STR_SMS_MEMORY_EXCEEDED	Phone storage full for new incoming message	§¯§Ö§Õ§à§ã§ä§Ñ§ä§à§é§ß§à §á§Ñ§Þ§ñ§ä§Ú §Õ§Ý§ñ §ß§à§Ó§í§ç §Ó§ç§à§Õ§ñ§ë§Ú§ç §ã§à§à§Ò§ë§Ö§ß§Ú§Û	§±§Ñ§Þ'§ñ§ä§î §Õ§Ý§ñ §ß§à§Ó§Ú§ç §Ó§ç?§Õ§ß§Ú§ç §á§à§Ó?§Õ§à§Þ§Ý§Ö§ß§î §Ù§Ñ§á§à§Ó§ß§Ö§ß§Ñ!
+STR_SMS_SIM_MEMORY_EXCEEDED	SIM storage full for new incoming message	§¯§Ñ SIM-§Ü§Ñ§â§ä§Ö §ß§Ö§ä §Þ§Ö§ã§ä§Ñ §Õ§Ý§ñ §ß§à§Ó§à§Ô§à §ã§à§à§Ò§ë§Ö§ß§Ú§ñ	§±§Ñ§Þ'§ñ§ä§î SIM §Õ§Ý§ñ §ß§à§Ó§Ú§ç §Ó§ç?§Õ§ß§Ú§ç §á§à§Ó?§Õ§à§Þ§Ý§Ö§ß§î §Ù§Ñ§á§à§Ó§ß§Ö§ß§Ñ!
+STR_SMS_SEND_SUCESS_SAVE_FAILED	Message sent but save failed	§³§à§à§Ò§ë§Ö§ß§Ú§Ö §à§ä§á§â§Ñ§Ó§Ý§Ö§ß§à, §ß§à §ß§Ö §ã§à§ç§â§Ñ§ß§Ö§ß§à	
+STR_SMS_SEND_SAVE_FAILED	Send and save failed	§³§Ò§à§Û §à§ä§á§â§Ñ§Ó§Ü§Ú §Ú §ã§à§ç§â§Ñ§ß§Ö§ß§Ú§ñ	§¯§Ñ§Õ?§ã§Ý§Ñ§ä§Ú ? §Ù§Ò§Ö§â§Ö§Ô§ä§Ú §ß§Ö §Ó§Õ§Ñ§Ý§à§ã§ñ
+STR_NEW_MESSAGE_FROM_ID	Message from	§³§à§à§Ò§ë§Ö§ß§Ú§Ö §à§ä 	§±§à§Ó?§Õ§à§Þ§Ý§Ö§ß§ß§ñ §Ó?§Õ
+STR_NO_SPACE_TO_INSERT_OBJECT	Not enough space	§¯§Ö§ä §Þ§Ö§ã§ä§Ñ	§¯§Ö§Þ§Ñ? §Þ?§ã§è§ñ!
+STR_SMS_FAILURE_MSG_LEN_EXCEEDED	Message length exceeded	§±§â§Ö§Ó§í§ê§Ö§ß§Ñ §Õ§Ý§Ú§ß§Ñ §ã§à§à§Ò§ë§Ö§ß§Ú§ñ	§±§Ö§â§Ö§Ó§Ú§ë§Ö§ß§à §Õ§à§Ó§Ø§Ú§ß§å §á§à§Ó?§Õ§à§Þ§Ý§Ö§ß§ß§ñ!
+STR_SMS_CALL_SENDER	Call sender	§£§í§á§à§Ý§ß§Ú§ä§î §Ó§í§Ù§à§Ó §à§ä§á§â§Ñ§Ó§Ú§ä§Ö§Ý§ñ	
+STR_SMS_FAILURE_DATA_EMPTY	No content	§¯§Ö§ä §ã§à§Õ§Ö§â§Ø§Ú§Þ§à§Ô§à	§±§à§â§à§Ø§ß§î§à
+STR_SMS_FAILURE_DATA_INVALID	Invalid content	§¯§Ö§Õ§à§á§å§ã§ä§Ú§Þ§à§Ö §ã§à§Õ§Ö§â§Ø§Ú§Þ§à§Ö	§¯§Ö§Ó?§â§ß§Ú§Û §Ü§à§ß§ä§Ö§ß§ä
+STR_SMS_FAILURE_DATA_EXCEED	Content size exceeded	§³§Ý§Ú§ê§Ü§à§Þ §Ò§à§Ý§î§ê§à§Û §à§Ò§ì§Ö§Þ §Õ§Ñ§ß§ß§í§ç	§±§Ö§â§Ö§Ó§Ú§ë§Ö§ß§à §â§à§Ù§Þ?§â §Ü§à§ß§ä§Ö§ß§ä§å
+STR_SMS_FAILURE_SC_NUM_EMPTY	Empty SMSC address	§¯§à§Þ§Ö§â §è§Ö§ß§ä§â§Ñ SMSC §ß§Ö §å§Ü§Ñ§Ù§Ñ§ß	§°§é§Ú§ã§ä?§ä§î §ß§à§Þ§Ö§â §è§Ö§ß§ä§â§å §à§Ò§ã§Ý§å§Ô§à§Ó§å§Ó§Ñ§ß§ß§ñ
+STR_ID_SMS_COUNTER_RECEIVED	%w received	%w §á§à§Ý§å§é§Ö§ß§à	
+STR_ID_SMS_COUNTER_SENT	%w sent	%w §à§ä§á§â§Ñ§Ó§Ý§Ö§ß§à	
+STR_ID_SMS_COUNTER	Text msg. counter	§³§é§Ö§ä§é§Ú§Ü SMS-§ã§à§à§Ò§ë§Ö§ß§Ú§Û	
+STR_ID_SMS_RESET_COUNTER_QUERY	Reset counter?	§³§Ò§â§à§ã§Ú§ä§î §ã§é§Ö§ä§é§Ú§Ü?	
+STR_ID_SMS_ZAWGYI	View by Zawgyi	§±§â§à§ã§Þ§à§ä§â Zawgyi	
+STR_ID_SMS_PADAUK	View by Myanmar	§±§â§à§ã§Þ§à§ä§â §®§î§ñ§ß§Þ§Ñ	
+STR_UM_SENT_ID	Sent messages	§°§ä§á§â§Ñ§Ó§Ý§Ö§ß§ß§í§Ö §ã§à§à§Ò§ë§Ö§ß§Ú§ñ	§¯§Ñ§Õ?§ã§Ý§Ñ§ß?
+STR_UM_DELETE_FOLDER_ID	Delete messages	§µ§Õ§Ñ§Ý§Ö§ß§Ú§Ö §ã§à§à§Ò§ë§Ö§ß§Ú§Û	§£§Ú§Õ§Ñ§Ý§Ú§ä§Ú §á§Ñ§á§Ü§å
+STR_UM_WRITE_MSG_ID	Write message	§¯§Ñ§á§Ú§ã§Ñ§ä§î §ã§à§à§Ò§ë§Ö§ß§Ú§Ö	§¯§Ñ§á§Ú§ã§Ñ§ä§Ú §á§à§Ó?§Õ§à§Þ§Ý§Ö§ß§ß§ñ
+STR_UM_INCOMPLETE_ID	<Incomplete>	<§°§Ò§â§Ö§Ù§Ñ§ß§à>	<§¯§Ö§Ù§Ñ§Ó§Ö§â§ê§Ö§ß§Ö>
+STR_UM_NOT_SUPPORT_ID	<Not supported>	<§¯§Ö §á§à§Õ§Õ§Ö§â§Ø§Ú§Ó§Ñ§Ö§ä§ã§ñ>	<§¯§Ö §á?§Õ§ä§â§Ú§Þ§å?§ä§î§ã§ñ>
+STR_UM_EMPTY_CONTENT_ID	<No content>	<§¯§Ö§ä §ã§à§Õ§Ö§â§Ø§Ú§Þ§à§Ô§à>	
+STR_UM_EMPTY_MSG_ID	No message	§¯§Ö§ä §ã§à§à§Ò§ë§Ö§ß§Ú§Û	§¯§Ö§Þ§Ñ? §á§à§Ó?§Õ§à§Þ§Ý§Ö§ß§î
+STR_UM_EMPTY_SUBJECT_ID	<No subject>	<§¢§Ö§Ù §ä§Ö§Þ§í>	<§¯§Ö§Þ§Ñ? §ä§Ö§Þ§Ú>
+STR_UM_UNREAD_MSG	Unread messages	§¯§Ö§á§â§à§é§Ú§ä§Ñ§ß§ß§à§Ö §ã§à§à§Ò§ë§Ö§ß§Ú§Ö	
+STR_UM_UNREAD_MSGS_WITH_NUMBER	%u unread messages	%u §ß§Ö§á§â§à§é§Ú§ä§Ñ§ß§ß§í§ç §ã§à§à§Ò§ë§Ö§ß§Ú§Û	
+STR_UM_UNREAD_MSG_WITH_NUMBER	%u unread message	%u §ß§Ö§á§â§à§é§Ú§ä§Ñ§ß§ß§í§ç §ã§à§à§Ò§ë§Ö§ß§Ú§Û	
+STR_UM_SEND_FAILED_SAVE_SUCCESS_ID	Not sent, saved in Outbox	§¯§Ö §à§ä§á§â§Ñ§Ó§Ý§Ö§ß§à. §³§à§ç§â§Ñ§ß§Ö§ß§à §Ó §á§Ñ§á§Ü§Ö ?§ª§ã§ç§à§Õ§ñ§ë§Ú§Ö?	§¯§Ö §ß§Ñ§Õ?§ã§Ý§Ñ§ß§Ö, §Ù§Ò§Ö§â§Ö§Ø§Ö§ß§Ö §å §£§Ú§ç?§Õ§ß§Ú§ç
+STR_ID_VDOPLY_APP_NAME	Video player	§£§Ú§Õ§Ö§à-§á§Ý§Ö§Ö§â	§£?§Õ§Ö§à§á§â§à§Ô§â§Ñ§Ó§Ñ§é
+STR_ID_VDOPLY_NOTIFY_STORAGE_NOT_READY	Storage not ready	§·§â§Ñ§ß§Ú§Ý§Ú§ë§Ö §ß§Ö §Ô§à§ä§à§Ó§à	§±§Ñ§Þ'§ñ§ä§î §ß§Ö §Ô§à§ä§à§Ó§Ñ
+STR_ID_VDOPLY_AUDIO_ONLY	Audio only	§´§à§Ý§î§Ü§à §Ù§Ó§å§Ü	
+STR_ID_VDOREC_APP_NAME	Video recorder	§£§Ú§Õ§Ö§à-§Þ§Ñ§Ô§ß§Ú§ä§à§æ§à§ß	§£?§Õ§Ö§à§Ü§Ñ§Þ§Ö§â§Ñ
+STR_ID_VDOREC_CAMCODER_SETTING	Camcorder settings	§¯§Ñ§ã§ä§â§à§Û§Ü§Ñ §á§à§â§ä§Ñ§ä§Ú§Ó§ß§à§Û §Ó§Ú§Õ§Ö§à§Ü§Ñ§Þ§Ö§â§í	§¯§Ñ§Ý§Ñ§ê§ä§å§Ó§Ñ§ß§ß§ñ §Ü§Ñ§Þ§Ü§à§Õ§Ö§â§Ñ
+STR_ID_VDOREC_VIDEO_SETTING	Video settings	§¯§Ñ§ã§ä§â§à§Û§Ü§Ñ §Ó§Ú§Õ§Ö§à	§¯§Ñ§Ý§Ñ§ê§ä§å§Ó§Ñ§ß§ß§ñ §Ó?§Õ§Ö§à
+STR_ID_VDOREC_SIZE_LIMIT	Size limit reached	§°§Ô§â§Ñ§ß§Ú§é§Ö§ß§Ú§Ö §â§Ñ§Ù§Þ§Ö§â§Ñ §æ§Ñ§Û§Ý§Ñ	§°§Ò§Þ§Ö§Ø§Ö§ß§ß§ñ §â§à§Ù§Þ?§â§å §æ§Ñ§Û§Ý§Ñ
+STR_ID_VDOREC_TIME_LIMIT	Time limit reached	§°§Ô§â§Ñ§ß§Ú§é§Ö§ß§Ú§Ö §Ó§â§Ö§Þ§Ö§ß§Ú §Ù§Ñ§á§Ú§ã§Ú	§°§Ò§Þ§Ö§Ø§Ö§ß§ß§ñ §é§Ñ§ã§å §Ù§Ñ§á§Ú§ã§å
+STR_ID_VDOREC_NOTIFY_STORAGE_NOT_READY	Storage not ready	§·§â§Ñ§ß§Ú§Ý§Ú§ë§Ö §ß§Ö §Ô§à§ä§à§Ó§à	§±§Ñ§Þ'§ñ§ä§î §ß§Ö §Ô§à§ä§à§Ó§Ñ
+STR_ID_VDOREC_NOTIFY_ERROR	Failed to record	§©§Ñ§á§Ú§ã§î §ß§Ö §å§Õ§Ñ§Ý§Ñ§ã§î	§¯§Ö §Ó§Õ§Ñ§Ý§à§ã§ñ §Ù§Ñ§á§Ú§ã§Ñ§ä§Ú
+STR_ID_VDOREC_NOTIFY_STORAGE_TOO_SLOW	Storage too slow. Please reduce quality.	§·§â§Ñ§ß§Ú§Ý§Ú§ë§Ö §Ù§Ñ§ß§ñ§ä§à §Ú§Ý§Ú §â§Ñ§Ò§à§ä§Ñ§Ö§ä §ã§Ý§Ú§ê§Ü§à§Þ §Þ§Ö§Õ§Ý§Ö§ß§ß§à.\n§£§í§Ò§Ö§â§Ú§ä§Ö §Ò§à§Ý§Ö§Ö §ß§Ú§Ù§Ü§à§Ö §Ü§Ñ§é§Ö§ã§ä§Ó§à.	§±§Ñ§Þ'§ñ§ä§î §á§â§Ñ§è§ð? §Õ§å§Ø§Ö §á§à§Ó?§Ý§î§ß§à §Ñ§Ò§à §Ù§Ñ§Û§ß§ñ§ä§Ñ.\n§¢§å§Õ§î §Ý§Ñ§ã§Ü§Ñ, §Ù§Þ§Ö§ß§ê?§ä§î §ñ§Ü?§ã§ä§î.
+STR_ID_VDOREC_NOTIFY_SYSTEM_TOO_BUSY	System too busy	§³§Ú§ã§ä§Ö§Þ§Ñ §Ù§Ñ§ß§ñ§ä§Ñ	
+STR_ID_VDOREC_VIDEO_QTY	Video quality	§¬§Ñ§é§Ö§ã§ä§Ó§à §Ó§Ú§Õ§Ö§à	§Á§Ü?§ã§ä§î §Ó?§Õ§Ö§à
+STR_ID_VDOREC_VIDEO_QTY2_LOW	Sharing video	§°§Ò§Þ§Ö§ß §Ü§Ñ§é§Ö§ã§ä§Ó§Ñ	§°§Ò§Þ?§ß §ñ§Ü§à§ã§ä?
+STR_ID_VDOREC_VIDEO_QTY2_NORMAL	Normal	§´§Ö§Ý§Ö§æ§à§ß §Ó §à§Ò§í§é§ß§à§Þ §â§Ö§Ø§Ú§Þ§Ö	§´§Ö§Ý§Ö§æ§à§ß §å §Ù§Ó§Ú§é§Ñ§Û§ß§à§Þ§å §â§Ö§Ø§Ú§Þ?
+STR_ID_VDOREC_VIDEO_QTY2_HIGH	Good	§´§Ö§Ý§Ö§æ§à§ß §ç§à§â§à§ê§Ö§Ô§à §Ü§Ñ§é§Ö§ã§ä§Ó§Ñ	§´§Ö§Ý§Ö§æ§à§ß §Ô§Ñ§â§ß§à? §ñ§Ü§à§ã§ä?
+STR_ID_VDOREC_VIDEO_QTY2_FINE	High	§´§Ö§Ý§Ö§æ§à§ß §Ó§í§ã§à§Ü§à§Ô§à §Ü§Ñ§é§Ö§ã§ä§Ó§Ñ	§´§Ö§Ý§Ö§æ§à§ß §Ó§Ú§ã§à§Ü§à? §ñ§Ü§à§ã§ä?
+STR_ID_VDOREC_BANDING	Anti-flicker	§µ§ã§ä§â§Ñ§ß§Ö§ß§Ú§Ö §Þ§Ö§â§è§Ñ§ß§Ú§ñ	§¥?§Ñ§á§Ñ§Ù§à§á
+STR_ID_VDOREC_BANDING_50HZ	50Hz	50 §¤§è	
+STR_ID_VDOREC_BANDING_60HZ	60Hz	60 §¤§è	
+STR_ID_VDOREC_NOTIFY_BT_IS_WORKING	Bluetooth is working. Turn it off.	Bluetooth §â§Ñ§Ò§à§ä§Ñ§Ö§ä. §°§ä§Ü§Ý§ð§é§Ú§ä§Ö §Ö§Ô§à	
+STR_ID_VDOREC_TO_CAMERA	Switch to camera	§±§Ö§â§Ö§Ü§Ý§ð§é§Ú§ä§î §ß§Ñ §Ü§Ñ§Þ§Ö§â§å	MTK
+MAIN_MENU_TITLE_TEXT	Main menu	§¤§Ý§Ñ§Ó§ß§à§Ö §Þ§Ö§ß§ð	§¤§à§Ý§à§Ó§ß§Ö §Þ§Ö§ß§ð
+MAIN_MENU_MENU_TEXT	Menu	§®§Ö§ß§ð	§®§Ö§ß§ð
+MAIN_MENU_PHONEBOOK_TEXT	Phonebook	§´§Ö§Ý. §Ü§ß§Ú§Ô§Ñ	§´§Ö§Ý§Ö§æ§à§ß§ß§Ú§Û §Õ§à§Ó?§Õ§ß§Ú§Ü
+MAIN_MENU_MESSAGES_TEXT	Messaging	§³§à§à§Ò§ë§Ö§ß§Ú§ñ	§±§à§Ó?§Õ§à§Þ§Ý§Ö§ß§ß§ñ
+MAIN_MENU_FUNANDGAMES_TEXT	Fun	§²§Ñ§Ù§Ó§Ý§Ö§é§Ö§ß§Ú§ñ §Ú §ª§Ô§â§í	§²§à§Ù§Ó§Ñ§Ô§Ú §ä§Ñ ?§Ô§â§Ú
+MAIN_MENU_ORGANIZER_TEXT	Organizer	§°§â§Ô§Ñ§ß§Ú§Ù§Ñ§ä§à§â	§°§â§Ô§Ñ§ß§Ñ§Û§Ù§Ö§â
+MAIN_MENU_SETTINGS_TEXT	Settings	§µ§ã§ä§Ñ§ß§à§Ó§Ü§Ú	§µ§ã§ä§Ñ§ß§à§Ó§Ü§Ú
+MAIN_MENU_SHORTCUTS_TEXT	Shortcuts	§¢§í§ã§ä§â§à§Ö §Þ§Ö§ß§ð	§Á§â§Ý§Ú§Ü§Ú
+MAIN_MENU_SERVICES_TEXT	Services	§³§Ý§å§Ø§Ò§í	§³§Ý§å§Ø§Ò§Ú
+MAIN_MENU_CALL_LOG_TEXT	Call history	§¨§å§â§ß§Ñ§Ý §Ó§í§Ù§à§Ó§à§Ó	
+MAIN_MENU_FILE_MNGR_TEXT	File manager	§µ§á§â§Ñ§Ó§Ý§Ö§ß§Ú§Ö §æ§Ñ§Û§Ý§Ñ§Þ§Ú	§®§Ö§ß§Ö§Õ§Ø§Ö§â §æ§Ñ§Û§Ý?§Ó
+MAIN_MENU_MMEDIA_TEXT	Multimedia	§®§å§Ý§î§ä§Ú§Þ§Ö§Õ§Ú§Ñ	§®§å§Ý§î§ä§Ú§Þ§Ö§Õ?§Ñ
+MAIN_MENU_EXTRA_TEXT	Extras	§¥§à§á§à§Ý§ß§Ú§ä§Ö§Ý§î§ß§í§Ö	§²?§Ù§ß§Ö
+MAIN_MENU_TOOLS_TEXT	Tools	§ª§ß§ã§ä§â§å§Þ§Ö§ß§ä§í	
+TORCH_TEXT	Torch		
+STR_USB_CONFIG_TITLE	USB config.	§¬§à§ß§æ§Ú§Ô§å§â. USB 	§¯§Ñ§Ý§Ñ§ê§ä§å§Ó§Ñ§ß§ß§ñ USB:
+STR_USB_CONFIG_MS	Mass storage	§®§Ñ§ã§ã§à§Ó§Ñ§ñ §á§Ñ§Þ§ñ§ä§î	§®§Ñ§ã§à§Ó§Ö §Ù§Ò§Ö§â§Ö§Ø§Ö§ß§ß§ñ
+STR_USB_CONFIG_CDCACM_DATA	COM port	§±§à§â§ä COM 	COM §á§à§â§ä
+STR_USB_CONFIG_MS_ONLY	Reboot for mass storage?	§±§Ö§â§Ö§Ù§Ñ§á§å§ã§ä§Ú§ä§î §Þ§Ñ§ã§ã§à§Ó§å§ð §á§Ñ§Þ§ñ§ä§î? 	§±§Ö§â§Ö§Ù§Ñ§Ó§Ñ§ß§ä§Ñ§Ø§Ú§ä§Ú §Õ§Ý§ñ §Þ§Ñ§ã§à§Ó§à§Ô§à §Ù§Ò§Ö§â§Ö§Ø§Ö§ß§ß§ñ?
+STR_ID_USB_NO_MS_FOR_PC	USB£ºNo storage for PC	USB: §ß§Ö§ä §ß§Ñ§Ü§à§á§Ú§ä§Ö§Ý§ñ §Õ§Ý§ñ §±§¬	USB: §¯§Ö §Ù§Ò§Ö§â?§Ô§Ñ?§ä§î§ã§ñ §ß§Ñ §±§¬
+STR_ID_USB_SYS_NOT_READY	System not ready, please try later	§³§Ú§ã§ä§Ö§Þ§Ñ §ß§Ö §Ô§à§ä§à§Ó§Ñ, §á§à§Ó§ä§à§â§Ú§ä§Ö §á§à§á§í§ä§Ü§å §á§à§Ù§Ø§Ö	§¢§å§Õ§î §Ý§Ñ§ã§Ü§Ñ, §ã§á§â§à§Ò§å§Û§ä§Ö §á?§Ù§ß?§ê§Ö!
+STR_ID_USB_UART2_OCCUPIED	Not Allow or Conflict	USB: UART2 §Ù§Ñ§ß§ñ§ä	USB: UART2 §Ù§Ñ§Û§ß§ñ§ä§Ú§Û!
+STR_ID_MMI_SSO_ACCOUNTS	Accounts	§µ§é§Ö§ä§ß§í§Ö §Ù§Ñ§á§Ú§ã§Ú	
+STR_ID_APPMEM_ATTR_STOPPING	 (Stopping)	 (§°§ã§ä§Ñ§ß§à§Ó§Ü§Ñ)	(§©§å§á§Ú§ß§Ü§Ñ)
+STR_ID_APPMEM_PROMPT_STOP_APP	Applications 	§±§â§Ú§Ý§à§Ø§Ö§ß§Ú§ñ	§©§å§á§Ú§ß?§ä§î ?§ß§ê? §á§â§à§Ô§â§Ñ§Þ§Ú §Õ§Ý§ñ §Ó§Ú§Ó?§Ý§î§ß§Ö§ß§ß§ñ §á§Ñ§Þ'§ñ§ä?
+STR_ID_APPMEM_STOP	Stop?	§°§ã§ä§Ñ§ß§à§Ó.	§©§å§á§Ú§ß§Ú§ä§Ú
+STR_ID_APPMEM_WAIT	Wait	§°§Ø§Ú§Õ§Ñ§ß§Ú§Ö	§¹§Ö§Ü§Ñ§ä§Ú
+STR_ID_APPMEM_NOTIFY_STARTING_NEW	Starting new application	§©§Ñ§á§å§ã§Ü §ß§à§Ó§à§Ô§à §á§â§Ú§Ý§à§Ø§Ö§ß§Ú§ñ	§©§Ñ§á§å§ã§Ü §ß§à§Ó§à? §á§â§à§Ô§â§Ñ§Þ§Ú
+STR_ID_APPMEM_NOTIFY_STOPPED	Application stopped	§±§â§Ú§Ý§à§Ø§Ö§ß§Ú§Ö §à§ã§ä§Ñ§ß§à§Ó§Ý§Ö§ß§à	§±§â§à§Ô§â§Ñ§Þ§å §Ù§å§á§Ú§ß§Ö§ß§à
+STR_SCR_PBOOK_CAPTION	Phonebook	§´§Ö§Ý. §Ü§ß§Ú§Ô§Ñ	§´§Ö§Ý§Ö§æ§à§ß§ß§Ú§Û §Õ§à§Ó?§Õ§ß§Ú§Ü
+STR_SPEED_DAIL_ENTER_NUMBER	Enter Number		
+STR_SPEED_DAIL_MANUAL_EDIT	Manual editing		
+STR_SPEED_DAIL_ADD_FROM_PHB	Add from Phonebook		
+STR_ID_PHB_ADD_DETAILS	Add detail	§¥§à§Ò§Ñ§Ó§Ú§ä§î §Õ§Ñ§ß§ß§í§Ö	
+STR_ID_PHB_DELETE_DETAILS	Delete detail	§µ§Õ§Ñ§Ý§Ú§ä§î §Õ§Ñ§ß§ß§í§Ö	
+STR_ID_PHB_SET_SPD_NUM	Assign speed dial	§µ§ã§ä§Ñ§ß§à§Ó§Ú§ä§î §Ò§í§ã§ä§â§í§Û §ß§Ñ§Ò§à§â	
+STR_ID_PHB_CANCEL_SPD_NUM	Remove speed dial	§µ§Õ§Ñ§Ý§Ú§ä§î §Ò§í§ã§ä§â§í§Û §ß§Ñ§Ò§à§â	
+STR_ID_PHB_SEND_MULTI_MESSAGE_QUERY_1	Can only add	§®§à§Ø§ß§à §ä§à§Ý§î§Ü§à §Õ§à§Ò§Ñ§Ó§Ú§ä§î	
+STR_ID_PHB_SEND_MULTI_MESSAGE_QUERY_2	contacts. Continue?	§Ü§à§ß§ä§Ñ§Ü§ä§í. §±§â§à§Õ§à§Ý§Ø§Ú§ä§î?	
+STR_ID_PHB_SEND_MULTI_MESSAGE_QUERY_3	contact. Continue?	§Ü§à§ß§ä§Ñ§Ü§ä. §±§â§à§Õ§à§Ý§Ø§Ú§ä§î?	
+STR_PICTURE_1	Picture 1	§ª§Ù§à§Ò§â§Ñ§Ø. 1	§¬§Ñ§â§ä§Ú§ß§Ü§Ñ 1
+STR_PICTURE_2	Picture 2	§ª§Ù§à§Ò§â§Ñ§Ø. 2	§¬§Ñ§â§ä§Ú§ß§Ü§Ñ 2
+STR_PICTURE_3	Picture 3	§ª§Ù§à§Ò§â§Ñ§Ø. 3	§¬§Ñ§â§ä§Ú§ß§Ü§Ñ 3
+STR_PICTURE_4	Picture 4	§ª§Ù§à§Ò§â§Ñ§Ø. 4	§¬§Ñ§â§ä§Ú§ß§Ü§Ñ 4
+STR_ID_PHB_MULTI_OP	Mark several	§³§à§ã§ä§Ñ§Ó§ß§Ñ§ñ §à§á§Ö§â§Ñ§è§Ú§ñ	§¢§Ñ§Ô§Ñ§ä§à§à§á§Ö§â§Ñ§è?§Û§ß§Ú§Û
+STR_ID_PHB_SETTINGS	Phonebook settings	§¯§Ñ§ã§ä§â§à§Û§Ü§Ú §ä§Ö§Ý§Ö§æ§à§ß§ß§à§Û §Ü§ß§Ú§Ø§Ü§Ú	
+STR_ID_PHB_STORAGE_BOTH	Both	§°§Ò§Ñ	
+STR_ID_PHB_SPEED_DIAL	Speed dial	§¢§í§ã§ä§â§í§Û §ß§Ñ§Ò§à§â	
+STR_ID_PHB_SPEED_DIAL_STATUS	Status	§³§à§ã§ä§à§ñ§ß§Ú§Ö	
+STR_ID_PHB_SPEED_DIAL_ALREADY_ASSIGNED	Already assigned	§µ§Ø§Ö §å§ã§ä§Ñ§ß§à§Ó§Ý§Ö§ß§à	
+STR_ID_PHB_SPEED_DIAL_SETTING	Set numbers	§£§Ó§Ö§Õ§Ú§ä§Ö §ß§à§Þ§Ö§â	
+STR_PHONBOOK_OPTION_ADD_SPEED_DIAL	Add to Speed Dial	§¥§à§Ò. §Ó §Ò§í§ã§ä§â§í§Û §ß§Ñ§Ò§à§â	
+STR_ID_PHB_COPY_SEVERAL	Copy contacts	§¬§à§á§Ú§â§à§Ó§Ñ§ä§î §Ü§à§ß§ä§Ñ§Ü§ä§í	
+STR_ID_PHB_MOVE_SEVERAL	Move contacts	§±§Ö§â§Ö§Þ§Ö§ã§ä§Ú§ä§î §Ü§à§ß§ä§Ñ§Ü§ä§í	
+STR_ID_PHB_MULTI_OP_COPY_SELECTED	Copy marked	§¬§à§á§Ú§â§à§Ó§Ñ§ä§î §Ó§í§Ò§â§Ñ§ß§ß§à§Ö	§¬§à§á?§ð§Ó§Ñ§ä§Ú §Ó§Ú§Ò§â§Ñ§ß?
+STR_ID_PHB_MARK_SEVERAL_OP_MOVE_SELECTED	Move marked	§±§Ö§â§Ö§Þ§Ö§ã§ä§Ú§ä§î §à§Ò§à§Ù§ß§Ñ§é§Ö§ß§ß§í§Ö	
+STR_ID_PHB_MULTI_OP_COPY_SELECTED_ASK	Copy marked?	§¬§à§á§Ú§â§à§Ó§Ñ§ä§î §Ó§í§Ò§â§Ñ§ß§ß§à§Ö?	
+STR_ID_PHB_MULTI_OP_MOVE_SELECTED_ASK	Move marked?	§±§Ö§â§Ö§Þ§Ö§ã§ä§Ú§ä§î §à§Ò§à§Ù§ß§Ñ§é§Ö§ß§ß§í§Ö?	
+STRING_MTPNP_SIM1_SDL_NUMBER	SIM 1 service numbers	§³§Ý§å§Ø§Ö§Ò§ß§í§Û §ß§à§Þ§Ö§â (SIM1)	
+STRING_MTPNP_SIM1_SOS_NUMBER	SIM 1 SOS numbers	§¯§à§Þ§Ö§â §ã§Ý§å§Ø§Ò§í §ã§á§Ñ§ã§Ö§ß§Ú§ñ (SIM1)	
+STRING_MTPNP_SDL_NUMBER	SIM2 service numbers	§³§Ý§å§Ø§Ö§Ò§ß§í§Û §ß§à§Þ§Ö§â (SIM2)	
+STRING_MTPNP_SOS_NUMBER	SIM 2 SOS numbers	§¯§à§Þ§Ö§â §ã§Ý§å§Ø§Ò§í §ã§á§Ñ§ã§Ö§ß§Ú§ñ (SIM2)	
+STR_ID_PHB_ENTRY_MOVED	contact moved	§Ü§à§ß§ä§Ñ§Ü§ä §á§Ö§â§Ö§Þ§Ö§ë§Ö§ß	
+STR_ID_PHB_ENTRIES_MOVED	contacts moved	§Ü§à§ß§ä§Ñ§Ü§ä§í §á§Ö§â§Ö§Þ§Ö§ë§Ö§ß§í	
+STR_ENTRY_COPIED	contact copied	§©§Ñ§á§Ú§ã§î §ã§Ü§à§á§Ú§â§à§Ó§Ñ§ß§Ñ	
+STR_ENTRIES_COPIED	contacts copied	§¬§à§ß§ä§Ñ§Ü§ä§í §ã§Ü§à§á§Ú§â§à§Ó§Ñ§ß§í	§©§Ñ§á§Ú§ã§Ú §ã§Ü§à§á?§Û§à§Ó§Ñ§ß?!
+STR_ID_PHB_CANCELLED	Cancelled,	§°§ä§Þ§Ö§ß§Ö§ß§à,	
+STR_ID_PHB_DELETE_ALL	Delete all contacts	§µ§Õ§Ñ§Ý§Ú§ä§î §Ó§ã§Ö §Ü§à§ß§ä§Ñ§Ü§ä§í	
+STR_ID_PHB_ENTRY_DELETED	contact deleted	§©§Ñ§á§Ú§ã§î §å§Õ§Ñ§Ý§Ö§ß§Ñ	
+STR_ID_PHB_ENTRIES_DELETED	contacts deleted	§¬§à§ß§ä§Ñ§Ü§ä§í §å§Õ§Ñ§Ý§Ö§ß§í	§©§Ñ§á§Ú§ã§Ú §Ó§Ú§Õ§Ñ§Ý§Ö§ß?!
+STR_ID_PHB_NO_CONTACT	No contact	§³§á§Ú§ã§à§Ü §Ü§à§ß§ä§Ñ§Ü§ä§à§Ó §á§å§ã§ä	
+STR_ID_PHB_INVALID_LOCATION	Invalid location	§¯§Ö§Õ§Ö§Û§ã§ä§Ó§Ú§ä§Ö§Ý§î§ß§à§Ö §Þ§Ö§ã§ä§à§ß§Ñ§ç§à§Ø§Õ§Ö§ß§Ú§Ö	
+STR_ID_PHB_MULTI_OP_MAX_ITEM_REACH	Max selectable items reached	§¥§à§ã§ä§Ú§Ô§ß§å§ä §á§â§Ö§Õ§Ö§Ý §Ü§à§Ý§Ú§é§Ö§ã§ä§Ó§Ñ §ï§Ý§Ö§Þ§Ö§ß§ä§à§Ó	
+STR_ID_PHB_MULTI_OP_DELETE_SELECTED	Delete marked	§µ§Õ§Ñ§Ý§Ú§ä§î §Ó§í§Ò§â§Ñ§ß§ß§à§Ö	§£§Ú§Õ§Ñ§Ý§Ú§ä§Ú §Ó§Ú§Ò§â§Ñ§ß?
+STR_ID_PHB_MULTI_OP_REMOVE_SELECTED	Remove marked	§µ§Õ§Ñ§Ý§Ú§ä§î §á§à§Þ§Ö§é§Ö§ß§ß§í§Ö	
+STR_ID_PHB_MULTI_OP_ADD_SELECTED	Add marked	§¥§à§Ò§Ñ§Ó§Ú§ä§î §à§ä§Þ§Ö§é§Ö§ß§ß§í§Ö	
+STR_ID_PHB_MULTI_OP_DELETE_SELECTED_ASK	Delete marked?	§µ§Õ§Ñ§Ý§Ú§ä§î §Ó§í§Ò§â§Ñ§ß§ß§à§Ö?	
+STR_ID_PHB_MULTI_OP_REMOVE_SELECTED_ASK	Remove marked?	§µ§Õ§Ñ§Ý§Ú§ä§î §á§à§Þ§Ö§é§Ö§ß§ß§í§Ö?	
+STR_ID_PHB_STARTUP_COPY_SIM_CONFIRM	Copy all from SIM to Phone?	§¬§à§á§Ú§â§à§Ó§Ñ§ä§î §Ó§ã§Ö §Ú§Ù §ä§Ö§Ý§Ö§æ§à§ß§Ñ §ß§Ñ SIM?	
+STR_ID_PHB_INFO_MAY_LOST_WHEN_COPY	Info may be lost. Continue?	§¥§Ñ§ß§ß§í§Ö §Þ§à§Ô§å§ä §Ò§í§ä§î §á§à§ä§Ö§â§ñ§ß§í. §±§â§à§Õ§à§Ý§Ø§Ú§ä§î?	
+STR_ID_PHB_TO_PHONE	To Phone	§£ §ä§Ö§Ý§Ö§æ§à§ß	
+STR_ID_PHB_FROM_PHONE	From Phone	§³ §ä§Ö§Ý§Ö§æ§à§ß§Ñ	
+STR_ID_PHB_TO_SIM1	To SIM 1	§¯§Ñ SIM1	
+STR_ID_PHB_FROM_SIM1	From SIM 1	§³ SIM1	
+STR_ID_PHB_TO_SIM	To SIM	§¯§Ñ SIM-§Ü§Ñ§â§ä§å	
+STR_ID_PHB_FROM_SIM	From SIM	§³ SIM-§Ü§Ñ§â§ä§í	
+STR_ID_PHB_UNNAMED	(Unnamed)	(§¢§Ö§Ù §ß§Ñ§Ù§Ó§Ñ§ß§Ú§ñ)	
+STR_ID_PHB_OPTION_VIEW_PIC	View picture	§±§â§à§ã§Þ§à§ä§â§Ö§ä§î §Ú§Ù§à§Ò§â§Ñ§Ø§Ö§ß§Ú§Ö	
+STR_ID_PHB_FMGR_IMAGE_SELECT_FILE	From file	§£§í§Ò§â§Ñ§ä§î §Ú§Ù §æ§Ñ§Û§Ý§Ñ	§Ù §æ§Ñ§Û§Ý§å
+STR_ID_PHB_CALLER_IMAGE_FROM_CAMERA	From camera	§³ §Ü§Ñ§Þ§Ö§â§í	
+STR_ID_PHB_FMGR_IMAGE_NO_SELECT	No file selected	§ª§Ù§à§Ò§â§Ñ§Ø. §ß§Ö §Ó§í§Ò§â§Ñ§ß§à	§¯§Ö §Ó§Ú§Ò§â§Ñ§ß§à §Ø§à§Õ§ß§à§Ô§à §æ§Ñ§Û§Ý§å
+STR_ID_PHB_FMGR_TO_NEW_ENTRY	To new contact	§£ §ß§à§Ó§å§ð §Ù§Ñ§á§Ú§ã§î	§µ §ß§à§Ó§Ú§Û §Ù§Ñ§á§Ú§ã
+STR_ID_PHB_FMGR_TO_SELECT_ENTRY	To selected contact	§£ §Ó§í§Ò§â§Ñ§ß§ß§å§ð §Ù§Ñ§á§Ú§ã§î	§µ §Ó§Ú§Ò§â§Ñ§ß§Ú§Û §Ù§Ñ§á§Ú§ã
+STR_ID_PHB_FMGR_IMAGE_SELECTED	File selected	§£§í§Ò§â§Ñ§ß§ß§à§Ö §Ú§Ù§à§Ò§â§Ñ§Ø§Ö§ß§Ú§Ö	§¶§Ñ§Û§Ý §Ó§Ú§Ò§â§Ñ§ß§Ú§Û
+STR_MITEM101	Search contact	§±§à§Ú§ã§Ü §Ù§Ñ§á§Ú§ã§Ú	§º§å§Ü§Ñ§ä§Ú §Ù§Ñ§á§Ú§ã
+STR_ID_PHB_ADD_NEW_CONTACT	Add new contact	§¥§à§Ò§Ñ§Ó§Ú§ä§î §ß§à§Ó§í§Û §Ü§à§ß§ä§Ñ§Ü§ä	§¥§à§Õ§Ñ§ä§Ú §ß§à§Ó§Ú§Û §Ù§Ñ§á§Ú§ã
+STR_ID_PHB_NAME_NUM_REQUIRE	Input either name or number	§£§Ó§Ö§Õ§Ú§ä§Ö §Ú§Þ§ñ §Ú§Ý§Ú §ß§à§Þ§Ö§â 	§£§Ó§Ö§Õ?§ä§î ?§Þ'§ñ §Ñ§Ò§à §ß§à§Þ§Ö§â
+STR_PBOOK_FULL_MSG	Phonebook full	§£§í§Ò§â§Ñ§ß§ß§à§Ö §ç§â§Ñ§ß§Ú§Ý§Ú§ë§Ö §á§Ö§â§Ö§á§à§Ý§ß§Ö§ß§à	§´§Ö§Ý§Ö§æ§à§ß§ß§Ú§Û §Õ§à§Ó?§Õ§ß§Ú§Ü §Ù§Ñ§á§à§Ó§ß§Ö§ß§Ú§Û!
+STR_SIM_FULL_MSG	SIM storage full	§±§Ñ§Þ§ñ§ä§î §á§à§Ý§ß§Ñ§ñ	§±§Ñ§Þ'§ñ§ä§î SIM-§Ü§Ñ§â§ä§Ú §Ù§Ñ§á§à§Ó§ß§Ö§ß§Ñ!
+STR_PHONE_FULL_MSG	Phone storage full	§±§Ñ§Þ§ñ§ä§î §á§à§Ý§ß§Ñ§ñ	§±§Ñ§Þ'§ñ§ä§î §ä§Ö§Ý§Ö§æ§à§ß§å §Ù§Ñ§á§à§Ó§ß§Ö§ß§Ñ!
+STR_ID_PHB_NO_ENTRY_TO_SELECT	No contact available	§¯§Ö§ä §Ü§à§ß§ä§Ñ§Ü§ä§à§Ó §Õ§Ý§ñ §Ó§í§Ò§à§â§Ñ	§¯§Ö§Þ§Ñ? §Ù§Ñ§á§Ú§ã?§Ó §Õ§Ý§ñ §Ó§Ú§Ò§à§â§å!
+STR_SCR_PBOOK_VIEW_CAPTION	Phonebook	§´§Ö§Ý. §Ü§ß§Ú§Ô§Ñ	§³§á§Ú§ã§à§Ü §ä§Ö§Ý§Ö§æ§à§ß§ß§Ú§ç §ß§à§Þ§Ö§â?§Ó
+STR_SCR_INLINE_EDIT_CAPTION	Edit contact	§²§Ö§Õ§Ñ§Ü§ä. §Ù§Ñ§á§Ú§ã§î	§²§Ö§Õ§Ñ§Ô§å§Ó§Ñ§ä§Ú §Ù§Ñ§á§Ú§ã
+STR_SCR_ENTRY_VIEW_CAPTION	View contact	§±§â§à§ã§Þ§à§ä§â §Ü§à§ß§ä§Ñ§Ü§ä§Ñ	§£§Ú§Ô§Ý§ñ§Õ §ä§Ö§Ý§Ö§æ§à§ß§ß§à§Ô§à §Õ§à§Ó?§Õ§ß§Ú§Ü§Ñ
+STR_ID_PBAP_BQB_TEST	Pbap BQB test	§´§Ö§ã§ä Pbap BQB	
+STR_PROCESSING_PHONEBOOK	Phonebook not ready	§´§Ö§Ý. §Ü§ß§Ú§Ô§Ñ §ß§Ö §Ô§à§ä§à§Ó§Ñ	§°§Ò§â§à§Ò§Ü§Ñ\n §ä§Ö§Ý§Ö§æ§à§ß§ß§à§Ô§à §Õ§à§Ó?§Õ§ß§Ú§Ü§Ñ
+STR_CHOOSE_STORAGE_CAPTION	Choose storage	§±§Ñ§Þ§ñ§ä§î	§£§Ú§Ò§Ö§â?§ä§î §Þ?§ã§è§Ö §Ù§Ò§Ö§â§Ö§Ø§Ö§ß§ß§ñ
+STR_SCR_ADD_NEW_ENTRY_CAPTION	New contact	§¯§à§Ó§í§Û §Ü§à§ß§ä§Ñ§Ü§ä	§¯§à§Ó§Ú§Û §Ù§Ñ§á§Ú§ã
+STR_ID_PHB_ADDED	Added	§¥§à§Ò§Ñ§Ó§Ý§Ö§ß§à	
+STR_NO_NUMBER_TO_DIAL	No number to dial	§¯§Ö§ä §ß§à§Þ§Ö§â§Ñ §Õ§Ý§ñ §ß§Ñ§Ò§à§â§Ñ	§¯§Ö §Ó§Ü§Ñ§Ù§Ñ§ß§Ú§Û §ß§à§Þ§Ö§â §Õ§Ý§ñ §ß§Ñ§Ò§à§â§å!
+STR_CHOOSE_NUMBER_CAPTION	Choose number	§£§í§Ò§Ö§â§Ú§ä§Ö §ß§à§Þ§Ö§â	§£§Ú§Ò§Ö§â?§ä§î §ß§à§Þ§Ö§â
+STR_ID_PHB_NAME	Name	§ª§Þ§ñ	?§Þ'§ñ
+STR_ID_PHB_NUMBER	Number	§¯§à§Þ§Ö§â	
+STR_ID_PHB_VCARD	My number	§®§à§Û §ß§à§Þ§Ö§â	§®§à§ñ §Ü§Ñ§â§ä§Ü§Ñ
+STR_ID_PHB_VCARD_EDIT_MYCARD	Edit my number	§ª§Ù§Þ§Ö§ß§Ú§ä§î §Þ§à§Û §ß§à§Þ§Ö§â	§²§Ö§Õ§Ñ§Ô§å§Ó§Ñ§ä§Ú §Þ§à§ð §Ü§Ñ§â§ä§Ü§å
+STR_ID_PHB_COPY_NUM_WITH_QUESTION_MARK	Number with ? cannot be copied	§¯§Ö§Ó§à§Ù§Þ§à§Ø§ß§à §Ü§à§á§Ú§â§à§Ó§Ñ§ä§î §ß§à§Þ§Ö§â, §ã§à§Õ§Ö§â§Ø§Ñ§ë§Ú§Û §Ù§ß§Ñ§Ü §Ó§à§á§â§à§ã§Ñ	
+STR_ID_PHB_COPY_NUM_WITH_W	Number with w cannot be copied to SIM	§¯§Ö§Ó§à§Ù§Þ§à§Ø§ß§à §Ü§à§á§Ú§â§à§Ó§Ñ§ä§î §ß§Ñ SIM-§Ü§Ñ§â§ä§å §ß§à§Þ§Ö§â, §ã§à§Õ§Ö§â§Ø§Ñ§ë§Ú§Û §ã§Ú§Þ§Ó§à§Ý w	
+STR_ID_PHB_MOVE_NUM_WITH_QUESTION_MARK	Number with ? cannot be moved	§¯§Ö§Ó§à§Ù§Þ§à§Ø§ß§à §á§Ö§â§Ö§Þ§Ö§ã§ä§Ú§ä§î §ß§à§Þ§Ö§â, §ã§à§Õ§Ö§â§Ø§Ñ§ë§Ú§Û §Ù§ß§Ñ§Ü §Ó§à§á§â§à§ã§Ñ	
+STR_ID_PHB_MOVE_NUM_WITH_W	Number with w cannot be moved to SIM	§¯§Ö§Ó§à§Ù§Þ§à§Ø§ß§à §á§Ö§â§Ö§Þ§Ö§ã§ä§Ú§ä§î §ß§Ñ SIM-§Ü§Ñ§â§ä§å §ß§à§Þ§Ö§â, §ã§à§Õ§Ö§â§Ø§Ñ§ë§Ú§Û §ã§Ú§Þ§Ó§à§Ý w	
+STR_ID_PHB_AUDIO_ID_NOT_EXIST	Audio file does not exist	§©§Ó§å§Ü§à§Ó§à§Û §æ§Ñ§Û§Ý §ß§Ö §ã§å§ë§Ö§ã§ä§Ó§å§Ö§ä	§¡§å§Õ?§à §æ§Ñ§Û§Ý §ß§Ö ?§ã§ß§å?
+STR_ID_PHB_QUICK_SEARCH	Quick search	§¢§í§ã§ä§â§í§Û §á§à§Ú§ã§Ü	§º§Ó§Ú§Õ§Ü§Ú§Û §á§à§ê§å§Ü
+STR_ID_PHB_OP_IMAGE_FAIL	Failed to add image	§ª§Ù§à§Ò§â§Ñ§Ø§Ö§ß§Ú§Ö	§©§à§Ò§â§Ñ§Ø§Ö§ß§ß§ñ
+STR_ID_PHB_OP_VIDEO_FAIL	Failed to add video	§£§Ú§Õ§Ö§à	§£?§Õ§Ö§à
+STR_ID_PHB_OP_IMAGE_VIDEO_FAIL	Failed to add image, video	§¯§Ö §å§Õ§Ñ§Ý§à§ã§î §Õ§à§Ò§Ñ§Ó§Ú§ä§î §Ú§Ù§à§Ò§â§Ñ§Ø§Ö§ß§Ú§Ö, §Ó§Ú§Õ§Ö§à	
+STR_ID_PHB_NAME_MODIFIED	Name modified	§ª§Ù§Þ§Ö§ß§×§ß§ß§à§Ö §Ú§Þ§ñ	
+STR_ID_PHB_OP_COMMA	, 	, 	
+STR_PHB_ERASING	Removing	§³§ä§Ú§â§Ñ§ß§Ú§Ö	§£§Ú§Õ§Ñ§Ý§Ö§ß§ß§ñ
+STR_NUMBER_TOO_LONG	Number too long. Maximum = 40	§¯§Ö §ã§à§ç§â§Ñ§ß§Ö§ß§à, §ß§à§Þ§Ö§â §ã§Ý§Ú§ê§Ü§à§Þ §Õ§Ý§Ú§ß§ß§í§Û.	§¯§à§Þ§Ö§â §Ù§Ñ§ß§Ñ§Õ§ä§à §Õ§à§Ó§Ô§Ú§Û! §®§Ñ§Ü§ã§Ú§Þ§å§Þ = 40
+STR_NOT_SAVED_NUMBER_TOO_LONG	Not saved, number too long	§¯§Ö §ã§à§ç§â§Ñ§ß§Ö§ß, §ß§à§Þ§Ö§â §ã§Ý§Ú§ê§Ü§à§Þ §Õ§Ý§Ú§ß§ß§í§Û	§¯§Ö§Þ§à§Ø§Ý§Ú§Ó§à §Ù§Ò§Ö§â§Ö§Ô§ä§Ú, §ß§à§Þ§Ö§â §Ù§Ñ§ß§Ñ§Õ§ä§à §Õ§à§Ó§Ô§Ú§Û!
+STR_NOT_MOVED_NUMBER_TOO_LONG	Not moved, number too long	§¯§Ö §á§Ö§â§Ö§Þ§Ö§ë§Ö§ß, §ß§à§Þ§Ö§â §ã§Ý§Ú§ê§Ü§à§Þ §Õ§Ý§Ú§ß§ß§í§Û	§¯§Ö§Þ§à§Ø§Ý§Ú§Ó§à §á§Ö§â§Ö§Þ?§ã§ä§Ú§ä§Ú, §ß§à§Þ§Ö§â §Ù§Ñ§ß§Ñ§Õ§ä§à §Õ§à§Ó§Ô§Ú§Û!
+STR_NOT_COPIED_NUMBER_TOO_LONG	Not copied, number too long	§¯§Ö §ã§Ü§à§á§Ú§â§à§Ó§Ñ§ß, §ß§à§Þ§Ö§â §ã§Ý§Ú§ê§Ü§à§Þ §Õ§Ý§Ú§ß§ß§í§Û 	§¯§Ö§Þ§à§Ø§Ý§Ú§Ó§à §ã§Ü§à§á?§ð§Ó§Ñ§ä§Ú, §ß§à§Þ§Ö§â §Ù§Ñ§ß§Ñ§Õ§ä§à §Õ§à§Ó§Ô§Ú§Û!
+STR_COPIED_NAME_MODIFIED	Copied, name modified	§³§Ü§à§á§Ú§â§à§Ó§Ñ§ß§à, §Ú§Þ§ñ §Ú§Ù§Þ§Ö§ß§Ö§ß§à	§³§Ü§à§á?§Û§à§Ó§Ñ§ß§à, ?§Þ'§ñ §Ù§Þ?§ß§Ö§ß§à!
+STR_MOVED_NAME_MODIFIED	Moved, name modified	§±§Ö§â§Ö§Þ§Ö§ë§Ö§ß§à, §Ú§Þ§ñ §Ú§Ù§Þ§Ö§ß§Ö§ß§à	§±§Ö§â§Ö§Þ?§ë§Ö§ß§à, ?§Þ'§ñ §Ù§Þ?§ß§Ö§ß§à!
+STR_ID_PHB_PARTIAL_COPIED	Partial Copied	§³§Ü§à§á§Ú§â§à§Ó§Ñ§ß§à §ß§Ö§á§à§Ý§ß§à§ã§ä§î§ð	
+STR_ID_SAVE_CONTACT_OPT_UPDATE	Replace existing	§©§Ñ§Þ§Ö§ß§Ú§ä§î §ã§å§ë§Ö§ã§ä§Ó§å§ð§ë§Ú§Û	
+STR_ID_SAVE_CONTACT_REPLACE_QUERY	Replace?	§±§Ö§â§Ö§Þ§Ö§ã§ä§Ú§ä§î?	
+STR_ID_PHB_EXTRA_NUMBER	Extra numbers	§¥§à§á§à§Ý§ß. §ß§à§Þ§Ö§â	§¥§à§Õ§Ñ§ä§Ü§à§Ó§Ú§Û §ß§à§Þ§Ö§â
+STR_ID_PHB_ICE_CONTACT	SOS number	ICE §Ü§à§ß§ä§Ñ§Ü§ä	ICE contact
+STR_ID_PHB_ICE1	ICE1	ICE1	
+STR_ID_PHB_ICE2	ICE2	ICE2	
+STR_ID_PHB_ICE3	ICE3	ICE3	
+STR_ERASE_QUERY	Remove?	§³§ä§Ö§â§Ö§ä§î?	§£§Ú§Õ§Ñ§Ý§Ú§ä§Ú
+STR_MITEM105	Owner numbers	§³§à§Ò§ã§ä§Ó. §ß§à§Þ§Ö§â	§¯§à§Þ§Ö§â §Ó§Ý§Ñ§ã§ß§Ú§Ü§Ñ
+STR_NO_OWNER_NUMBER_MESSAGE	Owner number list empty	§³§á§Ú§ã§à§Ü §ã§à§Ò§ã§ä§Ó. §ß§à§Þ§Ö§â§à§Ó §á§å§ã§ä	§³§á§Ú§ã§à§Ü §ß§à§Þ§Ö§â?§Ó §Ó§Ý§Ñ§ã§ß§Ú§Ü§Ñ §á§à§â§à§Ø§ß?§Û!
+STR_OWNER_NAME_CAPTION	Name	§ª§Þ§ñ §Ó§Ý§Ñ§Õ§Ö§Ý§î§è§Ñ	?§Þ'§ñ §Ó§Ý§Ñ§ã§ß§Ú§Ü§Ñ
+STR_SDL_MAIN_MENU	Service numbers	§³§Ý§å§Ø§Ò§Ñ §ß§Ñ§Ò§à§â§Ñ §ß§à§Þ§Ö§â§Ñ	§¯§à§Þ§Ö§â §ã§Ý§å§Ø§Ò§Ú §á?§Õ§ä§â§Ú§Þ§Ü§Ú
+STR_SOS_MENU_ITEM	SOS numbers	§¿§Ü§ã§ä§â. §ß§à§Þ§Ö§â	§¯§à§Þ§Ö§â SOS
+STR_SOSLIST_NVRAM	In phone	§Ó §ä§Ö§Ý§Ö§æ.	§å §ä§Ö§Ý§Ö§æ§à§ß
+STR_ID_PHB_SOSLIST_INSIM	In SIM	§ß§Ñ SIM	
+STR_ID_PHB_ADD_MORE_NUMBER	New number	§¯§à§Ó§í§Û §ß§à§Þ§Ö§â	
+STR_ID_PHB_ADN_FORBID	SIM not accessible	SIM-§Ü§Ñ§â§ä§Ñ §ß§Ö§Õ§à§ã§ä§å§á§ß§Ñ	
+STR_COMPNAY_NAME	Company name	§¯§Ñ§Ù§Ó§Ñ§ß§Ú§Ö §Ü§à§Þ§á§Ñ§ß§Ú§Ú	§¯§Ñ§Ù§Ó§Ñ §Ü§à§Þ§á§Ñ§ß??
+STR_EMAIL_ADRESS	Email address	§¡§Õ§â§Ö§ã §ï§Ý. §á§à§é§ä§í	Email §Ñ§Õ§â§Ö§ã§Ñ
+STR_ID_PHB_EMAIL1_ADRESS	Email address 1	§¡§Õ§â§Ö§ã §ï§Ý. §á§à§é§ä§í 1	
+STR_ID_PHB_SEP_COLON	: 	: 	
+STR_ID_PHB_INVLID_PREFFER_STORAGE	Invalid preferred storage	§¯§Ö§Õ§Ö§Û§ã§ä§Ó§Ú§ä§Ö§Ý§î§ß§à§Ö §á§â§Ö§Õ§á§à§é§Ú§ä§Ñ§Ö§Þ§à§Ö §Ù§Ñ§á§à§Þ§Ú§ß§Ñ§ð§ë§Ö§Ö §å§ã§ä§â§à§Û§ã§ä§Ó§à	
+STR_ID_PHB_VIP_CONTACT_CHANGE	Change	§ª§Ù§Þ§Ö§ß§Ú§ä§î	
+STR_ID_PHB_CALLER_PIC	Caller picture	§ª§Ù§à§Ò§â§Ñ§Ø§Ö§ß§Ú§Ö §Õ§Ý§ñ §Ñ§Ò§à§ß§Ö§ß§ä§Ñ	§¬§Ñ§â§ä§Ú§ß§Ü§Ñ §Ñ§Ò§à§ß§Ö§ß§ä§Ñ
+STR_ID_PHB_CALLER_RING	Caller ringtone	§®§Ö§Ý§à§Õ§Ú§ñ §Õ§Ý§ñ §Ñ§Ò§à§ß§Ö§ß§ä§Ñ	§®§Ö§Ý§à§Õ?§ñ §Õ§Ù§Ó?§ß§Ü§Ñ §Ñ§Ò§à§ß§Ö§ß§ä§Ñ
+STR_SCR8054_CALL_FDL_CAPTION	FDN list	§³§á§Ú§ã§à§Ü §ß§à§Þ§Ö§â§à§Ó §æ§Ú§Ü§ã. §ß§Ñ§Ò§à§â§Ñ	§³§á§Ú§ã§à§Ü FDN
+STR_MENU9167_FIXED_DIAL	Fixed dial	§¶§Ú§Ü§ã§Ú§â§à§Ó§Ñ§ß§ß§í§Û §ß§Ñ§Ò§à§â	§¶?§Ü§ã§à§Ó§Ñ§ß§Ú§Û §ß§Ñ§Ò?§â
+STR_ID_SECSET_REPLACE_WILDCARD	Please replace ? by a digit	§©§Ñ§Þ§Ö§ß§Ú§ä§Ö §Ù§ß§Ñ§Ü §Ó§à§á§â§à§ã§Ñ §è§Ú§æ§â§à§Û	
+STR_SETTING_FDL_LIST	Fixed dial list	§¶§Ú§Ü§ã§Ú§â§à§Ó§Ñ§ß§ß§í§Û §ã§á§Ú§ã§à§Ü §ß§Ñ§Ò§à§â§Ñ	§³§á§Ú§ã§à§Ü §ß§à§Þ§Ö§â?§Ó §æ?§Ü§ã§à§Ó§Ñ§ß§à§Ô§à §ß§Ñ§Ò§à§â§å
+STR_FDL_IS_ON	FDN enabled	§¯§à§Þ§Ö§â §æ§Ú§Ü§ã. §ß§Ñ§Ò§à§â§Ñ §Ó§Ü§Ý.	FDN §Ñ§Ü§ä§Ú§Ó§à§Ó§Ñ§ß§à
+STR_FDL_IS_OFF	FDN disabled	§¯§à§Þ§Ö§â §æ§Ú§Ü§ã. §ß§Ñ§Ò§à§â§Ñ §Ó§í§Ü§Ý.	FDN §Õ§Ö§Ñ§Ü§ä§Ú§Ó§à§Ó§Ñ§ß§à
+STR_SETTING_BDL_LIST	Barred dial list	§©§Ñ§á§â§Ö§ë§Ö§ß§ß§í§Û §ã§á§Ú§ã§à§Ü §ß§Ñ§Ò§à§â§Ñ	§³§á§Ú§ã§à§Ü §Ù§Ñ§Ò§à§â§à§ß§Ö§ß§Ú§ç §ß§à§Þ§Ö§â?§Ó
+STR_SCR8079_BDL_VIEW_LIST_CAPTION	BDN list	§³§á§Ú§ã§à§Ü BDN	§³§á§Ú§ã§à§Ü BDN
+STR_MENU9168_BARRED_DAIL	Barred dial	§©§Ñ§á§â§Ö§ë§Ö§ß§ß§í§Û §ß§Ñ§Ò§à§â	§©§Ñ§Ò§à§â§à§ß§Ñ §ß§Ñ§Ò§à§â§å
+STR_BDL_IS_ON	BDN enabled	BDN §Ó§Ü§Ý.	BDN §Ñ§Ü§ä§Ú§Ó§à§Ó§Ñ§ß§à
+STR_BDL_IS_OFF	BDN disabled	BDN §Ó§í§Ü§Ý.	BDN §Õ§Ö§Ñ§Ü§ä§Ú§Ó§à§Ó§Ñ§ß§à
+STR_ID_PHB_PBAPC_LOCAL	Local	§­§à§Ü§Ñ§Ý§î§ß§í§Û	
+STR_ID_PHB_PBAPC_BT	BT	BT	
+STR_ID_PHB_PBAPC_NO_CONN	Not Connected	§¯§Ö §á§à§Õ§Ü§Ý§ð§é§Ö§ß§à	
+STR_ID_PHB_PBAPC_SAVE_TO_LOCAL	Save to local	§³§à§ç§â§Ñ§ß§Ú§ä§î §ß§Ñ §Ý§à§Ü§Ñ§Ý§î§ß§à§Þ	
+STR_ID_PHONE_BOOK_CONTACTS	Contacts	§¬§à§ß§ä§Ñ§Ü§ä§í	
+STR_ADD_SOS_NUMBER_ADD_FROM_PHB	Add from Phonebook		
+STR_ADD_SOS_NUMBER_MANUAL_EDIT	Manual editing		
+STRING_MTPNP_SLAVE_BARRED_DIAL	SIM 2 barred dial	§©§Ñ§á§â§Ö§ä §Ó§í§Ù§à§Ó§Ñ SIM2	
+STR_SETTING_BDL_MODE	Mode	§²§Ö§Ø§Ú§Þ	§²§Ö§Ø§Ú§Þ
+STR_SCR3000_FUNANDGAMES_CAPTION	Fun	§ª§Ô§â§í	§²§à§Ù§Ó§Ñ§Ô§Ú §ä§Ñ ?§Ô§â§Ú
+STR_ID_SRV_PROF_TONE_1	Tone1	§®§Ö§Ý§à§Õ§Ú§ñ1	
+STR_ID_SRV_PROF_TONE_2	Tone2	§®§Ö§Ý§à§Õ§Ú§ñ2	
+STR_ID_SRV_PROF_TONE_3	Tone3	§®§Ö§Ý§à§Õ§Ú§ñ3	
+STR_ID_SRV_PROF_TONE_4	Tone4	§®§Ö§Ý§à§Õ§Ú§ñ4	
+STR_ID_SRV_PROF_TONE_5	Tone5	§®§Ö§Ý§à§Õ§Ú§ñ5	
+STR_ID_SRV_PROF_RING_1	Ring1	§©§Ó§à§ß§à§Ü1	
+STR_ID_SRV_PROF_RING_2	Ring2	§©§Ó§à§ß§à§Ü2	
+STR_ID_SRV_PROF_RING_3	Ring3	§©§Ó§à§ß§à§Ü3	
+STR_ID_SRV_PROF_RING_4	Ring4	§©§Ó§à§ß§à§Ü4	
+STR_ID_SRV_PROF_RING_5	Ring5	§©§Ó§à§ß§à§Ü5	
+STR_ID_GCALL_UNKNOWN_CALLER	Unknown caller	§¯§Ö§Ú§Ù§Ó§Ö§ã§ä§ß§í§Û §Ñ§Ò§à§ß§Ö§ß§ä	
+STR_ID_GCALL_RESTRICTED	Restricted	§°§Ô§â§Ñ§ß§Ú§é§Ö§ß§à	
+STR_ID_GCALL_UNAVAILABLE	Unavailable	§¯§Ö§Õ§à§ã§ä§å§á§ß§à	
+STR_ID_GCALL_UNABLE_TO_CONNECT	Unable to connect	§¯§Ö §å§Õ§Ñ§Ö§ä§ã§ñ §á§à§Õ§Ü§Ý§ð§é§Ú§ä§î§ã§ñ	
+STR_ID_GCALL_OP_FAIL	Operation failed	§³§Ò§à§Û §à§á§Ö§â§Ñ§è§Ú§Ú	
+STR_ID_GCALL_FDN_FAIL	Fixed dial number only	§´§à§Ý§î§Ü§à §ß§à§Þ§Ö§â§Ñ §ã§á§Ú§ã§Ü§Ñ §æ§Ú§Ü§ã§Ú§â§à§Ó§Ñ§ß§ß§à§Ô§à §ß§Ñ§Ò§à§â§Ñ	
+STR_ID_GCALL_CALL_ENDED	Call ended	§£§í§Ù§à§Ó §Ù§Ñ§Ó§Ö§â§ê§Ö§ß	
+STR_ID_GCALL_CALL_ABORTED	Call aborted	§£§í§Ù§à§Ó §à§ä§Þ§Ö§ß§Ö§ß	
+STR_ID_GCALL_REDIAL	Redialing:	§±§à§Ó§ä§à§â §Ó§í§Ù§à§Ó§Ñ:	
+STR_ID_GCALL_REDIAL_TIMES	time(s),\n	§á§à§á§í§ä§à§Ü,\n	
+STR_ID_GCALL_REDIAL_NEXT_ATTEMPT	next attempt in	§ã§Ý§Ö§Õ§å§ð§ë§Ñ§ñ §á§à§á§í§ä§Ü§Ñ §é§Ö§â§Ö§Ù	
+STR_ID_GCALL_REDIAL_SEC	sec(s)	§ã	
+STR_ID_GCALL_REDIAL_MIN	min(s)	§Þ§Ú§ß	
+STR_ID_GCALL_DTMF_CONFIRMATION	Send DTMF?\n	§°§ä§á§â§Ñ§Ó§Ú§ä§î §ã§Ú§Ô§ß§Ñ§Ý§í DTMF?\n	
+STR_ID_GCALL_SS_NFY_CF_ON	Call forwarding on	§±§Ö§â§Ö§Ñ§Õ§â§Ö§ã§Ñ§è§Ú§ñ §Ó§í§Ù§à§Ó§Ñ §Ó§Ü§Ý§ð§é§Ö§ß§Ñ	
+STR_ID_GCALL_SS_NFY_ALL_BARRED	All calls barred	§£§ã§Ö §Ó§í§Ù§à§Ó§í §Ù§Ñ§á§â§Ö§ë§Ö§ß§í	
+STR_ID_GCALL_SS_NFY_ALL_OUTGOING_BARRED	Outgoing call barred	§ª§ã§ç§à§Õ§ñ§ë§Ú§Û §Ó§í§Ù§à§Ó §Ù§Ñ§á§â§Ö§ë§Ö§ß	
+STR_ID_GCALL_SS_NFY_ALL_INCOMING_BARRED	Incoming call barred	§£§ç§à§Õ§ñ§ë§Ú§Û §Ó§í§Ù§à§Ó §Ù§Ñ§á§â§Ö§ë§Ö§ß	
+STR_ID_GCALL_SS_NFY_WTG	Waiting call	§£§í§Ù§à§Ó §Ó §â§Ö§Ø§Ú§Þ§Ö §à§Ø§Ú§Õ§Ñ§ß§Ú§ñ	
+STR_ID_GCALL_SS_NFY_HLD	Call held	§£§í§Ù§à§Ó §å§Õ§Ö§â§Ø§Ú§Ó§Ñ§Ö§ä§ã§ñ	
+STR_ID_GCALL_SS_NFY_RTVD	Call retrieved	§£§í§Ù§à§Ó §Ñ§Ü§ä§Ú§Ó§Ú§â§à§Ó§Ñ§ß	
+STR_ID_GCALL_SS_NFY_CONF	Conference call	§¬§à§ß§æ§Ö§â§Ö§ß§è§Ú§ñ	
+STR_ID_GCALL_SS_NFY_CUG	Closed user group	§©§Ñ§Ü§â§í§ä§Ñ§ñ §Ô§â§å§á§á§Ñ §Ñ§Ò§à§ß§Ö§ß§ä§à§Ó	
+STR_ID_GCALL_SS_NFY_CLIR_REJECTED	Check caller ID sending service	§±§â§à§Ó§Ö§â§Ú§ä§î §ã§à§ã§ä§à§ñ§ß§Ú§Ö §å§ã§Ý§å§Ô§Ú §à§ä§á§â§Ñ§Ó§Ü§Ú §ß§à§Þ§Ö§â§Ñ	
+STR_ID_GCALL_SS_NFY_CTFAC	Call transfer active	§£§Ü§Ý§ð§é§Ö§ß §á§Ö§â§Ö§Ó§à§Õ §Ó§í§Ù§à§Ó§Ñ	
+WGUI_CATEGORY_ABC_STRING_ID	ABC	ABC	
+WGUI_CATEGORY_abc_STRING_ID	abc	abc	
+WGUI_CATEGORY_123_STRING_ID	123	123	
+WGUI_CATEGORY_FRENCH_STRING_ID	FR	FR	
+WGUI_CATEGORY_french_STRING_ID	fr	fr	
+WGUI_CATEGORY_GREEK_STRING_ID	EL	EL	
+WGUI_CATEGORY_greek_STRING_ID	el	el	
+STR_DOW_SUNDAY	S	§£§à§ã§Ü§â§Ö§ã§Ö§ß§î§Ö	§¯§Ö§Õ?§Ý§ñ
+STR_DOW_MONDAY	M	§±§à§ß§Ö§Õ§Ö§Ý§î§ß§Ú§Ü	§±§à§ß§Ö§Õ?§Ý§à§Ü
+STR_DOW_TUESDAY	T	§£§ä§à§â§ß§Ú§Ü	§£?§Ó§ä§à§â§à§Ü
+STR_DOW_WEDNESDAY	W	§³§â§Ö§Õ§Ñ	§³§Ö§â§Ö§Õ§Ñ
+STR_DOW_THURSDAY	T	§¹§Ö§ä§Ó§Ö§â§Ô	§¹§Ö§ä§Ó§Ö§â
+STR_DOW_FRIDAY	F	§±§ñ§ä§ß§Ú§è§Ñ	§±'§ñ§ä§ß§Ú§è§ñ
+STR_DOW_SATURDAY	S	§³§å§Ò§à§ä§Ñ	§³§å§Ò§à§ä§Ñ
+WGUI_CATEGORY_ON_STRING_ID	On	§£§Ü§Ý.	§µ§Ó?§Þ§Ü§ß§å§ä§Ú
+STR_TODO_SUN	Sun	§£§ã	§¯§Õ
+STR_TODO_MON	Mon	§±§ß	§±§ß
+STR_TODO_TUE	Tue	§£§ä	§£§ä
+STR_TODO_WED	Wed	§³§â	§³§â
+STR_TODO_THU	Thu	§¹§ä	§¹§ä
+STR_TODO_FRI	Fri	§±§ä	§±§ä
+STR_TODO_SAT	Sat	§³§Ò	§³§Ò
+STR_ID_IWATCH_SALARM_SUN	Sun		
+STR_ID_IWATCH_SALARM_MON	Mon		
+STR_ID_IWATCH_SALARM_TUE	Mon		
+STR_ID_IWATCH_SALARM_WED	Wed		
+STR_ID_IWATCH_SALARM_THU	Thu		
+STR_ID_IWATCH_SALARM_FRI	Fri		
+STR_ID_IWATCH_SALARM_SAT	Sat		
+STR_INPUT_METHOD_MULTITAP_U_ABC	ABC	ABC	
+STR_INPUT_METHOD_MULTITAP_L_ABC	abc	abc	
+STR_INPUT_METHOD_NUMERIC	Numeric	§¹§Ú§ã§Ý§à§Ó§à§Û	§¹§Ú§ã§Ý§à§Ó§Ú§Û
+STR_INPUT_METHOD_MULTITAP_U_FRENCH	FR	FR	
+STR_INPUT_METHOD_MULTITAP_L_FRENCH	fr	fr	
+STR_INPUT_METHOD_MULTITAP_U_GREEK	EL	EL	
+STR_INPUT_METHOD_MULTITAP_L_GREEK	el	el	
+STR_ID_PHNSET_PREFERED_WRITING_LANG	Writing language	§Á§Ù§í§Ü §Õ§Ý§ñ §á§Ú§ã§î§Þ§Ñ	§±§Ú§ã§î§Þ§à§Ó§Ñ §Þ§à§Ó§Ñ
+STR_IME_SETTINGS_WRITING_LANGUAGE	Writing language	§±§à§á§å§Ý§ñ§â§ß§í§Ö §ñ§Ù§í§Ü§Ñ §Ó§Ó§à§Õ§Ñ	§±§à§á§å§Ý§ñ§â§ß? §Þ§à§Ó§Ú §Ó§Ó§Ö§Õ§Ö§ß§ß§ñ
+STR_INPUT_METHOD_MENU_INSERT_SYMBOLS	Insert symbol	§£§ã§ä§Ñ§Ó§Ú§ä§î §ã§Ú§Þ§Ó§à§Ý	§£§ã§ä§Ñ§Ó§Ú§ä§Ú §ã§Ú§Þ§Ó§à§Ý
+STR_INPUT_METHOD_MENU_SELECT_SYMBOL	Select symbol	§³§Ú§Þ§Ó§à§Ý	§£§Ú§Ò§â§Ñ§ä§Ú §ã§Ú§Þ§Ó§à§Ý
+STR_INPUT_METHOD_WRITING_LANGUAGE	Writing language	§Á§Ù§í§Ü §ß§Ñ§Õ§á§Ú§ã§Ö§Û	
+STR_ID_IME_WRITING_LANGUAGE_123	123...	123...	
+STR_ID_INPUT_MODE_PINYIN	Pin	Pin	
+STR_ID_INPUT_MODE_BIHUA	Bi	Bi	
+STR_ID_SAT_NEXT_ACTION_PROVIDE_LOCAL_INFO	Provide Local Info.	§±§â§Ö§Õ§à§ã§ä§Ñ§Ó§Ú§ä§î §Ý§à§Ü§Ñ§Ý§î§ß§å§ð §Ú§ß§æ§à§â§Þ§Ñ§è§Ú§ð	
+STR_LOW_BATTERY	Battery low	§¯§Ú§Ù§Ü§Ú§Û §Ù§Ñ§â§ñ§Õ §Ò§Ñ§ä§Ñ§â§Ö§Ú	§¢§Ñ§ä§Ñ§â§Ö§ñ §â§à§Ù§â§ñ§Õ§Ø§Ö§ß§Ñ
+STR_CHARGER_CONNECTED	Charger connected	§©§Ñ§â§ñ§Õ§ß§à§Ö §å§ã§ä§â§à§Û§ã§ä§Ó§à §á§â§Ú§ã§à§Ö§Õ§Ú§ß§Ö§ß§à! 	§©§Ñ§â§ñ§Õ§ß§Ú§Û §á§â§Ú§ã§ä§â?§Û §á?§Õ'?§Õ§ß§Ñ§ß§à!
+STR_CHARGER_REMOVED	Charger removed	§©§Ñ§â§ñ§Õ§ß§à§Ö §å§ã§ä§â§à§Û§ã§ä§Ó§à §å§Õ§Ñ§Ý§Ö§ß§à! 	§©§Ñ§â§ñ§Õ§ß§Ú§Û §á§â§Ú§ã§ä§â?§Û §Ó?§Õ'?§Õ§ß§Ñ§ß§à!
+STR_USB_CHARGER_CONNECTED	USB charger connected	§©§Ñ§â§ñ§Õ§ß§à§Ö §å§ã§ä§â§à§Û§ã§ä§Ó§à USB §á§â§Ú§ã§à§Ö§Õ§Ú§ß§Ö§ß§à! 	§©§Ñ§â§ñ§Õ§ß§Ú§Û §á§â§Ú§ã§ä§â?§Û USB §á?§Õ'?§Õ§ß§Ñ§ß§à!
+STR_USB_CHARGER_REMOVED	USB removed	USB §å§Õ§Ñ§Ý§Ö§ß! 	USB §Ó?§Õ'?§Õ§ß§Ñ§ß§à!
+STR_LOW_BATTERY_SHUTDOWN	Low battery shutdown	§¯§Ú§Ù§Ü§Ú§Û §à§ã§ä§Ñ§ß§à§Ó §Ò§Ñ§ä§Ñ§â§Ö§Ú! 	§¢§Ñ§ä§Ñ§â§Ö§ñ §â§à§Ù§â§ñ§Õ§Ø§Ö§ß§Ñ: §£§Ú§Þ§Ü§ß§Ö§ß§ß§ñ!
+STR_LOW_BATTERY_MT_PROHIBIT	Battery low. Not able to dial	§¯§Ú§Ù§Ü§Ú§Û §Ù§Ñ§â§ñ§Õ §Ò§Ñ§ä§Ñ§â§Ö§Ú. §¯§Ö§Ó§à§Ù§Þ§à§Ø§ß§à §à§ã§å§ë§Ö§ã§ä§Ó§Ú§ä§î §ß§Ñ§Ò§à§â	§¢§Ñ§ä§Ñ§â§Ö§ñ §â§à§Ù§â§ñ§Õ§Ø§Ö§ß§Ñ! §¯§Ö§Þ§à§Ø§Ý§Ú§Ó§à §ß§Ñ§Ò§â§Ñ§ä§Ú §ß§à§Þ§Ö§â!
+STR_ID_CHARGER_CHARGING_ERROR	Charging error	§°§ê§Ú§Ò§Ü§Ñ §Ù§Ñ§â§ñ§Õ§Ü§Ú	
+STR_ID_CHARGER_BATTERY_ERROR	Battery error	§°§ê§Ú§Ò§Ü§Ñ §Ò§Ñ§ä§Ñ§â§Ö§Ú	
+STR_ID_FM_ROOT	Factory mode	§©§Ñ§Ó§à§Õ§ã§Ü§à§Û §â§Ö§Ø§Ú§Þ	§©§Ñ§Ó§à§Õ§ã§î§Ü§Ú§Û §â§Ö§Ø§Ú§Þ
+STR_ID_FM_VERSION	Version	§£§Ö§â§ã§Ú§ñ	§£§Ö§â§ã?§ñ
+STR_ID_FM_BBCHIP_VER	BB Chip	BB Chip	
+STR_ID_FM_DSPCODE_VER	DSP Code	§¬§à§Õ DSP	§¬§à§Õ DSP
+STR_ID_FM_DSPATCH_VER	DSP Patch	§©§Ñ§á§Ý§Ñ§ä§Ñ DSP	§±§Ñ§ä§é DSP
+STR_ID_FM_SW_SUMMARY	Version Info Summary	§³§Ó§Ö§Õ§Ö§ß§Ú§ñ §à §Ó§Ö§â§ã§Ú§Ú	
+STR_ID_FM_SW_VER	MCU SW	MCU SW	MCU SW
+STR_ID_FM_HW_VER	MS Board	§±§Ñ§ß§Ö§Ý§î MS	§±§Ñ§ß§Ö§Ý§î MS
+STR_ID_FM_ISN	Serial no.	§³§Ö§â§Ú§Û§ß§í§Û §ß§à§Þ§Ö§â 	§³§Ö§â?§Û§ß§Ú§Û ¡í
+STR_ID_FM_BUILD_TIME	Build no.	§£§ã§ä§â§à§Ö§ß§ß§í§Û §ß§à§Þ§Ö§â 	¡í §Ù§Ò§à§â§Ü§Ú
+STR_ID_FM_LED	LED	LED	
+STR_ID_FM_LED_MAIN	Main LCM BL	§°§ã§ß§à§Ó§ß§à§Û §ï§Ü§â§Ñ§ß - §ã§Ú§ß§Ú§Û	
+STR_ID_FM_LED_KEYPAD	Keypad LED	§±§à§Õ§ã§Ó§Ö§ä§Ü§Ñ §Ü§ß§à§á§à§Ü	
+STR_ID_FM_LED_STATUS_R	Status LED R	§ª§ß§Õ§Ú§Ü§Ñ§ä§à§â §ã§à§ã§ä§à§ñ§ß§Ú§ñ - §Ü§â§Ñ§ã§ß§í§Û	
+STR_ID_FM_LED_STATUS_G	Status LED G	§ª§ß§Õ§Ú§Ü§Ñ§ä§à§â §ã§à§ã§ä§à§ñ§ß§Ú§ñ - §Ù§Ö§Ý§Ö§ß§í§Û	
+STR_ID_FM_LED_STATUS_B	Status LED B	§ª§ß§Õ§Ú§Ü§Ñ§ä§à§â §ã§à§ã§ä§à§ñ§ß§Ú§ñ - §ã§Ú§ß§Ú§Û	
+STR_ID_FM_LCD	LCD	LCD	
+STR_ID_FM_KEYPAD	Keypad	§¬§Ý§Ñ§Ó§Ú§Ñ§ä§å§â§Ñ	§¬§Ý§Ñ§Ó?§Ñ§ä§å§â§Ñ
+STR_ID_FM_LOUDSPK	Loud spk	§¤§â§à§Þ§Ü§à§Ô§à§Ó§à§â§Ú§ä§Ö§Ý§î	§¤§å§é§ß§à§Þ§à§Ó§Ö§è§î
+STR_ID_FM_LOUDSPK_AMP_OVER_CURRENT_DETECTION	spk  over current detected	§°§Ò§ß§Ñ§â§å§Ø§Ö§ß§Ñ §á§Ö§â§Ö§Ô§â§å§Ù§Ü§Ñ §Õ§Ú§ß§Ñ§Þ§Ú§Ü§Ñ	
+STR_ID_FM_EACHLOOP	Echo loop	§¸§í§Ü§Ý §ï§ç§à	§¸§Ú§Ü§Ý §Ö§ç§à
+STR_ID_FM_VIBRATOR	Vibrator	§£§Ú§Ò§â§Ñ§ä§à§â	§£?§Ò§â§Ñ§ä§à§â
+STR_ID_FM_VIBRATOR_3_1_FIRST	Enable 3-1 function	§£§Ü§Ý§ð§é§Ú§ä§î §æ§å§ß§Ü§è§Ú§ð "3 §Ó 1"	
+STR_ID_FM_VIBRATOR_3_1_SECOND	Vibration test	§´§Ö§ã§ä §ß§Ñ §Ó§Ú§Ò§â§Ñ§è§Ú§ð	
+STR_ID_FM_ADC	Charger	ADC	
+STR_ID_FM_RECEIVER	Receiver	§±§â§Ú§Ö§Þ§ß§Ú§Ü	§°§Õ§Ö§â§Ø§å§Ó§Ñ§é
+STR_ID_FM_HEADSET	Headset	§¯§Ñ§å§ê§ß§Ú§Ü§Ú	§¤§Ñ§â§ß?§ä§å§â§Ñ
+STR_ID_FM_RTC	RTC	RTC	
+STR_ID_FM_AUTO_TEST_ROOT	Quick test	§¡§Ó§ä§à §á§â§à§Ó§Ö§â§Ü§Ñ	§¡§Ó§ä§à§Þ§Ñ§ä§Ú§é§ß§Ö §ä§Ö§ã§ä§å§Ó§Ñ§ß§ß§ñ
+STR_ID_FM_AUTO_TEST_REPORT	Report	§°§ä§é§Ö§ä	§©§Ó?§ä
+STR_ID_FM_AUTO_TEST_RESULT	Test result	§²§Ö§Ù§å§Ý§î§ä§Ñ§ä §á§â§à§Ó§Ö§â§Ü§Ú	§²§Ö§Ù§å§Ý§î§ä§Ñ§ä §ä§Ö§ã§ä§å§Ó§Ñ§ß§ß§ñ
+STR_ID_FM_AUTO_TEST_PASS	Pass	§·§à§Õ	§±§â§à§Û§Õ§Ö§ß§à
+STR_ID_FM_AUTO_TEST_FAIL	Fail	§³§Ò§à§Û	§±§à§Þ§Ú§Ý§Ü§Ñ
+STR_ID_FM_AUTO_TEST_RETEST	Retest	§±§à§Ó§ä§à§â§ß§Ñ§ñ §á§â§à§Ó§Ö§â§Ü§Ñ	§±§à§Ó§ä§à§â§ß§Ö §ä§Ö§ã§ä§å§Ó§Ñ§ß§ß§ñ
+STR_ID_FM_AUTO_TEST_ALLDONE	All tests done	§£§ã§Ö §á§â§à§Ó§Ö§â§Ü§Ú §á§â§à§Û§Õ§Ö§ß§í	§£§ã? §ä§Ö§ã§ä§Ú §Ó§Ú§Ü§à§ß§Ñ§ß§à!
+STR_ID_FM_AUTO_TEST_ALLPASSED	All passed	§£§ã§Ö §á§â§à§Û§Õ§Ö§ß§à	§£§ã? §á§â§à§Û§Õ§Ö§ß?!
+STR_ID_FM_AUTO_TEST_UNFINISHED	Not finished	§¯§Ö §Ù§Ñ§Ü§à§ß§é.	§¯§Ö §Ù§Ñ§Ó§Ö§â§ê§Ö§ß§à!
+STR_ID_FM_AUTOTEST_LED_R	Red LED flashing	§¬§â§Ñ§ã§ß§í§Û §Ú§ß§Õ§Ú§Ü§Ñ§ä§à§â §Þ§Ú§Ô§Ñ§Ö§ä	§¢§Ý§Ú§Þ§Ñ? §é§Ö§â§Ó§à§ß§Ú§Û ?§ß§Õ§Ú§Ü§Ñ§ä§à§â
+STR_ID_FM_AUTOTEST_LED_G	Green LED flashing	§©§Ö§Ý§Ö§ß§í§Û §Ú§ß§Õ§Ú§Ü§Ñ§ä§à§â §Þ§Ú§Ô§Ñ§Ö§ä	§¢§Ý§Ú§Þ§Ñ? §Ù§Ö§Ý§Ö§ß§Ú§Û ?§ß§Õ§Ú§Ü§Ñ§ä§à§â
+STR_ID_FM_AUTOTEST_LED_B	Blue LED flashing	§³§Ú§ß§Ú§Û §Ú§ß§Õ§Ú§Ü§Ñ§ä§à§â §Þ§Ú§Ô§Ñ§Ö§ä	§¢§Ý§Ú§Þ§Ñ? §ã§Ú§ß?§Û ?§ß§Õ§Ú§Ü§Ñ§ä§à§â
+STR_ID_FM_AUTOTEST_CLAM	Please open/close CLAM	§°§ä§Ü§â§à§Û§ä§Ö/§Ù§Ñ§Ü§â§à§Û§ä§Ö CLAM	§¢§å§Õ§î §Ý§Ñ§ã§Ü§Ñ, §Ó?§Õ§Ü§â§Ú§Û§ä§Ö/§Ù§Ñ§Ü§â§Ú§Û§ä§Ö Clam
+STR_ID_FM_AUTOTEST_BACKLIGHT	LCM/Keypad backlight	LCM/§¬§Ý§Ñ§Ó§Ú§Ñ§ä§å§â§Ñ §ß§Ö §á§à§Õ§ã§Ó§Ö§é§Ú§Ó§Ñ§Ö§ä§ã§ñ	LCM/§±?§Õ§ã§Ó?§ä§Ü§Ñ §Ü§Ý§Ñ§Ó?§Ñ§ä§å§â§Ú
+STR_ID_FM_AUTOTEST_RECEIVER	Please test receiver	§±§â§à§Ó§Ö§â§î§ä§Ö §á§â§Ú§Ö§Þ§ß§Ú§Ü	§¢§å§Õ§î §Ý§Ñ§ã§Ü§Ñ, §á§â§à§ä§Ö§ã§ä§å§Û§ä§Ö §à§Õ§Ö§â§Ø§å§Ó§Ñ§é
+STR_ID_FM_AUTOTEST_MIC	Please test MIC	§±§â§à§Ó§Ö§â§î§ä§Ö §Þ§Ú§Ü§â§à§ã§ç§Ö§Þ§å	§¢§å§Õ§î §Ý§Ñ§ã§Ü§Ñ, §á§â§à§ä§Ö§ã§ä§å§Û§ä§Ö §Þ?§Ü§â§à§æ§à§ß
+STR_ID_FM_AUTOTEST_SPEAKER	Please test speaker	§±§â§à§Ó§Ö§â§î§ä§Ö §Ô§â§à§Þ§Ü§à§Ô§à§Ó§à§â§Ú§ä§Ö§Ý§î	§¢§å§Õ§î §Ý§Ñ§ã§Ü§Ñ, §á§â§à§ä§Ö§ã§ä§å§Û§ä§Ö §Õ§Ú§ß§Ñ§Þ?§Ü
+STR_ID_FM_AUTOTEST_HEADSET	Please test headset	§±§â§à§Ó§Ö§â§î§ä§Ö §ß§Ñ§å§ê§ß§Ú§Ü§Ú	§¢§å§Õ§î §Ý§Ñ§ã§Ü§Ñ, §á§â§à§ä§Ö§ã§ä§å§Û§ä§Ö §Ô§Ñ§â§ß?§ä§å§â§å
+STR_ID_FM_AUTOTEST_MELODY	Melody playing	§£§à§ã§á§â§à§Ú§Ù§Ó. §Þ§Ö§Ý§à§Õ§Ú§Ú	§±§â§à§Ô§â§Ñ§Ó§Ñ§ß§ß§ñ §Þ§Ö§Ý§à§Õ??
+STR_ID_FM_AUTOTEST_VIB	Vibrating	§£§Ú§Ò§â§Ú§â§å§ð§ë§Ú§Û	§£?§Ò§â§Ñ§è?§ñ
+STR_ID_FM_AUTOTEST_NAND	Nand Testing	§±§â§à§Ó§Ö§â§Ü§Ñ Nand	
+STR_ID_FM_AUTOTEST_LEFT_SPEAKER	Test left Speaker	§±§â§à§Ó§Ö§â§Ü§Ñ §Ý§Ö§Ó§à§Ô§à §Õ§Ú§ß§Ñ§Þ§Ú§Ü§Ñ	
+STR_ID_FM_AUTOTEST_RIGHT_SPEAKER	Test right Speaker	§±§â§à§Ó§Ö§â§Ü§Ñ §á§â§Ñ§Ó§à§Ô§à §Õ§Ú§ß§Ñ§Þ§Ú§Ü§Ñ	
+STR_ID_FM_CAMERA	Camera	§©§Ö§Ý§Ö§ß§í§Û	
+STR_ID_FM_LCD_AUTO	Auto display	§¡§Ó§ä§à §Õ§Ú§ã§á§Ý§Ö§Û	§¡§Ó§ä§à§Þ§Ñ§ä§Ú§é§ß§Ö §Ó?§Õ§à§Ò§â§Ñ§Ø§Ö§ß§ß§ñ
+STR_ID_FM_LCD_R	Red	§¬§â§Ñ§ã§ß§í§Û	§¹§¦§²§£§°§¯§ª§«
+STR_ID_FM_LCD_G	Green	§©§Ö§Ý§Ö§ß§í§Û	§©§¦§­§¦§¯§ª§«
+STR_ID_FM_LCD_B	Blue	§³§Ú§ß§Ú§Û	§³§ª§¯?§«
+STR_ID_FM_LCD_W	White	§¢§Ö§Ý§í§Û	§¢?§­§ª§«
+STR_ID_FM_LCD_BLACK	Black	§¹§Ö§â§ß§í§Û	
+STR_ID_FM_RTC_NOTIFY	RTC set. Auto power-on later	§µ§ã§ä§Ñ§ß§à§Ó§Ý§Ö§ß§í §é§Ñ§ã§í §â§Ö§Ñ§Ý§î§ß§à§Ô§à §Ó§â§Ö§Þ§Ö§ß§Ú. §¡§Ó§ä§à§Þ§Ñ§ä§Ú§é§Ö§ã§Ü§à§Ö §Ó§Ü§Ý§ð§é§Ö§ß§Ú§Ö §á§à §â§Ñ§ã§á§Ú§ã§Ñ§ß§Ú§ð	
+STR_ID_FM_FM_RADIO	FM Radio	FM-§â§Ñ§Õ§Ú§à	
+STR_ID_FM_FM_RADIO_CHANNEL_1	Radio Channel	§²§Ñ§Õ§Ú§à§Ü§Ñ§ß§Ñ§Ý	
+STR_ID_SALES_STATISTICS_MESSAGE_SEND	Sales Statistics message sended		
+STR_ID_SALES_STATISTICS_MESSAGE_NO_SEND	Sales Statistics message no send		
+STR_ID_SALES_STATISTICS_MESSAGE_RESET	Sales Statistics message reset		
+STR_BURN_IN_TEST	Burn in test		
+STR_BURN_TEST_SPEAKER	Speaker Test 96hours		
+STR_BURN_TEST_VIB	Vib Test 96hours		
+STR_BURN_TEST_LCD	LCD Test 96hours		
+STR_BURN_TEST_MAIN_RECEIVER	Main Receiver Test 96hours		
+STR_BURN_TEST_SUB_RECEIVER	Sub Receiverer Test 96hours		
+STR_BURN_TEST_CAMERA	Camera Test 96hours		
+STR_BURN_TEST_ECHO	Echo Test 96hours		
+STR_ID_FM_MISC_AUTO_TEST_SETTING	Quick test list	§³§á§Ú§ã§à§Ü §Ò§í§ã§ä§â§í§ç §á§â§à§Ó§Ö§â§à§Ü	
+STR_ID_FM_AUTO_TEST_ADD	Add from list	§¥§à§Ò§Ñ§Ó§Ú§ä§î §Ú§Ù §ã§á§Ú§ã§Ü§Ñ	
+STR_ID_FM_AUTO_TEST_CHANGE_PRIORITY	Change priority	§ª§Ù§Þ§Ö§ß§Ú§ä§î §á§â§Ú§à§â§Ú§ä§Ö§ä	
+FMGR_FS_ABORTED_ERROR_TEXT	Cancelled	§±§â§Ö§â§Ó§Ñ§ß§à	§±§Ö§â§Ö§â§Ó§Ñ§ß§à
+FMGR_FS_PATH_OVER_LEN_ERROR_TEXT	Path too deep	§¥§à§â§à§Ø§Ü§Ñ §ã§Ý§Ú§ê§Ü§à§Þ §Ô§Ý§å§Ò§à§Ü§Ñ	§º§Ý§ñ§ç §Ù§Ñ§ß§Ñ§Õ§ä§à §Õ§à§Ó§Ô§Ú§Û
+FMGR_FS_ROOT_DIR_FULL_TEXT	Root dir full	§¬§à§â§ß§Ö§Ó§à§Û §Ü§Ñ§ä§Ñ§Ý§à§Ô §á§à§Ý§ß§í§Û	§¬§à§â§Ö§ß§Ö§Ó§Ú§Û §Ü§Ñ§ä§Ñ§Ý§à§Ô §Ù§Ñ§á§à§Ó§ß§Ö§ß§Ú§Û
+FMGR_FS_MEDIA_CHANGED_TEXT	Media changed	§ª§Ù§Þ§Ö§ß§Ö§ß§Ú§Ö §ß§à§ã§Ú§ä§Ö§Ý§ñ	§¯§à§ã?§Û §Ù§Þ?§ß§Ö§ß§à
+FMGR_FS_FAT_ALLOC_ERROR_TEXT	FAT error	§°§ê§Ú§Ò§Ü§Ñ §à§á§â§Ö§Õ§Ö§Ý§Ö§ß§Ú§ñ Fat	§±§à§Þ§Ú§Ý§Ü§Ñ §Ó§Ú§Õ?§Ý§Ö§ß§ß§ñ §Ó Fat
+FMGR_FS_WRITE_PROTECTION_TEXT	Write protection	§©§Ñ§ë§Ú§ä§Ñ §Ù§Ñ§á§Ú§ã§Ú	§©§Ñ§ç§Ú§ã§ä §Ó?§Õ §Ù§Ñ§á§Ú§ã§å
+FMGR_FS_DRIVE_NOT_FOUND_TEXT	Drive not found	§±§â§Ú§Ó§à§Õ §ß§Ö §ß§Ñ§Û§Õ§Ö§ß	§¥§Ú§ã§Ü §ß§Ö §Ù§ß§Ñ§Û§Õ§Ö§ß§à
+FMGR_FS_PARAM_ERROR_TEXT	Param error	§°§ê§Ú§Ò§Ü§Ñ §á§Ñ§â§Ñ§Þ.	§±§à§Þ§Ú§Ý§Ü§Ñ §á§Ñ§â§Ñ§Þ.
+FMGR_FS_FILE_NOT_FOUND_TEXT	File not found	§¶§Ñ§Û§Ý §ß§Ö §ß§Ñ§Û§Õ§Ö§ß	§¶§Ñ§Û§Ý §ß§Ö §Ù§ß§Ñ§Û§Õ§Ö§ß§à
+FMGR_FS_ACCESS_DENIED_TEXT	The file is being used and action denied	§¥§à§ã§ä§å§á §à§ä§Ü§Ý§à§ß§Ö§ß	§¥§à§ã§ä§å§á §Ù§Ñ§Ò§à§â§à§ß§Ö§ß§Ú§Û
+FMGR_FS_PATH_NOT_FOUND_TEXT	Path not found	§¥§à§â§à§Ø§Ü§Ñ §ß§Ö §ß§Ñ§Û§Õ§Ö§ß§Ñ	§º§Ý§ñ§ç §ß§Ö §Ù§ß§Ñ§Û§Õ§Ö§ß§à
+FMGR_FS_DEVICE_BUSY_TEXT	Device busy	§µ§ã§ä§â§à§Û§ã§ä§Ó§à §Ù§Ñ§ß§ñ§ä§à	§±§â§Ú§ã§ä§â?§Û §Ù§Ñ§Û§ß§ñ§ä§Ú§Û
+FMGR_FS_APP_QUOTA_FULL_TEXT	Not enough system resource	§¯§Ö§Õ§à§ã§ä§Ñ§ä§à§é§ß§à §â§Ö§ã§å§â§ã§à§Ó	§º§Ý§ñ§ç §Ù§Ñ§ß§Ñ§Õ§ä§à §Õ§à§Ó§Ô§Ú§Û
+STR_FMGR_CARD_MOUNTING	Mounting memory card	§µ§ã§ä§Ñ§ß§à§Ó§Ü§Ñ §Ü§Ñ§â§ä§í §á§Ñ§Þ§ñ§ä§Ú	
+STR_ID_PNS_BACKGROUND_DATA_ON	Notification service data transmission charges may apply	§®§à§Ø§Ö§ä §Ò§í§ä§î §ß§Ñ§é§Ú§ã§Ý§Ö§ß§Ñ §à§á§Ý§Ñ§ä§Ñ §Ù§Ñ §á§Ö§â§Ö§Õ§Ñ§é§å §Õ§Ñ§ß§ß§í§ç §ã§Ý§å§Ø§Ò§í §å§Ó§Ö§Õ§à§Þ§Ý§Ö§ß§Ú§Û	
+STR_ID_PNS_SEND_DEVICE_INFO_QUERY	Upload device info?	§©§Ñ§Ô§â§å§Ù§Ú§ä§î §ã§Ó§Ö§Õ§Ö§ß§Ú§ñ §à§Ò §å§ã§ä§â§à§Û§ã§ä§Ó§Ö?	
+STR_ID_PNS_OPEN_NS	Notification setting	§³§Ý§å§Ø§Ò§Ñ §å§Ó§Ö§Õ§à§Þ§Ý§Ö§ß§Ú§Û	
+STR_MENU_ID_CONNECTIVITY_TEXT	Connectivity	§£§à§Ù§Þ§à§Ø§ß§à§ã§ä§Ú §á§à§Õ§Ü§Ý§ð§é§Ö§ß§Ú§ñ	
+STR_ID_CONNECTIVITY_TEXT	Connectivity	§³§à§Ö§Õ§Ú§ß§Ö§ß§Ú§ñ	
+STR_ID_MDI_COMMON_FAIL	Fail	§°§ê§Ú§Ò§Ü§Ñ	
+STR_ID_MDI_COMMON_OPEN_FAIL	Failed to open	§³§Ò§à§Û §à§ä§Ü§â§í§ä§Ú§ñ	
+STR_ID_MDI_COMMON_PLAY_FAIL	Failed to play	§³§Ò§à§Û §Ó§à§ã§á§â§à§Ú§Ù§Ó§Ö§Õ§Ö§ß§Ú§ñ	
+STR_ID_MDI_COMMON_RECORD_FAIL	Failed to record	§³§Ò§à§Û §Ù§Ñ§á§Ú§ã§Ú	
+STR_ID_MDI_COMMON_WRITE_PROTECTION	Memory card is locked.\nCan't write in	§¬§Ñ§â§ä§Ñ §á§Ñ§Þ§ñ§ä§Ú §Ù§Ñ§Ò§Ý§à§Ü§Ú§â§à§Ó§Ñ§ß§Ñ.\n§©§Ñ§á§Ú§ã§î §ß§Ö§Ó§à§Ù§Þ§à§Ø§ß§Ñ	
+STR_ID_MDI_COMMON_HW_NOT_READY	Camera module not ready	§®§à§Õ§å§Ý§î §Ü§Ñ§Þ§Ö§â§í §ß§Ö §Ô§à§ä§à§Ó	
+STR_ID_MDI_COMMON_INVALID_FILE	Invalid file	§¯§Ö§Õ§à§á§å§ã§ä§Ú§Þ§í§Û §æ§Ñ§Û§Ý	
+STR_ID_MDI_AUDIO_NO_AUD_TRACK	No audio track	§³§á§Ú§ã§à§Ü §Ñ§å§Õ§Ú§à-§æ§Ñ§Û§Ý§à§Ó §á§å§ã§ä	
+STR_ID_MDI_CAMERA_PREVIEW_FAILED	Failed to preview	§¯§Ö §å§Õ§Ñ§Ö§ä§ã§ñ §Ó§í§á§à§Ý§ß§Ú§ä§î §á§â§Ö§Õ§Ó§Ñ§â§Ú§ä§Ö§Ý§î§ß§í§Û §á§â§à§ã§Þ§à§ä§â	
+STR_ID_MDI_CAMERA_CAPTURE_FAILED	Failed to capture	§¯§Ö §å§Õ§Ñ§Ö§ä§ã§ñ §Ó§í§á§à§Ý§ß§Ú§ä§î §ã§ì§Ö§Þ§Ü§å	
+STR_ID_MDI_CAMERA_XENONFLASH_TIMEOUT	Charging timeout. Turn flash off	§£§â§Ö§Þ§ñ §Ù§Ñ§â§ñ§Õ§Ü§Ú §Ú§ã§ä§Ö§Ü§Ý§à. §£§í§Ü§Ý§ð§é§Ú§ä§Ö §Ù§Ñ§ã§Ó§Ö§ä§Ü§å	
+STR_ID_MDI_CAMERA_XENONFLASH_LOW_BATTERY	Low battery. Turn flash off	§¯§Ú§Ù§Ü§Ú§Û §å§â§à§Ó§Ö§ß§î §Ù§Ñ§â§ñ§Õ§Ñ. §£§í§Ü§Ý§ð§é§Ú§ä§Ö §Ù§Ñ§ã§Ó§Ö§ä§Ü§å	
+STR_ID_MDI_WEBCAM_USB_NOTIFY_ERROR	Webcam device error	§°§ê§Ú§Ò§Ü§Ñ §Ó§Ö§Ò-§Ü§Ñ§Þ§Ö§â§í	
+STR_ID_MDI_VIDEO_REC_STORAGE_TOO_SLOW	Storage too slow. Please reduce quality	§©§Ñ§á§à§Þ§Ú§ß§Ñ§ð§ë§Ö§Ö §å§ã§ä§â§à§Û§ã§ä§Ó§à §â§Ñ§Ò§à§ä§Ñ§Ö§ä §à§é§Ö§ß§î §Þ§Ö§Õ§Ý§Ö§ß§ß§à. §µ§Þ§Ö§ß§î§ê§Ú§ä§Ö §Ü§Ñ§é§Ö§ã§ä§Ó§à	
+STR_ID_MDI_VIDEO_PLY_FILE_TOO_LARGE	File too large, unable to open	§¶§Ñ§Û§Ý §ã§Ý§Ú§ê§Ü§à§Þ §Ò§à§Ý§î§ê§à§Û, §ß§Ö §å§Õ§Ñ§Ö§ä§ã§ñ §à§ä§Ü§â§í§ä§î §æ§Ñ§Û§Ý	
+STR_ID_MDI_VIDEO_PLY_SNAPSHOT_FAILED	Failed to snapshot	§¯§Ö §å§Õ§Ñ§Ö§ä§ã§ñ §ã§Õ§Ö§Ý§Ñ§ä§î §Þ§à§Þ§Ö§ß§ä§Ñ§Ý§î§ß§í§Û §ã§ß§Ú§Þ§à§Ü	
+STR_ID_MDI_VIDEO_PLY_NETWORK_CONNECT_FAILED	Failed to connect	§¯§Ö §å§Õ§Ñ§Ö§ä§ã§ñ §Ó§í§á§à§Ý§ß§Ú§ä§î §á§à§Õ§Ü§Ý§ð§é§Ö§ß§Ú§Ö	
+STR_ID_MDI_VIDEO_PLY_INVALID_RESOULTION	Unsupported resolution	§¥§Ñ§ß§ß§à§Ö §â§Ñ§Ù§â§Ö§ê§Ö§ß§Ú§Ö §ß§Ö §á§à§Õ§Õ§Ö§â§Ø§Ú§Ó§Ñ§Ö§ä§ã§ñ	
+STR_ID_MDI_VIDEO_PLY_NETWORK_BUFFER_FAILED	Failed to buffer	§³§Ò§à§Û §Ò§å§æ§Ö§â§Ú§Ù§Ñ§è§Ú§Ú	
+STR_ID_PHNSET_GPIO_SETTING	Misc. settings	§¥§â§å§Ô§Ú§Ö §ß§Ñ§ã§ä§â§à§Û§Ü§Ú	§²?§Ù§ß? §ß§Ñ§Ý§Ñ§ê§ä§å§Ó§Ñ§ß§ß§ñ
+STR_ID_PHNSET_GPIO_BACKLITE	Brightness	§±§à§Õ§ã§Ó§Ö§ä§Ü§Ñ LCD	§±?§Õ§ã§Ó?§ä§Ü§Ñ §Õ§Ú§ã§á§Ý§Ö§ñ
+STR_ID_PHNSET_GPIO_BACKLITE_LEVEL	Brightness	§Á§â§Ü§à§ã§ä§î	§Á§ã§Ü§â§Ñ§Ó?§ã§ä§î
+STR_ID_PHNSET_PICTURE_QUALITY	Picture quality	§¬§Ñ§é§Ö§ã§ä§Ó§à §Ú§Ù§à§Ò§â§Ñ§Ø§Ö§ß§Ú§ñ	
+STR_ID_PHNSET_PICTURE_QUALITY_ENABLED	Enhanced picture quality mode is on	§²§Ö§Ø§Ú§Þ §å§Ý§å§é§ê§Ö§ß§ß§à§Ô§à §Ü§Ñ§é§Ö§ã§ä§Ó§Ñ §Ú§Ù§à§Ò§â§Ñ§Ø§Ö§ß§Ú§ñ §Ó§Ü§Ý§ð§é§Ö§ß	
+STR_ID_PHNSET_PICTURE_QUALITY_DISABLED	Enhanced picture quality mode is off	§²§Ö§Ø§Ú§Þ §å§Ý§å§é§ê§Ö§ß§ß§à§Ô§à §Ü§Ñ§é§Ö§ã§ä§Ó§Ñ §Ú§Ù§à§Ò§â§Ñ§Ø§Ö§ß§Ú§ñ §Ó§í§Ü§Ý§ð§é§Ö§ß	
+STR_ID_SRV_CALLSET_RESULT_FULL	List is full	§³§á§Ú§ã§à§Ü §á§à§Ý§à§ß	
+STR_ID_SRV_CALLSET_RESULT_TOO_LONG	Number is too long	§³§Ý§Ú§ê§Ü§à§Þ §Ò§à§Ý§î§ê§à§Ö §Ü§à§Ý§Ú§é§Ö§ã§ä§Ó§à §ã§Ú§Þ§Ó§à§Ý§à§Ó §Ó §ß§à§Þ§Ö§â§Ö	
+STR_ID_SRV_CALLSET_RESULT_DUPLICATED	Number already existed	§¯§à§Þ§Ö§â §å§Ø§Ö §ã§å§ë§Ö§ã§ä§Ó§å§Ö§ä	
+STR_ID_SRV_CALLSET_RESULT_EMPTY	No number	§¯§Ö §å§Ü§Ñ§Ù§Ñ§ß §ß§à§Þ§Ö§â	
+STR_ID_SRV_SS_BS_ALL_TELESERVICES	 for all teleservices	 §Õ§Ý§ñ §Ó§ã§Ö§ç §ä§Ö§Ý§Ö§Ü§à§Þ§Þ§å§ß§Ú§Ü§Ñ§è§Ú§à§ß§ß§í§ç §ã§Ý§å§Ø§Ò	
+STR_ID_SRV_SS_BS_TELEPHONY	 for telephony	 §Õ§Ý§ñ §ä§Ö§Ý§Ö§æ§à§ß§Ú§Ú	
+STR_ID_SRV_SS_BS_ALL_DATA_TELESERVICES	 for all data teleservices	 §Õ§Ý§ñ §Ó§ã§Ö§ç §Ú§ß§æ§à§â§Þ§Ñ§è§Ú§à§ß§ß§í§ç §ã§Ý§å§Ø§Ò	
+STR_ID_SRV_SS_BS_FACSIMILE_SERVICES	 for facsimile services	 §Õ§Ý§ñ §ã§Ý§å§Ø§Ò §æ§Ñ§Ü§ã§Ú§Þ§Ú§Ý§î§ß§à§Û §ã§Ó§ñ§Ù§Ú	
+STR_ID_SRV_SS_BS_SHORT_MESSAGE_SERVICES	 for SMS	 §Õ§Ý§ñ §³§®§³	
+STR_ID_SRV_SS_BS_ALL_TELESERVICES_EXCEPT_SMS	 for all teleservices except SMS	 §Õ§Ý§ñ §Ó§ã§Ö§ç §ä§Ö§Ý§Ö§Ü§à§Þ§Þ§å§ß§Ú§Ü§Ñ§è§Ú§à§ß§ß§í§ç §ã§Ý§å§Ø§Ò §Ù§Ñ §Ú§ã§Ü§Ý§ð§é§Ö§ß§Ú§Ö§Þ §³§®§³	
+STR_ID_SRV_SS_BS_VOICE_GROUP_CALL_SERVICE	 for voice group call services	 §Õ§Ý§ñ §Ó§ã§Ö§ç §Ô§â§å§á§á §Ô§à§Ý§à§ã§à§Ó§í§ç §Ó§í§Ù§à§Ó§à§Ó	
+STR_ID_SRV_SS_BS_VOICE_BROADCAST_SERVICE	 for voice broadcast services	 §Õ§Ý§ñ §Ô§à§Ý§à§ã§à§Ó§í§ç §Ó§Ö§ë§Ñ§ä§Ö§Ý§î§ß§í§ç §ã§Ý§å§Ø§Ò	
+STR_ID_SRV_SS_BS_ALL_BEARER_SERVICES	 for all bearer services	 §Õ§Ý§ñ §Ó§ã§Ö§ç §ã§Ý§å§Ø§Ò §á§Ö§â§Ö§Õ§Ñ§é§Ú	
+STR_ID_SRV_SS_BS_ALL_ASYNC_SERVICES	 for all async services	 §Õ§Ý§ñ §Ó§ã§Ö§ç §ã§Ý§å§Ø§Ò §Ñ§ã§Ú§ß§ç§â§à§ß§Ú§Ù§Ñ§è§Ú§Ú	
+STR_ID_SRV_SS_BS_ALL_SYNC_SERVICES	 for all sync services	 §Õ§Ý§ñ §Ó§ã§Ö§ç §ã§Ý§å§Ø§Ò §ã§Ú§ß§ç§â§à§ß§Ú§Ù§Ñ§è§Ú§Ú	
+STR_ID_SRV_SS_BS_ALL_DATA_CIRCUIT_SYNC	 for all data circuit sync	 §Õ§Ý§ñ §ã§Ú§ß§ç§â§à§ß§Ú§Ù§Ñ§è§Ú§Ú §Ó§ã§Ö§ç §Ý§Ú§ß§Ú§Û §á§Ö§â§Ö§Õ§Ñ§é§Ú §Õ§Ñ§ß§ß§í§ç	
+STR_ID_SRV_SS_BS_ALL_DATA_CIRCUIT_ASYNC	 for all data circuit async	 §Õ§Ý§ñ §Ñ§ã§Ú§ß§ç§â§à§ß§Ú§Ù§Ñ§è§Ú§Ú §Ó§ã§Ö§ç §Ý§Ú§ß§Ú§Û §á§Ö§â§Ö§Õ§Ñ§é§Ú §Õ§Ñ§ß§ß§í§ç	
+STR_ID_SRV_SS_BS_ALL_GPRS_BEARER_SERVICES	 for all GPRS bearer services	 §Õ§Ý§ñ §Ó§ã§Ö§ç §ã§Ý§å§Ø§Ò §á§Ö§â§Ö§Õ§Ñ§é§Ú GPRS	
+STR_ID_SRV_SS_BS_BS_ALLPADACCESSCA_SERVICES	 for all dedicated PAD access	 §Õ§Ý§ñ §Õ§à§ã§ä§å§á§Ñ §Ó§ã§Ö§ç §â§Ñ§Ù§â§Ö§ê§Ö§ß§ß§í§ç §Õ§Ö§ê§Ú§æ§â§Ñ§ä§à§â§à§Ó	
+STR_ID_SRV_SS_BS_BS_ALLDATAPDS_SERVICES	 for all data PDS services	 §Õ§Ý§ñ §Ó§ã§Ö§ç §ã§Ý§å§Ø§Ò PDS	
+STR_ID_SRV_SS_BAOC	Barring all outgoing calls	§©§Ñ§á§â§Ö§ä §Ó§ã§Ö§ç §Ú§ã§ç§à§Õ§ñ§ë§Ú§ç §Ó§í§Ù§à§Ó§à§Ó	
+STR_ID_SRV_SS_BOIC	Barring outgoing international calls	§©§Ñ§á§â§Ö§ä §Ó§ã§Ö§ç §Ú§ã§ç§à§Õ§ñ§ë§Ú§ç §Þ§Ö§Ø§Õ§å§ß§Ñ§â§à§Õ§ß§í§ç §Ó§í§Ù§à§Ó§à§Ó	
+STR_ID_SRV_SS_BOICEXHC	Barring outgoing international calls except to home PLMN	§©§Ñ§á§â§Ö§ä §Þ§Ö§Ø§Õ§å§ß§Ñ§â§à§Õ§ß§í§ç §Ó§í§Ù§à§Ó§à§Ó §Ù§Ñ §Ú§ã§Ü§Ý§ð§é§Ö§ß§Ú§Ö§Þ §Õ§à§Þ§Ñ§ê§ß§Ö§Û §ã§Ö§ä§Ú	
+STR_ID_SRV_SS_BAIC	Barring all incoming calls	§©§Ñ§á§â§Ö§ä §Ó§ã§Ö§ç §Ó§ç§à§Õ§ñ§ë§Ú§ç §Ó§í§Ù§à§Ó§à§Ó	
+STR_ID_SRV_SS_BAICROAM	Barring all incoming calls when roaming	§©§Ñ§á§â§Ö§ä §Ó§ã§Ö§ç §Ó§ç§à§Õ§ñ§ë§Ú§ç §Ó§í§Ù§à§Ó§à§Ó §Ó §â§à§å§Þ§Ú§ß§Ô§Ö	
+STR_ID_SRV_SS_BAC	Barring all calls	§©§Ñ§á§â§Ö§ä §Ó§ã§Ö§ç §Ó§í§Ù§à§Ó§à§Ó	
+STR_ID_SRV_SS_BOC	Barring outgoing calls	§©§Ñ§á§â§Ö§ä §Ú§ã§ç§à§Õ§ñ§ë§Ú§ç §Ó§í§Ù§à§Ó§à§Ó	
+STR_ID_SRV_SS_BIC	Barring incoming calls	§©§Ñ§á§â§Ö§ä §Ó§ç§à§Õ§ñ§ë§Ú§ç §Ó§í§Ù§à§Ó§à§Ó	
+STR_ID_SRV_SS_CB_UNKNOWN	Unknown barring service type	§¯§Ö§Ú§Ù§Ó§Ö§ã§ä§ß§í§Û §ä§Ú§á §ã§Ý§å§Ø§Ò§í §Ù§Ñ§á§â§Ö§ë§Ö§ß§Ú§ñ	
+STR_ID_SRV_SS_CFU	Call divert unconditional	§°§ä§Ü§Ý§à§ß§Ö§ß§Ú§Ö §ß§Ö§Ú§Ù§Ó§Ö§ã§ä§ß§í§ç §Ó§í§Ù§à§Ó§à§Ó	
+STR_ID_SRV_SS_CFB	Call divert when busy	§°§ä§Ü§Ý§à§ß§Ö§ß§Ú§Ö §Ó§í§Ù§à§Ó§à§Ó §á§â§Ú §Ù§Ñ§ß§ñ§ä§à§Û §Ý§Ú§ß§Ú§Ú	
+STR_ID_SRV_SS_CFNRY	Call divert when no answer	§°§ä§Ü§Ý§à§ß§Ö§ß§Ú§Ö §Ó§í§Ù§à§Ó§à§Ó §Ó §ã§Ý§å§é§Ñ§Ö §à§ä§ã§å§ä§ã§ä§Ó§Ú§ñ §à§ä§Ó§Ö§ä§Ñ	
+STR_ID_SRV_SS_CFNRC	Call divert when not reachable	§°§ä§Ü§Ý§à§ß§Ö§ß§Ú§Ö §Ó§í§Ù§à§Ó§à§Ó, §Ü§à§Ô§Õ§Ñ §Ñ§Ò§à§ß§Ö§ß§ä §ß§Ñ§ç§à§Õ§Ú§ä§ã§ñ §Ó§ß§Ö §Ù§à§ß§í §Õ§Ö§Û§ã§ä§Ó§Ú§ñ §ã§Ö§ä§Ú	
+STR_ID_SRV_SS_CFA	All call diverts	§°§ä§Ü§Ý§à§ß§Ö§ß§Ú§Ö §Ó§ã§Ö§ç §Ó§í§Ù§à§Ó§à§Ó	
+STR_ID_SRV_SS_CFC	All conditional call diverts	§°§ä§Ü§Ý§à§ß§Ö§ß§Ú§Ö §Ó§ã§Ö§ç §Ú§Ù§Ó§Ö§ã§ä§ß§í§ç §Ó§í§Ù§à§Ó§à§Ó	
+STR_ID_SRV_SS_CF_UNKNOWN	Unknown service type	§¯§Ö§Ú§Ù§Ó§Ö§ã§ä§ß§í§Û §ä§Ú§á §ã§Ý§å§Ø§Ò§í	
+STR_ID_SRV_SS_CW	Call waiting	§°§Ø§Ú§Õ§Ñ§ß§Ú§Ö §Ó§í§Ù§à§Ó§Ñ	
+STR_ID_SRV_SS_ACTIVATED	 activated	 §Ñ§Ü§ä§Ú§Ó§Ú§â§à§Ó§Ñ§ß§à	
+STR_ID_SRV_SS_ACTIVATED_PERMANENTLY	 activated permanently	 §Ñ§Ü§ä§Ú§Ó§Ú§â§å§Ö§ä§ã§ñ §á§à§ã§ä§à§ñ§ß§ß§à	
+STR_ID_SRV_SS_ACTIVATED_BY_DEFAULT	 activated by default	 §Ñ§Ü§ä§Ú§Ó§Ú§â§å§Ö§ä§ã§ñ §á§à §å§Þ§à§Ý§é§Ñ§ß§Ú§ð	
+STR_ID_SRV_SS_DEACTIVATED	 deactivated	 §à§ä§Ü§Ý§ð§é§Ö§ß§à	
+STR_ID_SRV_SS_DEACTIVATED_BY_DEFAULT	 deactivated by default	 §à§ä§Ü§Ý§ð§é§Ñ§Ö§ä§ã§ñ §á§à §å§Þ§à§Ý§é§Ñ§ß§Ú§ð	
+STR_ID_SRV_SS_PROVIDED	 provided	 §à§Ò§Ö§ã§á§Ö§é§Ú§Ó§Ñ§Ö§ä§ã§ñ	
+STR_ID_SRV_SS_NOT_PROVIDED	 not provided	 §ß§Ö §à§Ò§Ö§ã§á§Ö§é§Ú§Ó§Ñ§Ö§ä§ã§ñ	
+STR_ID_SRV_SS_WRONG_PASSWD	Wrong password	§¯§Ö§Ó§Ö§â§ß§í§Û §á§Ñ§â§à§Ý§î	
+STR_ID_SRV_SS_BLOCK	Password blocked	§±§Ñ§â§à§Ý§î §Ù§Ñ§Ò§Ý§à§Ü§Ú§â§à§Ó§Ñ§ß	
+STR_ID_SRV_SS_CLIP	Caller ID presentation	§±§â§Ö§Ù§Ö§ß§ä§Ñ§è§Ú§ñ Caller ID	
+STR_ID_SRV_SS_CLIR	Caller ID restriction	§°§Ô§â§Ñ§ß§Ú§é§Ö§ß§Ú§Ö Caller ID	
+STR_ID_SRV_SS_COLP	Connected line ID presentation	§±§â§Ö§Ù§Ö§ß§ä§Ñ§è§Ú§ñ ID §á§à§Õ§Ü§Ý§ð§é§Ö§ß§ß§à§Û §Ý§Ú§ß§Ú§Ú	
+STR_ID_SRV_SS_COLR	Connected line ID restriction	§°§Ô§â§Ñ§ß§Ú§é§Ö§ß§Ú§Ö ID §á§à§Õ§Ü§Ý§ð§é§Ö§ß§ß§à§Û §Ý§Ú§ß§Ú§Ú	
+STR_ID_SRV_SS_CNAP	Calling name presentation	§±§â§Ö§Ù§Ö§ß§ä§Ñ§è§Ú§ñ §Ú§Þ§Ö§ß§Ú §Ù§Ó§à§ß§ñ§ë§Ö§Ô§à	
+STR_ID_SRV_SS_CCBS	CCBS	CCBS	
+STR_ID_SRV_SS_EMLPP	EMLPP	EMLPP	
+STR_ID_SRV_SS_NOT_AVAILABLE	Supplementary service not available	§¥§à§á§à§Ý§ß§Ú§ä§Ö§Ý§î§ß§Ñ§ñ §å§ã§Ý§å§Ô§Ñ §ß§Ö§Õ§à§ã§ä§å§á§ß§Ñ	
+STR_ID_SRV_SS_FDN_FAIL	Fixed dial number only	§´§à§Ý§î§Ü§à §ß§à§Þ§Ö§â§Ñ §ã§á§Ú§ã§Ü§Ñ §æ§Ú§Ü§ã§Ú§â§à§Ó§Ñ§ß§ß§à§Ô§à §ß§Ñ§Ò§à§â§Ñ	
+STR_ID_IDLE_MAIN_MENU	Menu	§®§Ö§ß§ð	
+STR_ID_IDLE_CONTACT	Names	§ª§Þ§Ö§ß§Ñ	
+STR_ID_CUI_DIALER_NO_FAMILY_NUMBER_NUM	No family dial number	§°§ä§ã§å§ä§ã§ä§Ó§å§Ö§ä §ß§à§Þ§Ö§â §Ò§í§ã§ä§â§à§Ô§à §ß§Ñ§Ò§à§â§Ñ	
+STR_ID_CUI_DIALER_NO_SOS_NUMBER_NUM	No SOS number	§°§ä§ã§å§ä§ã§ä§Ó§å§Ö§ä §ß§à§Þ§Ö§â §Ò§í§ã§ä§â§à§Ô§à §ß§Ñ§Ò§à§â§Ñ	
+STR_ID_CUI_DIALER_NO_SPEED_DIAL_NUM	No speed dial number	§°§ä§ã§å§ä§ã§ä§Ó§å§Ö§ä §ß§à§Þ§Ö§â §Ò§í§ã§ä§â§à§Ô§à §ß§Ñ§Ò§à§â§Ñ	
+STR_ID_SLK_UNLOCK	Unlock	§²§Ñ§Ù§Ò§Ý§à§Ü§Ú§â§à§Ó§Ñ§ä§î	
+STR_ID_SLK_KBD_HELP_MSG	Press left key and then # key	§¯§Ñ§Ø§Þ§Ú§ä§Ö ?§²§Ñ§Ù§Ò§Ý§à§Ü§Ú§â§à§Ó§Ñ§ä§î?, §Ñ §Ù§Ñ§ä§Ö§Þ #	
+STR_ID_SLK_KBD_HELP_MSG2	Press left key and then * key	§¯§Ñ§Ø§Þ§Ú§ä§Ö ?§²§Ñ§Ù§Ò§Ý§à§Ü§Ú§â§à§Ó§Ñ§ä§î?, §Ñ §Ù§Ñ§ä§Ö§Þ *	
+STR_ID_SLK_KBD_UNLOCK_ME_MSG	Now press * key	§ª §ß§Ñ§Ø§Þ§Ú§ä§Ö *	
+STR_ID_SLK_TIME_SETTING	Auto keypad lock	§¡§Ó§ä§à§Þ§Ñ§ä§Ú§é§Ö§ã§Ü§Ñ§ñ §Ò§Ý§à§Ü§Ú§â§à§Ó§Ü§Ñ §Ü§ß§à§á§à§Ü	
+STR_ID_SLK_15_SEC	15 secs	15 §ã	
+STR_ID_SLK_30_SEC	30 secs	30 §ã	
+STR_ID_SLK_1_MIN	1 min	1 §Þ§Ú§ß	
+STR_ID_SLK_5_MIN	5 mins	5 §Þ§Ú§ß	
+STR_MOBLE_TRACK	Settings		
+STR_MOBLE_TRACK_STATUS	Status		
+STR_MOBLE_TRACK_REG_NUM	Server Number		
+STR_MOBLE_TRACK_STANDBY_TIME	Standby time(Min)		
+STR_MOBLE_TRACK_MESSAGE	Message		
+STR_MOBLE_TRACK_MESSAGE_IMEI	BH GI IEMI		
+STR_MOBLE_TRACK_STANDBY_TIME_FAILED	Can't be zero		
+STR_ID_NWNAME_LIMITED_SERVICE	Emergency	§¿§Ü§ã§ä§â§Ö§ß§ß§í§Û §Ó§í§Ù§à§Ó	
+STR_ID_NWNAME_INVALID_SIM	Invalid SIM	§¯§Ö§Õ§Ö§Û§ã§ä§Ó§Ú§ä§Ö§Ý§î§ß§Ñ§ñ SIM-§Ü§Ñ§â§ä§Ñ	
+STR_ID_NWNAME_NO_SERVICE	No service	§¯§Ö§ä §ã§Ö§ä§Ú	
+STR_ID_NWNAME_INSERT_SIM	Insert SIM Card	§£§ã§ä§Ñ§Ó§î§ä§Ö SIM-§Ü§Ñ§â§ä§å	
+STR_ID_NWNAME_SIM_ACCESS_ERROR	SIM access error	§°§ê§Ú§Ò§Ü§Ñ §Õ§à§ã§ä§å§á§Ñ §Ü SIM-§Ü§Ñ§â§ä§Ö	
+STR_ID_NWNAME_SIM_BLOCKED	SIM blocked	SIM-§Ü§Ñ§â§ä§Ñ §Ù§Ñ§Ò§Ý§à§Ü§Ú§â§à§Ó§Ñ§ß§Ñ	
+STR_ID_NWNAME_SIM_DISCONNECTED	SIM disconnected	SIM-§Ü§Ñ§â§ä§Ñ §à§ä§Ü§Ý§ð§é§Ö§ß§Ñ	
+STR_ID_NWNAME_SIM_ACCESS_PROFILE	SIM Access Profile	§±§â§à§æ§Ú§Ý§î §Õ§à§ã§ä§å§á§Ñ SIM-§Ü§Ñ§â§ä§í	
+STR_ID_NWNAME_SELECT_NETWORK	Select network	§£§í§Ò§â§Ñ§ä§î §ã§Ö§ä§î	
+STR_ID_NWNAME_FLIGHT_MODE	Flight mode	§²§Ö§Ø§Ú§Þ §á§à§Ý§Ö§ä§Ñ	
+STR_ID_NWNAME_SIM_CLOSED	SIM closed	SIM-§Ü§Ñ§â§ä§Ñ §Ù§Ñ§Ü§â§í§ä§Ñ	
+STR_ID_NWNAME_INVALID_IMEI	Invalid IMEI	§¯§Ö§Õ§à§á§å§ã§ä§Ú§Þ§à§Ö §Ù§ß§Ñ§é§Ö§ß§Ú§Ö IMEI	
+STR_ID_NWNAME_SAME_IMEI	Same IMEI	§³§à§Ó§á§Ñ§Õ§Ö§ß§Ú§Ö IMEI	
+STR_ID_NWNAME_PREPAREING_SIM_CARD	Preparing SIM card	§±§à§Õ§Ô§à§ä§à§Ó§Ü§Ñ SIM-§Ü§Ñ§â§ä§í	
+STR_ID_PHB_MOBILE_NUMBER	Mobile number	§¯§à§Þ§Ö§â	§¯§à§Þ§Ö§â
+STR_HOME_NUMBER	Home number	§¥§à§Þ§Ñ§ê§ß§Ú§Û §ß§à§Þ§Ö§â	§¥§à§Þ§Ñ§ê§ß?§Û §ß§à§Þ§Ö§â
+STR_OFFICE_NUMBER	Office number	§¯§à§Þ§Ö§â §à§æ§Ú§ã§Ñ	§²§à§Ò§à§é§Ú§Û §ß§à§Þ§Ö§â
+STR_FAX_NUMBER	Fax number	§¯§à§Þ§Ö§â §æ§Ñ§Ü§ã§Ñ	§¯§à§Þ§Ö§â §æ§Ñ§Ü§ã§å
+STR_EMERGENCY_NUMBER	Emergency number	§¿§Ü§ã§ä§â§Ö§ß§ß§í§Û §ß§à§Þ§Ö§â	§¡§Ó§Ñ§â?§Û§ß§Ú§Û §ß§à§Þ§Ö§â
+STR_ID_ALERT_QUESTION_MARK	?	?	
+STR_ID_AM_FILE_NOT_EXIST	Application does not exist	§±§â§Ú§Ý§à§Ø§Ö§ß§Ú§Ö §ß§Ö §ã§å§ë§Ö§ã§ä§Ó§å§Ö§ä	
+STR_ID_AM_FAIL_TO_START	Failed to start application	§¯§Ö §å§Õ§Ñ§Ý§à§ã§î §Ù§Ñ§á§å§ã§ä§Ú§ä§î §á§â§Ú§Ý§à§Ø§Ö§ß§Ú§Ö	
+STR_ID_VAPP_AM_POPUP_NO_AUTH	No authorization.\nDo you want to launch?	§°§ä§ã§å§ä§ã§ä§Ó§å§Ö§ä §Ñ§Ó§ä§à§â§Ú§Ù§Ñ§è§Ú§ñ.\n§·§à§ä§Ú§ä§Ö §Ù§Ñ§á§å§ã§ä§Ú§ä§î?	
+STR_ID_VAPP_AM_INSTALL_POPUP_NO_AUTH	No authorization.\nDo you want to install?	§¡§Ó§ä§à§â§Ú§Ù§Ñ§è§Ú§ñ §ß§Ö §Ó§í§á§à§Ý§ß§Ö§ß§Ñ.\n§µ§ã§ä§Ñ§ß§à§Ó§Ú§ä§î?	
+STR_ID_AM_TAG_ERR_FAIL_TO_START	Application does not match with the phone	§±§â§Ú§Ý§à§Ø§Ö§ß§Ú§Ö §ß§Ö§ã§à§Ó§Þ§Ö§ã§ä§Ú§Þ§à §ã §ä§Ö§Ý§Ö§æ§à§ß§à§Þ	
+STR_ID_AM_DATE_ERR_FAIL_TO_START	Phone date is wrong	§¯§Ö§Ó§Ö§â§ß§Ñ§ñ §Õ§Ñ§ä§Ñ §Ó §ä§Ö§Ý§Ö§æ§à§ß§Ö	
+STR_ID_AM_INVALID_SIM_FAIL_TO_START	Invalid SIM card	§¯§Ö§Õ§Ö§Û§ã§ä§Ó§Ú§ä§Ö§Ý§î§ß§Ñ§ñ SIM-§Ü§Ñ§â§ä§Ñ	
+STR_ID_AM_CERT_EXPIRED_FAIL_TO_START	The certification of this application is expired	§ª§ã§ä§×§Ü §ã§â§à§Ü §Õ§Ö§Û§ã§ä§Ó§Ú§ñ §ã§Ö§â§ä§Ú§æ§Ú§Ü§Ñ§ä§Ñ §ï§ä§à§Ô§à §á§â§Ú§Ý§à§Ø§Ö§ß§Ú§ñ	
+STR_ID_AM_POPUP_LIMITATION_APP	Application number limitation reached	§¥§à§ã§ä§Ú§Ô§ß§å§ä§à §á§â§Ö§Õ§Ö§Ý§î§ß§à§Ö §Ü§à§Ý§Ú§é§Ö§ã§ä§Ó§à §á§â§Ú§Ý§à§Ø§Ö§ß§Ú§Û	
+STR_ID_AM_FILE_OVERFLOW	Too many files in MRE directory. Cannot startup.	§¹§Ú§ã§Ý§à §æ§Ñ§Û§Ý§à§Ó §Ó §Ü§Ñ§ä§Ñ§Ý§à§Ô§Ö VRE §á§â§Ö§Ó§í§ê§Ñ§Ö§ä 5000. §©§Ñ§á§å§ã§Ü §ß§Ö§Ó§à§Ù§Þ§à§Ø§Ö§ß.	
