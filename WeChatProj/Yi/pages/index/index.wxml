@@ -1,0 +1,106 @@
+<!--index.wxml-->
+<navigator></navigator>
+<view style="text-align:center"> {{title}} </view>
+
+<view> 
+<button bindtap="GoToPreface">
+《序章》
+</button>
+</view>
+
+<view> 
+<button bindtap="GoToYiJing1">
+《易 上经》
+</button>
+</view>
+
+<view> 
+<button bindtap="GoToYiJing2">
+《易 下经》
+</button>
+</view>
+
+<view> 
+<button bindtap="GoToWenYan1">
+《文言传 乾文言》
+</button>
+</view>
+
+<view> 
+<button bindtap="GoToWenYan2">
+《文言传 坤文言》
+</button>
+</view>
+
+<view> 
+<button bindtap="GoToXiCi1">
+《系辞传 上》
+</button>
+</view>
+
+<view> 
+<button bindtap="GoToXiCi2">
+《系辞传 下》
+</button>
+</view>
+
+<view>
+<button bindtap="GoToShuoGua">
+《说卦传》
+</button>
+</view>
+
+<view> 
+<button bindtap="GoToXuGua1">
+《序卦传 上》
+</button>
+</view>
+
+<view> 
+<button bindtap="GoToXuGua2">
+《序卦传 下》
+</button>
+</view>
+
+<view> 
+<button bindtap="GoToZaGua">
+《杂卦传》
+</button>
+</view>
+
+<view> 
+<button bindtap="GoToZHAN">
+极数知来
+</button>
+</view>
+
+<view> 
+<button bindtap="GoToPRE">
+历代先贤
+</button>
+</view>
+
+<view> 
+<button bindtap="GoToDaShang">
+关于
+</button>
+</view>
+<!--
+<scroll-view bindtap='bindViewTap'>labcsdfsdf</scroll-view>
+
+<view class="container">
+  <view class="userinfo">
+    <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
+    <block wx:else>
+      <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" background-size="cover"></image>
+      <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+    </block>
+  </view>
+  <view class="usermotto">
+    <text class="user-motto">{{motto}}</text>
+  </view>
+  </view>
+  -->
+
+
+

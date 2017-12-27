@@ -1,0 +1,17 @@
+/* pages/Gua64/Gua64.wxss */
+
+.guatu64{
+
+  margin-top: 10px;
+}
+
+.tuan_view{
+
+  margin-top: 15px;
+}
+
+.xiaoxiang_view{
+
+  margin-top: 15px;
+
+}

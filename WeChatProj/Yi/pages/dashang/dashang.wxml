@@ -1,0 +1,23 @@
+<!--pages/dashang/dashang.wxml-->
+
+<view style="text-align:center" class='dashang_title'>
+<text>感谢使用本小程序\n\n</text>
+</view>
+
+<view style="text-align:center" class='dashang_title'>
+<text>君子终日乾乾，夕惕若厉，无咎\n\n</text>
+</view>
+
+<view style="text-align:center" class='dashang_title'>
+<text>如果觉得好，也可以打赏作者^_^\n\n</text>
+</view>
+
+<view style="text-align:center" class='shoukuan_pic'>
+<image style="width: 300px; height: 300px; background-color: #f5f5dc;" src="{{src}}" bindtap='GotoDashang'></image>
+</view>
+<!--
+    <view class="container">  
+      <view class="saoma" bindtap="click">点我扫一扫</view>  
+      <view class="show">{{show}}</view>  
+    </view>  
+>

@@ -1,0 +1,66 @@
+<!--pages/ShuoGua/ShuoGua.wxml-->
+<view> 
+<button bindtap="shuogua_1">
+《说卦传 第一章》
+</button>
+</view>
+
+<view> 
+<button bindtap="shuogua_2">
+《说卦传 第二章》
+</button>
+</view>
+
+<view> 
+<button bindtap="shuogua_3">
+《说卦传 第三章》
+</button>
+</view>
+
+<view> 
+<button bindtap="shuogua_4">
+《说卦传 第四章》
+</button>
+</view>
+
+<view> 
+<button bindtap="shuogua_5">
+《说卦传 第五章》
+</button>
+</view>
+
+<view> 
+<button bindtap="shuogua_6">
+《说卦传 第六章》
+</button>
+</view>
+
+<view> 
+<button bindtap="shuogua_7">
+《说卦传 第七章》
+</button>
+</view>
+
+<view>
+<button bindtap="shuogua_8">
+《说卦传 第八章》
+</button>
+</view>
+
+<view> 
+<button bindtap="shuogua_9">
+《说卦传 第九章》
+</button>
+</view>
+
+<view> 
+<button bindtap="shuogua_10">
+《说卦传 第十章》
+</button>
+</view>
+
+<view> 
+<button bindtap="shuogua_11">
+《说卦传 第十一章》
+</button>
+</view>

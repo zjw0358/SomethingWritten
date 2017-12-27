@@ -1,0 +1,154 @@
+<!--pages/YiJing1/YiJing1.wxml-->
+<scroll-view>
+<form>
+<button class="bt_64" bindtap="gua64_1"  >
+乾
+</button>
+
+<button class="bt_64" bindtap="gua64_2">
+坤
+</button>
+
+
+
+<button class="bt_64" bindtap="gua64_3">
+屯
+</button>
+
+<button class="bt_64" bindtap="gua64_4">
+蒙
+</button>
+
+
+
+<button class="bt_64" bindtap="gua64_5">
+需
+</button>
+
+<button class="bt_64" bindtap="gua64_6">
+讼
+</button>
+
+
+
+<button class="bt_64" bindtap="gua64_7">
+师
+</button>
+
+<button class="bt_64" bindtap="gua64_8">
+比
+</button>
+
+
+
+<button class="bt_64" bindtap="gua64_9">
+小畜
+</button>
+
+<button class="bt_64" bindtap="gua64_10">
+履
+</button>
+
+
+ 
+<button class="bt_64" bindtap="gua64_11">
+泰
+</button>
+
+<button class="bt_64" bindtap="gua64_12">
+否
+</button>
+
+
+ 
+<button class="bt_64" bindtap="gua64_13">
+同人
+</button>
+
+<button class="bt_64" bindtap="gua64_14">
+大有
+</button>
+
+
+ 
+<button class="bt_64" bindtap="gua64_15">
+谦
+</button>
+
+<button class="bt_64" bindtap="gua64_16">
+豫
+</button>
+
+
+ 
+<button class="bt_64" bindtap="gua64_17">
+随
+</button>
+
+<button class="bt_64" bindtap="gua64_18">
+蛊
+</button>
+
+
+ 
+<button class="bt_64" bindtap="gua64_19">
+临
+</button>
+
+<button class="bt_64" bindtap="gua64_20">
+观
+</button>
+
+
+ 
+<button class="bt_64" bindtap="gua64_21">
+噬嗑
+</button>
+
+<button class="bt_64" bindtap="gua64_22">
+贲
+</button>
+
+
+ 
+<button class="bt_64" bindtap="gua64_23">
+剥
+</button>
+
+<button class="bt_64" bindtap="gua64_24">
+复
+</button>
+
+
+ 
+<button class="bt_64" bindtap="gua64_25">
+无妄
+</button>
+
+<button class="bt_64" bindtap="gua64_26">
+大畜
+</button>
+
+
+ 
+<button class="bt_64" bindtap="gua64_27">
+颐
+</button>
+
+<button class="bt_64" bindtap="gua64_28">
+大过
+</button>
+
+
+ 
+<button class="bt_64" bindtap="gua64_29">
+坎
+</button>
+
+<button class="bt_64" bindtap="gua64_30">
+离
+</button>
+
+</form>
+</scroll-view>
+

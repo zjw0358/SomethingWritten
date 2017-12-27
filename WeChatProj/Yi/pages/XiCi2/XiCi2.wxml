@@ -1,0 +1,72 @@
+<!--pages/XiCi2/XiCi2.wxml-->
+<view> 
+<button bindtap="xici2_1">
+《系辞传下 第一章》
+</button>
+</view>
+
+<view> 
+<button bindtap="xici2_2">
+《系辞传下 第二章》
+</button>
+</view>
+
+<view> 
+<button bindtap="xici2_3">
+《系辞传下 第三章》
+</button>
+</view>
+
+<view> 
+<button bindtap="xici2_4">
+《系辞传下 第四章》
+</button>
+</view>
+
+<view> 
+<button bindtap="xici2_5">
+《系辞传下 第五章》
+</button>
+</view>
+
+<view> 
+<button bindtap="xici2_6">
+《系辞传下 第六章》
+</button>
+</view>
+
+<view> 
+<button bindtap="xici2_7">
+《系辞传下 第七章》
+</button>
+</view>
+
+<view>
+<button bindtap="xici2_8">
+《系辞传下 第八章》
+</button>
+</view>
+
+<view> 
+<button bindtap="xici2_9">
+《系辞传下 第九章》
+</button>
+</view>
+
+<view> 
+<button bindtap="xici2_10">
+《系辞传下 第十章》
+</button>
+</view>
+
+<view> 
+<button bindtap="xici2_11">
+《系辞传下 第十一章》
+</button>
+</view>
+
+<view> 
+<button bindtap="xici2_12">
+《系辞传下 第十二章》
+</button>
+</view>
