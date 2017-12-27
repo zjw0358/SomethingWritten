@@ -1,0 +1,2132 @@
+
+Polish New (720
+*#0048#
+OK
+Wr車?
+Opcje
+Tak
+Nie
+Usu里
+Wykonano
+Zapisano
+Zapisz
+Zapisa??
+Zapisywanie
+Nieuko里czono
+Usu里
+Anuluj
+Anulowanie
+Brak wpisu
+Edytuj
+Aktywuj
+Wy??cz
+Tryb wpisywania
+U?yj szablonu
+Wy?lij
+Odpowiedz
+W??cz
+Wy??cz
+<Pusty>
+Przerwij
+Dodaj
+Usu里 wszystko
+Po??cz
+B??d
+Normalny
+?aden
+Wybierz
+Podgl?d
+Niew?a?ciwy format
+Niedost?pny
+Nieprawid?owy
+Nieprawid?owy adres URL
+Zablokowany
+Przetwarzanie
+Brak pliku DRM
+B??d dost?pu do pliku
+B??d formatu pliku
+Nazwa pliku
+Otw車rz
+Zamknij
+Wyjd?
+Szybko
+Wolno
+Szukaj
+Wyszukiwanie
+Przerywanie
+Prosz? czeka?
+Pobierz
+Pobra??
+Pobieranie
+Instaluj
+Zaj?ty
+Akceptuj
+Nazwa u?ytkownika
+Aktualizuj
+Has?o
+Uwierzytelnienie
+W??czony
+Czytaj
+Akceptuj
+Odrzu?
+S?uchawki pod??czone
+S?uchawki od??czone
+Menu
+Menu g?車wne
+Kontakty
+Wiadomo?ci
+Rozrywka
+Organizer
+Profile
+Ustawienia
+Skr車ty
+Us?ugi sieciowe
+Multimedia
+Dodatki
+Mened?er plik車w
+Kontakty
+Wy?lij SMS
+Szukaj kontaktu
+Nowy kontakt
+Podgl?d
+Szukaj
+Wprowad? nazw? i numer
+Wprowad? nazw? albo numer
+Wprowad? nazw?
+Wprowad? numer
+Pami?? pe?na!
+Pami?? SIM pe?na!
+Pami?? telefonu pe?na!
+Brak pozycji!
+Kontakty
+Edytuj wpis
+Widok kontakt車w
+Nazwa
+Wczytywanie kontakt車w
+Wybierz pami??
+Dodano
+Nowy kontakt
+Numer alarmowy
+Brak nr do po??czenia!
+Wybierz numer
+Nazwa
+Numer kom車rkowy
+Nie zapisano, numer za d?ugi
+Skopiowano, nazwa zmieniona
+Przeniesiono, nazwa zmieniona
+Skopiowane
+pozycja skopiowana
+pozycje skopiowane
+pozycja usuni?ta
+pozycje usuni?te
+Dodatkowe numery
+Z pliku
+Numery SOS
+Numer SOS
+W telefonie
+W SIM
+Num. telefonu obs?. klienta
+Wybieranie g?osowe 
+M車j numer
+Edytuj m車j numer
+Wy?lij wizyt車wk?
+Wy?lij wizyt車wk?
+Pliki audio nie istnieje
+Z pliku
+Usu里 odno?niki
+Nie wybrano ?adnego pliku
+Do nowej pozycji
+Do wybranej pozycji
+Do grupy
+Wybrano plik
+Dodawanie zdj?cia nie powiod?o si?
+Dodawanie wideo nie powiod?o si?
+B??d powielania!
+Szybkie wyszukiwanie
+Towarzysz?ce wideo
+Zdj?cie rozm車wcy
+D?wi?k dzwonka rozm車wcy
+Motyw nie znaleziony
+Numer zbyt d?ugi
+Nazwa za d?uga
+Numer z ? nie mo?e zosta? skopiowany
+Numer z w nie mo?e zosta? skopiowany do SIM
+Numeruj z ? nie mo?e zosta? przeniesiony
+Numer z w nie mo?e zosta? przeniesiony do SIM
+Numer z ? nie mo?e zosta? skopiowany
+Akceptuj z
+Zapisz
+do kontakt車w?
+Nowe kontakty w ksi??ce telefonicznej?
+Nowa lista kontaktu
+Zast?pi??
+Zapisz kontakt
+Ustaw. telefonu
+Godzina i data
+Nieprawid?owy wpis
+Strefa czasowa
+Ustaw dat? i format
+Ustaw godzin? i format
+Ustaw godzin?/dat?
+Zmiana godziny
+Ustaw format
+GG:MM
+Format czasu:
+Format daty:
+Tekst powitalny
+DD MM RRRR
+MM DD RRRR
+Separator daty
+Pami?? nie gotowa
+Spr車buj p車?niej
+Przywr車? ustawienia fabryczne
+Kod przyj?ty
+Zgoda na przywr車cenie ustawie里 i restart
+Przywracanie ustawie里
+Has?o nieprawid?owe!
+Has?o zablokowane!
+Wprowad? has?o
+Proste wybieranie
+Oszcz?dno?? energii
+Kontrast
+Wygaszacz ekranu
+Tapeta
+Poka? godzin? i dat?
+Wy?wietlacz
+Status
+G?車wny LCD
+Licznik oszcz?dno?ci baterii
+Brak numeru!
+Tapeta
+Systemowa
+U?ytkownika
+Obrazek 2
+Obrazek 3
+Obrazek 4
+Obrazek 5
+Obrazek 6
+Animacja 2
+Animacja 3
+Animacja 4
+Animacja 5
+Animacja 6
+B??d, przywr車ci? domy?lne
+B??d zdj?cia, przywr車? domy?lne
+Animacja w??czania tel.
+Animacja wy??czania tel.
+System
+U?ytkownika
+Inne ustawienia
+Dioda LED
+Pod?wietlenie
+Jasno??
+Czas (sek)
+Usun???
+Zast?p ??§ cyfr?
+Kodu PIN musi by? aktywny!
+Wprowad? kod PUK
+Karta SIM nie obs?uguje!
+Lista
+Tryb
+Pami?? pe?na!
+J?zyk
+Pref. metoda wprow.
+Rozrywka
+Po??czenia GPRS
+Zmiana
+Zawsze
+Je?li potrzebny
+Odtwarzacz wideo
+Pami?? nie gotowa
+Nieprawid?owy plik
+Karta pami?ci zablokowana
+B??d zdj?cia
+Nieprawid?owe ustawienie
+Nieprawid?owa rozdzielczo??
+Zast?pi? istniej?ce pliki?
+B??d odtwarzania
+Usun?? histori??
+Historia usuni?ta
+BT dzia?a! Wy??cz
+Plik za du?y, nie mo?na otworzy?
+Uaktywnij Streaming?
+Jasno??
+Kontrast
+Autopowtarzanie
+D?ugo?? nieprawid?owa!
+Brak us?ugi
+Bateria roz?adowana
+?adowarka pod??czona
+?adowarka od??czona
+?adowarka USB pod??czona
+Od??czono USB
+Bateria roz?adowana, wy??czanie telefonu
+Bateria roz?adowana. Po??czenie niemo?liwe.
+Wstaw symbol
+Wybierz symbol
+Kasuj
+Raport dor?cze里
+Oczekuj?cy
+Raport
+Utw車rz wiadomo??
+Wstaw obiekt
+Lista URL 
+Brak URL
+Tre?? wiadomo?ci
+Lista numer車w
+Powiod?o si?
+B??d
+Powiadomienie
+Brak pami?ci dla nowej wiadomo?ci przychodz?cej!
+Pami?? karty SIM zape?niona!
+Pami?? pe?na!
+Wysy?anie i zachowanie nie powiod?o si?
+Nowa wiadomo??
+Wiadomo?? od
+B??d odczytu!
+Obiekt istnieje!
+B??d nieznany!
+Temat przekroczony
+Przekroczono d?ugo?? wiad.
+Przekroczono d?ugo?? numeru
+Nazwa pusta
+Brak tre?ci
+B??dna zawarto??
+Zbyt du?a zawarto??
+Pusty numer centrum
+Skrzynka jeszcze nie gotowa
+Wiadomo?? SMS
+Dodaj do zak?adek
+Zapisz w roboczych
+Brak miejsca na adres e-mail
+Wiadomo?? SIM od
+Wiadomo?ci SIM
+Usu里 wiadomo?ci SIM
+Wiadomo?ci
+Utw車rz wiadomo??
+Wys?ane
+Usu里 folder
+Szablon
+Ustawienia 
+wiadomo??
+%u nieprzeczyt.
+Nie wys?ano, zachowano w skrzynce nadawczej
+Wys?ane i zachowane
+<Brak tematu>
+<Niekompletny>
+<Nieobs?ugiwany>
+Archiwum
+Usu里 archiwum
+Przenie?
+Wiadomo??(i)?
+Wiadomo??(i)
+Nie mo?na usun??
+Nie mo?na przenie??
+Naci?nij klawisz centralny lub zaznacz wybran? opcj?, aby w?./wy?.
+Us?ugi
+WAP
+Numer informacji
+Wybierz
+Chcesz zadzwoni? w preferencyjnej taryfie?
+Przepraszamy! Ten numer jest niedost?pny podczas roamingu!
+Karta SIM nie obs?ugiwana!
+Odtwarzacz audio
+Lista odtwarzania
+Z telefonu
+Z Karty
+Dodaj do dzwonk車w
+Usun???
+Usu里 wszystko
+Usun?? wszystko?
+Od?wie? list?
+Ustawienia odtwarz.
+Ustaw. widoku
+Jeden
+Wszystko
+Lista gener. autom.
+Lista odtwarzania
+Powt車rz
+Losowo
+Odtwarzanie w tle
+B??d, Nie mo?na zaktualizowa?
+Lista pe?na
+Nie mo?na otworzy?
+B??d odtwarzania
+Urz?dzenie zaj?te
+B??dny format
+Limit pliku przekroczony
+B??d zawarto?ci audio
+Brak ?cie?ki audio
+Zawarto?? audio nieobs?ugiwana
+Plik w innej pami?ci
+Kana? nieobs?ugiwany
+Cz?stotliwo?? nieobs?ugiwana
+Typ nieobs?ugiwany
+Nie mo?na zatrzyma?
+Nowy zapis
+Dyktafon
+Do??cz
+Dodaj do dzwonk車w
+Format pliku
+Nie mo?na otworzy?
+Brak karty pami?ci
+B??d polecenia
+Urz?dzenie zaj?te
+B??d audio
+Mo?na nagra? wi?cej ni?
+B??dny format
+Auto nagrywanie
+Wprowad? zabezpieczenie!
+Limit rozmiaru pliku
+Ustaw j?zyk angielski
+Zmieni? j?zyk na proste chi里ski
+Zmieni? j?zyk na tradycyjne chi里ski
+Ustaw j?zyk domy?lny
+B??d 
+B??d w ustawianiu j?zyka domy?lnego
+B??d w ustawianiu j?zyka angielskiego
+B??d 
+B??d 
+Wersja oprogramowania
+Wersja sprz?tu
+Numer seryjny
+Tryb fabryczny nieustawiony
+Organizer
+Kalendarz
+Zadania
+Kalkulator
+Drzemka
+Powt車rz
+Raz
+Codziennie
+W dniu
+Cogodzinny
+Tygodniowy
+Co miesi?c
+Sezonowo
+Co roku
+W??czy??
+Drzemka (min.)
+Kalendarz ksi??ycowy
+Pd
+W
+Pn
+Z
+M
+D
+Id? do daty
+B??d daty
+Prawid?owa data to 2000~2031
+Tydzie里 
+Widok tygodnia
+Widok miesi?ca
+Dodaj wydarzenie
+Konfiguracja USB:
+Wykryto USB. Ustaw jako port COM
+Zrestartowa? dla pami?ci masowej?
+Urz?dzenia pami?ci masowej
+Port COM
+Wy??cz podczerwie里
+W??cz dla  pami?ci masowej ...
+USB: Brak pami?ci dla komputera
+System niegotowy, spr車buj p車?niej
+Niedozwolone lub konflikt
+Radio FM
+Lista kana?車w
+Wprow. r?czne
+Wyszukaj autom.
+Graj w tle
+Nazwa kana?u
+Cz?stotliwo??
+Cz?stotliwo??: 87,5 ~ 108,1
+Tylko jedna warto?? po przecinku
+Nowa stacja
+W??cz najpierw zasilanie
+Usun???
+Pod??cz s?uchawk?
+G?o?nik.
+Zapis
+Do??cz
+Lista plik車w
+Format zapisu
+Przechowywanie zapisu
+B??dny format
+B??dny format
+Urz?dzenie zaj?te
+Nie mo?na otworzy?
+Brak karty pami?ci
+Wprowad? zabezpieczenie!
+Anulowa??
+Brak  mo?liwo?ci zapisu w profilu bluetooth
+Ustaw j?zyk na Hiszpa里ski
+Ustaw j?zyk na Francuski
+Zmieni? j?zyk na niemiecki
+Ustaw j?zyk na W?oski
+Ustaw j?zyk na Tajski
+Ustaw j?zyk na Rosyjski
+Ustaw j?zyk na Portugalski
+Ustaw j?zyk na Turecki
+Ustaw j?zyk na Wietnamski
+Ustaw j?zyk na Indonezyjski
+Ustaw j?zyk na Malajski
+Ustaw j?zyk Hinduski
+B??d w ustawianiu j?zyka Hiszpa里skiego
+B??d w ustawianiu j?zyka Francuskiego
+B??d 
+B??d w ustawianiu j?zyka W?oskiego
+B??d 
+B??d 
+B??d 
+B??d 
+B??d 
+B??d 
+B??d 
+B??d 
+Odtwarzacz audio
+Nagrywanie wideo
+Odtwarzacz wideo
+Kamera
+Strefa AV
+Camcorder
+Rozrywka
+System
+Tryb samolotowy
+Normalny tryb
+Tryb samolotowy
+Pytaj przy w??czaniu
+Zmieni? tryb?
+Prze??czanie...
+Zmiana j?zyka du里skiego
+Zmieni? j?zyk na czeski
+J?zyk polski
+J?zyk fi里ski zmiany
+Zmieni? j?zyk w?gierski
+B??d 
+B??d 
+B??d ustawienia j?zyka
+B??d 
+B??d 
+Zmieni? j?zyk norweski
+Zmieni? j?zyk na holenderski
+J?zyk s?owacki zmiany
+B??d 
+B??d 
+B??d 
+Zmieni? j?zyk szwedzki
+B??d 
+Zmieni? j?zyk chorwacki
+B??d 
+J?zyk rumu里ski zmiany
+B??d 
+Ustaw j?zyk s?owe里ski
+B??d
+B??d 
+Ustaw j?zyk na Greek
+B??d 
+Pr?dko?? nieobs?ugiwana
+Zmiana j?zyka bu?garskiego
+B??d 
+Zarz?dzanie sieciami PLMN
+Nazwa operatora
+Nie mo?na znale?? nazwy operatora. Czy chcesz wprowadzi? go r?cznie?
+Duplikat
+Zmiana j?zyka marathi
+B??d 
+Zmieni? j?zyk na perski
+B??d 
+Prze??czanie off->on
+Prze??czanie on->off
+Od?wie?anie SIM
+Zmie里 na j?zyk tamilski
+B??d 
+Zmiana j?zyka urdu
+B??d 
+Zmie里 j?zyk na bengalski
+B??d 
+Zmie里 j?zyk na punjabi
+B??d 
+Zmie里 j?zyk na telugu
+B??d 
+Zako里cz
+Po??czenie
+Rozmowa VoIP
+Odrzu?
+Odbierz
+Przekieruj
+D?wi?k w tle po?aczenia
+Telefon
+G?o?nik
+VoIP jest skuteczne
+VoIP przytrzymaj
+Aktywne po??cz.
+Zawie? po??czenie
+Wykonywanie
+Nie mo?na zawiesi?
+Nie mo?na prze??czy?
+Przerwij po??czenie
+Zawieszenie po??czenia
+Odzyskanie Po??czenia
+Zamiana Po??czenia
+Po??czenie Konferencyjne
+Rozdzielenie Po??czenia
+Zako里czono po?.
+Przekazanie po??czenia
+Zawie?
+Odzyskaj
+Zmie里
+Po??cz. konferencyjne
+Rozdziel
+Zako里cz po??czenie
+Zako里cz po?. konferencyjne
+Zako里cz wsz. po??czenia
+Zako里cz po??czenie
+Zawie? rozmow?
+Zawie? rozmow? konf.
+Odzyskaj Po??czenie 
+Odzyskaj Po??czenie Konf.
+Przekaz
+Nowe po??czenie
+Kontakty
+Centrum Wiadomo?ci
+Dyktafon
+T?o Muzyczne
+Po??czenie g?osowe
+Rozmowa VoIP
+Spis po??cze里
+Ustaw. po??cz.
+Zaawansowane
+G?o?nik wy??czony
+G?o?nik w??czony
+Prze??cz ?cie?k? audio
+Aktywne
+Rozmowa Wideo
+Po??czenie CTM
+Ponowne wybieranie z drugiej karty SIM
+SIM1 po??cz. g?os.
+SIM2 po??c. g?os.
+SIM1 po??cz. g?os.
+SIM1 po??cz. zawiesz 
+Wysy?anie DTMF...
+Jako?? 
+Zaznacz kilka
+Kopiuj wybrane
+Usu里 kilka
+Kopiowa? zaznaczone?
+Usun?? zaznaczone?
+Naci?nij * aby W??czy?/Wy??czy?
+Naci?nij Klawisz Centralny Aby W??czy?/Wy??czy?
+Zaznacz  Aby W??czy?/Wy??czy?
+Naci?nij  * Lub Zaznacz Wybran? Opcj? Aby W??czy?/Wy??czy?
+Naci?nij Klawisz Centralny Lub Zaznacz Wybran? Opcj? Aby W??czy?/Wy??czy?
+Osi?gni?to maks. limit
+Jako?? 
+Wersja wizyt車wki
+Nieobs?ugiwana Cz?stotliwo??
+Anuluj Wysy?anie
+Nieobs?ugiwany Plik
+D?wi?k
+Brak miejsca
+Wiadomo?? nie istnieje,
+Status wiad. zmieniony
+Nieobs?ugiwany format
+efekt Audio
+Zapisa? audio?
+Zapisz tekst
+Brak nadawcy, zapisa? w roboczych?
+Obiekt nie mo?e by? zapisany
+Efekt kana?u
+Mono
+Stereo
+B??d 
+Ustaw j?zyk arabski
+Wykonano.\nWy??czenie za 3 sek
+Usuwanie
+Usuni?to
+Konta
+Adres
+Alarm
+jako SMS
+Jako MMS
+Jako e-mail
+Za??cznik
+Automatyczny
+Potwierd?
+Po??cz
+??czenie
+Dalej
+Zawarto??
+Kopiowanie
+Niedost?pne
+Niedost?pne podczas po?.
+Niestandard.
+Wybierane numery
+Konto Danych
+Data
+Domy?lnie
+Usuni?to
+Usuwanie
+Szczeg車?y
+Roz??cz
+Roz??czanie
+Robocze
+E-mail
+Wyjd?
+B??d zapisywania
+B??d wysy?ania
+Plik ju? istnieje
+Nie znaleziono pliku
+Formatuj
+Przeka?
+Id? do
+Pomoc
+Wysoki
+Skrz. odbiorcza
+Za ma?o pami?ci
+Nieprawid?owa nazwa pliku
+Nieprawid?owy format
+Nieprawid?owy wpis
+Lista
+Pobieranie
+Zaloguj si?
+Wyloguj si?
+Niski
+R?cznie
+Zaznacz
+Zaznacz wsz.
+Maksymalny
+?redni
+Karta pami?ci
+Pami?? pe?na
+Stan pami?ci
+Przenoszenie
+MMS
+Wycisz
+Brak karty pami?ci
+Brak pami?ci
+Nieobs?ugiwany
+Skrz. nadawcza
+Nadpisa? istniej?cy plik?
+Pauza
+Telefon
+Obraz
+Odtw車rz
+Wpisz nazw? pliku
+Preferowana pami??
+Podgl?d
+Drukuj
+Priorytet
+Proxy
+Odebrane
+Odebrane po?.
+Odbieranie
+Odbiorcy
+Od?wie?
+Usu里
+Usuni?to
+Zmie里 nazw?
+Zast?p
+Zresetuj
+Wzn車w
+D?wi?k dzwonka
+Zapisz w kontaktach
+Wy?lij SMS
+Wy?lij MMS
+Wysy?anie
+Wys?ano
+Ustawienia
+SIM
+Sortuj wed?ug
+Uruchom
+Pami??
+Temat
+Tekst
+SMS
+Godzina
+Odznacz
+Odznacz wszystko
+UDP port
+Przez Bluetooth
+Przez podczerwie里
+Wideo
+G?o?no??
+Nieobs?ugiwany typ
+Usun???
+Usun?? SMS?
+Tryb samolotowy?
+Usun???
+Wy?lij tithi
+Ram Navmi
+Ganesh Chaturthi
+Ram Navami falls on the ninth day of the Hindu lunar year and celebrated as the birthday of Shree Ram. Lord Ram was the seventh incarnation of Lord Vishnu, who takes birth on earth when Adharma over rules Dharma. Lord Ram was born on earth to destroy the demon named Ravan. On this day, Hindus do fast or restrict themselves to a specific diet and perform worship. Temples are decorated and readings of the Ramayana take place. Along with Shri Ram, people also worship Sita mata, wife of Shree Ram.
+Ganesh Chaturthi is a day on which Lord Ganesha, the son of Shiva and Parvati, is believed to bestow his presence on earth for all his devotees. The festival lasts for 10 days, ending on Ananta Chaturdashi. Ganesha, the elephant-headed son of Shiva and Parvati, is widely worshipped as the supreme god of wisdom, prosperity and good fortune.
+Wys?a? SMS?
+Language set Xhosa
+Error in set Xhosa language
+Language set Swahili
+Error in set Swahili language
+Language set Afrikaans
+Error in set Afrikaans language
+Language set Zulu
+Error in set Zulu language
+Language set Lithuanian
+Error in set Lithuanian language
+Language set Latvian
+Error in set Latvian language
+Language set Estonian
+Error in set Estonian language
+Language set Armenian
+Error in set Armenian language
+Language set Georgian
+Error in set Georgian language
+Language set Moldovan
+Error in set Moldovan language
+Wyczy?? wszystkie zdarzenia
+Wzn車w
+B??d nagrywania
+Anulowano
+Kontakty ICE
+Wi?cej szczeg車?車w
+Zapisa? szczeg車?y?
+Przenie?? z SIM and zapisa? detale w tel.?
+Aktualizowanie wiadomo?ci
+Ustaw Cstar
+Skasowa? najlepszy wynik?
+Nieprawid?owe konto danych. Skonfigurowa??
+Nieprawid?owy numer
+Nieprawid?owe numery
+Nieprawid?owi odbiorcy
+Nieodebr. po??cz.
+Wy?lij wiadom.
+Szablony SMS
+Inne j?zyki
+Oznacz jako przeczytane
+Oznacz jako nieprzeczytane
+Zadzwo里
+Czas: 
+Zawarto??: 
+U?ytkownika
+Zapisz jako szablon
+Folder szablon車w pe?ny
+Ustawienia SMS
+Poczta g?osowa
+Profil 1
+Profil 2
+Profil 3
+Profil 4
+Profile
+Ustaw. domy?lne
+Nazwa
+Numer
+Nazwa profilu
+Nr centrum SMS
+Okres wa?no?ci
+Rodzaj wiadomo?ci
+1 godz.
+6 godz.
+12 godz.
+1 dzie里
+3 dni
+1 tydzie里
+Szablon
+U?yj
+Karta SIM:
+Telefon:
+Zadzwo里 do mnie
+Co powiesz na lunch?
+Zaraz wracam
+Jestem teraz zaj?ty.
+Przepraszam!
+Dzi?kuje
+Jak min?? dzie里?
+Dawno si? nie widzieli?my
+Pozdrawiam!
+Jak si? masz?
+?cie?ka odpowiedzi
+Poczta g?osowa niegotowa
+Ustaw domy?l. nr poczty g?
+Zapisuj wys?ane wiad.
+Ustawi? numer poczty g?osowej?
+nowa wiad. g?osowa
+Wy?lij do
+Wstaw szablon
+Dodaj odbiorc?
+Edytuj odbiorc?
+Usu里 odbiorc?
+Usu里 wszystkich odbiorc車w
+Usun?? odbiorc??
+Usun?? odbiorc車w?
+Wprowad? numer
+Dodaj z kontakt車w
+Lista odbiorc車w pe?na
+Ustaw centrum wiadomo?ci?
+Wysy?anie do
+Wstaw numer
+Wstaw nazw?
+Wstaw zak?adk?
+Usuni?to nieprawid?owych odbiorc車w
+Mo?na tylko doda?
+Mo?na tylko wys?a? do
+ kontakt. Kontynuowa??
+ kontakty. Kontynuowa??
+Z SIM
+SIM1:
+Przenie? wszystko
+Przenie?? na kart? SIM
+Przenie? do telefonu
+Z pami?ci telefonu
+Z karty SIM
+Kopiuj wszystko
+Kopiuj do SIM
+Kopiuj do telefonu
+Zapisz objekt
+Przenie? do archiwum
+U?yj numeru
+Odpowiedz przez SMS
+Zapisz jako szablon
+Nowy szablon
+Wiadomo?ci
+Brak tekstu
+Zapisz tylko wiadomo?? tekstow?. Kontynuowa??
+Usuni?to nieprawid?owy adres
+Przekroczona d?ugo?? adresu
+Zapisz w odbiorczej
+Stycze里
+Luty
+Marzec
+Maj
+Czerwiec
+Lipiec
+Sierpie里
+Wrzesie里
+Pa?dziernik
+Listopad
+Grudzie里
+Kwiecie里
+Zast?pi? stare?
+B??dne imi? lub nazwa
+Nieprawid?owa nazwa i numer
+Nieprawid?owa nazwa
+Zast?p istniej?ce
+Edycja wybranych
+Ryzyko utraty danych. Kontynuowa??
+Anulowano
+?aden kontakt nie wybrany
+Mo?na tylko doda?
+kontakty. Kontynuowa??
+kontakt. Kontynuowa??
+Przenie? zaznaczone
+Kopiuj kontakty
+Przenie? wszystko
+Przenie?? zaznaczone?
+kontakt przeniesiony
+kontakty przeniesione
+Usu里 wszystkie kontakty
+Kopiowa? wszyst. z SIM do telef?
+Kopiuj wszystko z SIM 1 do telefonu?
+Kopiuj wszystko z SIM 2 do telefonu?
+Wy?lij e-mail
+Podgl?d zdj?cia
+Odtw車rz Wideo
+Dodaj do czarnej listy
+(Bez nazwy)
+Ustawienia
+Wszystkie
+SIM i telefon
+Proste wybier.
+Ustaw klawisze
+Status
+Nieprawid?owy wyb車r pami?ci
+Brak kontaktu
+Nieprawid?owa lokalizacja
+Ustaw jako domy?lny
+Anuluj domy?lne
+PUK zablokowany
+Strefa czasowa
+Przywr車ci? domy?lne?
+??czno??
+Aktualizuj po zmianie strefy
+Przywr車? ustaw. fabryczne
+Odrzuci??
+Doda? audio?
+B??d odtwarzania
+Wycisz
+Wy?. wyciszenie
+W??cz d?wi?k
+Wy??cz d?wi?k
+Menu G?車wne
+Zako里cz wsz. aktywne
+Zako里cz wsz. zawieszone
+wiadomo?ci
+wiadomo???
+wiadomo?ci?
+Usu里 zaznaczone
+Zaznacz, aby w?./wy?.
+Nieprzeczytane
+Nadawca
+Odbiorcy
+Nadawcy/odbiorcy
+Rozmiar wiadomo?ci
+Rodzaj wiadomo?ci
+Usu里 wszystko
+Usun?? wszystko?
+PUK2 zablokowany
+Menu g?車wne
+Czas
+W?車? kart? pami?ci
+Wybierz SIM
+Obie karty SIM
+Tylko SIM 1 
+B??d karty SIM
+CCBS dost?pny. \n Aktywowa??
+Ponowne wybieranie:
+raz(y).\n
+kolejna pr車ba za
+s
+min
+Nieznany
+Niedost?pny
+Odrzucony przez u?ytkownika
+Budka telefoniczna
+Niepoprawne polecenie
+Tylko numer FDN
+Nie mo?na po??czy?
+Nie mo?na rozpozna? nr!
+Nie mo?e po??czy? si? z sieci?!
+Sie? zaj?ta!
+Sie? zaj?ta, spr車buj p車?niej
+Blokada po??cze里
+Nr zaj?ty
+Bez odpowiedzi
+Nie odpowiada
+Zbyt d?ugi
+Nieznany b??d!
+Przerwano po?.
+Zako里czono po?.
+Wys?a? DTMF?\n
+B??d IMEI!
+Nie mo?na u?ywa? GPRS!
+Pod??cz terminal!
+Sprawd? us?ugi operatora!
+Polecenie niedost?pne!
+B??d w danych!
+B??d w rodzaju wiadomo?ci 
+Brak dost?pu!
+Czasomierz wygas?!
+Nieznany numer
+Warunkowe przekierowanie po?.
+Bezwarunkowe przek. po?.
+Lista po??cze里 przekier.
+Po??czenie przekierowane
+Po??czenie przekierowane
+Przekier. wszystk. po??cz.
+Warunkowe przekierowanie po?.
+Zaj?ta rozm. przekier.
+Przekaz po?., gdy nie odbiera
+Przekaz po?., gdy poza zasi?giem
+Wsz. po?. zablokowane
+Po?. wychodz?ce zablokowane
+Po?. przychodz?ce zablokowane
+Po?. oczekuj?ce
+Po?. zawieszone
+Po?. przywr車cone
+Po??czenie zmieniono
+Po?. konferencyjne
+Rozdzielenie po??czenia
+Zamkni?ta grupa
+Sprawd? us?ug? identyfikacji
+Przekaz po??cz. aktywny
+Nie dokona?a po??czenia g?osowego
+Ponowne wybieranie
+SIM1 ponowne wybieranie
+Kopiuj
+Nie mo?na skopiowa?
+Brak wiadomo?ci
+Wszystkie wadomo?ci
+Przenie?? na kart? SIM
+Kopiuj do SIM
+Przenie? do telefonu
+Kopiuj do telefonu
+Wy?lij ponownie
+Wiadomo?? uszkodzona, usun???
+Imi?
+Ksi??ka tel. gotowa
+Nazwa zmieniona
+Dodawanie obrazu, wideo nie powiod?o si?
+Dotknij aby odblokowa?
+Dialer
+Przenie? zaznaczone do archiwum
+Rozmowy
+Przenie? do archiwum
+Karta pami?ci usuni?ta. U?y? pami?ci telefonu? 
+Karta pami?ci usuni?ta
+W?o?ono kart? pami?ci
+Usuni?to urz?dzenie OTG. Zostanie u?yty telefon.
+Usuni?to urz?dzenie OTG
+Pod??czono urz?dzenie OTG
+Niedost?pne w trybie pami?ci masowej
+Brak numeru
+Prze??czania
+Spis po??cze里
+Ustaw. Bluetooth
+Tryb samolotowy?
+Podaj has?o telefonu
+B??dne has?o
+Wybra? numer alarmowy?
+Pozosta?o pr車b: %d
+Wprowad? PIN
+B??dny PIN
+Wprowad?  PUK
+B??dny PUK
+Wprowad? nowy PIN
+Potwierd? nowy PIN
+Nowy PIN nie pasuje
+Wprowad? kod NP.
+Nieprawid?owy kod NP.
+Wprowad? kod NSP 
+Nieprawid?owy kod NSP 
+Input SP code
+Wrong SP code
+Input CP code
+Wrong CP code
+Input SIMP code
+Wrong SIMP code
+Input NS-SP code
+Wrong NS-SP code
+Wpisz kod SIM-C
+Nieprawid?owy kod SIM-C 
+Karta SIM usuni?ta
+B??d dost?pu do karty SIM
+PIN zablokowany!
+SIM zablokowana
+Formatowanie
+Czas po??cze里
+Koszt po??czenia
+Licznik wiadomo?ci
+Brak wiadomo?ci
+Wiadomo??(i)
+Wiadomo?ci
+SIM 1 wys?ane
+SIM 1 otrzymane
+Resetowa? licznik?
+Rejestr po??cz.
+Wszystkie po??cz.
+Wybierany numer
+Nieodebr. po??cz.
+Odebrane po??cz.
+Usu里 rejestr
+Zaawansowane
+Edytuj przed po??czeniem
+nieodebrane po?.
+nieodebrane po?.
+Typ:
+Nazwa:
+Numer:
+Godz. po??czenia:
+Czas po??cze里:
+Ilo?? po??cze里:
+Nieznany numer
+Brak Numeru!
+Brak wpisu
+wpis
+wpisy
+raz(y)
+raz(y)
+Anonimowy
+Brak Nr do Po??czenia!
+W toku
+Usun???
+Usun?? wszystko?
+Nieodebr. po??cz.
+SIM 1 nieodebr. po?.
+Usun???
+Usuwanie
+Usuni?te
+Wyczy?? wszystkie zdarzenia
+Ukryj numer
+Wy?lij numer
+Ustala sie?
+Linia 1
+Linia 2
+Pojedynczy
+Okresowy
+Auto powtarzanie
+Wy?wietl. czasu po?.
+Prze??czanie linii
+Sprawd? stan
+Po??cz. oczekuj?ce
+Czas (1~9999s)
+Automatyczne zako里czenie
+Lista grup
+Zamkni?ta grupa opcji
+Indeks ju? istnieje
+Zmie里 indeks
+Najpierw wy??cz
+Spis po??cze里
+Ustaw. po??cze里
+Ustaw. zaawansowane
+SIM 1 ustaw. po??cz.
+Ukryw. numeru
+Przekazywanie po?.
+Wszystkie po?. g?osowe
+Przekierowanie po??cze里 g?osowych
+Gdy niedost?pny
+Przekazywa? po??czenia, je?li nie ma odpowiedzi
+Gdy nie odbieram
+Przekazywanie po??cze里 g?osowych, gdy telefon zaj?ty
+Gdy zaj?te
+Divert all video calls
+Divert video calls if unreachable
+Divert video calls if no answer
+Divert video calls if busy
+Przekazuj wszystkie po?. danych
+Anuluj wszyst. przekazy
+Opcje przekaz. po??cze里
+Przekierowanie do
+Do innego numeru
+Do poczty g?osowej
+Blokada po??cze里
+Przekier. numer
+Z kontakt車w
+ 5 s
+ 10 s
+ 15 s
+ 20 s
+ 25 s
+ 30 s
+Opcja przekazywania, gdy nie ma odpowiedzi
+D?wi?k w tle
+Przypomnienie czasu
+Ustaw czas przypomnienia
+2 每 3000 s.
+31 每 60 s.
+Wy??czone
+Zawiadomienie o po??czeniu
+Bezpieczne Odbier. Po??cz.
+Autom. odbier. gdy zestaw s?uch.
+Dowolny klawisz
+Odbieranie po??cze里
+Numer za d?ugi
+Menu
+Kontakty
+Tryb samolotowy
+Niedost?pny Dla B??dnej Karty SIM.
+B??d rejestracji SIM
+B??d, wy??czy? alarm?
+Ju? przypisany
+Przypisz proste wyb.
+Usu里 proste wyb.
+Z kamery
+Zmie里 typ numeru
+Numer
+Status
+Obraz 0
+Animacja 1
+Profile 
+Og車lny
+Cichy
+Spotkanie
+Na zewn?trz
+W?asny
+Profil og車lny w??czony
+Profil cichy w??czony
+Profil spotkanie w??czony
+Profil na zewn?trz w??czony
+Profil aktywowany
+Dostosuj
+Typ alertu
+Tylko dzwonek
+Tylko wibracja
+Wibracja i dzwonek
+Wibracja, potem dzwonek
+Typ dzwonka
+Pojedynczy
+Powtarzany
+Narastaj?cy
+D?wi?k dzwon.
+SIM1 przychodz?ce po?.
+SIM1 SMS
+Wiadomo?? g?osowa
+G?o?no?? dzwonka
+G?o?n. wiadom.
+G?o?. klawiszy
+Klawiatura
+Klikni?cie
+Ton
+W??czanie
+Wy??czanie
+D?wi?ki ostrze?e里
+Wyp. nr-u przych. 
+Podp. g?osowe
+W?asny d?wi?k
+Zmie里
+Plik za du?y
+Motyw Nie Znaleziony
+Ton 1
+Ton 2
+Ton 3
+Ton 4
+Ton 5
+Dzwonek 1
+Dzwonek 2
+Dzwonek 3
+Dzwonek 4
+Dzwonek 5
+Naci?nij Odblokuj a nast?pnie *
+Naci?nij *
+Klawiatura zablokowana
+Klawiatura odblokowana
+nowe wiadomo?ci tekstowe
+Nowy SMS
+Nieodebr. po??cz.
+nieodebr. po??cz.
+Odblokuj
+Zabronione DRM
+Zawsze
+Gdy potrzeba
+SIM1 ustawienia sieci
+Po??czenie GPRS
+Karta SIM usuni?ta
+B??d logowania SIM
+Oczekuj?cy
+Dostarczono
+Usun?? raport ?
+Nowy raport dostarczenia
+Nowa SIM2 wiadomo??
+Nowa SIM1 wiadomo??
+Od:
+Data utworzenia:
+Data otrzymania:
+Status:
+Sk?adowanie:
+Typ:
+Lista jest pe?na
+Numer jest za d?ugi
+ dla wszystkich tele-us?ug
+ dla telefonii
+ dla wszystkich tele-us?ug transferu danych
+ dla us?ug faksu
+ dla SMS-車w
+ dla wszystkich tele-us?ug z wyj?tkiem SMS-車w
+ dla grupowych po??cze里
+ dla us?ug transmisji g?osowej
+ dla us?ug przenoszenia
+ dla wszys. us?ug asynchr.
+ dla wszys. us?ug synchr.
+ dla wszyst. danych synch
+ dla wszyst. danych asynch.
+ dla us?ug przenoszenia GPRS 
+ dla dedyk. dost?pu PAD
+ dla wszyst. us?ug PDS
+Nieznana przyczyna
+Blokowanie po? wych.
+Blokowanie po?. wych. mi?dzynar.
+Blokowanie po?. wych. mi?dzynar. z wyj?tkiem domowej
+Blokowanie po?. przych.
+Blokowanie po?. przych. w roamingu
+Blokowanie wszystkich po?
+Blokowanie po?. wychodz?cych
+Blokowanie po?. przychodz?cych
+Nieznany typ us?ugi blokowania
+Przekazuj wszystkie po??czenia
+Przekazuj gdy zaj?ty
+Przekazuj gdy nie odbieram
+Przekazuj gdy niedost?pny 
+Wszystkie przekazy po??cze里 
+Wszystkie warunkowe przekier. po??cze里
+Nieznany typ us?ugi
+Po??czenie oczekuj?ce
+ niedostarczone
+ dostarczone
+ aktywowane
+ dezaktywowane
+Z?e has?o
+Has?o zablokowane
+Prezentacja numeru
+Ograniczenie prezentacji
+Prezentacja identyfikatora po??czonej linii
+Ograniczenie identyfikatora po??czonej linii
+aktywowane na sta?e
+ domy?lnie w??czone
+ domy?lnie wy??czone
+Pokazywanie nazwy rozm車wcy
+Dodatkowa us?uga niedost?pna
+Us?uga dodatkowa
+Wysy?anie ??dania
+Informacja
+sek.
+Has?o zmienione
+Nie mo?na usun?? wiadomo??i
+Nie mo?na usun?? wiadomo??i
+nie mo?na przenie??wiadomo?ci
+wiadomo?ci nie mog? by? przenoszone
+nie mo?na skopiowa? wiadomo?ci
+nie mo?na skopiowa? wiadomo?ci
+Filtruj wg
+Wiadomo?ci sieciowe
+Zaznacz kilka
+Usun?? wszystkie wiadomo?ci z tego kontaktu?
+rozmowa?
+rozmowy?
+Raport wiadomo?ci
+Nowy raport wiadomo?ci
+Number not available
+U?ytkownik niedost?pny
+U?ytkownik niedost?pny 
+Numer zaj?ty
+Brak odpowiedzi u?ytkownika
+Wybieranie
+Brak pami?ci
+B??dne nowe has?o
+Autom. blokada ekranu
+Ustaw. zabezp.
+Zmie里 has?o
+Zablokowane
+Odblokowane
+Nieprawid?owa d?ugo??
+Wybierz SIM
+Zabezp. PIN
+Blokada PIN
+Zmie里 PIN
+Zmie里 PIN1
+Zabezp. telef.
+Blokada telefonu
+Has?o telefonu
+Spr車buj p車?niej
+Podaj has?o telefonu
+Has?o nieprawid?owe!
+Podaj stare has?o
+Podaj nowe has?o
+Potwierd? nowe has?o
+Nowe has?o nie pasuje
+Wybra? numer alarmowy?
+Blokada PIN musi by? w??czona
+PIN2  wy??czony
+Wprowad? PIN
+B??dny PIN
+B??dny PIN1
+Wprowad? Kod PUK
+B??dny PUK
+B??dny PUK1
+Wprowad? stary PIN
+Wprowad? nowy PIN
+Potwierd? nowy PIN
+Nowy PIN nie pasuje
+Nowy PIN2 nieprawid?owy
+PIN zablokowany!
+SIM PIN2 zablokowany
+SIM zablokowana
+SIM PUK2 zablokowany
+Do:
+Do
+Uszkodzony numer odbiorcy
+Roz??cz. po?. CDS
+AMR
+AWB
+AWB
+AMR
+WAV
+GPRS
+:
+?aden
+Abu Zabi
+Amsterdam
+Apia
+Ateny
+Auckland
+Anchorage
+Bangkok
+Pekin
+Berlin
+Bogota
+Brasilia
+Brisbane
+Bruksela
+Bukareszt
+Budapeszt
+Buenos Aires
+Kair
+Canberra
+Kapsztad
+Casablanca
+Atlantyk ?rodkowy
+Chicago
+Kopenhaga
+Dhaka
+Wyspa Wielkanocna
+Genewa
+Guam
+Hongkong
+Honolulu
+Islamabad
+Stambu?
+D?akarta
+Johannesburg
+Kabul
+Katmandu
+Kij車w
+Kuala Lumpur
+Kwajalein
+La Paz
+Lizbona
+Londyn
+Los Angeles
+Luksemburg
+Madryt
+Manila
+Melbourne
+Meksyk (miasto)
+Montreal
+Moskwa
+New Delhi
+Nowy Jork
+Wyspa Norfolk
+Pary?
+Phoenix
+Polinezja
+Praga
+Praia
+Rabat
+Rzym
+San Francisco
+Santiago
+Singapur
+Sofia
+Solomon
+Sztokholm
+Sydney
+Tajpej
+Teheran
+Tokio
+Tonga
+Vancouver
+Wiede里
+W?adywostok
+Warszawa
+Wellington
+Rangun
+Zurych
+?aden
+AUH
+AMS
+ATH
+AKL
+BKK
+BEJ
+BER
+BOG
+BSB
+BRU
+BUH
+BUD
+CAI
+CBR
+CPT
+CAS
+CGX
+CPH
+GVA
+GUM
+HKG
+HNL
+IST
+JKT
+JNB
+KIE
+KUL
+GRU
+LON
+LAX
+LUX
+MAD
+MNL
+MEX
+MON
+MOW
+DEL
+NYC
+PAR
+PRG
+RBA
+ROM
+SFO
+SCL
+SIN
+SOF
+STH
+SYD
+TPE
+THR
+TKY
+VAC
+VIE
+VVO
+WAW
+WLG
+ZRH
+:
+Krajowy Kod Kom車rkowy/ Kod Sieci Kom車rkowej
+APN
+GSM
+WCDMA
+IMEI
+(
+)
+TTY HCO
+TTY VCO
+Czas oczekiwania
+GMT
+?
+: 
+RRRR/MM/DD
+RRRR MM DD
+.
+:
+/
+-
+24 godz
+12 godz
+SOS
+30 sek
+1 min
+5 min
+SOS
+(
+)
+B??d
+Przed Po?.
+Po Po?udniu
+Opera
+Dodaj do istniej?cego kontaktu
+Zaawansowane
+Zawsze pytaj
+AM
+D?wi?k
+Bluetooth
+Zak?adka
+Wybierz pami??
+Kopiuj
+Utw車rz nowy kontakt
+Dzie里
+Zestaw s?uchawkowy
+Edytuj przed po??czeniem
+Eksport
+B??d
+Nazwa pliku ju? istnieje
+Zwi里
+Id? do adresu
+Dom
+Godzina
+Importuj
+Po?. przychodz?ce
+Instalowanie
+Krajobraz
+Wiadomo??
+Min.
+MMS
+Tryb
+Wi?cej
+Przenie?
+Media
+Ustaw. sieci
+PM
+Portret
+Domy?lny SIM
+Od?wie?anie
+Przypomnienie
+Przywr車?
+Sek.
+Secondary SIM
+Bezpiecze里stwo
+Zaznacz wszystkie
+Ustaw jako
+Udost?pnij
+Cichy
+SMS
+Sortuj
+Szablon
+Odznacz wszystko
+Prze?lij
+U?yj
+Wibracja
+Tapeta
+Tydzie里 
+WLAN
+Tylko WLAN
+Rok
+Niedziela
+Poniedzia?ek
+Wtorek
+?roda
+Czwartek
+Pi?tek
+Sobota
+Nd
+Pn
+Wt
+?r
+Czw
+Pt
+So
+Sty
+Lut
+Mar
+Kwi
+Maj
+Cze
+Lip
+Si?
+Wrz
+Pa?
+Lis
+Gru
+Niedost?pny w trybie samolotowym
+Karta SIM niedost?pna
+Nast?pny
+Poprz.
+Aplikacje MRE
+Hanoi
+Czy na pewno chcesz wy??czy? us?ugi GSM?
+Prosz? czeka?, SIM nie gotowa
+Stw車rz Now?
+Pam.:
+Po??czenia g?osowe
+Ustawienia wprowadzania
+Domy?lna metoda wprow.
+Zarejestrowano w sieci
+W?車? karte SIM
+B??d SIM
+Nieprawid?owa SIM
+Brak us?ug
+SIM zablokowana
+SIM roz??czona
+Awaryjne
+Profil dost?pu do karty SIM
+Wybierz sie?
+Tryb samolotowy
+SIM zamkni?ta
+Nieprawid?owy IMEI
+Taki sam IMEI
+Zdj?cie za du?e \ nUnable do wy?wietlenia
+Hanoi
+Bez nazwy
+Obs?uga danych
+sekundy
+minuty
+Dostarcz informacje lokalne
+Od?wie?anie SIM
+Brak Us?ugi
+SIM tip
+Only slot 1 supports 3G service. It is recommended to insert USIM into slot 1.
+Przekier.  po?. aktywne 
+Usun???
+Usun?? wszystko?
+U?yj jako
+Status
+Profil APN
+Ustawienia APN
+Hebrew
+?
+Wpisz %S PIN
+Wpisz %S PUK
+Wpisz nowy %S PIN
+Wpisz %S NP kod
+Wpisz %S NSP kod
+Wpisz %S SP kod
+Wpisz %S CP kod
+Wpisz %S SIMP kod
+Wpisz %S NS-SP kod
+Wpisz %S SIM-C kod
+%S b??d dost?pu
+%S PIN zablokowany
+%S zablokowana
+%S: brak karty
+Karta SIM usuni?ta
+%S wyj?ta
+%S usuni?ta
+Po??czenie IP
+Zaznacz kilka
+Usu里 zaznaczone
+Usun?? zaznaczone?
+Wsz. po?. g?osowe
+Proste wybier.
+1 sekunda
+2 sekundy
+3 sek
+4 sekundy
+5 sekund
+6 sek
+7 sekund
+8 sekund
+B??d ?adowania
+B??d baterii
+??czno??
+Tryb nieprawid?owy, ponownie wybra? SIM?
+Nie zaznaczono
+Skopiowano do %S
+Przeniesiono do %S
+Skopiowano cz??ciowo
+Na telefon
+Na kart? SIM
+Z telefonu
+Z karty SIM
+Przycisk wybierania
+Wybierz z pliku
+W?/wy?
+nie mo?na ustawi? d?wi?ku w trybie cichym
+Dodaj profil
+Po?. Przych.
+Sygna? wiadomo?ci
+D?w. klawiszy
+D?w. ostrze?e里
+Nowy profil
+Wpisz stary %S PIN
+%S PIN2 zablokowany
+%S PUK2 zablokowany
+%S PUK zablokowany
+SIM gotowa
+%S gotowa
+%S b??d dost?pu
+SIM wyj?ta
+%S wyj?ta
+SIM w?o?ona
+%S w?o?ona
+%S usuni?ta
+Wiadomo?? wys?ana, niezapisana
+wiad. skopiowana
+wiadom. skopiowane
+wiad. przeniesiona
+wiad. przeniesione
+Nie przeniesiono wiad. 
+Nie skopiowano wiad. 
+Edytuj poczt? g?osow?
+Edytuj profil
+W??czono tylko numery FDN
+Wy?lij SMS
+tre??
+Tekst na mow?
+Zatrzymaj teks na mow?
+B??d systemu
+Brak pami?ci
+Brak numeru
+Tylko numer FDN
+Anulowano
+TTS dla po??czenia
+TTS dla SMS
+Zdalny obraz
+Po?. przychodz?ce
+Roz??czanie
+G?o?no??
+Wiadomo?ci
+USB tethering
+Dodaj Do Zak?adek
+Wy?lij e-mail
+Only support 3D mode
+Nieobs?ugiwane auto-powtarzanie
+Only support 3D mode
+Preferred play 3D mode
+Tylko audio
+Zatrzymanie
+D?wi?k nie jest dost?pny
+Zmieniono j?zyk
+W?車? kart? SIM
+TTS dla wybierania
+Ustaw Guobi
+Add new Guobi word screen
+Ruch
+Ustawienia ruchu
+Czujnik ruchu
+Auto switch display orientation
+Flip to mute incoming call
+Flip to mute alarm
+Tap-tap to start record in-call
+Id? do widoku dnia
+Data
+Przenie? do
+Usu里 zaznaczone
+Usun?? zaznaczone?
+Nie uda?o si? doda?. Osi?gni?to maksimum skr車t車w.
+15 sek
+Przenie? do archiwum
+Usu里
+Przenie?? na kart? SIM
+Kopiuj do SIM
+Przenie? do telefonu
+Kopiuj do telefonu
+Usu里 kilka
+Niedost?pny w trybie MTP 
+Po??czenie danych
+Wy?wietl wszystkie po??czenia
+Nieodebrane po?.
+Jeden sygna?
+Ustawienia po??cze里 SIM
+Multi-angle view
+Wybierz SIM
+SIM 1 po??czenie g?osowe
+Wybierz kart? SIM
+Frequency Setting(KHz)
+Nieprawid?owa cz?stotliwo??
+FactoryTest
+On-Site Test
+J?zyk pisma r?cznego
+wykryto przeci??ony g?o?nik
+2-mic NR test-DMNR OFF
+B??d rejetracji %S
+B??d rejestracji %S%w
+Zaznacz wszystkie
+Repeat type invalid
+Nieprawid?owe dane pobierania kalibracji RF (wp?ywa na test wydajno?ci UE)
+UART 1
+UART 2
+UART 3
+UART 4
+SIM1
+W?車? kart? SIM
+Nazwa SIM
+% wys?anych
+% otrzymanych
+Licznik wiadomo?ci
+Resetowa? licznik?
+SIM 1 po??czenie g?osowe
+SIM 2 po??czenie g?osowe
+SIM 3 voice call
+SIM 4 voice call
+Wybierz SIM
+SIM 3 voice call
+SIM 4 voice call
+<Brak zawarto?ci>
+Odpowiedz przez SMS
+Odpowiedz przez MMS
+Zarz?dzaj
+Zamkn?? odtwarzacz audio?
+Nieznany
+SIM 1 zresetowa? wszystko?
+SIM 2 zresetowa? wszystko?
+SIM 3 zresetowa? wszystko?
+SIM 4 zresetowa? wszystko?
+Wy??czy? radio FM?
+Pocz?tek tygodnia
+Kopiuj na SIM1
+Kopiuj na SIM2
+Przenie? na SIM1
+Przenie? na SIM2
+Line 2 voicemail
+Nowa wiad. g?os
+New Fax
+Nowy e-mail!
+Nowa wiad. sieciowa
+Nowe wideo
+Nowa wiad. g?os od
+Nowa wiad. g?os
+nowy mail g?osowy
+ od 
+line 2 voicemail
+line 2 voicemails
+New Fax
+nowe faxy
+Nowy e-mail!
+Nowych wiad. i e-mail
+Nowa wiadomo??
+Nowe wiadomo?ci
+Nowe wideo
+nowe Wideo
+Ustaw proxy na urz?dzeniach ko里cowych
+Port
+Akceptuj
+Aktywuj po??czenie
+Zawie? po??czenie
+T?o rozmowy
+Open Homescreen
+Po??cz. Konferencyjne
+Zako里cz to po??czenie
+Po??cz
+Domy?lnie SIM do wys?ania wiadomo?ci
+Raport. Wiad. nieprzeczyt.
+%u wiadom.
+B??d wysy?ania
+Nieprzeczyt. wiad.
+SIM 1 po??czenie g?osowe
+SIM 2 po??czenie g?osowe
+SIM 3 voice call
+SIM 4 voice call
+Odinstalowa??
+Wyjd? z dzia?aj?cej aplikacji
+Odinstaluj
+Nie mo?na przeanalizowa? pliku tekstowego
+Nie mo?na otworzy? pliku tekstowego
+Nie mo?na znale?? pliku tekstowego
+Rejestr po??cz.
+nieodebr. po??cz.
+Nieodebr. po??cz.
+Ustawienia powiadomie里
+Us?uga powiadomie?
+Cesntrum powiadomie里
+Styl powiadomie?
+Badge app icon
+D?wi?k
+Widok zablokowanego ekranu
+Brak
+Pasek stanu
+Popup
+Popup
+Dodaj zaznaczone
+Dodaj do czarnej listy
+Doda? do czarnej listy?
+Przywracanie kontakt車w z
+Kopia zapasowa kontakt車w
+Backing up contacts to Yahoo! service
+Restoring contacts from Yahoo! service
+Nie wszystkie dane zosta?y przywr車cone kontakty w telefonie z powodu ogranicze里 pami?ci
+Backup contacts to Yahoo! service?
+Restore contacts from Yahoo! service?
+Nie zalogowany
+Wyjd? z trybu bezpiecznego
+Your phone is in safe mode now. This might be caused by a recent software installation, upgrade, or removal. All download contents have been disabled now. Restart the phone to exit safe mode, or do it later manually. Restart now ?
+Uruchom ponownie
+Do you want to launch autostart app one by one ?
+Do you launch the application :
+Zr車b p車?niej
+ od 
+B??d wysy?ania do %w
+%u wiadom.
+%u nieprz.wiadom.
+%u nieprz.wiadom.
+Authentication expired. Please re-login.
+Z karty pami?ci
+Na kart? pami?ci
+Karta pami?ci pe?na
+Karta pami?ci niegotowa
+W??cz
+Kopia zapasowa SMS
+Przywr車? SMS
+Backing up SMS to Yahoo! service
+Restoring SMS from Yahoo! service
+Filtr SMS
+Karta pami?ci:
+Kopiuj do karty pami?ci
+Przenie? do karty pami?ci
+Z SIM na telefon
+Z telefonu na SIM
+Z karty pami?ci na telefon
+Z karty pami?ci na SIM
+Z SIM na kart? pami?ci
+Z telefonu na kart? pami?ci
+Karta pami?ci usuni?ta, u?y? pami?ci telefonu?
+Brak wiadomo?ci do tworzenia kopii zapasowych
+The called person chose to answer it as a voice call
+Tak
+Winguo
+SmartSearch
+Ustawi? Winguo jako stron? g?車wn??
+Naci?nij klawisz
+Smart My
+Smart HABC
+Smart habc
+Zdj?cie 3D
+Brak kontakt車w do zarchiwizowania
+Brak kontakt車w do przywr車cenia
+Brak komunikatu, aby przywr車ci?
+5 Sek.
+15 Sek.
+30 Sek.
+45 sec
+Narz?dzia
+Za??czania
+Wy??czanie
+G?o?no??
+Data
+Czas
+Wy?wietlacz
+Format czasu
+Format daty
+?
+Naci?nij # aby odblokowa?
+Has?o telefonu:
+Stare has?o:
+Nowe has?o:
+Powt車rz:
+PIN:
+PUK:
+Stary PIN:
+Nowy PIN:
+Powt車rz:
+PIN2:
+PUK2:
+Stary PIN2:
+Nowy PIN2:
+Powt車rz:
+Naci?nij i przytrzymaj lewy klawisz aby odblokowa?
+Zapisz w lokalnych
+#N/A
+NIEZNANY
+Autom. wyszukiwanie stacji?
+W??cz d?wi?k
+Wy??cz d?wi?k
+RRRR
+MM/DD
+RRRR
+MM/DD
+Rok
+Miesi?c
+Dzie里
+Godzina
+Minuty
+%S PIN
+nowy %S PIN
+%S PUK
+stary %S PIN
+Wy?lij lokalnie
+Po??czenie lokalne
+Wybierz po??czenia
+W??cz Bluetooth
+Lokalnie
+Przytrzymaj OK aby zadzwoni?
+W??cz g?o?nik
+Wy??cz g?o?nik
+Nie mo?na odebra? MMS. W?車? kart? pami?ci.
+Naci?nij prawy klwisz lub przytrzymaj ekran aby odblokowa?
+Naci?nij prawy klawisz aby odblokowa?
+Latarka
+Ustawienia SOS
+Uruchom SOS
+Uruchomiono SOS
+Alarm
+Wy??cz SOS?
+Numer SOS
+#N/A
+Wiadomo?? SOS
+SMS alarmowy! Zadzwo里 do mnie
+Numer SOS 1
+Numer SOS 2
+Numer SOS 3
+Numer SOS 4
+Numer SOS 5
+?adowanie zako里czone
+Dodaj do szybkiego wybierania
+Nieprawid?owa SIM lub sie?
+Wysy?anie wiadomo?ci SOS
+nie mo?e by? puste
+SMS alarmowy! Zadzwo里 do mnie
+#N/A
+Wy??czy??
+Cichy
+Wpisz r?cznie
+Ustawienia czasu
+Ustawienia daty
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,2129 @@
+OK
+Retour
+Options
+Oui
+Non
+Effacer
+Effectu¨¦
+Enregistr¨¦
+Enregistrer
+Enregistrer?
+Enregistrement en cours
+Non termin¨¦
+Supprimer
+Annuler
+Annulation en cours
+Vider
+¨¦diter
+Activer
+D¨¦sactiver
+Mode de saisie
+Ins¨¦rer mod¨¨les
+Envoyer
+R¨¦pondre
+Activer
+D¨¦sactiver
+<Vide>
+Annuler
+Ajouter
+Effacer Tout
+Composer
+Erreur
+Normal
+Aucun
+Choisir
+Aper?u
+Format non pris en charge
+Non disponible
+Indisponible
+URL invalide
+Verrouill¨¦
+Traitement
+Pas un fichier GND
+Erreur d'acc¨¨s fichier
+Erreur format fichier
+Nom de fichier
+Ouvrir
+Fermer
+Quitter
+Rapide
+Lent
+Chercher
+Recherche en cours
+Annulation
+Veuillez patienter
+Charger
+Charger ?
+T¨¦l¨¦chargement
+Installer
+Occup¨¦
+Saisir
+Nom d'utilisateur
+Mise ¨¤ jour
+Mot de passe
+Authentification
+Activ¨¦
+Lire
+Accepter
+Rejeter
+¨¦couteur branch¨¦
+¨¦couteur d¨¦branch¨¦
+Menu
+Menu principal
+R¨¦pertoire t¨¦l¨¦phonique
+Messages
+Divertissement
+Organisateur
+¨¦diter le profil
+Param¨¨tres
+Raccourcis
+Services
+Multim¨¦dia
+Suppl¨¦ment
+Gestionnaire de fichiers
+R¨¦pertoire
+Envoyer un message texte
+Rechercher un contact
+Ajouter nouveau contact
+Aper?u
+Chercher
+Entrer un nom et un num¨¦ro
+Entrer nom ou num¨¦ro
+Veuillez entrer un nom
+Veuillez entrer un num¨¦ro
+Stockage s¨¦lectionn¨¦ plein
+Espace de stockage plein
+Espace de stockage plein
+Pas de contact disponible
+R¨¦pertoire t¨¦l¨¦phonique
+¨¦diter l'entr¨¦e
+Afficher contact
+Nom
+Annuaire pas pr¨ºt
+Espace de stockage
+Ajout¨¦
+Nouvelle entr¨¦e
+Num¨¦ro d'urgence
+Aucun num¨¦ro ¨¤ appeler
+Choisir le Num¨¦ro
+Nom
+Num¨¦ro
+Non enregistr¨¦, num¨¦ro trop long.
+Copi¨¦, nom modifi¨¦
+D¨¦plac¨¦, nom modifi¨¦
+Copi¨¦
+contact copi¨¦
+contact(s) copi¨¦
+contact supprim¨¦
+contact(s) supprim¨¦
+Num¨¦ro suppl¨¦mentaire
+S¨¦lectionner ¨¤ partir du fichier
+Num¨¦ro de SOS
+Num¨¦ro de SOS
+Dans le t¨¦l¨¦phone
+sur SIM
+Num¨¦ro de Service
+Num¨¦rotation vocale
+Mon num¨¦ro
+Editer mon num¨¦ro
+Envoyer mon num¨¦ro
+Envoyer vCard
+Le fichier audio n'existe pas
+S¨¦lectionner ¨¤ partir du fichier
+Supprimer r¨¦f¨¦rence
+Aucune image de s¨¦lectionn¨¦e
+Vers une nouvelle entr¨¦e
+Vers l'entr¨¦e s¨¦lectionn¨¦e
+Vers groupe appelant
+image s¨¦lectionn¨¦e
+Erreur Image
+Erreur Vid¨¦o
+ ¨¦chec de duplication
+Rechercher
+Vid¨¦o appelant
+Image de l¡¯appelant
+Sonnerie de l¡¯appelant
+Ton de th¨¨me pas trouv¨¦
+Num¨¦ro trop long
+Nom trop long
+Le num¨¦ro avec?? ne peut pas ¨ºtre copi¨¦
+Le num¨¦ro  avec w ne peut pas ¨ºtre copi¨¦ sur la SIM
+Le num¨¦ro  avec?? ne peut pas ¨ºtre d¨¦plac¨¦
+Le num¨¦ro  avec w ne peut pas ¨ºtre d¨¦plac¨¦ sur la SIM
+Les num¨¦ros avec?? ne peuvent pas ¨ºtre dupliqu¨¦s
+Accepter la requ¨ºte PBAP de
+Enregistrer
+ vers r¨¦pertoire ¨¦lectronique?
+nouveaux contacts dans r¨¦pertoire ¨¦lectronique?
+Nouvelle liste de contacts
+Remplacer?
+Enregistrer notification de contact
+R¨¦glage du t¨¦l¨¦phone
+Date et heure
+Entr¨¦e invalide
+Choisir ville d'origine
+R¨¦gler la date et le format
+R¨¦gler l¡¯heure et le format
+R¨¦gler l'heure/la date
+Heure d'¨¦t¨¦
+R¨¦gler le format
+HH:MM
+Format de l'heure
+Format de la date
+Texte d'accueil
+JJ MM AAAA
+MM JJ AAAA
+S¨¦parateur de date
+FDN pas pr¨ºt.
+R¨¦essayer plus tard
+Restaurer param¨¨tres d'usine
+Code accept¨¦
+Restaurer les r¨¦glages & rallumer le t¨¦l¨¦phone?
+Traitement en cours
+Mot de passe incorrect?
+Mot de passe bloqu¨¦
+Mot de passe
+Num¨¦rotation rapide
+¨¦conomiseur d'¨¦nergie
+Contraste
+Economiseur d'¨¦cran
+Papier peint
+Afficher la date et l'heure
+Afficher
+Statut
+Affichage LCD principal
+Minuteur ¨¦conomie d'¨¦nergie
+Pas de num¨¦ro?
+Papier peint
+Syst¨¨me
+D¨¦finit par l'utilisateur
+Image 2
+Image 3
+Image 4
+Image 5
+Image 6
+Animation 2
+Animation 3
+Animation 4
+Animation 5
+Animation 6
+Erreur de fichier, r¨¦tablir par d¨¦faut
+Erreur de fichier, r¨¦tablir par d¨¦faut
+Allumer l¡¯¨¦cran
+Eteindre l¡¯¨¦cran
+Syst¨¨me
+Utilisateur
+R¨¦glages divers
+DEL de signal
+R¨¦tro¨¦clairage de l'¨¦cran LCD
+Luminosit¨¦
+Dur¨¦e (sec)
+Suppression en cours
+Veuillez remplacer?? par un chiffre
+PIN non activ¨¦
+Entrez le PUK?
+Non support¨¦
+Liste des num¨¦ros interdits
+Mode
+Stockage plein
+Langue
+M¨¦thodes favorites de saisie
+Divertissement
+Connexion GPRS
+Modifier
+Toujours
+En cas de besoin
+Lecteur vid¨¦o
+Stockage pas pr¨ºt
+Fichier vid¨¦o invalide
+Carte m¨¦moire prot¨¦g¨¦e, cr¨¦ation d'un dossier Vid¨¦o impossible
+Echec de capture d'¨¦cran
+R¨¦glages invalides 
+R¨¦solution non support¨¦e
+Remplacer les fichiers existants?
+Echec de lecture
+Effacer l'historique??
+Historique effac¨¦e
+Bluetooth activ¨¦. Le d¨¦sactiver
+Fichier trop gros, impossible de l'ouvrir
+Activer lecture en transit??
+Luminosit¨¦
+Contraste
+R¨¦p¨¦tition auto
+Longueur invalide
+Pas de service
+Batterie faible
+Chargeur connect¨¦
+Chargeur d¨¦connect¨¦
+Chargeur USB connect¨¦
+USB d¨¦connect¨¦
+Batterie faible, extinction.
+Batterie faible
+Ins¨¦rer un symbole
+Symbole
+Effacer ?
+Rapport d'envoi
+En attente
+Rapport
+¨¦crire un message
+Ins¨¦rer un objet
+Liste d¡¯URL
+Aucune URL
+Corps du message
+Liste de num¨¦ros
+R¨¦ussite
+¨¦chec  
+Notification  
+M¨¦moire de messages pleine
+Stockage SIM plein pour nouveau message re?u
+Archive de SMS pleine
+Pas envoy¨¦ et pas enregistr¨¦
+Nouveau message
+Message de
+¨¦chec de la lecture
+Objet existant
+Erreur inconnue
+L'objet est trop grand
+Longueur du message trop grande
+Longueur du num¨¦ro d¨¦pass¨¦
+Nom vide
+Aucun contenu
+Contenu invalide
+Taille de contenu d¨¦pass¨¦e
+Adresse SMSC vide
+Bo?te pas pr¨ºte
+Message SMS
+Ajouter ¨¤ Signets
+Enregistrer dans Brouillons
+Pas d'espace pour adresse Email
+Message SIM de
+Messages SIM
+Effacer tous les messages dans Messages SIM ?
+messages
+Ecrire un message
+Messages envoy¨¦s
+Effacer les messages
+Mod¨¨les
+R¨¦glages message
+message
+%u non lu
+Pas envoy¨¦, enregistr¨¦ dans la Bo?te d¡¯envoi
+Envoy¨¦ et enregistr¨¦
+<Aucun sujet>
+<Incomplet>
+<Non support¨¦>
+Archive
+Effacer tous les messages dans Archive ?
+D¨¦placer
+message(s)?
+message(s)
+ne peut pas ¨ºtre supprim¨¦
+ne peut pas ¨ºtre d¨¦plac¨¦
+Appuyez sur * pour s¨¦lectionner/d¨¦selectionner le message
+Services
+WAP
+Num¨¦ro d'information
+Composer
+Voulez vous appeler avec un taux premium ?
+D¨¦sol¨¦.\nCe num¨¦ro n'est pas disponible en itin¨¦rance
+SIM non support¨¦
+lecteur audio
+Liste de lecture
+De la m¨¦moire du t¨¦l¨¦phone
+Depuis la carte
+Ajouter aux sonneries
+Supprimer??
+Tout retirer
+Supprimer tout??
+Rafraichir la liste
+R¨¦glages du lecteur
+R¨¦glages d¡¯affichage
+Un
+Tous
+Gen. de liste auto
+Liste de lecture
+R¨¦p¨¦ter
+Al¨¦atoire
+Lire en fond
+Impossible de mettre la liste ¨¤ jour : ¨¦chec dans l'acc¨¨s au fichier
+Liste pleine
+Impossible d'ouvrir
+¨¦chec lors de la lecture
+Appareil occup¨¦
+Mauvais format
+D¨¦passer la limite de fichiers
+Erreur
+Aucune piste audio
+Contenu audio non support¨¦
+Ranger dans un espace de stockage diff¨¦rent
+Canal non support¨¦
+Fr¨¦q. non support¨¦e
+Type non support¨¦
+Impossible de pauser
+Nouvel enregistrement
+Enregistreur de son
+Ajouter
+Ajouter aux sonneries
+Format du fichier
+Impossible d'ouvrir
+Aucune carte
+Erreur commande
+Appareil occup¨¦
+Erreur
+Disponible
+Format incorrect
+Enregistrement auto
+Protection en ¨¦criture
+Taille limite d¨¦pass¨¦e
+Langue r¨¦gl¨¦e en anglais
+Langue chinois simplifi¨¦ r¨¦gl¨¦e
+Langue chinois traditionnel r¨¦gl¨¦
+Langue par d¨¦faut r¨¦gl¨¦e
+Erreur: Mode ing¨¦nieur
+Erreur
+Erreur
+Erreur: R¨¦gler chinois
+Erreur: R¨¦gler chinois
+Version de logiciel
+Version de mat¨¦riel
+Num¨¦ro de s¨¦rie
+Erreur: Mode d'usine
+Organisateur
+Calendrier
+Liste des taches
+Calculatrice
+Petit somme
+R¨¦p¨¦ter
+Une fois
+Tous les jours
+Le
+Chaque heure
+Hebdomadaire
+Mensuel
+P¨¦riodique
+Annuel
+Allumer ?
+Rappel d¡¯alarme (mins)
+Calendrier lunaire
+S
+E
+N
+W
+M
+D
+Aller ¨¤ la date
+Erreur de date
+Date valide est 2000~2030
+Semaine
+Aller ¨¤ la vue hebdo
+Aller ¨¤ la vue mensuelle
+Ajouter ¨¦v¨¨nement
+Config USB:
+USB d¨¦tect¨¦. R¨¦gler comme le port COM
+Rebooter pour le stockage externe?
+Stockage externe
+Port COM
+Veuillez ¨¦teindre IrDA
+D¨¦marrage du stockage externe
+USB : Aucun stockage pour PC
+Syst¨¨me pas encore pr¨ºt, r¨¦essayez plus tard
+USB : UART2 occup¨¦
+Radio FM
+Liste de canaux
+Entr¨¦e manuelle
+Recherche automatique
+Lire en fond
+Nom de canal
+Fr¨¦quence
+Fr¨¦quence: 87.7 ~108
+Une d¨¦cimale seulement
+Nouveau canal
+Veuillez d'abord mettre sous tension
+Suppression en cours
+Veuillez brancher les ¨¦couteurs
+Ecouteur
+Enregistrer
+Modifier
+Liste des fichiers
+Format d¡¯enregistrement
+Stockage d¡¯enregistrement
+Format incorrect
+Format invalide
+Appareil occup¨¦
+Imbossible d'ouvrir
+Aucune carte
+Protection en ¨¦criture
+Annuler??
+Echec
+R¨¦gler la langue en Espagnol
+R¨¦gler la langue en Fran?ais
+Langue allemande choisie
+Langue r¨¦gl¨¦e sur Italien
+Langue r¨¦gl¨¦e sur Tha?
+Langue r¨¦gl¨¦e en russe
+Langue r¨¦gl¨¦e sur Portugais
+Langue r¨¦gl¨¦e sur Turc
+Langue d¨¦finie au vietnamien
+Langue d¨¦finie ¨¤ l'indon¨¦sien
+Langue r¨¦gl¨¦e sur Malais
+Langue r¨¦gl¨¦e sur Indien
+Erreur de r¨¦glage en Espagnol
+Erreur de r¨¦glage enFran?ais
+Erreur de r¨¦glage sur Allemand
+Erreur de r¨¦glage sur Italien
+Erreur de r¨¦glage sur Tha?
+Erreur de r¨¦glage en Russe
+Erreur de r¨¦glage sur Portugais
+Erreur de r¨¦glage sur Turc
+Erreur dans le r¨¦glage de la langue vietnamienne
+Erreur dans le r¨¦glage de la langue indon¨¦sienne
+Erreur de r¨¦glage sur Malais
+Erreur dans le r¨¦glage de la langue Hindi
+lecteur audio
+Enregistreur vid¨¦o
+Lecteur vid¨¦o
+Cam¨¦ra
+Zone AV
+Cam¨¦ra
+Divertissement
+Syst¨¨me
+Mode Vol
+Mode Normal
+Mode Vol
+Demander lorsque allum¨¦
+Voulez-vous vraiment changer de mode??
+Changement de mode
+Langue r¨¦gl¨¦e sur Danois
+Langue r¨¦gl¨¦e sur Tch¨¨que
+Langue r¨¦gl¨¦e sur Polonais
+R¨¦gler la langue en Finnois
+Langue r¨¦gl¨¦e sur Hongrois
+Erreur de r¨¦glage sur Danois
+Erreur de r¨¦glage sur Tch¨¨que
+Erreur de r¨¦glage sur Polonais
+Erreur de r¨¦glage en Finnois
+Erreur de r¨¦glage sur Hongrois
+Langue r¨¦gl¨¦e sur Norv¨¦gien
+Langue r¨¦gl¨¦e sur Hollandais
+Langue r¨¦gl¨¦e sur Slovaque
+Erreur de r¨¦glage sur Norv¨¦gien
+Erreur de r¨¦glage sur Hollandais
+Erreur de r¨¦glage sur Slovaque
+R¨¦gler la langue en Su¨¦dois
+Erreur de r¨¦glage en Su¨¦dois
+R¨¦gler la langue en Croate
+Erreur de r¨¦glage en Croate
+Langue r¨¦gl¨¦e en roumain
+Erreur de r¨¦glage en Roumain
+Langue r¨¦gl¨¦e sur Slov¨¦nien
+Erreur de r¨¦glage sur Slov¨¦nien
+Erreur de r¨¦glage sur H¨¦breux
+Langue r¨¦gl¨¦e sur Grec
+Erreur de r¨¦glage sur Grec
+Vitesse non support¨¦e
+Langue r¨¦gl¨¦e sur Bulgare
+Erreur de r¨¦glage sur Bulgare
+Gestion PLMN
+Nom de l¡¯op¨¦rateur
+Ne peut pas trouver le nom de l¡¯op¨¦rateur sur ce t¨¦l¨¦phone. Voulez-vous l¡¯entrer manuellement ?
+Dupliqu¨¦
+Langue r¨¦gl¨¦e sur Marathi
+Erreur de r¨¦glage sur la langue Marathi
+Langue r¨¦gl¨¦e sur Perse
+Erreur de r¨¦glage sur Perse
+Al¨¦atoire d¨¦sact->activ¨¦
+Al¨¦atoire activ¨¦->d¨¦sact
+Carte SIM en train d¡¯¨ºtre rafra?chie
+Langue r¨¦gl¨¦e sur Tamil
+Erreur de r¨¦glage sur la langue Tamil
+Langue r¨¦gl¨¦e sur Urdu
+Erreur dans la mise en place de la langue Urdu
+Langue r¨¦gl¨¦e sur Bengali
+Erreur dans la mise en place de la langue Bengali
+Langue r¨¦gl¨¦e sur Punjabi
+Erreur dans la mise en place de la langue Punjabi
+Langue r¨¦gl¨¦e sur Telegu
+Erreur dans la mise en place de la langue Telugu
+Stop
+Appel
+Appel VoIP
+Refuser
+R¨¦pondre
+D¨¦vier
+Son d¡¯arri¨¨re plan d¡¯appel
+T¨¦l¨¦phone
+Ecouteur
+VoIP active
+VoIP en attente
+Appel vocal activ¨¦
+Appel en attente
+En cours
+Impossible de mettre en attente
+Impossible d'¨¦changer
+Appel annul¨¦
+Appel en attente
+Appel repris
+Appel ¨¦chang¨¦
+Conf¨¦rence t¨¦l¨¦phonique
+Appel s¨¦par¨¦
+Appel termin¨¦
+Appel transf¨¦r¨¦
+Mettre en attente
+Reprendre
+Echanger
+Conf¨¦rence
+S¨¦parer
+Terminer un appel
+Terminer conf. t¨¦l¨¦ph.
+Terminer tous les appels
+Terminer l¡¯appel
+Mettre un appel en attente
+Mettre en attente conf. t¨¦l¨¦ph.
+Reprendre un appel
+Reprendre conf. t¨¦l¨¦ph.
+Transf¨¦rer
+Nouvel appel
+R¨¦pertoire ¨¦lectronique
+Centre de message
+Enregistreur de son
+Son d'arri¨¨re plan
+Appel vocal
+Appel VoIP
+Centre d'appels
+Param¨¨tres d'appel?
+R¨¦glages avanc¨¦s
+Ecouteur ¨¦teint
+Ecouteur allum¨¦
+Changer le chemin audio
+Actif
+Appel vid¨¦o
+Connecter CTM
+Recomposer ¨¤ partir de l¡¯autre SIM
+Appel vocal SIM1
+Appel vocal SIM2
+Voix active SIM1
+Voix en attente SIM1
+Envoie DTMF
+Qualit¨¦ audio
+Marquer plusieurs
+Copier s¨¦lectionn¨¦s
+Supprimer s¨¦lectionn¨¦s
+Copier s¨¦lection ?
+Supprimer
+Appuyez sur * pour on/off
+Appuyez sur le bouton Centre pour allumer/¨¦teindre
+Touchez la case pour on/off
+Appuyez sur * ou touchez la case pour allumer/¨¦teindre
+Appuyez sur le bouton Centre ou touchez la case pour allumer/¨¦teindre
+Nombre d¡¯¨¦l¨¦ments max atteint
+Qualit¨¦ audio
+Version vCard
+Fr¨¦q. non support¨¦e
+Annuler l¡¯envoi
+Fichier invalide
+Audio
+Pas d'espace
+Message non existant
+Etat du message chang¨¦
+Ce type de fichier ne supporte pas A2DP
+Effet audio
+Enregistrer l¡¯audio??
+Enregistrer le texte
+Aucune destination, d¨¦plac¨¦ dans Brouillons ?
+Aucun objet appropri¨¦ ne peut ¨ºtre enregistr¨¦
+Effet de canal
+Mono
+St¨¦r¨¦o
+Erreur
+S¨¦lectionner l'arabe
+Termin¨¦.\nMise hors tension dans 3 sec.
+Supprim¨¦
+Suppression en cours
+Comptes
+Adresse
+Alarme
+Comme message texte
+Comme msg multim¨¦dia
+Comme Email
+Attachement
+Automatique
+Confirmer
+Connecter
+Connexion
+Cont.
+Contenu
+Copie en cours
+Actuellement non disponible
+Non disponible pendant l'appel
+Utilisateur
+Appels effectu¨¦s
+Compte de donn¨¦es
+Date
+D¨¦faut
+Suppression en cours
+Supprim¨¦
+D¨¦tails
+D¨¦connecter
+D¨¦connexion
+Brouillons
+Email
+Quitter
+Echec d'enregistrement
+¨¦chec d'envoi
+Le fichier existe d¨¦j¨¤
+Fichier introuvable
+Formater
+Suivant
+Aller ¨¤ 
+Aide
+Haute
+Bo?te de r¨¦ception
+M¨¦moire insuffisante
+Nom du fichier invalide
+Format invalide
+Entr¨¦e invalide
+Liste
+Chargement en cours
+Connexion
+D¨¦connexion
+Basse
+Manuel
+Cocher
+Cocher tous
+Maximum
+Moyen
+Carte m¨¦moire
+M¨¦moire pleine
+¨¦tat de la m¨¦moire
+D¨¦placement en cours
+Message multim¨¦dia 
+Mode silencieux
+Aucune carte m¨¦moire
+M¨¦moire insuffisante
+Non support¨¦
+Bo?te d'envoi
+Remplacer les fichiers existants?
+Pause
+T¨¦l¨¦phone
+Image
+Lecture
+Veuillez entrer le nom du fichier
+Lieu de stockage
+Aper?u
+Imprimer
+Priorit¨¦
+Proxy
+Re?us
+Appels re?us
+R¨¦ception
+Destinataires
+Rafra?chir
+Supprimer
+Supprim¨¦s
+Renommer
+Remplacer
+Remettre ¨¤ l'¨¦tat initial
+Reprendre
+Sonnerie
+Enregistrer dans le R¨¦pertoire
+Envoyer un message texte
+Envoyer un message multim¨¦dia
+Envoi
+Envoy¨¦
+Param¨¨tres
+SIM
+Trier par
+Start
+M¨¦moire
+Sujet
+Texte
+Message texte
+Heure
+D¨¦cocher
+D¨¦cocher tous
+Port UDP
+Via Bluetooth
+Via infrarouge
+Vid¨¦o
+Volume
+Type non support¨¦
+Suppression en cours
+Supprimer SMS??
+Mode avion ?
+Suppression en cours
+Envoyer tithi
+Ram Navmi
+Ganesh Chaturthi
+Ram Navami a lieu le neuvi¨¨me jour de l¡¯ann¨¦e lunaire hindou et comm¨¦more l¡¯anniversaire de Shree Ram. Lord Ram fut la septi¨¨me incarnation de Lord Vishnu, qui a vu le jour sur terre lorsque Adharma a rejet¨¦ Dharma. Lord Ram est n¨¦ sur terre pour an¨¦antir le d¨¦mon appel¨¦ Ravan. Ce jour-l¨¤, les hindous doivent se restreindre ¨¤ un r¨¦gime et se vouer ¨¤ la v¨¦n¨¦ration. Les temples sont d¨¦cor¨¦s et des lectures du Ramayana sont faites. Outre Shri Ram, le peuple v¨¦n¨¨re ¨¦galement Sita mata, l¡¯¨¦pouse de 
+Ganesh Chaturthi est le jour quand Lord Ganesha, le fils de Shiva et de Parvati, est sens¨¦ faire sa pr¨¦sence sentie sur la terre ¨¤ tous ces d¨¦vot¨¦s. Ce festival dure 10 jours et se fini avec Ananta Chaturdashi.  Ganesha, le fils de Shiva et de Parvati avec une t¨ºte d¡¯¨¦l¨¦phant, est r¨¦v¨¦r¨¦ comme le dieu supr¨ºme de la connaissance, la prosp¨¦rit¨¦ et de la bonne chance.
+Envoyer SMS??
+Langue r¨¦gl¨¦e sur Xhosa
+Erreur de r¨¦glage de la langue sur Xhosa
+Langue r¨¦gl¨¦e sur Swahili
+Erreur de r¨¦glage de la langue sur Swahili
+Langue r¨¦gl¨¦e sur Africain
+Erreur de r¨¦glage de la langue sur Africain
+Langue r¨¦gl¨¦e sur Zulu
+Erreur de r¨¦glage de la langue sur Zulu
+Langue r¨¦gl¨¦e en lithuanien
+Erreur de r¨¦glage en Lithuanien
+Langue r¨¦gl¨¦e sur Latvien
+Erreur de r¨¦glage de la langue sur Latvien
+Langue r¨¦gl¨¦e sur Estonien
+Erreur de r¨¦glage de la langue sur Estonien
+Langue r¨¦gl¨¦e sur Arm¨¦nien
+Erreur de r¨¦glage de la langue sur Arm¨¦nien
+Langue r¨¦gl¨¦e sur G¨¦orgien
+Erreur de r¨¦glage de la langue sur G¨¦orgien
+Langue r¨¦gl¨¦e sur Moldave
+Erreur de r¨¦glage de la langue sur Moldave
+Effacer tous les ¨¦v¨¦nements
+Cont.
+Echec d'enregistrement
+Annul¨¦
+Contact ICE
+Plus de d¨¦tails
+Enregistrer les d¨¦tails sur le t¨¦l¨¦phone ?
+D¨¦placer de la carte SIM et enregistrer les d¨¦tails sur le t¨¦l¨¦phone ?
+Mise ¨¤ jour des messages
+R¨¦gler Cstar
+R¨¦initialiser les meilleurs r¨¦sultats ?
+Compte de donn¨¦es invalide. Configurer?
+Num¨¦ro invalide
+Num¨¦ros invalides
+Destinataires invalides
+Appels en absence
+Envoyer un message
+Mod¨¨les
+Autres langues?
+Marqu¨¦ comme lu
+Marqu¨¦ comme non lu
+Appeler l'exp¨¦diteur
+Heure :
+Contenu :
+D¨¦fini par l'utilisateur
+Enregistrer comme nouveau mod¨¨le
+Liste de mod¨¨le d¨¦j¨¤ pleine
+R¨¦glages SMS
+Messagere vocale
+Profile 1
+Profile 2
+Profile 3
+Profile 4
+Configuration du profile
+R¨¦glages communs
+Nom
+Num¨¦ro
+Nom du profil
+Adresse SMS du CS
+P¨¦riode de validit¨¦
+Type de message
+1 heure
+6 heures
+12 heures
+1 jour
+3 jours
+1 semaine
+Mod¨¨les
+Utiliser
+SIM :
+T¨¦l¨¦phone :
+Appelle moi maintenant.
+On va d¨¦jeuner ?
+Je reviens vite.
+Je suis occup¨¦.
+D¨¦sol¨¦ !
+Merci !
+Comment ¨¦tait ta journ¨¦e ?
+?a fait longtemps qu'on ne s'est pas vu.
+Beaucoup d'amour !
+Comment vas-tu ?
+Chemin de r¨¦ponse
+Message vocal pas pr¨ºt
+Choisir la bo?te mail par d¨¦faut
+Enregistrer messages envoy¨¦s
+Choisir d'abord le num¨¦ro du message vocal ?
+Nouveau courriel vocal
+Envoyer ¨¤
+Ins¨¦rer mod¨¨le
+Ajouter destinataire
+Editer le destinataire
+Enlever le destinataire
+Enlever tous les destinataires
+Enlever le destinataire ?
+Enlever tous les destinataires ?
+Entrez le num¨¦ro
+Ajouter ¨¤ partir du r¨¦pertoire
+Liste de destinataires pleine
+Choisir le centre du message d'abord ?
+Envoi ¨¤
+Ins¨¦rer num¨¦ro
+Ins¨¦rer nom
+Ins¨¦rer marque-pages
+Num¨¦ros invalides supprim¨¦s
+Possibilit¨¦ d'ajouter
+Possibilit¨¦ d'envoyer ¨¤
+contacts. Continuer ?
+contacts. Continuer ?
+De SIM1
+SIM1 :
+D¨¦placer tout
+D¨¦placer vers SIM
+D¨¦placer vers le t¨¦l¨¦phone
+De la m¨¦moire du t¨¦l¨¦phone
+De la carte SIM
+Copier tout
+Copier vers SIM
+Copier vers le t¨¦l¨¦phone
+Enregistrer objets
+D¨¦placer s¨¦lectionn¨¦ dans Archive
+Utiliser num¨¦ro
+R¨¦pondre par SMS
+Enregistrer comme mod¨¨le
+Nouveau mod¨¨le
+Messagerie
+Aucun contenu de texte
+Enregistrer seulement le contenu texte. Continuer ?
+Adresse invalide supprim¨¦e
+Longueur maximale de l'adresse d¨¦pass¨¦e
+Sauvegarder dans Bo?te de r¨¦ception
+Janvier
+F¨¦vrier
+Mars
+Mai
+Juin
+Juillet
+Ao?t
+Septembre
+Octobre
+Novembre
+D¨¦cembre
+Avril
+Ecraser l'ancien ?
+Nom ou num¨¦ro invalide
+Nom et num¨¦ro invalides
+Nom invalide
+Remplacer existant
+Editer s¨¦lection
+Les infos seront peut-¨ºtre perdues. Continuer ?
+annul¨¦,
+Aucun contact s¨¦lectionn¨¦
+Possibilit¨¦ d'ajouter seulement
+contacts. Continuer ?
+contact. Continuer ?
+D¨¦placer s¨¦lectionn¨¦s
+Copier tout
+D¨¦placer tout
+D¨¦placer marqu¨¦ ?
+contact d¨¦plac¨¦
+contacts d¨¦plac¨¦s
+Supprimer tous les contacts
+Copier tout de la SIM vers le t¨¦l¨¦phone ?
+Copier tout du SIM1 vers le t¨¦l¨¦phone ?
+Copier tout du SIM2 vers le t¨¦l¨¦phone ?
+Envoyer Email
+Voir image
+Lire vid¨¦o
+Ajouter ¨¤ la liste noire
+(Sans nom)
+R¨¦glages du r¨¦pertoire
+Tous
+SIM et t¨¦l¨¦phone
+Num¨¦rotation rapide
+Choisir num¨¦ro
+Etat
+Stockage pr¨¦f¨¦r¨¦ invalide
+Aucun contact
+Emplacement invalide
+Modifier la valeur par d¨¦faut?
+Annuler d¨¦faut
+PUK bloqu¨¦. Contactez l'op¨¦rateur.
+R¨¦gler fuseau horaire
+Restaurer les r¨¦glages par d¨¦faut??
+Connectivit¨¦
+M/jour avec fuseau horaire
+Restaurer les r¨¦glages
+Jeter ?
+Ajouter audio ?
+Echec de lecture
+Silence
+Muet off
+Muet on
+Muet off
+Menu principal
+Terminer tous les appels actifs
+Terminer tous les appels tenus
+messages
+messages?
+messages?
+Supprimer
+Touchez la bo?te pour activer/d¨¦sactiver
+Non lu / lu
+Exp¨¦diteur
+Destinataire
+Exp¨¦diteur / Destinataire
+Taille du message
+Type de message
+Effacer tout
+Effacer tout?
+PUK2 bloqu¨¦. Contactez l'op¨¦rateur.
+Menu principal
+Heure
+Ins¨¦rer une carte m¨¦moire
+S¨¦lectionner SIM
+Ouverture SIM double
+SIM1 seulement ouverte
+Erreur SIM
+CCBS disponible.\nVoulez-vous activer??
+Recomposition?:
+fois,\n
+prochaine tentative dans
+sec
+min
+Limit¨¦
+Non disponible
+Refus¨¦ par l'utilisateur
+T¨¦l¨¦phone public
+Commande invalide
+Commande invalide
+Connexion impossible
+Num¨¦ro inconnu
+Echec de r¨¦seau
+R¨¦seau occup¨¦
+R¨¦seau occup¨¦, veuillez r¨¦essayer plus tard
+Appel bloqu¨¦
+Utilisateur occup¨¦
+Sans r¨¦ponse
+Pas de r¨¦ponse
+ACM d¨¦pass¨¦
+Erreur inattendue
+Appel annul¨¦
+Appel termin¨¦
+Envoyer DTMF??\n
+Erreur IMEI
+GPRS pas permis
+Connecter terminal
+V¨¦rifier les services de l¡¯op¨¦rateur
+Commande non support¨¦e
+Erreur de donn¨¦es
+Erreur type de message
+Echec d¡¯acc¨¨s
+Dur¨¦e expir¨¦e
+Appelant inconnu
+Transfert d¡¯appel sous condition
+Transfert d'appel sans condition
+Transfert de l¡¯appel
+C¡¯est un appel transf¨¦r¨¦
+Appel transf¨¦r¨¦
+Appel transf¨¦r¨¦ sans condition
+Appel transf¨¦r¨¦ sous condition
+Appel transf¨¦r¨¦ si occup¨¦
+Appel transf¨¦r¨¦ si sans r¨¦ponse
+Appel transf¨¦r¨¦ si injoignable
+Tous les appels bloqu¨¦s
+Tous les appels sortants bloqu¨¦s
+Appel entrant bloqu¨¦
+Attente d¡¯appel
+Appel en attente
+Appel repris
+Appel ¨¦chang¨¦
+Appel de conf¨¦rence
+Appel s¨¦par¨¦
+Groupe d'utilisateurs ferm¨¦
+V¨¦rifier le service d¡¯envoi d¡¯ID d¡¯appelant
+Transfert d'appel actif
+Impossible de faire appel vocal
+appel vocal Bis
+appel Recomposition SIM1 voix
+Copier
+Peuvent pas ¨ºtre copi¨¦s
+Aucun message?
+Tous les messages
+D¨¦placer vers SIM
+Copier vers SIM
+D¨¦placer vers t¨¦l¨¦phone
+Copier vers t¨¦l¨¦phone
+Renvoyer
+Le message est corrompu. Le supprimer ?
+Pr¨¦nom
+Annuaire t¨¦l¨¦phonique pr¨ºt
+Nom modifi¨¦
+¨¦chec dans l'ajout d'image, vid¨¦o
+Touchez pour d¨¦verrouiller
+Composeur
+D¨¦placer les messages vers l'Archive
+Conversations
+D¨¦placer s¨¦lectionn¨¦ dans Archive
+Carte m¨¦moire retir¨¦e.? Utiliser la m¨¦moire du t¨¦l¨¦phone??
+Carte m¨¦moire retir¨¦e?
+Carte m¨¦moire ins¨¦r¨¦e?
+P¨¦riph¨¦rique OTG retir¨¦. Le t¨¦l¨¦phone sera utilis¨¦.?
+P¨¦riph¨¦rique OTG retir¨¦
+P¨¦riph¨¦rique OTG connect¨¦
+Non disponible en mode stockage de masse?
+Pas de num¨¦ro?
+Commutation
+Historique des appels?
+Param¨¨tres Bluetooth?
+Mode avion ?
+Saisir le mot de passe t¨¦l¨¦phone
+Mot de passe incorrect?
+Composer le num¨¦ro SOS ??
+Essais restants: %d
+Entrez le code PIN?
+PIN erron¨¦?
+Entrez le PUK?
+PUK erron¨¦?
+Saisir le nouveau PIN
+Confirmer le nouveau PIN
+Le nouveau PIN ne correspond pas
+Entrez le code NP
+Erreur de code NP?
+Entrez le code NSP
+Erreur de code NSP
+Entrez le code SP
+Erreur de code SP?
+Entrez le code CP
+Erreur de code CP?
+Entrez le code SIMP
+Erreur de code SIMP?
+Entrez le code NS-SP
+Erreur de code NS-SP?
+Entrez le code SIM-C
+Erreur de code SIM-C?
+La SIM est sorti?e
+Erreur d'acc¨¨s SIM?
+PIN bloqu¨¦?
+SIM bloqu¨¦e?
+Mise en forme?
+Dur¨¦e des appels?
+Co?t des appels?
+Compteur de message texte
+Aucun message?
+Message
+messages
+SIM1 envoy¨¦?
+SIM1 re?u
+R¨¦initialiser le compteur?
+Journal des appels?
+Tous les appels?
+Num¨¦ro compos¨¦?
+Appel manqu¨¦?
+Appel re?u?
+Supprimer les journaux des appels?
+Avanc¨¦
+¨¦diter avant appel
+appel manqu¨¦?
+appels manqu¨¦s?
+Type :
+Nom :?
+Num¨¦ro :
+Heure d'appel :?
+Dur¨¦e de l'appel :?
+Nombres d'appels :?
+Num¨¦ro inconnu?
+Pas de num¨¦ro?
+Pas d'entr¨¦e?
+entr¨¦e?
+entr¨¦es?
+heure
+nombre
+Anonyme?
+Aucun num¨¦ro ¨¤ appeler
+?En cours?
+Suppression en cours
+Supprimer tout?
+Appels en absence
+SIM1 appels manqu¨¦s?
+Effacer ?
+Effacement
+Effac¨¦
+Effacer tout?
+Masquer ID?
+Envoyer ID?
+D¨¦fini par r¨¦seau?
+Ligne 1?
+Ligne 2?
+Unique?
+P¨¦riodique?
+Rappel automatique?
+Affichage de l'heure d'appel?
+Commutation? de ligne
+V¨¦rifier l'¨¦tat
+Appel en attente?
+Dur¨¦e (1 ~ 9999s)?
+Fin rapide auto
+Liste des groupes?
+Options du groupe d'utilisateurs? ferm¨¦es
+L'index existe d¨¦j¨¤?
+Modifier l'index?
+Veuillez d'abord d¨¦sactiver
+Centre d'appels
+Param¨¨tres d'appel?
+Param¨¨tres avanc¨¦s
+SIM1 param¨¨tres d'appel?
+ID appelant?
+Renvoi d'appel?
+Renvoi de tous les appels vocaux?
+Renvoi d'appels vocaux si inaccessible?
+Renvoi si inaccessible?
+Renvoi d'appels vocaux si aucune r¨¦ponse?
+Renvoi si pas de r¨¦ponse?
+Renvoi d'appels vocaux si occup¨¦?
+Renvoi si occup¨¦?
+Renvoi de tous les appels vid¨¦o?
+Renvoi des appels vid¨¦o si inaccessible?
+Renvoi des appels vid¨¦o si pas de r¨¦ponse?
+Renvoi des appels vid¨¦o si occup¨¦?
+Renvoi de tous les appels de donn¨¦es?
+Annuler tous les renvois?
+Options de renvoi?
+Renvoi vers
+Vers un nouveau num¨¦ro?
+Vers la messagerie vocale?
+Verrouillage des appels?
+Renvoi du num¨¦ro 
+A partir du r¨¦pertoire?
+?5 secondes?
+?10 secondes?
+?15 secondes?
+?20 secondes?
+?25 secondes?
+?30 secondes?
+Options de renvoi si pas de r¨¦ponse
+Fond sonore
+Rappel de l'heure d'appel?
+R¨¦glez l'heure de rappel?
+1 - 3000 (sec)
+30 - 60 (sec)
+D¨¦sactiv¨¦?
+Avis de connexion
+R¨¦ponse de clapet?
+R¨¦ponse automatique en mode oreillette
+Toute touche
+Mode r¨¦ponse?
+Num¨¦ro trop long
+Menu?
+Noms?
+Mode Vol
+SIM invalide
+¨¦chec d'enregistrement de la carte SIM
+Type de r¨¦p¨¦tition non valide, d¨¦sactiver l'alarme ?
+D¨¦j¨¤ attribu¨¦
+Attribuer appel abr¨¦g¨¦
+Enlever le num¨¦ro abr¨¦g¨¦
+De la cam¨¦ra
+Modifier le type de num¨¦ro
+Num¨¦ro
+Statut
+Image 1
+Animation 1
+Profils utilisateurs
+G¨¦n¨¦ral
+Silencieux
+R¨¦union
+Ext¨¦rieur
+Mon style
+Mode g¨¦n¨¦ral activ¨¦
+Mode silencieux activ¨¦
+Mode r¨¦union activ¨¦
+Mode ext¨¦rieur activ¨¦
+mode activ¨¦
+Personnaliser
+type d'alerte
+Sonnerie
+Vibration
+Vibration? et sonnerie
+Vibration ?puis sonnerie
+Type de sonnerie
+Un bip
+R¨¦p¨¦ter
+Croissante
+Appels entrants
+SIM1 appel entrant
+SIM1 message
+Message vocal
+Volume de la sonnerie
+Volume des messages
+Volume des touches
+Clavier
+Clic
+Tonalit¨¦
+Marche
+Arr¨ºt
+Alerte syst¨¨me
+Alerte d'appel intelligente
+Instructions vocales
+Tonalit¨¦ personnalis¨¦e
+Modifier
+Fichier trop gros
+Sonnerie du th¨¨me
+Tonalit¨¦ 1
+Tonalit¨¦ 2
+Tonalit¨¦ 3
+Tonalit¨¦ 4
+Tonalit¨¦ 5
+Sonnerie 1
+Sonnerie 2
+Sonnerie 3
+Sonnerie 4
+Sonnerie 5
+Appuyez sur Activer, puis sur *
+Appuyez maintenant sur *
+Clavier verrouill¨¦
+Clavier d¨¦verrouill¨¦
+Nouveaux messages texte
+Nouveau message texte
+Appels en absence
+Appel manqu¨¦?
+D¨¦verrouiller
+Verrouill¨¦
+Toujours
+En cas de besoin
+SIM1 param¨¨tres r¨¦seau
+Connexion GPRS
+La carte SIM est sortie
+Erreur d'acc¨¨s SIM?
+En attente
+Livr¨¦
+Supprimer le rapport d'envoi ?
+Nouveau rapport de livraison
+Nouveau message texte SIM2
+Nouveau message texte SIM1
+De:
+Date de cr¨¦ation?:
+Date de r¨¦ception?:
+¨¦tat
+M¨¦moire:
+Type :
+La liste est compl¨¨te
+Le num¨¦ro est trop long
+?pour tous les services
+?pour le t¨¦l¨¦phone
+?pour toutes les donn¨¦es
+?pour les services de t¨¦l¨¦copie
+?pour les SMS
+?pour tous les services, sauf SMS
+?pour les appels de groupe
+?pour les services de diffusion vocale
+?pour tous les services support
+?pour tous les services asynchrones
+?pour tous les services de synchronisation
+?pour tous la synchro des circuits de donn¨¦es
+?pour toute l'asynchro des circuits de donn¨¦es
+?pour tous les services support GPRS
+?pour tous les acc¨¨s PAD d¨¦di¨¦s
+?pour tous les services de donn¨¦es PDS
+Casue inconnue
+Bloquer tous les appels sortants
+Bloquer les appels sortants internationaux
+Bloquer les appels sortants internationaux hormis domicile PLMN
+Bloquer tous les appels entrants
+Bloquer tous les appels entrants en itin¨¦rance
+Bloquer tous les appels
+Bloquer les appels sortants
+Bloquer les appels entrants
+Type de service de blocage inconnu
+Renvoi d'appel inconditionnel
+Renvoi d'appel si occup¨¦
+Renvoi d'appel si pas de r¨¦ponse
+Renvoi d'appel si non accessible
+Renvois de tous les appels
+Renvois conditionnel de tous les appels
+Type de service inconnu
+Appel en attente
+non fourni
+fourni
+?activ¨¦
+?d¨¦sactiv¨¦
+Mot de passe incorrect
+Mot de passe bloqu¨¦
+Pr¨¦sentation de l'ID de l'appelant
+Restriction de l'ID de l'appelant
+Pr¨¦sentation de l'ID de la ligne connect¨¦e
+Restriction de l'ID de la ligne connect¨¦e
+?activ¨¦ en permanence
+?activ¨¦ par d¨¦faut
+?d¨¦sactiv¨¦ par d¨¦faut
+pr¨¦sentation du nom appelant
+Service suppl¨¦mentaire non disponible
+Service suppl¨¦mentaire
+Envoi de la demande
+Informations
+?seconde(s)
+Mot de passe de blocage modifi¨¦ avec succ¨¨s
+le message ne peut pas ¨ºtre supprim¨¦
+les messages ne peuvent pas ¨ºtre supprim¨¦s
+le message peuvent pas ¨ºtre d¨¦plac¨¦s
+les messages ne peuvent pas ¨ºtre d¨¦plac¨¦s
+le message ne peut pas ¨ºtre copi¨¦
+les messages ne peuvent pas ¨ºtre copi¨¦s
+Filtrer par
+Diffuser un message
+Marquer plusieurs
+Supprimer tous les messages de ce contact ?
+conversation ?
+conversations ?
+Rapporter les messages
+Nouveau message de rapport
+Num¨¦ro non disponible
+Utilisateur appel¨¦ non disponible 
+Utilisateur non disponible
+Num¨¦ro occup¨¦
+Pas de r¨¦ponse de l¡¯utilisateur
+Num¨¦roteur
+M¨¦moire insuffisante
+Nouveau mot de passe incorrect
+Verrouillage automatique du clavier
+Param¨¨tres de s¨¦curit¨¦
+Modifier le mot de passe
+Verrouill¨¦
+D¨¦verrouill¨¦
+Longueur invalide
+S¨¦lectionner SIM
+S¨¦curit¨¦ SIM
+Verrouillage PIN
+Modifier PIN
+Modifier PIN2
+S¨¦curit¨¦ t¨¦l¨¦phone
+Verrouillage t¨¦l¨¦phone
+Mot de passe t¨¦l¨¦phone
+R¨¦essayer plus tard
+Saisir le mot de passe t¨¦l¨¦phone
+Mot de passe incorrect?
+Saisir l¡¯ancien mot de passe
+Saisir le nouveau mot de passe
+Confirmer le nouveau mot de passe
+Le nouveau mot de passe ne correspond pas
+Composer le num¨¦ro SOS ??
+Le verrouillage PIN doit ¨ºtre activ¨¦
+PIN2 est d¨¦sactiv¨¦
+Entrez le code PIN?
+PIN erron¨¦?
+Mauvais PIN2
+Entrez le PUK?
+PUK erron¨¦?
+Mauvais PUK2
+Saisir ancien PIN
+Saisir le nouveau PIN
+Confirmer le nouveau PIN
+Le nouveau PIN ne correspond pas
+Le nouveau PIN2 ne correspond pas
+PIN SIM verrouill¨¦
+SIM PIN2 verrouill¨¦
+SIM bloqu¨¦e?
+PUK2 SIM bloqu¨¦
+¨¤?:
+¨¤
+Destinataire non valide
+D¨¦connexion en cours de l¡¯appel CSD
+AMR
+WAV
+AWB
+AMR
+WAV
+GPRS
+:
+Aucun
+Abou dhabi
+Amsterdam
+Apia
+Ath¨¨nes
+Auckland
+Anchorage
+Bangkok
+P¨¦kin
+Berlin
+Bogota
+Brasilia
+Brisbane
+Bruxelles
+Bucarest
+Budapest
+Buenos Aires
+Caire
+Canberra
+Le Cap
+Casablanca
+Atlantique centrale
+Chicago
+Copenhague
+Dhaka
+Ile de Paques
+Gen¨¨ve
+Guam
+Hong Kong
+Honolulu
+Islamabad
+Istanbul
+Jakarta
+Johannesburg
+Kaboul
+Kathmandu
+Kiev
+Kuala lumpur
+Kwajalein
+La Paz
+Lisbonne
+Londres
+Los Angeles
+Luxembourg
+Madrid
+Manille
+Melbourne
+Mexico
+Montr¨¦al
+Moscou
+New Delhi
+New York
+Ile de Norfolk
+Paris
+Phoenix
+Polyn¨¦sie
+Prague
+Praia
+Rabat
+Rome
+San francisco
+Santiago
+Singapour
+Sofia
+Salomon
+Stockholm
+Sydney
+Taipei
+T¨¦h¨¦ran
+Tokyo
+Tonga
+Vancouver
+Vienne
+Vladivostok
+Varsovie
+Wellington
+Yangon
+Zurich
+Aucun
+AUH
+AMS
+ATH
+AKL
+BKK
+BEJ
+BER
+BOG
+BSB
+BRU
+BUH
+BUD
+CAI
+CBR
+CPT
+CAS
+CGX
+CPH
+GVA
+GUM
+HKG
+HNL
+IST
+JKT
+JNB
+KIE
+KUL
+LIS
+LON
+LAX
+LUX
+MAD
+MNL
+MEX
+MON
+MOW
+DEL
+NYC
+PAR
+PRG
+RBA
+ROM
+SFO
+SCL
+SIN
+SOF
+STH
+SYD
+TPE
+THR
+TKY
+VAC
+VIE
+VVO
+WAW
+WLG
+ZRH
+:
+MCC/MNC
+APN
+GSM
+WCDMA
+IMEI
+(
+)
+TTY HCO
+TTY VCO
+Temps d'attente
+GMT
+:
+: 
+AAAA/MM/JJ
+AAAA MM JJ
+.
+:
+/
+-
+24 h
+12 h
+SOS
+30 sec
+1 min
+5 min
+SOS
+(
+)
+Op¨¦ration a ¨¦chou¨¦e
+AM
+PM
+Op¨¦ra
+Ajouter au contact existant
+Avanc¨¦
+Toujours demander
+AM
+Audio
+Bluetooth
+Signets
+Espace de stockage
+Copier
+Cr¨¦er un nouveau contact
+Jour
+¨¦couteurs
+¨¦diter avant appel
+Exporter
+¨¦chec
+Ce nom de fichier existe d¨¦j¨¤
+Dossier
+Aller ¨¤ l'URL
+Accueil
+Heure
+Importer
+Appel entrant
+Installation en cours
+Paysage
+Message
+mins
+MMS
+Mode
+Plus
+D¨¦placer
+Multim¨¦dia
+Param¨¨tres r¨¦seau
+PM
+Portrait
+SIM primaire
+R¨¦actualisation
+Rappel
+Restaurer
+Sec
+SIM secondaire
+S¨¦curit¨¦
+S¨¦lectionner tout
+D¨¦finir comme
+Partager
+Silence
+SMS
+Trier
+Mod¨¨le
+D¨¦s¨¦lectionner tout
+T¨¦l¨¦charger
+Utiliser
+Vibrations
+Papier peint
+Semaine
+Wifi
+Wifi uniquement
+Ann¨¦e
+Dimanche
+Lundi
+Mardi
+Mercredi
+Jeudi
+Vendredi
+Samedi
+Dim
+Lun
+Mar
+Mer
+Jeu
+Ven
+Sam
+Jan
+F¨¦v
+Mar
+Avr
+Mai
+Jun
+Jui
+Ao?
+Sep
+Oct
+Nov
+D¨¦c
+Non disponible en mode avion
+SIM non disponible
+Suivant
+Aper?u
+Application MRE
+Hano?
+¨ºtes-vous s?r de vouloir d¨¦sactiver le service GSM??
+SIM non pr¨ºte. Veuillez patienter
+Nouveau
+Total :
+Appels vocaux
+Param¨¨tres de la m¨¦thode de saisie
+M¨¦thode de saisie pr¨¦f¨¦r¨¦e
+R¨¦seau enregistr¨¦ avec succ¨¨s
+Ins¨¦rer la SIM
+Erreur d'acc¨¨s ¨¤ la SIM
+SIM non valable
+Pas de service
+SIM bloqu¨¦e
+SIM d¨¦connect¨¦e
+Urgence
+Profil d'acc¨¨s SIM
+S¨¦lectionner le r¨¦seau
+Mode avion
+SIM ferm¨¦e
+IMEI non valable
+Le m¨ºme IMEI
+Image trop grande\nImpossible de l'afficher
+HAN
+Sans nom
+Service de donn¨¦es
+secondes
+minutes
+Infos locales
+Actualisation de SIM
+Pas de service
+Astuce SIM
+Seulement la fente 1 supporte le service 3G. Il est recommand¨¦ d¡¯ins¨¦rer USIM dans la fente 1.
+Transfert d¡¯appels sur
+Supprimer??
+Supprimer tout?
+Utiliser comme
+Statut
+Comptes de donn¨¦es
+R¨¦glages de connexion de donn¨¦es
+H¨¦breu?
+?
+Entrer PIN %S
+Entrer PUK %S
+Entrer nouveau PIN %S
+Entrer code NP %S
+Entrer code NSP %S
+Entrer code SP %S
+Entrer code CP %S
+Entrer code SIMP %S
+Entrer code NS-SP %S
+Entrer code SIM-C %S
+%S Erreur d'acc¨¨s
+%S PIN bloqu¨¦
+%S bloqu¨¦
+%S: pas ins¨¦r¨¦e
+SIM retir¨¦e
+%S retir¨¦e
+%S enlev¨¦e
+Appel IP
+Marquer plusieurs
+Supprimer s¨¦lectionn¨¦s
+Supprimer
+Tous appels vocaux
+Num¨¦rotation rapide
+1 seconde
+2 secondes
+3 secondes
+4 secondes
+5 secondes
+6 secondes
+7 secondes
+8 secondes
+Erreur de chargement
+Erreur de batterie
+Connectivit¨¦
+Mode non valide, re-s¨¦lectionner SIM??
+Aucun s¨¦lectionn¨¦
+Copi¨¦ sur %S
+D¨¦plac¨¦ dans %S
+Copie partielle
+Sur t¨¦l¨¦phone
+Sur SIM
+Du t¨¦l¨¦phone
+De SIM
+Touche de composition
+S¨¦lectionner ¨¤ partir d¡¯un fichier
+Allumer'/Eteindre
+Pas possible de r¨¦gler le son en mode Silence
+Ajouter nouveau profil
+Appel entrant
+Sonnerie de message
+Tonalit¨¦ du clavier
+Alerte syst¨¨me
+Nouveau profil
+Entrer ancien PIN %S
+%S PIN2 bloqu¨¦
+%S PUK2 bloqu¨¦
+%S PUK bloqu¨¦
+SIM pr¨ºte maintenant
+%S pr¨ºt maintenant
+%S erreur d'acc¨¨s
+SIM retir¨¦e
+%S retir¨¦e
+SIM ins¨¦r¨¦e
+%S ins¨¦r¨¦e
+%S enlev¨¦e
+Message envoy¨¦ mais ¨¦chec d¡¯enregistrement
+message copi¨¦
+messages copi¨¦s
+message d¨¦plac¨¦
+messages d¨¦plac¨¦s
+Aucun message d¨¦plac¨¦
+Aucun message copi¨¦
+Editer message vocal
+Editer profil
+Num¨¦ros fixes uniquement activ¨¦
+Envoyer un message texte
+contenu est
+Texte en parole
+Arr¨ºter Texte en parole
+Erreur syst¨¨me
+M¨¦moire insuffisante
+Aucun num¨¦ro
+Num¨¦ro fixe seulement
+Annul¨¦
+TTS pour appel
+TTS pour SMS
+Image distante
+Appel entrant
+Raccrocher
+Vol
+Messagerie
+Partage de connexion USB
+Ajouter ¨¤ Signets
+Envoyer Email
+Supporte le mode 3D seulement
+R¨¦p¨¦tition auto non support¨¦e
+Supporte le mode 3D seulement
+Mode de lecture 3D pr¨¦f¨¦r¨¦
+Audio seulement
+Arr¨ºt
+Ficher tonalit¨¦ pas disponible 
+Langue chang¨¦e
+Ins¨¦rez la carte SIM
+TTS pour composition
+R¨¦gler le titre de l'¨¦cran Guobi
+Ajouter nouveau mot d'¨¦cran Guobi
+Mouvement
+R¨¦glages de mouvement
+Capteur de mouvement
+Changement auto du sens de l'affichage
+Retourner le t¨¦l¨¦phone pour couper le son d'un appel entrant
+Retourner le t¨¦l¨¦phone pour couper le son de l'alarme
+Double-presser pour commencer ¨¤ enregistrer un appel
+Aller ¨¤ la vue journali¨¨re
+Heure d?e
+D¨¦placer vers
+Supprimer s¨¦lectionn¨¦
+Supprimer s¨¦lectionn¨¦?
+¨¦chec d'ajout. Nombre maximum atteint
+15 secs
+D¨¦placer s¨¦lectionn¨¦ dans Archive
+Supprimer
+D¨¦placer vers SIM
+Copier vers SIM
+D¨¦placer vers t¨¦l¨¦phone
+Copier vers t¨¦l¨¦phone
+Supprimer plusieurs
+Pas disponible en mode MTP
+Connexion de donn¨¦es
+Afficher tous journaux d'appels
+Appel manqu¨¦
+Sonnerie unique
+SIM r¨¦glages d'appel
+Capture 3D
+S¨¦lectionner SIM
+SIM 1 appel vocal
+Veuillez choisir une carte sim.
+R¨¦glage de fr¨¦quence (KHz)
+R¨¦glage de fr¨¦quence non valide!
+Test d'usine
+Test sur site
+Langue du clavier
+Surcharge spk  d¨¦tect¨¦e
+Test NR 2-mic-DMNR ETEINT
+Echec d¡¯enregistrement %S
+Echec d¡¯enregistrement %S%w
+S¨¦lectionner tout
+Type de r¨¦p¨¦tition non valide
+Donn¨¦es de calibration t¨¦l¨¦charg¨¦e non valides
+UART 1
+UART 2
+UART 3
+UART 4
+SIM 1
+Veuillez ins¨¦rer SIM
+Nom SIM
+%w envoy¨¦s
+%w re?us
+Compteur de message texte
+R¨¦initialiser le compteur?
+SIM 1 appel vocal
+SIM 2 appel vocal
+SIM 3 appel vocal
+SIM 4 appel vocal
+S¨¦lectionner SIM
+SIM 3 appel vocal
+SIM 4 appel vocal
+<Aucun contenu>
+R¨¦pondre par SMS
+R¨¦pondre par MMS
+G¨¦rer
+Fermer lecteur audio??
+Inconnu
+SIM 1 r¨¦initialiser tout??
+SIM 2 r¨¦initialiser tout??
+SIM 3 r¨¦initialiser tout??
+SIM 4 r¨¦initialiser tout??
+Fermer radio FM??
+D¨¦but de la semaine
+Copier vers SIM1
+Copier vers SIM2
+D¨¦placer vers SIM1
+D¨¦placer vers SIM2
+Message vocal ligne 2
+Nouveau message vocal
+Nouveau fax
+Nouveau courriel
+Nouv message net
+Nouvelle vid¨¦o
+Nouveau message vocal de 
+Nouveau message vocal
+Nouveau courriel vocal
+ depuis 
+message vocal ligne 2
+messages vocaux ligne 2
+Nouveau fax
+Nouveaux fax
+Nouveau courriel
+Nouveaux messages et courriels
+nouv message net
+nouv messages net
+Nouvelle vid¨¦o
+nouvelles vid¨¦os
+Configurez le proxy sur vos p¨¦riph¨¦riques?:
+Port
+Accepter
+Appel actif 
+Appel en attente 
+Appel arri¨¨re-plan
+Afficher ¨¦cran d'accueil
+Conf¨¦rence
+Mettre fin ¨¤ cet appel
+Composer
+SIM par d¨¦faut pour envoi de messages
+Message du rapport non lu
+%u message
+Echec de l'envoi 
+Messages non lus
+Appel vocal SIM 1
+Appel vocal SIM 2
+Appel vocal SIM 3
+Appel vocal SIM 4
+D¨¦sinstaller?
+Veuillez quitter l'application en cours.
+D¨¦sinstaller  
+Echec d'analyse du fichier paroles
+Echec d'ouverture du fichier paroles
+Fichier paroles introuvable
+Journal des appels
+Appel manqu¨¦?
+Appels en absence
+R¨¦glages des notifications
+Service de notification
+Centre de notification
+Style des notifications
+Ic?ne app badge
+Audio
+Afficher en ¨¦cran verrouill¨¦
+Aucun
+Barre d'¨¦tat
+Popup
+Popup
+Ajouter marqu¨¦
+Ajouter ¨¤ la liste noire vocale
+Ajouter ¨¤ la liste noire vocale?
+Restaurer les contacts depuis
+Sauvegarder les contacts vers
+Sauvegarde des contacts vers le service Yahoo
+Restauration des contacts depuis le service Yahoo
+Toutes les donn¨¦es des contacts n'ont pas ¨¦t¨¦ restaur¨¦es sur le t¨¦l¨¦phone car m¨¦moire insuffisante
+Sauvegarder les contacts vers le service Yahoo?
+Restaurer les contacts depuis le service Yahoo?
+Non connect¨¦
+Quitter le mode s¨¦curis¨¦
+Votre appareil est maintenant en mode s¨¦curis¨¦. Cela peut ¨ºtre d? ¨¤ l'installation r¨¦cente d'un logiciel, ¨¤ une mise ¨¤ jour ou ¨¤ une suppression. Tous les contenus de t¨¦l¨¦chargement ont ¨¦t¨¦ d¨¦sactiv¨¦s. Red¨¦marrez votre t¨¦l¨¦phone pour quitter le mode s¨¦curis¨¦, ou faites-le ult¨¦rieurement manuellement. Red¨¦marrer maintenant?
+Red¨¦marrer maintenant
+Souhaitez-vous lancer les app ¨¤ ex¨¦cution auto une ¨¤ une?
+Lancez-vous l'application :
+Plus tard
+ de
+Echec de l'envoi ¨¤ %w
+%u messages
+%u message non lu
+%u messages non lus
+L'authentification a expir¨¦. Veuillez vous reconnecter. 
+Depuis la carte m¨¦moire
+Vers la carte m¨¦moire
+Carte m¨¦moire pleine
+La carte m¨¦moire n'est pas pr¨ºte
+Activer
+Sauvegarde SMS
+R¨¦cup¨¦ration SMS
+Sauvegarde de SMS vers le service yahoo
+R¨¦cup¨¦ration SMS du service Yahoo
+Filtre SMS
+Carte m¨¦moire:
+Copier sur carte m¨¦moire
+D¨¦placer vers la carte m¨¦moire
+SIM vers t¨¦l¨¦phone portable
+T¨¦l¨¦phone portable vers SIM
+Carte m¨¦moire vers t¨¦l¨¦phone portable
+Carte m¨¦moire vers SIM
+SIM vers carte m¨¦moire
+T¨¦l¨¦phone portable vers carte m¨¦moire
+Carte m¨¦moire retir¨¦e, utiliser le t¨¦l¨¦phone?
+Le stockage m¨¦moire est vide
+La personne appel¨¦e a choisi de r¨¦pondre par appel vocal
+Oui
+
+
+
+
+Smart My 
+Smart HABC
+Smart habc
+Photo 3D 
+Aucun contact ¨¤ sauvegarder
+Aucun contact ¨¤ r¨¦tablir
+Aucun message ¨¤ r¨¦tablir
+5 secs
+15 secs
+30 sec
+45 sec
+Outils
+Marche
+Arr¨ºt
+Volume
+Date
+Heure
+Afficher
+Format de l'heure
+Format de la date
+?
+Appuyez sur # pour d¨¦verrouiller
+Verrouillage du t¨¦l¨¦phone :
+Ancien mdp :
+Nouveau mdp :
+Entrez ¨¤ nouveau :
+PIN :
+PUK :
+Ancien PIN :
+Nouveau PIN :
+Entrez ¨¤ nouveau :
+PIN2 :
+PUK2 :
+Ancien PIN2 :
+Nouveau PIN2 :
+Entrez ¨¤ nouveau :
+Appuyer touche de fonction gauche et tenir enfonc¨¦e pour d¨¦bloquer
+Enregistrer en local
+TOUS LES APPELS
+INCONNU
+Recherche auto??
+Muet activ¨¦
+Muet d¨¦sactiv¨¦
+AAAA
+MM/JJ
+AAAA
+MM/JJ
+Ann¨¦e
+Mois
+Jour
+Heure
+Minute
+%S PIN
+nouveau %S PIN
+%S PUK
+ancien %S PIN
+Envoyer par local
+Appel local
+S¨¦lectionner appel
+Veuillez connecter BT
+Local
+Appuyez longuement sur OK pour composer
+
+
+
+
+
+lampe de poche
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eteindre??
+Silence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

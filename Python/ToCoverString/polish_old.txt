@@ -1,0 +1,15695 @@
+Ok
+Wstecz
+Opcja
+Tak
+Nie
+Kasuj
+Wykonano
+Zapisano
+Zapisz
+Save?
+Zapisywanie
+Niedoko里czony
+Skasuj
+Anuluj
+Cancelling
+Skasuj
+Edytuj
+Uaktywnia?
+Wy??cz
+Metoda wej?ciowa
+U?yj szablonu
+Wy?lij
+Odpowiedz
+W??cz
+Wy??cz
+<Skasuj>
+Przerwij
+Dodaj
+Skasuj wszystko
+Wybierz
+B??d.
+Normalny
+?aden
+Wybierz
+Podgl?d
+Niew?a?ciwy format
+Niedost?pny
+Nieprawid?owy
+Nieprawid?owy adres URL
+Zabronione DRM
+
+
+
+
+Nazwa pliku
+Otw車rz
+Zamknij
+Wyjd?
+Fast
+Slow
+Szukaj
+Wyszukuj?
+Usuwanie
+Prosz? czeka?..
+Pobieranie
+Pobra??
+
+Instalacja
+
+Wprowadz
+Nazwa u?ytkownika
+Update
+Has?o
+
+W??czony
+
+
+
+S?uchawki w??czone
+S?uchawki wy??czone
+Niedziela
+Poniedzia?ek
+Wtorek
+?roda
+Czwartek
+Pi?tek
+Sobota
+Menu
+Menu g?車wne
+Spis telefon車w
+Wiadomo?ci
+Rozrywka & Gry
+Terminarz
+Profile u?ytkownik車w
+Ustawienia
+Skr車ty
+Us?ugi sieciowe
+Multimedia
+Dodatki
+Mened?er plik車w
+W??cz
+Witaj
+Spis telefon車w
+Po??czenie IP
+Wy?lij SMS
+Szukaj pozycji
+Dodaj now? pozycj?
+Podgl?d
+Szukaj
+
+Wprowad? nazw? albo numer
+Wprowad? nazw?
+Wprowad? numer
+Pami?? spisu telefon車w pe?na!
+Pami?? karty SIM pe?na!
+Pami?? telefonu pe?na!
+Brak pozycji do wyboru!
+Lista numer車w telefon車w
+Edytuj pozycj?
+Podgl?d spisu telefon車w
+Nazwa
+Redagowanie\n spisu telefon車w
+Wybierz pami??
+
+Nowa pozycja
+Numer alarmowy
+Brak numeru do po??czenia!
+Wybierz numer
+Nazwa
+Numer
+Grupy os車b
+Grupy os車b
+Opisy grup os車b
+Tytu? grupy
+Przyjaciele
+Rodzina
+VIP
+Biznes
+Inni
+Lista cz?onk車w grupy
+Zdj?cie 1
+Zdj?cie 2
+Zdj?cie 3
+Zdj?cie 4
+Powiela
+Kasowanie
+Sortowanie eMaili wed?ug
+Numer za d?ugi! Maximum = 40
+Nie zapisano, numer za d?ugi!
+Nie przeniesiono, numer za d?ugi!
+Nie skopiowano, numer za d?ugi!
+Nie powielono, numer za d?ugi!
+Skopiowano, nazwa zmieniona!
+Przeniesiono, nazwa zmieniona!
+Skopiowane
+
+Pozycje skopiowane!
+
+Pozycje skasowane!
+Dodatkowy numer
+Numer w?a?ciciela
+Skasuj list? numer車w w?a?ciciela!
+Nazwa w?a?ciciela
+Usu里
+Numer domowy
+Nazwa firmy
+Adres eMail
+Numer s?u?bowy
+Numer faksu
+Grupa os車b
+Urodziny
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Numer SOS
+Numer SOS 
+W telefonie
+
+Numer telefonu obs?ugi klienta
+G?osowe wybieranie numeru
+Moja wizyt車wka wirtualna
+Edytuj moj? wizyt車wk?
+Wy?lij moj? wizyt車wk?
+Wy?lij wizyt車wk?
+Plik d?wi?kowy nie istnieje
+Wybierz z pliku
+Skasuj referencj?
+Nie wybrano ?adnego pliku
+Do nowej pozycji
+Do wybranej pozycji
+Do grupy kontakt車w
+Wybrany plik
+Obrazek
+Wideo
+B??d powielania!
+Szybkie wyszukiwanie
+Dostosuj wideo
+D?wi?k wideo
+Uruchom wideo.
+Zdj?cie rozm車wcy
+D?wi?k dzwonka rozm車wcy
+Obraz wideo rozm車wcy
+Wideo 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Opcje telefonu
+Czas i data
+Nieprawid?owe wej?cie
+Ustaw miasto zamieszkania
+Set Date and Format
+Set Time and Format
+Ustaw czas/dat?
+Zmiana czasu
+Ustaw format
+GG:MM
+Format czasu:
+Format daty:
+Tekst powitalny
+
+
+
+FDN (French Data Network) nie jest gotowy.
+Prosz? spr車bowa? p車?niej.
+Przywr車? ustawienia fabryczne
+Kod zaakceptowany!
+Zgoda na przywr車cenie ustawie里 i restart
+Przetwarzanie przywr車conych ustawie里
+Has?o nieprawid?owe!
+Has?o zablokowane!
+Wprowad? has?o
+ us?ugi sieciowe
+Wyb車r sieci
+Spis tryb車w
+Nowe wyszukiwanie
+Wyb車r sieci
+Wyb車r sieci
+Wyb車r sieci
+Preferowane sieci
+Wyb車r zakresu cz?stotliwo?ci
+us?ugi sieciowe
+Wyb車r sieci
+Wybor zakresu
+Lista sieci
+
+Preferowane sieci
+Stw車rz now?
+Dodaj z listy
+Zmie里 priorytet
+Niemo?na doda? sieci
+Lista PLMN (Public Land Mobil Network)
+
+
+
+Proste wybieranie
+Obni?enie poboru mocy
+Kontrast
+Wygaszacz ekranu
+Tapeta
+Tapeta ekranu
+Poka? dat? i czas
+Poka? numer w?a?ciciela
+Poka? nazw? operatora
+Wy?wietl w?a?ciwo?ci
+Typ domy?lnego szyfrowania
+Styl g?車wnego menu
+Struktura
+Strona
+Obiegowy
+Obr車?
+Spis
+Planowanie W??cz/Wy??cz zasilania
+Zasilanie w??czone
+Zasilanie wy??czone
+Zastosuj proste wybieranie
+G?車wny wy?wietlacz LCD
+Dolna warstwa LCD
+Licznik oszczedno?ci baterii
+Brak numeru!
+Tapeta
+System
+Wyznaczenie u?ytkownika
+Obrazek 2
+Obrazek 3
+Obrazek 4
+Obrazek 5
+Obrazek 6
+Obrazek 7
+Obrazek 8
+Obrazek 9
+Obrazek 10
+Obrazek 11
+Obrazek 12
+Obrazek 13
+Obrazek 14
+Obrazek 15
+Obrazek 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clock Type
+Zegar anologowy
+Zegar cyfrowy
+B??d zdj?cia, przywr車? domy?lne
+B??d zdj?cia, przywr車? domy?lne
+Zasilanie wy?wietlacza w??czone
+Zasilanie wy?wietlacza wy??czone
+System
+Wyznaczenie u?ytkownika
+Rozmiar czcionki
+Temat domy?lny
+Ma?y
+Du?y
+
+
+Pod?wietlany LCD
+Jasno??
+
+
+
+
+
+Ustalone po??czenie
+Zakaz po??czenia
+Skasuj
+
+Blokada kodu PIN musi by? uruchomiona!
+Wprowad? kod PUK
+Spis ustalonego po??czenia
+Tryb
+Karta SIM nie obs?ugiwana!
+Spis zakazanych po??cze里
+Tryb
+FDN uruchomione
+FDN unieruchomione
+BDN uruchomione
+BDN uniemozliwione
+Pami?? pe?na!
+Nazwa
+Numer
+Edytuj pozycj?
+Lista FDN
+Lista FDN
+J?zyk
+Preferowane metody wprowadzania
+Cyfrowy
+Tradycyjny Chi里ski
+Uproszczony Chi里ski
+Rozrywka & Gry
+Tematy
+Miesieczny
+Sezonowy
+Okresowa aktualzacja
+Ustaw polecenie
+Godzinny
+Dzienny
+Tygodniowy
+Temat1
+Temat2
+Temat3
+Temat4
+Temat5
+Temat6
+Temat7
+Temat8
+Temat9
+Temat10
+
+
+
+
+
+
+B??d nieznany!
+
+
+
+Tematy
+Dane GSM 
+
+
+Po??czenie GPRS 
+Zmie里
+Zawsze
+Kiedy potrzebny
+Ustawienia gry
+Gra : D?wi?k
+
+Gra : Wibracje
+
+
+
+Java : D?wi?k
+Java : Wibracje
+
+
+Java : Sie?
+
+
+Wolne miejsce na dane
+Rozmiar stosu
+
+
+
+Rozpocznij gr?
+Poziom gry
+Najlepsze wyniki
+Gra : Pomoc
+Rozpocznij ponownie
+Wynik
+Gry
+Wy?cig F1 
+(1)Unikanie zderzania z innymi pojazdami.\n(2)U?yj przycisk 2,4,6,8 aby kontrolowa? pojazd oraz 5 aby lata?.\n(3)Najazd na pojazd powoduje  umiej?tno?? latania.
+Wie?a Hanoi 
+Hanoi
+Poziom 1
+Poziom 2
+Poziom 3
+Poziom 4
+Przesu里 wszystkie ceg?y z pierwszej wie?y do innej wie?y\n(1)Ma?e ceg?y powinny by? k?adzone na du?ej cegle.\n(2)U?yj klawisz 2,4,6,8 aby przesun?? ceg?y.
+Bogactwa
+?atwy
+Normalny
+Trudny
+Z?ap poprawnie spadaj?ce przedmioty, inaczej stracisz punkty i moc.\nU?yj klawisz 4 i 6 aby przesun?? pude?ko w lewo i w prawo.
+Kolorowe pi?ki
+?atwy
+Normalny
+Trudny
+Uderzaj spadaj?ce pilki u?ywaj?c pi?eczek o tym samym kolorze.\n(1)U?yj klawisz 4 i 6 aby porusza? wyrzutni? pi?ek.\n(2)U?yj klawisz 2 aby podpali? pi?eczk? i klawisz  5 aby zmieni? kolor pi?eczki.
+W??
+?atwy
+Normalny
+Trudny
+W?? wyd?u?a si? poprzez zbieranie pozywienia.\n(1)U?yj klawisz 2,4,6,8 aby porusza? w??em.\n(2)Nie uderzaj w sciany ani w ogon w??a.
+Zderzanie
+Normalny
+Szybki
+Dokladny
+Smash zawiera 3 minigry\n(1)Normalna Gra. Uderza? w zwierz?ta, ale nie w szkielet.\n(2)Szybka Gra. Uderza? tak szybko jak potrafisz.\n(3)Dok?adna Gra. Uderza? w wybrane zwierz?ta.
+Lalka
+(1)Nacisnij na prawa strza?ke (lub klawisz 6) aby przesun?? szpony w prawo.\n(2)Nacisnij na doln? strza?ke (lub klawisz 8) aby rozszerzy? szpony .\n(3)Naci?nij na doln? strza?ke (lub klawisz 8) ponownie aby z?apa? lalk?..
+Mahjong
+?atwy
+Normalny
+Trudny
+
+Helikopter
+Kieruj helikopterem i uwa?aj, aby si? nie rozbi? na przeszkodzie.\n(1)U?yj klawisz 5 aby kierowa? si? w g車r?.
+Drive the copter and prevent it from crashing int
+Okr?t podwodny
+Kieruj okr?tem podwodnym i uwa?aj, aby si? nie rozbil na przeszkodzie.\n(1)U?yj klawisz 5 aby kierowa? si? w g車r?.
+Drive the copter and prevent it from crashing int
+Odrzutowiec
+Kieruj odrzutowcem i uwa?aj, aby si? nie rozbi? na przeszkodzie.\n(1)U?yj klawisz 5 aby kierowa? si? w g車r?.
+Drive the copter and prevent it from crashing int
+
+Taniec
+Staruszek musi na?ladowa? czynno?ci dziecka. Naci?nij klawisz 1,3,7,9, aby wykona? czynno?ci.
+Old man has to mimic child's actions. Click the c
+Magicsushi
+MagicSushi
+Remove sushi before time runs out by the followin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zapisa? zdj?cie?
+Uchwycanie...
+Kamera
+
+
+Ustawienia kamery
+Ustawienia obrazu
+Ustawienia efekt車w
+Scene Mode
+Dodaj ramke
+Dodaj ramke
+Dodaj ramke
+Dodaj ramke
+Kontynuacja zdj??
+Op車?nienie
+Samouchwycenie
+Przywr車? domy?lne
+R車wnowaga bieli
+Lampa b?yskowa
+B?yszcz?ca dioda emisyjna LED
+D?wi?k migawki
+Tryb nocny
+Zbli?enie
+Paskowanie
+AE Meter
+
+
+
+Rozmiar obrazu
+Jako?? obrazu
+Normalny
+Skala szaro?ci
+Sepia
+Zielona sepia
+Niebieska sepia 
+Negatyw
+Odwr車cenie szaro?ci
+Blackboard
+Whitebait
+Rze?bione w miedzi
+Rze?bione w niebieskim
+Wyt?aczanie
+Kontrast
+Jeans
+Szkic
+Olej
+Zwyczajny FX1
+Zwyczajny FX2
+Zwyczajny FX3
+Ustaw
+Edytuj efekty
+Restore Default
+Jasno??
+Nasycenie
+Kontrast
+Odcie里
+Wy??czony
+Ramka 1
+Ramka 2
+Ramka 3
+Ramka 4
+Ramka 5
+Ramka 6
+Ramka 7
+Ramka 8
+Ramka 9
+Ramka 10
+Ustaw
+Wy??czony
+1 Zdj?cie
+3 Zdj?cia
+5 Zdj??
+Impulsowe Zdj?cie
+Kafelkowe Zdj?cie
+Wy??czony
+
+
+
+Auto
+?wiat?o dzienne
+?wiat?o Wolframowe
+?wiat?o Fluoresencyjne
+Pochmurny
+?wiat?o ?ar車wki
+
+
+
+Wy??cz
+Bia?y
+Czerwony
+Zielony
+Niebieski
+?車?ty
+Purpurowy
+Niebiesko-zielony
+Wy??czony
+D?wi?k 1
+D?wi?k 2
+D?wi?k 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wy??czony
+W??czony
+Dok?adny
+Wysoki
+Normalny
+Niski
+Wy??cz
+W??czony
+Automatyczny
+Red Eye Reduction
+Auto
+Spot
+Weight
+Average
+Auto
+
+
+
+
+
+Karta pami?ciowa jest zablokowana.\nZapis na karcie nie mo?liwy
+Modu? kamery nie jest gotowy
+B??d kamery
+Prze??cz podgl?d do podwy?wietlacza SubLCD
+Prze??cz podgl?d do g?車wnego wy?wietlacza MainLCD
+Naci?nij na * aby prze??czy? do g?車wnego wy?wietlacza MainLCD
+Uchwycanie...
+Impulsowe uchwycanie...
+Zapisywanie...
+
+Przywr車ci? domy?lne?
+Zapisa? zdj?cie?
+Jedynie rozmiar uchwycania g?車wnego wy?wietlacza LCD zezwala na dodanie ramki
+Uchwycania niepowiod?o si?
+Migawka
+Uchwycanie
+
+
+
+Wybierz styl
+Lista styl
+ Struktury Styl
+
+
+Odtwarzacz wideo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Uszkodzony plik wideo
+Karta pami?ciowa jest zablokowana.\Nie mo?na utworzy? folderu z filmami wideo
+B??d zdj?cia migawkowego
+Nieprawid?owe ustawienie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nagrywarka wideo
+Do odtwarzacza
+Ustawienia CamCoder'a
+Ustawienia wideo
+Ustawienia efekt車w
+Przywr車ci? domy?lne?
+R車wnowaga bieli
+Rozja?nienie wy?wietlacza LED 
+Tryb nocny
+Paskowanie
+
+Jako?? wideo
+Ograniczenie rozmiaru pliku
+Ograniczenie czasu nagrywania
+Nagranie Audio
+Format kodowania
+Normalny
+Skala szaro?ci
+Sepia
+Zielona sepia
+Niebieska sepia 
+Negatyw
+Odwr車cenie szaro?ci
+Blackboard
+Whiteboard
+Rze?bione w miedzi
+Rze?bione w niebieskim
+Uwypuklenie
+Kontrast
+Jeans
+Szkic
+Olej
+Dodaj ramke
+Wy??czony
+Ramka 1
+Ramka 2
+Ramka 3
+Ramka 4
+Ramka 5
+Ramka 6
+Ramka 7
+Ramka 8
+Ramka 9
+Ramka 10
+Ustaw
+Auto
+?wiat?o dzienne
+?wiat?o Wolframowe
+?wiat?o Fluoresencyjne
+Pochmurny
+?wiat?o ?ar車wki
+
+Wy??czony
+Bia?y
+Czerwony
+Zielony
+Niebieski
+?車?ty
+Purpurowy
+Niebiesko-zielony
+Wy??czony
+W??czony
+Dok?adny
+Wysoki
+Normalny
+Niski
+Bez ogranicze里
+Bez ogranicze里
+15 sek
+30 sek
+60 sek
+Wy??czony
+W??czony
+Dysk pe?ny
+
+Karta pami?ciowa jest zablokowana.n\Zapis na karcie nie mo?liwy
+Modu? camCodera nie jest gotowy.
+B??d w nagrywaniu
+Przywr車ci? domy?lne?
+Zapisywanie...
+
+
+
+
+Nagrywanie
+Edytor zdj??
+Slide Show
+Select a folder to play
+Zacznij ponownie
+Type Of Play
+Szybko??
+Effect
+Efekty d?wi?kowe
+Horizontal View
+Auto Once
+Auto Repeat
+Niski
+?redni
+Szybki
+Normalny
+Fade In
+Podziel
+Wipe
+Random
+Wybierz z pliku
+Audio
+Audio
+Audio
+
+Nieprawid?owa d?ugo??!
+Brak us?ugi
+Bateria roz?adowana
+?adowarka pod??czona!
+?adowarka Od??czona!
+?adowarka USB pod??czona!
+Po??czenie USB usuni?te!
+Bateria roz?adowana, wy??czenie telefonu!
+Bateria roz?adowana! Po??czenie niemo?liwe!
+Wprowad? symbole
+Wybierz symbol
+Ponowne wybieranie numeru:
+czasy\n
+Nast?pna pr車ba po??czenia za:
+sek.
+min.
+Wyma?
+Dostarczony
+Oczekuj?cy
+Raport
+Wpisz wiadomo??
+Wprowad? temat
+Lista URL 
+Brak URL
+Tre?? wiadomo?ci
+Spis numer車w
+Powiod?o si?!
+Niepowodzenie!
+Formatuj tekst
+Rozmiar tekstu
+Styl tekstu
+Ustawienie tekstu
+Nowy paragraf
+Ma?y
+Szeroki
+Pogrubi?
+Italic
+Podkre?l
+Przekre?lony tekst
+Lewo
+Centralnie
+Prawo
+Lewo
+Centralnie
+Prawo
+Powiadomienie!
+Brak pami?ci dla nowej wiadomo?ci przychodzacej!
+
+
+Wysy?anie i zachowanie niepowiod?o si?
+Nowa wiadomo??!
+Wiadomo?? od
+B??d odczytu!
+
+B??d nieznany!
+Temat przekroczony
+D?ugo?? wiadomo?ci przekroczona!
+D?ugo?? przekroczona
+
+
+
+
+
+Wiadomo?? SMS jeszcze niegotowa!
+Przychodz?ce wiadomo?ci SMS
+
+
+Not enough space to input Email address
+
+
+
+Wiadomo?ci
+
+
+
+
+
+D?wi?k wiadomo?ci
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wy?lij ponownie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Moje zdj?cie
+Uprzednio ustalona animacja
+Moja animacja
+Melodyjka
+Moja melodyjka
+Uprzednio ustalony d?wi?k
+Spis temat車w
+Powielona nazwa! Wprowadz ponownie
+Smieje si?
+Jestem zadowolony
+Nastawiony sceptycznie
+Jestem smutny
+WOW!
+P?acze
+Mrugam
+Smieje si?
+Jestem oboj?tny
+Zakochany/Caluj?
+Jestem zmieszany
+Pokazuje j?zyk
+Jestem zly
+Nosze okulary
+Diabe?
+Wysoki d?wi?k dzwon車w
+Niski d?wi?k dzwon車w
+Ding
+TaDa
+Powiadom
+B?benki
+Klaskanie
+Fanfara
+Wysoki akord
+Niski akord
+Rozmiar tematu niedozwolony
+Us?ugi sieciowe
+WAP
+Numer informacji
+Wybierz
+Chcesz zadzwoni? w preferencyjnej taryfie?
+Przepraszamy!!\nTen numer jest niedostepny podczas roamingu!
+Karta SIM nie obs?ugiwana!
+Skr車ty
+
+
+Ok
+W g車r?
+W d車?
+Lewo
+Prawo
+Odtwarzacz audio
+Lista odtwarzania
+Z telefonu
+Z karty
+Dodaj do dzwonk車w
+
+Usu里 wszystko
+
+Od?wierz list?
+
+
+
+Sk車rka1
+Sk車rka2
+Sk車rka3
+Jeden
+Wszystko
+Lista generowana automatycznie
+Lista odtwarzania
+Sk車rka
+Powt車rz
+Tasuj
+Odtwarzanie w tle
+
+
+
+
+
+
+Kana?
+Jako??
+Mono
+Stereo
+Tytu?
+Artysta
+Album
+Rodzaj
+Rok
+Czas
+Rozmiar
+Brak mo?liwo?ci uaktualnienia listy: B??d w dost?pie do pliku
+Lista pe?na
+
+Odtwarzanie niepowiod?o si?
+Urz?dzenie zaj?te
+Z?y format
+Limit pliku przekroczony
+B??d zawarto?ci audio!!
+
+
+Plik w innej pami?ci
+Kana? nie obs?ugiwany
+Cz?stotliwo?? nie obs?ugiwana
+Typ nie obs?ugiwany
+Brak mo?liwosci zatrzymania
+Nowy zapis
+Nagrywarka d?wi?kowa
+Do??cz
+Dodaj do dzwonk車w
+Format pliku
+Nie mo?na otworzy?
+Nap?d nie znaleziony
+B??d polecenia
+Urz?dzenie zaj?te
+B??d zawarto?ci Audio!!
+Dost?pny
+Zly format
+
+Wpisz zabezpieczenie!
+
+Zarezerwowany b??d
+B??d argumentu
+Nap?d nie znaleziony
+Zbyt du?o plik車w
+Nie dodawa? wi?cej plik車w
+Nieprawid?owe media
+Nieprawid?owy plik systemowy
+Pliku nie znaleziono
+Nieprawid?owe obchodzenie si? z plikiem
+Urz?dzenie nie obs?ugiwane
+Funkcja nap?du nie obs?ugiwana
+Partycja uszkodzona
+Za du?o nap?d車w
+Nieprawid?owe po?o?enie pliku
+Dost?p zastrze?ony
+Pami?? buforowa napisu za ma?a
+B??d og車lny
+?cie?ka dost?pu nieodnaleziona
+Fatalny b??d alokacji
+G?車wny katalog pe?ny
+Czas przerwy:
+Niew?a?ciwy sektor
+B??d danych
+Media zmienione
+Sektor nieodnaleziony
+Cecha adresu nieodnaleziona
+Nap?d nie jest gotowy
+Wpisz zabezpieczenie!
+Przekroczenie Dma
+B??d Crc
+B??d urz?dzenia zr車d?owego
+Nieprawid?owy rozmiar sektora
+Pami?? buforowa napisu za ma?a
+Plik istnieje
+Umiejscowienie d?ugiego pliku
+Plik zbyt obszerny
+Niew?asciwa pozycja skorowidza
+Tylko czytaj
+Za?amanie systemu
+Urz?dzenie zaj?te
+Przerwany
+B??d podstawy dysku
+?cie?ka dost?pu za g??boka
+Niewystarczaj?ce zasoby
+Niewystarczaj?ce zasoby
+MSDC B??d podstawy
+MSDC B??d sektora czytania
+MSDC B??d sektora pisania
+MSDC B??d sektora odrzucania
+MSDC Nie jest gotowy
+MSDC Jest nieobecny
+B?yskawiczne wymazywanie zaj?te
+B??d blokady mutexu
+
+Zdj?cie zbyt obszerne\nWy?wietlenie niemo?liwe
+
+
+Plik zbyt obszerny\nWy?wietlenie niemo?liwe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tryb fabryczny
+Wersja
+Zasoby BIN
+AUDIO
+ZDJ?CIE
+CZCIONKA
+LCD Kontrast
+Klawiatura
+G?osnik
+P?tla echo
+Wibrator
+S?uchawka
+Zestaw s?uchawkowy
+?adowarka
+D?wi?k dzwonka
+G?車wny wy?wietlacz LCD
+Podwy?wietlacz LCD
+Auto wy?wietlacz
+CZERWONY
+ZIELONY
+NIEBIESKI
+BIA?Y
+Kod DSP 
+?cie?ka dost?pu DSP
+MCU SW
+Tablica MS 
+Melodyjka
+Numer seryjny
+Numer budowy
+Auto Test
+Raport
+Wynik testu
+Przebieg
+Niepowodzenie
+Ponowny test
+Wyjd?
+Wszystko przebieg?o!
+Wszystkie testy wykonane!
+B??d!
+Niedoko里czony!
+Czerwona dioda LED b?yska
+Zielona dioda LED b?yska
+Niebieska dioda LED b?yska
+Prosz? otworzy?/zamkn?? zaciski
+LCM/ klawiatura pod?wietlona
+Prosz? przetestowa? s?uchawk?
+Prosz? przetestowa? mikrofon
+Prosz? przetestowa? g?o?nik
+Prosz? przetestowa? zestaw s?uchawkowy
+Odtwarzanie melodyjki
+Wibruj?
+Test linii r車wnoleglej
+NxM Punktowy test
+Ustal
+Obr車?
+Ustaw j?zyk angielski
+Ustaw j?zyk chi里ski uproszczony
+Ustaw j?zyk chi里ski tradycyjny
+Ustaw j?zyk domy?lny
+Tryb in?ynierski jest nieustawiony
+B??d w ustawianiu j?zyka domy?lnego
+B??d w ustawianiu j?zyka angielskiego
+B??d w ustawianiu j?zyka chi里skiego uproszczonego
+B??d w ustawianiu j?zyka chi里skiego tradycyjnego
+Wersja oprogramowania
+Wersja sprz?tu 
+Numer seryjny
+Tryb fabryczny nieustawiony
+Mened?er plik車w
+
+
+
+
+Opcja pliku
+Opcja pliku
+Opcja pliku
+Format
+Formatowanie
+Zmie里 nazw? foldera
+Skanowanie dysku
+Usuwanie
+Utworz folder
+Zmie里 nazw? foldera
+Skasuj folder
+
+Skasuj wszystkie pliki
+Kopiuj
+Przenie?
+Do listy spraw
+Do wiadomo?ci EMS
+Do profilu u?ytkownika
+Do profilu u?ytkownika
+Poprzez nazw?
+Poprzez typ
+Poprzez czas
+Poprzez rozmiar
+Karta pod??czona
+Karta od??czona
+Skasuj nazw? pliku
+
+Rozmiar zdj?cia zbyt obszerny\nOgraniczenie
+Rozmiar wideo zbyt obszerny\nOgraniczenie
+Wideo za d?ugie\nOgraniczenie
+Plik zbyt obszerny\nOgraniczenie
+[Karta pami?ci]
+[Karta pami?ci]
+Data:
+Rozmiar:
+[Karta pami?ci]
+[Karta pami?ci]
+[Karta pami?ci]
+[Karta pami?ci]
+[Karta pami?ci]
+[Karta pami?ci]
+Tylko plik EMS
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nazwa pliku 
+Numer
+Typ linii
+Szybko??
+Analogowe
+4.8 Kbps
+Konto 
+Terminarz
+Kalendarz
+Lista spraw
+Kalkulator
+?wiatowy zegar
+Zdrowie
+Zdrowie
+BMI
+Miesi?czkowy
+?wiatowy zegar
+Zmiana czasu dla zagranicznych miast
+Zmiana czasu
+Wej?cia
+Miesi?czkowy
+Ci??a
+Dzisiejsze prawdopodobie里stwo
+Data ostatniej miesi?czki
+(Dni)
+Dni: 14 ~ 99
+Poza granic?
+?redni okres
+Nast?pny ekran
+Okres
+P.P
+Miesi?czka
+
+Wprowadz poprawn? dat?
+Wynik BMI 
+M??czyzna
+Kobieta
+Wzrost (Cm)
+Waga (Kg)
+Wzrost: 55 ~ 300
+Waga: 1 ~ 300
+Wzrost: 55 ~ 300 \nWaga: 1 ~ 300
+Gruby
+Chudy
+Konwerter jednostek
+Waga
+D?ugo??
+Kg<->Funt
+Kg
+Funt
+Km<->Mile
+M<->Yard
+M<->Stopy
+Cm<->Cale
+Km
+Mile
+Cm
+cale
+Metr
+Yard
+Stopy
+Kg<->Uncja
+Uncja
+Numer przekracza 8 znak車w
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stawka wej?ciowa
+Stawka
+Wprowadzenie waluty
+Lokalne
+Zagraniczne
+
+
+
+
+
+
+
+
+
+
+
+Ci?g?y
+Powt車rz
+Kiedy?
+Codziennie
+Dni
+
+
+
+
+
+Zasilanie w??czone
+
+
+
+
+
+
+
+
+
+
+
+Planowanie W??cz./Wy??cz. Zasilanie
+
+Status
+Unieruchom
+Uruchom
+Konflikt
+
+Kalendarz ksi??ycowy
+S
+E
+N
+W
+M
+D
+Przeskocz do daty
+B??d daty!
+
+
+
+
+
+Aktualizacja czasu
+Nowa strefa czasowa wykryta
+Skasuj notatke
+Wprowadz Poprawna  Date
+Lista zada里 pe?na!
+Notatka
+Przypominacz
+U?yj szablonu
+Skasuj
+Skasuj wszystko
+Umowi? si? z kim? na randk?
+Spotkanie we wtorek
+Zadzwo里 do kogo?
+I?? z kim? na zakupy
+Wys?a? eMail do kogo?
+Pami?ta? ?eby co? przynie??
+Kupi? co?
+Odebra? dziecko o 12:00
+Czyje? urodziny
+Rocznica ?lubu
+
+Niedz.
+Pon.
+Wt.
+?r.
+Czw.
+Pt.
+Sob.
+Notatka
+Powt車rz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wygaszacz ekranu
+System
+Okre?lenie u?ytkownika
+5 sek
+15 sek
+30 sek
+1 minuta
+Status:
+Oczekiwanie:
+Display Time
+Kompozytor
+Pr?dko?? odtwarzania
+Wybierz instrument
+Szybki
+Normalny
+
+Pianino
+Gitara
+Skrzypce
+Saksofon
+Perkusja
+Flet
+Harmonijka
+Tr?bka
+Katarynka
+Ksylofon
+Skasuj d?wi?k dzwonka
+Niszcz
+Akceptuj
+WML Pogwa?cenie dost?pu
+WML Pogwa?cenie skryptu dost?pu
+Konto danych
+W??cz profil
+Adres
+Dodaj zak?adk?
+Zawsze
+Pytaj
+Wstecz
+Zak?adki
+Opcje wybierania
+Podr?czny
+Podr?czny bufor trybu
+Podr?czny bufor rozmiaru
+Anuluj
+Certyfikaty
+Zmie里 kod PIN autoryzacji
+Zmie里 kod PIN podpisywania tekstu
+Wyczy?? bufor podr?czny
+Wyczy?? bufor podr?czny
+Wyczy?? cookies
+Wyczy?? cookies
+B??d po??czenia
+Bezpo??czeniowe
+Typ po??czenia
+Umowy
+Cookies
+Bie??cy certyfikat
+Profil
+Skasuj
+Skasuj
+Skasuj wszystko
+Skasuj wszystko
+Edytuj
+Edytuj zak?adk?
+Edytuj profil
+
+
+
+Uruchom Cookies
+Enable Cookies?
+Disable Cookies?
+Enable Cache?
+Disable Cache?
+
+OK
+Delete
+Help
+Options
+Back
+Reset
+Nieznany
+Wprowadz adres
+Lista zak?adek jest pe?na
+Nieprawid?owy adres IP 
+
+Prosz? wybra? najpierw profil.
+
+Niesprecyzowany bli?ej b??d
+Wyjd?
+Zapisz obrazek
+
+
+Ulega przedawnieniu:
+Od:
+Adres IP
+Strona domowa
+
+Nieznany host
+Je?li na tym samym hoscie
+Poka? obrazki
+Wewn?trzny b??d
+Nieprawid?owe wej?cie
+Zarz?dzaj zak?adkami
+Wiadomo??:
+D?wi?k wiadomo?ci
+Nigdy
+
+
+
+
+
+
+Nowa wiadomo?? serwisowa
+Wy??czony
+Ok
+W??czony
+Opcja
+Pami?? pe?na!
+Nieprawid?owy format zawarto?ci
+
+Instaluj ustawienia WAP?
+Instaluj ustawienia MMS?
+Adres proxy 
+Port proxy 
+Has?o
+Nazwa u?ytkownika
+Skrzynka us?ug
+Skrzynka
+Zawsze akceptuj
+Akceptuj uwierzytelnione lub zaufane
+Nigdy nie akceptuj
+Akceptuj wiadomo?ci PUSH nie pochodzace z WAP
+Pobieraj wiadomo?ci typu PUSH Sl
+Zabezpieczenia Push
+Ustawienia wiadomo?ci serwisowych
+Ustawienia wiadomo?ci typu PUSH SL
+Ostatnio otwierane strony
+Od?wie?
+Zmie里 nazw? profilu
+Zadanie chwilowo przerwane
+Ta strona wymaga obs?ug? ramek
+U?yj opcji od?wie?ania
+Ustaw jako strone domow?
+Schemat nie obs?ugiwany
+Zabezpieczenie
+Informacja o zabezpieczeniach
+Wyczy?? sesj?
+B??d bezpiecznego po??czenia
+Wybierz zak?adk?
+Wybierz profil
+
+
+
+
+
+Sesja informacyjna
+Ustawienia
+Konto
+Konto danych
+Brak kont danych
+
+
+
+
+
+Odtwarzaj d?wi?ki
+
+
+Us?ugi internetowe
+Przerwa
+Tytu?
+Nieznany 
+B??d skryptu WML
+Skasuj
+Czytaj
+<Skasuj>
+B??d zapisywania
+Operacja anulowana
+Tak
+Nie
+
+Nieprawid?owy adres bramki IP
+Zaufane certyfikaty
+Od??cz podczas d?u?szej bezczynno?ci
+Dane GSM
+
+
+
+
+
+
+Zapisywanie...
+Wybierz
+Wy?lij DTMF
+Dodaj
+Uprawnienie otrzymane
+Strony w trybie offline
+Zapisz jako stron? offline
+Zapisywanie strony offline nie powiod?o si?
+Strona offline istnieje, aktualizowa??
+Strona offline pe?na
+
+Spis telefon車w pe?ny!
+20 sek
+30 sek
+60 sek
+2 min
+Usuwanie
+Usuwanie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIM1
+SIM2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Przycisk
+Anuluj
+Nie
+Tak
+Wy?lij informacje o telefonie kom車rkowym?
+Przynajmniej jedno pole jest ?le ukszta?towane
+Ok
+Otrzymano przeadresowane zadanie. Ponownie wprowadzi? dane u?ytkownika?
+Ponownie chcesz wprowadzi? dane u?ytkownika?
+Zrestartuj
+Wprowadz
+Chcesz pobra? ten obiekt?
+B??d w po??czeniu
+
+SIM1
+SIM2
+
+
+Niedost?pny
+
+
+
+
+
+
+
+
+
+
+
+Przynajmniej jedno pole adresowe musi by? wype?nione.
+Dodaj eMail
+Dodaj obrazek
+Dodaj obiekt medialny
+Dodaj numer
+Dodaj odbiorc?
+Odbiorcy
+
+Wiadomo?? zawiera zablokowane informacje i nie mo?e by? edytowana
+Dodaj tekst
+
+??????? ???????????? ?????????????
+Prze?lij dalej
+Przeslany dalej.
+Od
+Generowanie
+Port HTTP 
+Natychmiastowy
+Skrzynka
+Nieoznaczony.
+Wprowadz nowy slajd
+
+
+i
+Prosz? wprowadzi? jaka? warto?? pomi?dzy 
+Nieprawid?owy od adresu!
+Wiadomo?? nieprawid?owa!
+Numer wersji MMSC jest nieprawid?owy.
+Nieprawid?owy adres proxy!
+Nieprawid?owy port proxy!
+Nieprawid?owy schemat proxy!
+Nieprawid?owy adres odbiorcy!
+Nieprawid?owe wprowadzenie warto?ci!
+Nieprawid?owy adres bramki WAP!
+
+
+Login
+Max Rozmiar (KB)
+menu
+Wys?ane
+Aplikacja Messenger'a
+Nieprawid?owy z powodu adresu lub wersji MMSC .
+Edytor wiadomo?ci
+Konto sieciowe
+Nowa wiadomo?? MMS 
+Wpisz wiadomo??
+Nowa wiadomo?? multimedialna
+Nast?pny slajd
+Wy??czony
+Niewystarczaj?ca ilo?? pami?ci, aby doko里czy? operacj?!
+Skasowane, nie odczytane.
+Niewystarcaj?ca pamie? MMS.
+Pami?? zachowanych MMS osi?gn??a prawie maksymalna liczb?
+Wy??czony
+Ok
+W??czony
+Opcja
+Skrzynka nadawcza
+B??d wewn?trzny. Aplikacja zaraz zostanie zamkni?ta.
+Has?o
+Spis telefon車w
+Przegl?dnij
+Poprzedni slajd
+W?a?ciwo?ci
+Czytaj.
+Czytanie
+Czytaj raport
+Wy?lij raport odczytu
+Dziedzina
+Odbiorcy:
+Odrzu?
+Odrzucony
+
+
+Usu里 audio
+Usu里 obrazek
+Usu里 tekst
+
+
+
+Usu里 obiekt
+Odpowiedz
+
+Odpowiedz wszystkim
+Odzyskany.
+Zbyt obszerna wiadomo?? zosta?a zablokowana.
+
+Zapisz
+Zapisz i wy?lij
+Zapisz jako szablon
+Zapisz do spisu telefon車w
+Bezpieczny port
+Wybierz
+Wy?lij
+Wysy?anie
+Wy?lij opcje
+Tylko wy?lij
+Wys?ane
+Maksymalna ilo?? stron osi?gni?ta
+Status:
+Temat
+Szablony
+Do
+Do wielu odbiorc車w
+Nieznany
+Nierozpoznany
+
+Podgl?d
+Podgl?d za??cznik車w
+Podgl?d wiadomo?ci
+Adres bramki WAP
+Wpisz wiadomo??
+
+
+Nie obs?ugiwany typ wiadomo?ci!
+W??czony
+Odp:
+Prze?lij dalej:
+Osi?gni?ty maksymalny rozmiar wiadomo?ci. 
+Odbiorcy mog? nie widzie? takiej szeroko?ci
+?adowanie odpowiedzi 
+Ostateczny termin ?adowania odpowiedzi.
+Rozmiar ?adowania odpowiedzi.
+Tylko tekst.
+Wybierz kolor
+Kilor t?a
+Sie? domowa
+Roaming
+Jako domowy
+Op車?niony
+Ograniczony
+Widoczno?? nadawcy
+Poka? numer
+Ukryj numer
+Czytaj raport
+Wy?lij
+Na zadanie
+Nigdy nie wysy?aj
+Czas dostarczenia
+Natychmiastowy
+
+
+
+Odtwarzaj d?wi?k
+
+Raport dostarczenia
+Dodaj audio
+Dodaj kolorowy tekst
+Tekst nie mo?e zosta? wy?wietlony.
+Odbiorcy moga nie przegladac obiektow medialnych w tym rozmiarze
+
+
+Pobierz wiadomo?? MMS z rozmiarem
+Wy?lij MMS w sieci roamingowej z rozmiarem
+Prosz? sprawdzi? MMSC i ustawienia WAP.
+Wybrany numer towarzystwa jest zaj?ty..
+Sie? niedost?pna.
+Wybrany numer towarzystwa nie odpowiedzia?..
+Ten numer, nie jest numerem telefonicznym
+Nie mo?na ustanowi? po??czenia.
+Nie mo?na poradzi? sobie z linkiem
+B??d otwierania oryginalnej wiadomo?ci.
+B??d otwierania okienka.
+Pami?? zachowanych MMS osi?gne?a maksymalna liczb?!
+Brak akceptacji serwera.
+Odbiorca juz istnieje
+
+Dodaj za??cznik
+Za??cznik zosta? usuni?ty
+
+
+
+
+
+
+
+
+
+
+
+Skasuj ca?? zawarto?? skrzynki odbiorczej
+Skasuj ca?? zawarto?? skrzynki nadawczej
+Skasuj ca?y szablon
+Skasuj wszystkie wys?ane
+Skasuj wszystkie robocze
+Edytuj za??cznik
+Edytuj profil
+Wolny:
+Czytaj
+Tak
+Status pami?ci
+Wiadomo??(i)
+Wiadomo??(i)
+Brak zawarto?ci
+Brak numeru
+(bez tematu)
+System zaj?ty
+Usu里 za??cznik
+Wy?lij ponownie
+Nie
+Zapisano i wys?ano
+Zapisz w roboczych
+Slajd
+Slajdy
+Pami?? pe?na, prosz? skasowa? niekt車re pliki.
+Inna wiadomo?? jest odbierana
+Ca?o??:
+Zu?ycie:
+
+MMS mo?e by? uszkodzony! Prosz? go usun??
+
+
+
+Od:
+Identyfikator wiadomo?ci:
+Czytaj:
+Wys?ano:
+Temat:
+Do:
+\nzosta?a przeczytana
+Twoja wiadomo??\n
+Wszystkiego najlepszego z okazji urodzin
+Zadzwo里 do mnie
+Trzymaj sie zdrowo
+Nie mam teraz czasu
+Przyjad? tam pozniej
+T?sknie za tob?
+Dzi?kuje Ci
+Gdzie teraz jeste??
+Co? nie w porz?dku. Musz? odwo?a? spotkanie.
+Wszystko w porz?dku.
+Ok
+Wstecz
+Anuluj
+Zapisz
+Edytuj nazw? pliku
+Zapisz b??d
+B??d
+Pami?? jest pe?na
+Rozmiar pliku przekracza maksymaln? warto??.
+Zapisz jako
+B??d
+Zawarto?? nie obs?ugiwana.
+
+Akceptuj wiadomo?ci serwisowe typu Push
+Anuluj
+Odrzucaj  wiadomo?ci serwisowe typu Push
+Wiadomo?? serwisowa typu Pushod nieznanego nadawcy.
+Ok
+Chcesz ustanowi? nowe po??czenie wiadomo?ci serwisowych typu push?
+Anuluj
+Skasuj klucz
+Kwiecie里
+Sierpie里
+Klucz uwierzytelniaj?cy.
+Anuluj
+Zachowa? nieznany certyfikat?
+Certyfikat niezaufany, kontynuowa??
+Brak certyfikatu u?ytkownika, kontynuowa??
+Kontrakt zosta? skasowany
+Nie mo?na by?o usun?? kontraktu.
+Nie mo?na pokaza? certyfikatu
+Nie mo?na by?o usuna? kontraktu.
+Certyfikat niezaufany, kontynuowa??
+Certyfikat nie mog? zosta? zachowany.
+Nieznany serwer, kontynuowa??
+B??d certyfikatu, kontynuowa??
+Zapisa? wymazuj?c ten sam certyfikat?
+Zapisa? wymazuj?c istniej?cy stary certyfikat?
+Zapisa? wymazuj?? istniej?cy nowy certyfikat?
+Certfikat zosta? zachowany.
+Usu里 istniej?cy stary zaufany certyfikat?
+Wprowadz nowy kod PIN dla
+Wprowadz ponownie nowy kod PIN 
+Wprowadz stary kod PIN
+Zmie里 kod PIN
+Wybierz certyfikat aby dosta? klucz publiczny od:
+Wybierz certyfikat:
+Potwierdzenie
+Potwierdz nazw? na wy?wietlaczu.
+Kontrakt:
+Grudzie里
+Skasuj
+Wprowadz pomieszan? funkcje do wy?wietlenia nazwy:
+Luty
+Przyjazna nazwa:
+Wprowadz kod PIN do
+Generuj kod PIN
+Wystapi? jakis b??d.Spr車buj ponownie
+Wystawca:
+Stycze里
+Lipiec
+Czerwiec
+Marzec
+Maj
+Nieodrzucalny klucz
+Listopad
+Pa?dziernik
+Ok
+Zapisz wymazuj?c
+Kod PUK do wykasowania wszystkich kluczy uwierzytelniaj?cych i pod??czonych certyfikat車w u?ytkownika.
+Kod PUK do wykasowania wszystkich nizaprzeczalych kluczy i pod??czonych certyfikat車w u?ytkownika.
+Kod PIN uwierzytelnienia klucza, aby si? po??czy?
+Kod PIN do uwierzytelnienia klucza aby usun?? certyfikat
+Wprowadz
+PIN Dialog
+Kod PIN do generowania klucza uwierzytelniaj?cego 
+Kod PIN do generowania klucza niezaprzeczalnego. 
+Nowe kody PIN nie pasuj?. Wprowadz nowy kod PIN dla
+Kod PIN uwierzytelnienia klucza, aby otworzy? WIM
+Kod PIN do klucza niezaprzeczalnego, aby
+Kod PIN uwierzytelnienia klucza, aby zachowa? certfikat
+Kod PIN by? za d?ugi. Wprowadz PIN do
+Kod PIN by? za kr車tki. Wprowadz PIN do
+Wrzesie里
+Algorytm szyfrujacy: Potr車jny DES
+Zaszyfrowana d?ugo?? klucza:
+Algorytm szyfruj?cy: NULL
+Algorytm szyfruj?cy: RC4 128
+Algorytm szyfruj?cy: RC4 40
+Algorytm szyfruj?cy: RC5
+Algorytm szyfruj?cy: RC5 40
+Algorytm szyfruj?cy: RC5 56
+Algorytm szyfruj?cy: RC5 64
+HMAC d?ugo?? klucza:
+Informacja o sesji
+Klucz zmieniaj?cy algorytm: DHE DSS
+Klucz zmieniaj?cy d?ugo?? klucza:
+Klucz zmieniaj?cy algorytm: NULL
+Klucz zmieniaj?cy algorytm: RSA
+Klucz zmieniaj?cy algorytm: RSA 512
+Algorytm szyfruj?cy: RC5 768
+Klucz zmieniaj?cy algorytm: RSA ANON
+Klucz zmieniaj?cy algorytm: RSA ANON 512
+klucz zmieniaj?cy algorytm: RSA ANON 768
+HMAC algorytm:MD5
+HMAC algorytm:SHA-1
+Typ po??czenia:SSL
+Typ po??czenia:TLS
+Typ po??czenia:WTLS
+Nazwy certyfikatu
+Certyfikat
+Kontrakt
+Podpis:
+Chcesz to podpisa?:
+Zachowaj
+Zachowane kontrakty
+Zachowa? ten certyfikat?
+Zachowaj certyfikat
+Temat:
+Czas:
+Wa?ny nie p車?niej:
+Wa?ny niewcze?niej:
+Podgl?d
+Kontrakt nie m車g? zosta? zachowany
+Wyst?pi? b??d.
+Za ma?o pami?ci, aby wykona? czynno??.
+Nieprawid?owe wej?cie.
+Brak klucza uwierzytelniaj?cego (zauwa?ono podczas otwierania WIM).
+Brak klucza uwierzytelniaj?cego podczas otwierania WIM.
+?aden klucz nie zosta? znaleziony.
+Podczas pr車by zmiany klucza ?aden klucz uwierzytelniajacy nie zosta? znaleziony.
+Podczas pr車by zmiany klucza nie znaleziono ?adnego niezaprzeczalnego klucza.
+Podczas pr車by po??czenia ?aden klucz uwierzytelniajacyi nie zosta? znaleziony.
+Podczas pr車by usuniecia certyfikatu ?aden klucz uwierzytelniajacy nie zosta? znaleziony.
+Podczas pr車by zapisu certyfikatu ?aden klucz uwierzyteniajacy nie zosta? znaleziony.
+Podczas pr車by podpisania tekstu nie znaleziono ?adnego niezaprzeczalnego klucza.
+Ostrze?enie
+U?ytkownik nie zosta? zweryfikowany.
+B??d wej?cia, spr車buj ponownie:
+Wprowadzono nieprawid?owy kod PIN . Wprowad? kod PIN dla
+Nie mo?na sprawdzi? wej?cia. Wprowad?
+Odciski palc車w:
+Wstecz
+Nie mo?na odtworzy? SMIL
+Niedostatecznie trwa?a pami??
+B??d zapisywania pliku.
+Zamknij
+Nast?pny slajd
+Odtw車rz
+Przewi里
+Zapisz audio jako
+Stop
+Powt車rz
+Odtw車rz
+Stop
+Wstecz
+Wybierz
+Tekst nie mogl by? wy?wietlony
+
+Zapisz wideo jako
+Nie uda?o si? zapisa? pliku media.
+Plik jest zabezpieczony i nie mo?e by? zapisany.
+Podgl?d za??cznik車w
+Lista za??cznik車w
+Wybrany numer towarzyski zaj?ty
+Po??czenie niepowiod?o si?
+Otw車rz
+Po??czenie
+Niemo?liwe odtworzenie wszystkich slajd車w
+Anuluj
+Nie mo?na wprowadzi? warto?ci usuwanej
+Nie mo?na ustawi? metody wej?ciowej
+Wykonano
+B??d w formacie wej?ciowym
+Metoda wej?ciowa
+Wej?cie
+Ok
+Opcja
+Nieprawid?owa nazwa pliku
+Prosz? czeka?!
+
+Szukaj
+Nowa us?uga wiadomo?ci
+Nowe ustawienie
+Nowa wiadomo?? MMS
+Nowa wiadomo?? MMS
+Nowa wiadomo?? MMS
+Nowa wiadomo?? MMS
+
+
+
+
+
+Zabezpieczenie
+Typ uwierzytelnienia
+nieprawdziwe
+Konfiguracja USB:
+USB Rozpoznawanie! Ustawi? jako port COM
+Zrestartuj w celu masowego magazynowania?
+Urz?dzenia masowego magazynowania
+Port COM
+
+
+
+
+
+
+Zasilanie dla urz?dze里 masowego magazynowania
+
+
+
+Podczerwie里
+Otw車rz
+10 Minut
+Dysk pe?ny lub plik systemowy zaj?ty. Odbieranie przez IrDA zatrzymane
+
+Otrzymano plik(i) przez podczerwie里 IrDA
+Wyszukuj
+Otrzymane
+Pliki
+Urz?dzenie IrDA zaj?te
+Atywacja menu
+Lokalizacja pami?ci
+Karty zewn?trzne
+Brak pod??czonych kart zewn?trznych
+Otrzymano plik(i) przez podczerwie里
+Wysy?anie poprzez IrDA
+Write file failed
+Bluetooth
+Dysk.
+
+Zmie里 ?cie?k? g?osow?  Bluetooth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+od??czony
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Start
+Informacja
+Normalny
+Dost?p do sieci
+Automatyczne wywo?anie
+ wiadomo?ci
+Multimedia
+
+
+
+Nazwa:
+Rozmiar:
+Wersja:
+Sprzedawca:
+Opis:
+Strona WWW:
+Autoryzowane przez:
+Po??czenie:
+Bajt
+Zezwoli?
+
+
+Zawsze szybki
+Nigdy
+
+
+
+
+
+Start instalowania
+Instalowanie Java
+Zainstalowane~
+Instalacja nie powiod?a si?~~
+
+Start aktualizowania
+Zaktualizowano~
+Aktualizacja nie powiod?a si?~~
+Uruchomi??
+
+Aplikacja Java zatrzymana.
+Chcesz, aby aktualizowa? aplikacje przez Internet?
+
+Chcesz aby nowa wersja aplikacji mog?a u?wa? informacje zawarte w starej wersji aplikacji?
+Ta aplikacja Java nie mo?e by? uruchomiona
+Starsza wersja %1 zostala znaleziona. Kontynuowanie zmieni wersje zainstalowan? w twoim telefonie.\n\nObecnie zainstalowana: %5\nWersja znaleziona: %3\nSprzedawca: %2\nStrona WWW: %4\n\nChcesz kontynuowa??
+Wersja %1 zosta?a znaleziona. Kontynuowanie zmieni wersje zainstalowan? w twim telefonie.\n\nObecnie zainstalowana: %5\nWersja znaleziona: %3\nSprzedawca: %2\nStrona WWW: %4\n\nChcesz kontynuowa??
+Nowsza wersja od %1 zosta?a znaleziona. Kontynuowanie zmieni wersje zainstalowan? w twoim telefonie.\n\nObecnie zainstalowana: %5\nWersja znaleziona: %3\nSprzedawca: %2\nStrona WWW: %4\n\nChcesz kontynuowa??
+Nowa wersja %1 nie jest od tego samego dostawcy jak stara wersja. Linki URL do pobierania nie pasuj?. Chcesz instalowa? now? wersje?\n\n Stary URL: %5\nNowy URL: %4
+AP Nie znaleziony
+Plik aplikacyjny niepoprawny(.jad)
+Brakuje krytycznej informacji w JAD
+Brakuje krytycznej informacji w JAR
+Java AP niedost?pna
+JAR Nie znaleziony
+Nieprawid?owy JAR URL
+Plik JAR jest uszkodzony
+Niedopasowanie krytycznej informacji (jad, jar)
+
+Nie ma wymaganego pozwolenia
+Zas車b jest juz u?ywany przez inny AP
+?r車d?o sieciowe niedost?pne
+Nowa wersja jest nieuwierzytelniona
+Nie mo?na aktualizowa? b??du AP
+Operacja sieciowa/dyskowa nie powiod?a si?
+Instalacja nie powiod?a si?
+Operacja anulowana.
+Przekroczenie maksymalnego limitu instalacji
+
+Nap?d nie znaleziony
+
+
+
+Do poprawnego dzia?ania, %1 jest niezb?dny okresowy samoczynny start dla uzyskania informacji. Je?li jaka? aplikacja juz dzia?a, %1 zostanie przerwana i zako里czy si?.
+Jeste? pewny, ?e chcesz zainstalowa? %1? \nRozmiar: %2K\nWersja: %3\nSprzedawca: %4\nOpis: %5\nMedia-cena: %6\nStrona-WWW: %7
+Brak infomacji w pliku aplikacyjnym
+Maszyna javy zaj?ta
+Czy chcesz uruchomi? ten java midlet?
+
+Wstrzymanie albo stop 
+Wznowi? albo stop 
+Zako里czone
+
+Program Java jest wstrzymany. Zako里cz wstrzymane programy.
+
+Program Java jest wstrzymany. Program PUSH nie mo?e by? uruchomiony.
+Program Java u?ywa zas車by sieci i nie mo?e by? wstrzymany. Chcesz zako里czy? program?
+Zapytanie nie mo?e by? doko里czone.Przejdz do opuszczonego ekranu i czekaj na wykonanie programu PUSH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aplikacja chce odczyta? pliki na dost?pnych dyskach. To jest OK?
+
+
+
+
+
+
+
+Wej?cie
+Odbi車r wizyt車wek
+Odbi車r notatek kalendarza
+
+Wy?lij poprzez SMS
+Wy?lij poprzez MMS
+Wy?lij poprzez IrDA
+Zapisz do pliku
+Metoda wej?ciowa
+Powielono nazw? pliku
+?cie?ka dost?pu do pliku zbyt d?uga
+Funkcja niedost?pna
+
+
+
+Plik zbyt obszerny
+Wy?lij notatki kalendarza
+Zapisz do listy spraw
+Zadanie pe?ne
+Nazwa skasowana
+Stoper
+Zatrzymaj poprzedni stoper?
+Typowy stoper
+Way Stoper
+Pomiar czas車w r車wnoleg?ych
+Pomiar czas車w po?rednich
+Podgl?d wynik車w
+Podziel
+Po?redni
+Pami?? pe?na. Zmieni? stary zapis?
+Nie zapisano!
+Zmie里 zapis
+Skasuj
+Podgl?d
+Skasuj wszystko
+Skasuj wszystkie zapisy?
+Skasuj nazw?!
+Stoper
+Total
+Zapisz w roboczych
+Przenie? do roboczych
+<Bez tematu>
+Do
+CC
+Za??cznik
+Napisz eMail
+Wys?ane
+Autoryzacja
+Listy
+Adres wej?ciowy
+Zobacz/Odtw車rz
+Od
+Lista adresowa
+Odpowiedz wszystkim
+Serwer nadawczy
+Serwer odbiorczy
+Podpis
+Podpis
+Podpis
+Podpis
+Protok車?
+Kontorola zakresu
+5 minut
+30 minut
+1 godzina
+2 godziny
+Serwer nadawczy
+Port nadawczy
+Poka? nazw?
+Adres eMail
+Serwer odbiorczy
+Port odbiorczy
+Niepoprawny numer portu
+Skasuj adres eMail
+Rozmiar pobierania
+B??d sieci
+Wiadomo?? zbyt d?uga!
+Konto nie jest ustawione
+Wiadomo?? nieistnieje
+Niepowodzenie ??czenia z serwerem
+Niepowodzenie uwierzytelnienia
+Niepoprawny adres serwera
+Brak odpowiedzi serwera DNS
+Nierprawid?owy adres odbiorcy
+Wybierz z pliku
+Skasuj referencje
+Rozmiar za du?y
+Nieprawid?owa nazwa u?ytkownika
+Zapisa? wymazuj?c niezapisany email
+Authentication Not Support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Edytuj szablon
+Brak miejsca!
+
+
+
+
+
+
+
+
+
+
+Send Email?
+Radio FM
+Lista kana?車w?
+Wej?cie r?czne
+Automatyczne wyszukiwanie preselekcji
+Cofnij
+Sk車rka
+Sk車rka 1
+Sk車rka 2
+Sk車rka 3
+Lista preselekcji
+Nazwa kana?u
+Cz?stotliwo??
+Cz?stotliwo??: 87.5 ~ 108
+
+Nowy kana?
+W??cz najpierw zasilanie
+Skasuj
+Pod??cz s?uchawk?
+
+Record
+Append
+File List
+Record Format
+Record Storage
+Bad Format
+Invalid Format
+Device Busy
+Can't Open
+Drive Not Found
+Write Protection!
+
+
+Metoda s?ownikowa - HI
+Metoda s?ownikowa - hi
+Metoda s?ownikowa - FR
+Metoda s?ownikowa - fr
+Metoda s?ownikowa - NI
+Metoda s?ownikowa - ni
+Metoda s?ownikowa - W?
+Metoda s?ownikowa - w?
+Metoda s?ownikowa - RO
+Metoda s?ownikowa - ro
+Tradycyjne wpisywanie - Tajski
+Metoda s?ownikowa - Tajski
+Metoda s?ownikowa - PT
+Metoda s?ownikowa - pt
+Tradycyjne wpisywanie - TR
+Tradycyjne wpisywanie - tr
+Metoda s?ownikowa - TR
+Metoda s?ownikowa - tr
+Metoda s?ownikowa - ID
+Metoda s?ownikowa - id
+Metoda s?ownikowa - MS
+Metoda s?ownikowa - ms
+Metoda s?ownikowa - WI
+Metoda s?ownikowa - wi
+Metoda s?ownikowa - Arabski
+Tradycyjne wpisywanie - Hinduijski
+Ustaw j?zyk na Hiszpa里ski
+Ustaw j?zyk na Francuski
+Ustaw j?zyk na Niemiecki
+Ustaw j?zyk na W?oski
+Ustaw j?zyk na Tajski
+Ustaw j?zyk na Rosyjski
+Ustaw j?zyk na Portugalski
+Ustaw j?zyk na Turecki
+Ustaw j?zyk na Wietnamski
+Ustaw j?zyk na Indonezyjski
+Ustaw j?zyk na Malajski
+Ustawienia j?zyka Hinduskiego
+B??d w ustawianiu j?zyka Hiszpa里skiego
+B??d w ustawianiu j?zyka Francuskiego
+B??d w ustawianiu j?zyka Niemieckiego
+B??d w ustawianiu j?zyka W?oskiego
+B??d w ustawianiu j?zyka Tajladzkiego
+B??d w ustawianiu j?zyka Rosyjskiego
+B??d w ustawianiu j?zyka Portugalskiego
+B??d w ustawianiu j?zyka Tureckiego
+B??d w ustawianiu j?zyka Wietnamskiego
+B??d w ustawianiu j?zyka Indonezyjskiego
+B??d w ustawianiu j?zyka Malajskiego
+B??d w ustawianiu j?zyka Hinduskiego
+Polecenia g?osowe
+Rozpoznawanie g?osowe
+G?osowe wywo?ywanie po??czenia
+G?osowe wywoywanie ponownego po??czenia
+G?osowe wybieranie profilu
+G?osowe sterowanie Audio Player
+Skr車ty g?osowe
+U?ywanie znaku g?osowego
+Zmie里 znak g?osowy
+Po sygnale bip, wypowiedz nazw? blisko mikrofonu
+Po sygnale bip prosz? powt車rzy?
+Brak znak車w g?osowych
+Wszystkie znaki g?osowe s? ju? u?ywane.
+Brak odbioru g?osu! Prosz? spr車bowa? ponownie.
+Brak d?wi?ku
+Brak zgodno?ci
+G?os zbyt podobny
+G?os zbyt r車?ny
+Mowa za d?uga
+Mowa zbyt kr車tka
+Niepoprawna sesja
+Karta SIM zmieniona. Skasuj ca?y zapis g?osowy na karcie SIM?
+Znajd?:
+Wybieranie automatyczne...
+Brak ostatnio wybieranego numeru
+Milczy
+Nie mo?na zmieni? tryb
+Efekty d?wi?kowe
+Equalizer
+Normalny
+Podstawowy
+Taniec
+Klasyka
+Wysoki d?wi?k
+Zabawa
+Pop
+Rock
+
+
+
+
+Pilna wiadomo??
+W trakcie
+
+Profil 1
+Profil 2
+Profil 3
+Ustawienia profilu
+Ustawienia po??cze里
+Nazwa profilu
+Serwer
+Auto Logowanie
+Typ po??czenia
+U?uj tryb Proxy
+Serwer Proxy
+Port Proxy
+Nazwa u?ytkownika do trybu Proxy
+O mnie
+Pogl?dacz listy
+Skasuj kontakt
+Wy?lij/Czytaj wiadomo??
+Zablokuj
+Odblokuj
+Dodaj kontakt
+Pokoje czatowe
+Zarz?dzaj grupami
+
+M車j profil
+Status
+Nastr車j
+Moje Zdj?cia
+Wybierz plik
+
+Podczas po??czenia
+Poza po??czeniem
+Nieobecny
+Zadowolony
+Smutny
+Z?y
+Zazdrosny
+Zawstydzony
+Niepokonany
+Zakochany
+?pi?cy
+Zmartwiony
+Podniecony
+Zaniepokojony
+Szukaj kontakt車w
+Wynik wyszukiwania
+Numer telefonu
+Login
+Adres email
+Skasuj nazwe u?ytkownika
+Profil nieskonfigurowany
+Wybierz z pliku
+Rozmiar za du?y
+Lista kontaktowa
+Szukaj w ksi??ce kontaktowej
+Poprzez Nazw?
+Poprzez Status
+Poprzez Grup?
+Wklej symbol
+Zapro? znajomego
+Zapisz login
+Siebie
+Skasuj nazw? pliku
+Nazwa pliku za d?uga
+Skasuj wej?cie
+Przejdz do
+Otw車rz pok車j czatu
+
+Nazwa
+Tytul rozmowy
+Witaj
+Login
+W?a?ciciel
+U?ytkownik do??czy?
+Do??cz
+Lista cz?onk車w
+Ujawnij ID u?ytkownika
+Maskuj
+Poka?
+Grupa nie zosta?a usuni?ta
+Istniej?ce kontakty
+Wybierz grup?
+<Anonimowy>
+Zaproszenie
+<Brak powodzenia w wysy?aniu Wiadomo?ci>
+Zapraszanie
+Brakuje do zaproszenia:
+Jeste? w pokoju czatu
+Aktualizacja
+Us?ugi niedost?pne
+Jeszcze nie zalogowany
+Ju? zalogowany
+Brak po??czenia
+Has?o nieprawid?owe
+Nieprawid?owa nazwa u?ytkownika
+Nieprawid?owy serwer
+Pok車j czatu pe?ny
+Pok車j istnieje
+Pok車j nie istnieje
+Pok車j czatu niedost?pny
+Przerwanie niemo?liwe
+Brak powodzenia w autoryzacji
+Brak czasu na zapytanie
+Kryteria zbyt proste
+Wysy?anie wiadomo?ci si? niepowiod?o
+Karta kontaktowa pe?na
+Grupa pe?na
+Powielono wy?wietlon? nazw?
+Juz jeste? w pokoju czatu
+Pok車j czatu pe?ny
+Brak rezultatu w wyszukiwaniu
+Nieprawid?owy numeru Portu
+Skasuj nazw?
+Skasuj login
+
+
+Nowy pok車j czatu otwarty
+Napisz wiadomo??
+Brak miejsca
+?adna grupa nie zosta?a utworzona
+B??d nieznany!
+Nieprawid?owe zapytanie
+Problem sesji
+Problem obecno?ci
+Serwer nieobs?ugiwany.
+Wysy?anie zapytania nie powiod?o sie.
+B??d odbioru zapytania.
+Zapytanie odrzucone przez odbiorc?.
+B??d pliku dost?powego
+Dane kontaktu niegotowe
+Sie? zaj?ta
+
+
+
+
+
+
+
+
+
+
+Przegl?daj dane szczeg車?owe kontaktu
+Prosz? spr車bowa? ponownie
+Zaproszenie
+Serwer roz??czony
+Opusci? pok車j czatu
+Zmie里 pseudo
+Podpisz informacj? obecno?ci
+Nadawanie wiadomo?ci
+Dodaj bezpo?rednio
+Nazwa pokoju
+Do??cz do istniej?cego pokoju czatu
+Nieprawid?owy format nazwy
+Pok車j czatu zamkni?ty
+Nowe zaproszenie
+Mo?esz u?y? Pilnej Wiadomo?ci,
+Identyfikator pokoju czatu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skasuj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pismo r?czne
+Kalibracja d?ugopisu.
+Szybko?? d?ugopisu.
+Kolor d?ugopisu.
+Kreator kalibracji. Musisz skalibrowa? ekran dotykowy
+Kliknij w g車rnym lewym punkcie.
+Kliknij w dolnym prawym punkcie.
+Kliknij w centralnym punkcie.
+Audio Player
+Video Recorder
+Video Player
+Camera
+AV Zone
+
+Entertainment
+System
+Schedule FM Record
+Plug earphone when recording!
+Channel Setting
+Channel List
+Manual Input
+Record Setting
+Repeat
+Once
+Everyday
+Weekly
+Monthly
+Record Format
+Record File
+New File
+Append File
+Recording
+Bad Format
+Invalid Format
+Device Busy
+Can't Open
+Drive Not Found
+Write Protection!
+Frequency: 87.5 ~ 108
+Filename too long
+Filename Empty
+File Exists
+End time must greater than start time
+Start time must greater than current time
+Record time overlapped
+System Interrupted
+User Stop
+User Pause
+Use default file to record
+Record time expired
+Invalid FM frequency
+Can't create folder
+
+
+
+
+
+
+Flight Mode
+Normal Mode
+Flight Mode
+Query When Power On
+Are you sure to switch mode?
+Mode Switching
+Smart DA
+Smart da
+Smart CZ
+Smart cz
+Metoda s?ownikowa PO
+Metoda s?ownikowa po
+Metoda s?ownikowa - FI
+Metoda s?ownikowa - fi
+Smart HG
+Smart hg
+Language set to Danish
+Language set to Czech
+Language set to Polish
+Ustaw j?zyk na Finnish
+Language set to Hungarian
+Error in Set Danish
+Error in Set Czech
+Error in Set Polish
+B??d w ustawianiu j?zyka Finnish
+Error in Set Hungarian
+Metoda s?ownikowa - NO
+Metoda s?ownikowa - no
+Metoda s?ownikowa - NL
+Metoda s?ownikowa - nl
+Metoda s?ownikowa - SK
+Metoda s?ownikowa - sk
+Multitap Arabic
+Ustaw j?zyk na Norwegian
+Ustaw j?zyk na Dutch
+Ustaw j?zyk na Slovak
+B??d w ustawianiu j?zyka Norwegian
+B??d w ustawianiu j?zyka Dutch
+B??d w ustawianiu j?zyka Slovak
+Metoda s?ownikowa - SV
+Metoda s?ownikowa - sv
+Ustaw j?zyk na Swedishjski
+B??d w ustawianiu j?zyka Swedish
+Ustaw j?zyk na Croatian
+B??d w ustawianiu j?zyka Croatian
+Metoda s?ownikowa - HR
+Metoda s?ownikowa - hr
+Metoda s?ownikowa - RO
+Metoda s?ownikowa - ro
+Ustaw j?zyk na Romanian
+B??d w ustawianiu j?zyka Romanian
+Smart SL
+Smart sl
+Language set to Slovenian
+Error in Set Slovenian
+B??d w ustawianiu j?zyka Hebrew
+Tradycyjne wpisywanie - Hebrew
+Metoda s?ownikowa - Hebrew
+Metoda s?ownikowa - EL
+Metoda s?ownikowa - el
+Ustaw j?zyk na Greek
+B??d w ustawianiu j?zyka Greek
+ (Stopping)
+Stop other applications to release memory
+Stop
+Wait
+Starting New Application
+Application Stopped
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smart Hindi
+Tradycyjne wpisywanie - BG
+Tradycyjne wpisywanie - bg
+Metoda s?ownikowa - BG
+Metoda s?ownikowa - bg
+Ustaw j?zyk na Francuski
+B??d w ustawianiu j?zyka Francuskiego
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+????????????? ???????? ??????
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skasuj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Us?ugi internetowe
+Zak?adki
+Edytuj zak?adk?
+Dodaj zak?adk?
+Ostatnio otwierane strony
+Wprowadz adres
+Wybierz profil
+Edytuj profil
+Strona domowa
+Ustaw jako strone domow?
+Tytu?
+Opcje wybierania
+Wyczy?? bufor podr?czny
+Zaufane certyfikaty
+W??cz profil
+Przerwa
+Poka? obrazki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Od??czony
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Certyfikaty u?ytkownika
+
+
+Klucz prywatny
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ustawienia j?zyka Hinduskiego
+B??d w ustawianiu j?zyka Hinduskiego
+Tradycyjne wpisywanie - Hinduijski
+Metoda s?ownikowa - Arabski
+Ustaw j?zyk na Malajski
+B??d w ustawianiu j?zyka Malajskiego
+Multitap Persian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Opcja
+
+
+
+
+
+
+
+
+
+Language set Tamil
+B??d w ustawianiu j?zyka Tamil
+Tradycyjne wpisywanie - Tamil
+Language set Urdu
+B??d w ustawianiu j?zyka Urdu
+Tradycyjne wpisywanie - Urdu
+Tradycyjne wpisywanie - Bengali
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prawa autorskie:
+Chronione
+Niechronione
+Niesko里czony
+U?ycie lewego licznika
+Uprawnienia rozpocz?cia czasu:
+Uprawnienia zako里czenia czasu:
+
+
+
+
+
+
+
+
+
+Aktywny
+
+
+
+
+Skasuj
+
+
+
+
+
+
+
+
+
+B??d nieznany!
+
+
+
+
+
+
+
+Nieznany
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language set Punjabi
+B??d w ustawianiu j?zyka Punjabi
+Tradycyjne wpisywanie - Punjabi
+Language set Telugu
+B??d w ustawianiu j?zyka Telugu
+Tradycyjne wpisywanie - Telugu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+W?a?ciwo?ci
+
+Przenie? do roboczych
+(bez tematu)
+U?yj numer
+
+List numer車w
+
+No Number!
+No Email ID!
+
+
+
+
+
+
+
+Typ:
+
+
+
+Wysy?anie wiadomo?ci niepowiod?o si?
+
+Downloading Aborted!
+Od:
+Temat:
+
+Do:
+Status:
+
+
+
+
+Okres wa?no?ci
+1 godzina
+12 godzin
+1 dzie里
+1 tydzie里
+Czytaj raport
+
+Natychmiastowy
+
+Ukryj numer
+
+?adowanie odpowiedzi 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wa?no?? utracona.
+
+
+
+
+
+
+
+
+
+
+Lista za??cznik車w
+
+Wszystkiego najlepszego z okazji urodzin
+Zadzwo里 do mnie
+Trzymaj sie zdrowo
+Nie mam teraz czasu
+Przyjad? tam pozniej
+T?sknie za tob?
+Dzi?kuje Ci
+Gdzie teraz jeste??
+Co? nie w porz?dku. Musz? odwo?a? spotkanie.
+Wszystko w porz?dku.
+
+
+
+Ustawienia MMS
+
+Wysy?anie
+Wyszukiwanie
+
+
+
+
+
+
+Ostrze?enie
+
+
+
+Auto podpis
+
+
+Sie? domowa
+Roaming
+Filtry
+Na zadanie
+Nigdy nie wysy?aj
+Anonimowe
+
+Og?oszenie
+Zezwalaj
+Odrzu?
+Potwierdzenie
+Prze?o?one.
+Jako domowy
+
+
+
+
+
+
+
+Data utworzenia:
+Data otrzymania:
+Nie dozwolony!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+U?yj URL
+Potwierdzenie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Status:
+
+
+
+
+
+
+
+
+Skasuj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Odpowiedz wszystkim
+Wpisz wiadomo??
+
+
+Zapisz jako szablon
+
+
+
+
+
+Edytuj profil
+
+
+
+
+
+
+Nowa wiadomo?? MMS 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nieznany
+
+
+
+
+
+Zabezpieczenie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Utw車rz folder
+Kopiuj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nieznany
+
+
+
+
+
+
+
+Nieznany
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+D?wi?k wiadomo?ci
+
+
+Pomieszna funkcja
+
+
+
+
+
+
+
+Nieprawid?owy kod PIN! Kod PIN jest zablokowany.
+Zachowa? ten certyfikat?
+Certyfikat niezaufany, kontynuowa??
+Zapisa? wymazuj?c ten sam certyfikat?
+Zapisa? wymazuj?c istniej?cy stary certyfikat?
+Zapisa? wymazuj?? istniej?cy nowy certyfikat?
+B??d certyfikatu, kontynuowa??
+Brak certyfikatu u?ytkownika, kontynuowa??
+
+Certfikat zosta? zachowany.
+Certyfikat nie mog? zosta? zachowany.
+
+Nie mo?na by?o usuna? kontraktu.
+Nie mo?na pokaza? certyfikatu
+
+
+Ok
+Ok
+Anuluj
+Tak
+Nie
+Wybierz
+Anuluj
+?cie?ka dost?pu za g??boka
+
+
+
+
+
+
+Wystawca:
+Wa?ny niewcze?niej:
+Wa?ny nie p車?niej:
+Temat:
+Typ:
+Wersja:
+
+
+
+
+
+
+Skasuj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wej?cie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dodaj
+Nieznany
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Klucz prywatny
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nieprawid?owe wej?cie
+
+
+
+
+
+
+
+
+Skasuj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+B??d w formacie wej?ciowym
+Skre?lony
+
+Wy?lij eMail
+
+
+
+
+Calendar Idle Screen
+
+
+Skre?lony
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MTK
+Profil eMail
+Profil
+Ustawienia profilu
+Nazwa profilu
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MTK
+MTK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Currently not available
+Not available during the call
+
+Dialled calls
+
+
+
+Skre?lony
+
+
+
+
+
+
+
+
+
+
+File not found
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Karta pami?ci
+
+
+
+
+
+
+
+
+
+
+
+Telefon
+
+
+Please input the filename
+Preferowane przechowywania
+
+
+
+
+
+Received calls
+
+
+
+
+
+
+
+
+
+
+
+Send text message
+Send multimedia message
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New SIM2 Setting
+New SIM1 Setting
+
+
+
+
+
+
+
+
+
+Ramka 1
+Ramka 2
+Ramka 3
+Ramka 4
+Ramka 5
+Canceled
+
+MTK
+
+
+
+Skasuj
+Erase selected template?
+Cancel this setting guide?
+Delete selected account?
+Delete selected address?
+Delete all addresses?
+Delete selected attachment?
+Delete selected Email?
+Empty file
+
+
+
+Skasuj
+
+MTK
+MTK
+Skasuj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MTK
+Skasuj
+MTK
+MTK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skasuj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prosz? w?o?y? kart? pami?ci
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+
+Phone MAC: 
+MTK
+Emailing: 
+
+Number of access point
+Send SMS?
+MTK
+MTK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+MTK
+tagi?
+Skasuj wszystko
+
+
+Prosz? w?o?y? kart? pami?ci
+
+
+MTK
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MTK
+MTK
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+B??d nieznany!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Secondary account
+Primary account
+USSD List
+No USSD
+Clear all
+Continue
+
+
+
+
+
+Dialler search
+Add to contacts
+Cancelled
+
+IPSec settings
+Policy settings
+IKE settings
+Source port
+Source address
+Dest port
+Dest address
+IPSec mode
+Tunnel port
+Tunnel address
+Algorithm
+AH authentication
+ESP authentication
+ESP encryption
+Pre-shared key
+Encryption Method
+DH Group
+Port number out of range
+Empty port number
+Tunnel mode
+Transport mode
+Processing
+All options set none
+Clear all events
+More mailboxes
+Subscribe
+Unsubscribe
+Detailed name
+Syncing mailboxes
+
+
+ICE contact
+
+
+
+
+
+Messages updated
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skasuj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skasuj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kopiuj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skasuj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Typ:
+
+
+Nieznany
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skopiowane
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+B??d nieznany!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pozycja ju? istnieje
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jest
+
+
+
+
+
+
+
+
+
+
+Wszystkie piosenki
+
+
+
+
+Dodaj do listy odtwarzania
+
+
+Skasuj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Przenie?? na kart? SIM
+Przenie? do telefonu
+
+
+
+Kopiuj do SIM
+Kopiuj do telefonu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIM1
+SIM2
+
+
+
+
+
+
+
+
+
+
+
+
+Skasuj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tryb Milczy  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+D?wi?k wiadomo?ci
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stanowisk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIM2
+SIM1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Niedziela
+Poniedzia?ek
+Wtorek
+Czwartek
+Pi?tek
+?roda
+Sobota
+
+
+Month:
+Day:
+Year:
+Festival:
+Festival list
+Send hijri date
+Go to calendar
+Hijri date
+Niedziela
+Poniedzia?ek
+Wtorek
+?roda
+Czwartek
+Pi?tek
+Sobota
+Description:
+Date:
+
+
+
+Online certyfik. sprawdzenie
+Domy?lny adres www.
+Musz? by? przekazywane
+Certyfikat zatwierdzenia
+
+
+
+
+
+
+
+
+
+
+
+B??d drukowania, kontynuowa??
+Powi?ksz
+Pomniejszy?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIM1
+SIM2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prosz? w?o?y? kart? pami?ci
+
+
+
+
+
+
+
+Wy?lij jako e-mail
+
+
+
+
+
+
+
+
+
+
+
+
+
+Preferowane przechowywania
+Telefon
+Karta pami?ci
+Karta pami?ci usuni?te
+sk?adowania:
+Przenie? do telefonu
+Przenie?? na kart? pami?ci
+Kopiuj do telefonu
+Kopiuj do karty pami?ci
+Przenie? do telefonu?
+Przenie?? na kart? pami?ci?
+Kopiuj do telefonu?
+Kopiuj na kart? pami?ci?
+Skopiowane do pami?ci karty
+Skopiowano do pami?ci telefonu!
+Przeni車s? si? do karty pami?ci
+Przeniesiono do pami?ci telefonu!
+Pami?? telefonu, pe?ny, nale?y u?y? karty pami?ci?
+Karta pami?ci pe?nego wykorzystania telefonu?
+Karta pami?ci usuwane, telefon u?ywa??
+D?wi?k wiadomo?ci
+Stanowisk
+
+
+
+
+
+
+Wybierz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Usun?? wszystkie grupy?
+
+Dodaj przypomnienia o urodzinach
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+W??cz tryb nocny
+Wy??cz tryb nocny
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nie dokona?a po??czenia g?osowego
+Ponowne wybieranie po??czenia g?osowego
+Ponowne wybieranie g?osowe SIM1
+Ponowne wybieranie g?osowe SIM2
+Obecnie zasi?g 3G
+
+Prosz? w?o?y? kart? pami?ci
+Karta pami?ci usuwane, telefon u?ywa??
+Max liczba osi?gn??a msg, telefon u?ywa??
+Max liczba osi?gn??a msg, karty pami?ci u?y??
+Kopiuj
+Nie mog? by? kopiowane
+Nie wiadomo?ci
+Wszystkie wiadomo?ci
+Przenie?? na kart? SIM
+Kopiuj do SIM
+Przenie? do telefonu
+Kopiuj do telefonu
+Wysokiej jako?ci s?uchawki
+S?uchawki dobrej jako?ci
+S?uchawki z normaln? jako?ci?
+Udost?pnianie jako?ci
+Zapisz si? do SIM1
+Zapisz si? do SIM2
+
+
+
+
+
+
+
+
+
+
+
+
+SIM1
+SIM2
+
+
+
+
+
+
+
+
+
+
+
+
+Srebro (za gm)
+
+
+
+
+
+WLAN aktywna w tle
+Od??czony
+Przejd? do zak?adki nie powiod?o si?
+Czyszczenia nie
+cert WAI.
+Ustawienia PSK WAI
+certyfikat車w ASE
+WAI PSK format
+Klucz prywatny
+Certyfikaty u?ytkownika
+cert WAI. Ustawienia
+Niedziela
+Poniedzia?ek
+Wtorek
+?roda
+Czwartek
+Pi?tek
+Sobota
+
+SIM1
+SIM2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wszystkie piosenki
+
+
+
+
+Wszystkie filmy wideo
+
+
+
+
+
+
+Dodaj do listy odtwarzania
+
+
+
+
+
+
+
+
+Wszystkie utwory kuro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wersja ?le
+Max us?ugi wsparcia
+crash pami?ci
+crash w bazie
+Image b??d
+Dart b??d
+Plik ju? istnieje
+Odczyt / zapis b??d
+Zniszcz nie
+Bazy danych B??d odczytu / zapisu
+B??d krytyczny
+B??d nieznany!
+Parametr b??d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Telefon
+
+Karta pami?ci
+
+Skasuj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skre?lony
+
+
+
+
+
+
+
+
+
+
+
+
+Prosz? w?o?y? kart? pami?ci
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIM1
+SIM2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Od??czony
+Pobieranie nie powiod?o si?. Wielko?ci powy?ej
+Attachment (s) zbyt du?y, aby doda?
+
+
+
+Karta pami?ci usuni?te
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dodaj
+
+
+
+
+
+
+
+Dodaj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kopiuj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wybierz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powi?ksz
+Pomniejszy?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pi?tek
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wtorek
+
+
+
+
+
+
+
+
+Poniedzia?ek
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Niedziela
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+?roda
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Po?芍dali jste, aby upozor防oval na certifik芍ty od \u0026'% 1 \\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wy?lij jako MMS
+Wy?lij jako e-mail
+Wy?lij przez Bluetooth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Karta pami?ci usuni?te
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nie wiadomo?ci
+D?wi?k wiadomo?ci
+Stanowisk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Typ:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skasuj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+odtwarzania muzyki
+Wszystkie utwory kuro
+
+
+
+
+
+Karta pami?ci usuni?te
+Prosz? w?o?y? kart? pami?ci
+
+Wszystkie piosenki
+Wszystkie filmy wideo
+Skasuj
+Id? do biblioteki
+Tworzenie listy odtwarzania i doda? utwory do gry.
+Prosz? utworzy? list? odtwarzania i doda? utwory do gry.
+Nie ostatnio odtwarzanych utwor車w. Prosz? ponownie wybra? do gry.
+Nie ostatnio odtwarzanych utwor車w. Prosz? wybra?, aby gra?.
+Dodaj do listy odtwarzania
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skre?lony
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Preferowany j?zyk tekst車w
+G?車wne J?zyk pisania
+Sub J?zyk pisania
+
+
+
+
+
+
+
+Tryb Milczy  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nie wiadomo?ci
+
+
+
+
+
+
+Nieznany
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Od:
+Data utworzenia:
+Data otrzymania:
+Status:
+sk?adowania:
+Typ:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Filtrowanie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wiadomo?ci
+
+
+
+
+
+
+
+Nieznany
+
+Wy?lij jako MMS
+Wy?lij jako e-mail
+Wy?lij przez Bluetooth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Operatorul solicit? instalarea unei aplica?ii, Permite?i acest lucru? Dac? selecta?i nu, atunci se va renun?a la solicitare.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+???? ?????????? ?? ????????? ?? ?????? ???? ?? ???? ???? ????????? ?????????? ?? ???? ???? ?? ??? ??? ?????? ?? ????? ?? ??? ?? ?? ???? ???? ?? ?????????? ?? ??????? ?? ???? ??? ????? ?? ?????? ???? ???
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Has?o zakazu po??cze里 
+Stare has?o:
+Nowe has?o:
+Zatwierdz nowe has?o:
+
+
+
+
+
+Maxim芍lis sz芍m el谷rve, egyes alkalmaz芍sok nem jelen赤thet?k meg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

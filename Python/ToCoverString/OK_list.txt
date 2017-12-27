@@ -1,0 +1,2081 @@
+
+Polish New (720
+*#0048#
+OK
+Wr車?
+Opcje
+Tak
+Nie
+Usu里
+Wykonano
+Zapisano
+Zapisz
+Zapisa??
+Zapisywanie
+Nieuko里czono
+Usu里
+Anuluj
+Anulowanie
+Brak wpisu
+Edytuj
+Aktywuj
+Wy??cz
+Tryb wpisywania
+U?yj szablonu
+Wy?lij
+Odpowiedz
+W??cz
+Wy??cz
+<Pusty>
+Przerwij
+Dodaj
+Usu里 wszystko
+Po??cz
+B??d
+Normalny
+?aden
+Wybierz
+Podgl?d
+Niew?a?ciwy format
+Niedost?pny
+Nieprawid?owy
+Nieprawid?owy adres URL
+Zablokowany
+Przetwarzanie
+Brak pliku DRM
+B??d dost?pu do pliku
+B??d formatu pliku
+Nazwa pliku
+Otw車rz
+Zamknij
+Wyjd?
+Szybko
+Wolno
+Szukaj
+Wyszukiwanie
+Przerywanie
+Prosz? czeka?
+Pobierz
+Pobra??
+Pobieranie
+Instaluj
+Zaj?ty
+Akceptuj
+Nazwa u?ytkownika
+Aktualizuj
+Has?o
+Uwierzytelnienie
+W??czony
+Czytaj
+Akceptuj
+Niedziela
+Poniedzia?ek
+Wtorek
+?roda
+Czwartek
+Pi?tek
+Sobota
+Odrzu?
+S?uchawki pod??czone
+S?uchawki od??czone
+Menu
+Menu g?車wne
+Kontakty
+Wiadomo?ci
+Rozrywka
+Organizer
+Profile
+Ustawienia
+Skr車ty
+Us?ugi sieciowe
+W??cz
+Witaj
+Multimedia
+Po??czenie IP
+Dodatki
+Mened?er plik車w
+Kontakty
+Wy?lij SMS
+Szukaj kontaktu
+Nowy kontakt
+Podgl?d
+Szukaj
+Wprowad? nazw? i numer
+Wprowad? nazw? albo numer
+Wprowad? nazw?
+Wprowad? numer
+Pami?? pe?na!
+Pami?? SIM pe?na!
+Pami?? telefonu pe?na!
+Brak pozycji!
+Kontakty
+Edytuj wpis
+Widok kontakt車w
+Nazwa
+Wczytywanie kontakt車w
+Wybierz pami??
+Dodano
+Nowy kontakt
+Numer alarmowy
+Brak nr do po??czenia!
+Grupy os車b
+Grupy os車b
+Opisy grup os車b
+Tytu? grupy
+Przyjaciele
+Rodzina
+VIP
+Biznes
+Inni
+Lista cz?onk車w grupy
+Zdj?cie 1
+Zdj?cie 2
+Zdj?cie 3
+Zdj?cie 4
+Powiela
+Kasowanie
+Sortowanie eMaili wed?ug
+Numer za d?ugi! Maximum = 40
+Wybierz numer
+Nie przeniesiono, numer za d?ugi!
+Nie skopiowano, numer za d?ugi!
+Nie powielono, numer za d?ugi!
+Nazwa
+Numer kom車rkowy
+Nie zapisano, numer za d?ugi
+Skopiowano, nazwa zmieniona
+Przeniesiono, nazwa zmieniona
+Skopiowane
+pozycja skopiowana
+pozycje skopiowane
+Numer w?a?ciciela
+Skasuj list? numer車w w?a?ciciela!
+Nazwa w?a?ciciela
+Usu里
+Numer domowy
+Nazwa firmy
+Adres eMail
+Numer s?u?bowy
+Numer faksu
+Grupa os車b
+Urodziny
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pozycja usuni?ta
+
+
+pozycje usuni?te
+Dodatkowe numery
+Z pliku
+Numery SOS
+Numer SOS
+W telefonie
+W SIM
+Num. telefonu obs?. klienta
+Wybieranie g?osowe 
+M車j numer
+Edytuj m車j numer
+Wy?lij wizyt車wk?
+Wy?lij wizyt車wk?
+Pliki audio nie istnieje
+Z pliku
+Usu里 odno?niki
+Nie wybrano ?adnego pliku
+Do nowej pozycji
+Do wybranej pozycji
+Do grupy
+Wybrano plik
+Dodawanie zdj?cia nie powiod?o si?
+Dodawanie wideo nie powiod?o si?
+D?wi?k wideo
+Uruchom wideo.
+B??d powielania!
+Szybkie wyszukiwanie
+Obraz wideo rozm車wcy
+Wideo 1
+Towarzysz?ce wideo
+
+
+
+
+
+
+
+
+
+Zdj?cie rozm車wcy
+D?wi?k dzwonka rozm車wcy
+Motyw nie znaleziony
+Numer zbyt d?ugi
+Nazwa za d?uga
+Numer z ? nie mo?e zosta? skopiowany
+Numer z w nie mo?e zosta? skopiowany do SIM
+Numeruj z ? nie mo?e zosta? przeniesiony
+Numer z w nie mo?e zosta? przeniesiony do SIM
+Numer z ? nie mo?e zosta? skopiowany
+Akceptuj z
+Zapisz
+do kontakt車w?
+Nowe kontakty w ksi??ce telefonicznej?
+Nowa lista kontaktu
+Zast?pi??
+Zapisz kontakt
+Ustaw. telefonu
+Godzina i data
+Nieprawid?owy wpis
+Strefa czasowa
+Ustaw dat? i format
+Ustaw godzin? i format
+Ustaw godzin?/dat?
+Zmiana godziny
+Ustaw format
+GG:MM
+Format czasu:
+Format daty:
+Tekst powitalny
+DD MM RRRR
+MM DD RRRR
+Separator daty
+Pami?? nie gotowa
+Spr車buj p車?niej
+Przywr車? ustawienia fabryczne
+Kod przyj?ty
+Zgoda na przywr車cenie ustawie里 i restart
+Przywracanie ustawie里
+ us?ugi sieciowe
+Wyb車r sieci
+Spis tryb車w
+Nowe wyszukiwanie
+Wyb車r sieci
+Wyb車r sieci
+Wyb車r sieci
+Preferowane sieci
+Wyb車r zakresu cz?stotliwo?ci
+us?ugi sieciowe
+Wyb車r sieci
+Wybor zakresu
+Lista sieci
+
+Preferowane sieci
+Stw車rz now?
+Dodaj z listy
+Zmie里 priorytet
+Niemo?na doda? sieci
+Lista PLMN (Public Land Mobil Network)
+
+
+
+Has?o nieprawid?owe!
+Has?o zablokowane!
+Wprowad? has?o
+Proste wybieranie
+Oszcz?dno?? energii
+Tapeta ekranu
+Kontrast
+Poka? numer w?a?ciciela
+Poka? nazw? operatora
+Wygaszacz ekranu
+Typ domy?lnego szyfrowania
+Styl g?車wnego menu
+Struktura
+Strona
+Obiegowy
+Obr車?
+Spis
+Planowanie W??cz/Wy??cz zasilania
+Zasilanie w??czone
+Zasilanie wy??czone
+Tapeta
+Poka? godzin? i dat?
+Dolna warstwa LCD
+Wy?wietlacz
+Status
+G?車wny LCD
+Licznik oszcz?dno?ci baterii
+Brak numeru!
+Tapeta
+Systemowa
+U?ytkownika
+Obrazek 2
+Obrazek 3
+Obrazek 7
+Obrazek 8
+Obrazek 9
+Obrazek 10
+Obrazek 11
+Obrazek 12
+Obrazek 13
+Obrazek 14
+Obrazek 15
+Obrazek 15
+Obrazek 4
+Obrazek 5
+Obrazek 6
+Animacja 2
+Animacja 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clock Type
+Zegar anologowy
+Zegar cyfrowy
+Animacja 4
+Animacja 5
+Animacja 6
+B??d, przywr車ci? domy?lne
+B??d zdj?cia, przywr車? domy?lne
+Animacja w??czania tel.
+Rozmiar czcionki
+Temat domy?lny
+Ma?y
+Du?y
+Animacja wy??czania tel.
+System
+U?ytkownika
+Inne ustawienia
+Dioda LED
+
+
+
+
+Ustalone po??czenie
+Zakaz po??czenia
+Pod?wietlenie
+Jasno??
+Czas (sek)
+Usun???
+Spis ustalonego po??czenia
+Tryb
+Zast?p ??§ cyfr?
+Kodu PIN musi by? aktywny!
+Wprowad? kod PUK
+FDN uruchomione
+FDN unieruchomione
+BDN uruchomione
+BDN uniemozliwione
+Karta SIM nie obs?uguje!
+Nazwa
+Numer
+Edytuj pozycj?
+Lista FDN
+Lista FDN
+Lista
+Tryb
+Cyfrowy
+Tradycyjny Chi里ski
+Uproszczony Chi里ski
+Pami?? pe?na!
+Tematy
+Miesieczny
+Sezonowy
+Okresowa aktualzacja
+Ustaw polecenie
+Godzinny
+Dzienny
+Tygodniowy
+Temat1
+Temat2
+Temat3
+Temat4
+Temat5
+Temat6
+Temat7
+Temat8
+Temat9
+Temat10
+
+
+
+
+
+
+B??d nieznany!
+
+
+
+Tematy
+Dane GSM 
+
+
+J?zyk
+Pref. metoda wprow.
+Rozrywka
+Po??czenia GPRS
+Ustawienia gry
+Gra : D?wi?k
+
+Gra : Wibracje
+
+
+
+Java : D?wi?k
+Java : Wibracje
+
+
+Java : Sie?
+
+
+Wolne miejsce na dane
+Rozmiar stosu
+
+
+
+Rozpocznij gr?
+Poziom gry
+Najlepsze wyniki
+Gra : Pomoc
+Rozpocznij ponownie
+Wynik
+Gry
+Wy?cig F1 
+(1)Unikanie zderzania z innymi pojazdami.\n(2)U?yj przycisk 2,4,6,8 aby kontrolowa? pojazd oraz 5 aby lata?.\n(3)Najazd na pojazd powoduje  umiej?tno?? latania.
+Wie?a Hanoi 
+Hanoi
+Poziom 1
+Poziom 2
+Poziom 3
+Poziom 4
+Przesu里 wszystkie ceg?y z pierwszej wie?y do innej wie?y\n(1)Ma?e ceg?y powinny by? k?adzone na du?ej cegle.\n(2)U?yj klawisz 2,4,6,8 aby przesun?? ceg?y.
+Bogactwa
+?atwy
+Normalny
+Trudny
+Z?ap poprawnie spadaj?ce przedmioty, inaczej stracisz punkty i moc.\nU?yj klawisz 4 i 6 aby przesun?? pude?ko w lewo i w prawo.
+Kolorowe pi?ki
+?atwy
+Normalny
+Trudny
+Uderzaj spadaj?ce pilki u?ywaj?c pi?eczek o tym samym kolorze.\n(1)U?yj klawisz 4 i 6 aby porusza? wyrzutni? pi?ek.\n(2)U?yj klawisz 2 aby podpali? pi?eczk? i klawisz  5 aby zmieni? kolor pi?eczki.
+W??
+?atwy
+Normalny
+Trudny
+W?? wyd?u?a si? poprzez zbieranie pozywienia.\n(1)U?yj klawisz 2,4,6,8 aby porusza? w??em.\n(2)Nie uderzaj w sciany ani w ogon w??a.
+Zderzanie
+Normalny
+Szybki
+Dokladny
+Smash zawiera 3 minigry\n(1)Normalna Gra. Uderza? w zwierz?ta, ale nie w szkielet.\n(2)Szybka Gra. Uderza? tak szybko jak potrafisz.\n(3)Dok?adna Gra. Uderza? w wybrane zwierz?ta.
+Lalka
+(1)Nacisnij na prawa strza?ke (lub klawisz 6) aby przesun?? szpony w prawo.\n(2)Nacisnij na doln? strza?ke (lub klawisz 8) aby rozszerzy? szpony .\n(3)Naci?nij na doln? strza?ke (lub klawisz 8) ponownie aby z?apa? lalk?..
+Mahjong
+?atwy
+Normalny
+Trudny
+
+Helikopter
+Kieruj helikopterem i uwa?aj, aby si? nie rozbi? na przeszkodzie.\n(1)U?yj klawisz 5 aby kierowa? si? w g車r?.
+Drive the copter and prevent it from crashing int
+Okr?t podwodny
+Kieruj okr?tem podwodnym i uwa?aj, aby si? nie rozbil na przeszkodzie.\n(1)U?yj klawisz 5 aby kierowa? si? w g車r?.
+Drive the copter and prevent it from crashing int
+Odrzutowiec
+Kieruj odrzutowcem i uwa?aj, aby si? nie rozbi? na przeszkodzie.\n(1)U?yj klawisz 5 aby kierowa? si? w g車r?.
+Drive the copter and prevent it from crashing int
+
+Taniec
+Staruszek musi na?ladowa? czynno?ci dziecka. Naci?nij klawisz 1,3,7,9, aby wykona? czynno?ci.
+Old man has to mimic child's actions. Click the c
+Magicsushi
+MagicSushi
+Remove sushi before time runs out by the followin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zapisa? zdj?cie?
+Uchwycanie...
+Kamera
+
+
+Ustawienia kamery
+Ustawienia obrazu
+Ustawienia efekt車w
+Scene Mode
+Dodaj ramke
+Dodaj ramke
+Dodaj ramke
+Dodaj ramke
+Kontynuacja zdj??
+Op車?nienie
+Samouchwycenie
+Przywr車? domy?lne
+R車wnowaga bieli
+Lampa b?yskowa
+B?yszcz?ca dioda emisyjna LED
+D?wi?k migawki
+Tryb nocny
+Zbli?enie
+Paskowanie
+AE Meter
+
+
+
+Rozmiar obrazu
+Jako?? obrazu
+Normalny
+Skala szaro?ci
+Sepia
+Zielona sepia
+Niebieska sepia 
+Negatyw
+Odwr車cenie szaro?ci
+Blackboard
+Whitebait
+Rze?bione w miedzi
+Rze?bione w niebieskim
+Wyt?aczanie
+Kontrast
+Jeans
+Szkic
+Olej
+Zwyczajny FX1
+Zwyczajny FX2
+Zwyczajny FX3
+Ustaw
+Edytuj efekty
+Restore Default
+Jasno??
+Nasycenie
+Kontrast
+Odcie里
+Wy??czony
+Ramka 1
+Ramka 2
+Ramka 3
+Ramka 4
+Ramka 5
+Ramka 6
+Ramka 7
+Ramka 8
+Ramka 9
+Ramka 10
+Ustaw
+Wy??czony
+1 Zdj?cie
+3 Zdj?cia
+5 Zdj??
+Impulsowe Zdj?cie
+Kafelkowe Zdj?cie
+Wy??czony
+
+
+
+Auto
+?wiat?o dzienne
+?wiat?o Wolframowe
+?wiat?o Fluoresencyjne
+Pochmurny
+?wiat?o ?ar車wki
+
+
+
+Wy??cz
+Bia?y
+Czerwony
+Zielony
+Niebieski
+?車?ty
+Purpurowy
+Niebiesko-zielony
+Wy??czony
+D?wi?k 1
+D?wi?k 2
+D?wi?k 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wy??czony
+W??czony
+Dok?adny
+Wysoki
+Normalny
+Niski
+Wy??cz
+W??czony
+Automatyczny
+Red Eye Reduction
+Auto
+Spot
+Weight
+Average
+Auto
+
+
+
+
+
+Karta pami?ciowa jest zablokowana.\nZapis na karcie nie mo?liwy
+Modu? kamery nie jest gotowy
+B??d kamery
+Prze??cz podgl?d do podwy?wietlacza SubLCD
+Prze??cz podgl?d do g?車wnego wy?wietlacza MainLCD
+Naci?nij na * aby prze??czy? do g?車wnego wy?wietlacza MainLCD
+Uchwycanie...
+Impulsowe uchwycanie...
+Zapisywanie...
+
+Przywr車ci? domy?lne?
+Zapisa? zdj?cie?
+Jedynie rozmiar uchwycania g?車wnego wy?wietlacza LCD zezwala na dodanie ramki
+Uchwycania niepowiod?o si?
+Migawka
+Uchwycanie
+
+
+
+Wybierz styl
+Lista styl
+ Struktury Styl
+
+
+Zmiana
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zawsze
+Je?li potrzebny
+Odtwarzacz wideo
+Pami?? nie gotowa
+Nieprawid?owy plik
+Karta pami?ci zablokowana
+B??d zdj?cia
+Nieprawid?owe ustawienie
+
+
+
+
+Nieprawid?owa rozdzielczo??
+Zast?pi? istniej?ce pliki?
+B??d odtwarzania
+
+
+
+
+Usun?? histori??
+
+Historia usuni?ta
+BT dzia?a! Wy??cz
+Plik za du?y, nie mo?na otworzy?
+Uaktywnij Streaming?
+Nagrywarka wideo
+Do odtwarzacza
+Ustawienia CamCoder'a
+Ustawienia wideo
+Ustawienia efekt車w
+Przywr車ci? domy?lne?
+R車wnowaga bieli
+Rozja?nienie wy?wietlacza LED 
+Tryb nocny
+Paskowanie
+
+Jako?? wideo
+Ograniczenie rozmiaru pliku
+Ograniczenie czasu nagrywania
+Nagranie Audio
+Format kodowania
+Normalny
+Skala szaro?ci
+Sepia
+Zielona sepia
+Niebieska sepia 
+Negatyw
+Odwr車cenie szaro?ci
+Blackboard
+Whiteboard
+Rze?bione w miedzi
+Rze?bione w niebieskim
+Uwypuklenie
+Kontrast
+Jeans
+Szkic
+Olej
+Dodaj ramke
+Wy??czony
+Ramka 1
+Ramka 2
+Ramka 3
+Ramka 4
+Ramka 5
+Ramka 6
+Ramka 7
+Ramka 8
+Ramka 9
+Ramka 10
+Ustaw
+Auto
+?wiat?o dzienne
+?wiat?o Wolframowe
+?wiat?o Fluoresencyjne
+Pochmurny
+?wiat?o ?ar車wki
+
+Wy??czony
+Bia?y
+Czerwony
+Zielony
+Niebieski
+?車?ty
+Purpurowy
+Niebiesko-zielony
+Wy??czony
+W??czony
+Dok?adny
+Wysoki
+Normalny
+Niski
+Bez ogranicze里
+Bez ogranicze里
+15 sek
+30 sek
+60 sek
+Wy??czony
+W??czony
+Dysk pe?ny
+
+Karta pami?ciowa jest zablokowana.n\Zapis na karcie nie mo?liwy
+Modu? camCodera nie jest gotowy.
+B??d w nagrywaniu
+Przywr車ci? domy?lne?
+Zapisywanie...
+
+
+
+
+Nagrywanie
+Edytor zdj??
+Slide Show
+Select a folder to play
+Zacznij ponownie
+Type Of Play
+Szybko??
+Effect
+Efekty d?wi?kowe
+Horizontal View
+Auto Once
+Auto Repeat
+Niski
+?redni
+Szybki
+Normalny
+Fade In
+Podziel
+Wipe
+Random
+Wybierz z pliku
+Audio
+Audio
+Audio
+
+Jasno??
+Kontrast
+Autopowtarzanie
+D?ugo?? nieprawid?owa!
+Brak us?ugi
+Bateria roz?adowana
+?adowarka pod??czona
+?adowarka od??czona
+?adowarka USB pod??czona
+Od??czono USB
+Bateria roz?adowana, wy??czanie telefonu
+Ponowne wybieranie numeru:
+czasy\n
+Nast?pna pr車ba po??czenia za:
+sek.
+min.
+Bateria roz?adowana. Po??czenie niemo?liwe.
+Wstaw symbol
+Wybierz symbol
+Kasuj
+Raport dor?cze里
+Oczekuj?cy
+Raport
+Utw車rz wiadomo??
+Wstaw obiekt
+Lista URL 
+Brak URL
+Tre?? wiadomo?ci
+Formatuj tekst
+Rozmiar tekstu
+Styl tekstu
+Ustawienie tekstu
+Nowy paragraf
+Ma?y
+Szeroki
+Pogrubi?
+Italic
+Podkre?l
+Przekre?lony tekst
+Lewo
+Centralnie
+Prawo
+Lewo
+Centralnie
+Prawo
+Lista numer車w
+Powiod?o si?
+B??d
+Powiadomienie
+Brak pami?ci dla nowej wiadomo?ci przychodz?cej!
+Pami?? karty SIM zape?niona!
+Pami?? pe?na!
+Wysy?anie i zachowanie nie powiod?o si?
+Nowa wiadomo??
+Wiadomo?? od
+B??d odczytu!
+Obiekt istnieje!
+B??d nieznany!
+Temat przekroczony
+Przekroczono d?ugo?? wiad.
+Przekroczono d?ugo?? numeru
+Nazwa pusta
+Brak tre?ci
+B??dna zawarto??
+Zbyt du?a zawarto??
+Pusty numer centrum
+Skrzynka jeszcze nie gotowa
+Wiadomo?? SMS
+Dodaj do zak?adek
+Zapisz w roboczych
+Brak miejsca na adres e-mail
+Wiadomo?? SIM od
+Wiadomo?ci SIM
+Usu里 wiadomo?ci SIM
+Wiadomo?ci
+Utw車rz wiadomo??
+Wys?ane
+Usu里 folder
+Szablon
+Ustawienia 
+wiadomo??
+%u nieprzeczyt.
+Nie wys?ano, zachowano w skrzynce nadawczej
+Wys?ane i zachowane
+<Brak tematu>
+<Niekompletny>
+<Nieobs?ugiwany>
+Archiwum
+Usu里 archiwum
+Przenie?
+Wiadomo??(i)?
+Wiadomo??(i)
+
+
+
+
+
+
+Wy?lij ponownie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Moje zdj?cie
+Uprzednio ustalona animacja
+Moja animacja
+Melodyjka
+Moja melodyjka
+Uprzednio ustalony d?wi?k
+Spis temat車w
+Powielona nazwa! Wprowadz ponownie
+Smieje si?
+Jestem zadowolony
+Nastawiony sceptycznie
+Jestem smutny
+WOW!
+P?acze
+Mrugam
+Smieje si?
+Jestem oboj?tny
+Zakochany/Caluj?
+Jestem zmieszany
+Pokazuje j?zyk
+Jestem zly
+Nosze okulary
+Diabe?
+Wysoki d?wi?k dzwon車w
+Niski d?wi?k dzwon車w
+Ding
+TaDa
+Powiadom
+B?benki
+Klaskanie
+Fanfara
+Wysoki akord
+Niski akord
+Rozmiar tematu niedozwolony
+Nie mo?na usun??
+Nie mo?na przenie??
+Naci?nij klawisz centralny lub zaznacz wybran? opcj?, aby w?./wy?.
+Us?ugi
+WAP
+Numer informacji
+Wybierz
+Skr車ty
+
+
+Ok
+W g車r?
+W d車?
+Lewo
+Prawo
+Chcesz zadzwoni? w preferencyjnej taryfie?
+Przepraszamy! Ten numer jest niedost?pny podczas roamingu!
+Karta SIM nie obs?ugiwana!
+Odtwarzacz audio
+Lista odtwarzania
+Z telefonu
+Z Karty
+Dodaj do dzwonk車w
+Usun???
+Usu里 wszystko
+Usun?? wszystko?
+
+Sk車rka1
+Sk車rka2
+Sk車rka3
+Od?wie? list?
+Ustawienia odtwarz.
+Ustaw. widoku
+Jeden
+Sk車rka
+Wszystko
+Lista gener. autom.
+Lista odtwarzania
+
+
+
+
+
+
+Kana?
+Jako??
+Mono
+Stereo
+Tytu?
+Artysta
+Album
+Rodzaj
+Rok
+Czas
+Rozmiar
+Powt車rz
+Losowo
+Odtwarzanie w tle
+B??d, Nie mo?na zaktualizowa?
+Lista pe?na
+Nie mo?na otworzy?
+B??d odtwarzania
+Urz?dzenie zaj?te
+B??dny format
+Limit pliku przekroczony
+B??d zawarto?ci audio
+Brak ?cie?ki audio
+Zawarto?? audio nieobs?ugiwana
+Plik w innej pami?ci
+Kana? nieobs?ugiwany
+Cz?stotliwo?? nieobs?ugiwana
+Typ nieobs?ugiwany
+Nie mo?na zatrzyma?
+Nowy zapis
+Dyktafon
+Do??cz
+Dodaj do dzwonk車w
+Format pliku
+Nie mo?na otworzy?
+Brak karty pami?ci
+B??d polecenia
+Urz?dzenie zaj?te
+B??d audio
+Mo?na nagra? wi?cej ni?
+B??dny format
+Zarezerwowany b??d
+B??d argumentu
+Nap?d nie znaleziony
+Zbyt du?o plik車w
+Nie dodawa? wi?cej plik車w
+Nieprawid?owe media
+Nieprawid?owy plik systemowy
+Pliku nie znaleziono
+Nieprawid?owe obchodzenie si? z plikiem
+Urz?dzenie nie obs?ugiwane
+Funkcja nap?du nie obs?ugiwana
+Partycja uszkodzona
+Za du?o nap?d車w
+Nieprawid?owe po?o?enie pliku
+Dost?p zastrze?ony
+Pami?? buforowa napisu za ma?a
+B??d og車lny
+?cie?ka dost?pu nieodnaleziona
+Fatalny b??d alokacji
+G?車wny katalog pe?ny
+Czas przerwy:
+Niew?a?ciwy sektor
+B??d danych
+Media zmienione
+Sektor nieodnaleziony
+Cecha adresu nieodnaleziona
+Nap?d nie jest gotowy
+Wpisz zabezpieczenie!
+Przekroczenie Dma
+B??d Crc
+B??d urz?dzenia zr車d?owego
+Nieprawid?owy rozmiar sektora
+Pami?? buforowa napisu za ma?a
+Plik istnieje
+Umiejscowienie d?ugiego pliku
+Plik zbyt obszerny
+Niew?asciwa pozycja skorowidza
+Tylko czytaj
+Za?amanie systemu
+Urz?dzenie zaj?te
+Przerwany
+B??d podstawy dysku
+?cie?ka dost?pu za g??boka
+Niewystarczaj?ce zasoby
+Niewystarczaj?ce zasoby
+MSDC B??d podstawy
+MSDC B??d sektora czytania
+MSDC B??d sektora pisania
+MSDC B??d sektora odrzucania
+MSDC Nie jest gotowy
+MSDC Jest nieobecny
+B?yskawiczne wymazywanie zaj?te
+B??d blokady mutexu
+
+Zdj?cie zbyt obszerne\nWy?wietlenie niemo?liwe
+
+
+Plik zbyt obszerny\nWy?wietlenie niemo?liwe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tryb fabryczny
+Wersja
+Zasoby BIN
+AUDIO
+ZDJ?CIE
+CZCIONKA
+LCD Kontrast
+Klawiatura
+G?osnik
+P?tla echo
+Wibrator
+S?uchawka
+Zestaw s?uchawkowy
+?adowarka
+D?wi?k dzwonka
+G?車wny wy?wietlacz LCD
+Podwy?wietlacz LCD
+Auto wy?wietlacz
+CZERWONY
+ZIELONY
+NIEBIESKI
+BIA?Y
+Kod DSP 
+?cie?ka dost?pu DSP
+MCU SW
+Tablica MS 
+Melodyjka
+Numer seryjny
+Numer budowy
+Auto Test
+Raport
+Wynik testu
+Przebieg
+Niepowodzenie
+Ponowny test
+Wyjd?
+Wszystko przebieg?o!
+Wszystkie testy wykonane!
+B??d!
+Niedoko里czony!
+Czerwona dioda LED b?yska
+Zielona dioda LED b?yska
+Niebieska dioda LED b?yska
+Prosz? otworzy?/zamkn?? zaciski
+LCM/ klawiatura pod?wietlona
+Prosz? przetestowa? s?uchawk?
+Prosz? przetestowa? mikrofon
+Prosz? przetestowa? g?o?nik
+Prosz? przetestowa? zestaw s?uchawkowy
+Odtwarzanie melodyjki
+Wibruj?
+Test linii r車wnoleglej
+NxM Punktowy test
+Ustal
+Obr車?
+Auto nagrywanie
+Wprowad? zabezpieczenie!
+Limit rozmiaru pliku
+Ustaw j?zyk angielski
+Zmieni? j?zyk na proste chi里ski
+Zmieni? j?zyk na tradycyjne chi里ski
+Ustaw j?zyk domy?lny
+B??d 
+B??d w ustawianiu j?zyka domy?lnego
+B??d w ustawianiu j?zyka angielskiego
+B??d 
+B??d 
+Wersja oprogramowania
+Mened?er plik車w
+
+
+
+
+Opcja pliku
+Opcja pliku
+Opcja pliku
+Format
+Formatowanie
+Zmie里 nazw? foldera
+Skanowanie dysku
+Usuwanie
+Utworz folder
+Zmie里 nazw? foldera
+Skasuj folder
+
+Skasuj wszystkie pliki
+Kopiuj
+Przenie?
+Do listy spraw
+Do wiadomo?ci EMS
+Do profilu u?ytkownika
+Do profilu u?ytkownika
+Poprzez nazw?
+Poprzez typ
+Poprzez czas
+Poprzez rozmiar
+Karta pod??czona
+Karta od??czona
+Skasuj nazw? pliku
+
+Rozmiar zdj?cia zbyt obszerny\nOgraniczenie
+Rozmiar wideo zbyt obszerny\nOgraniczenie
+Wideo za d?ugie\nOgraniczenie
+Plik zbyt obszerny\nOgraniczenie
+[Karta pami?ci]
+[Karta pami?ci]
+Data:
+Rozmiar:
+[Karta pami?ci]
+[Karta pami?ci]
+[Karta pami?ci]
+[Karta pami?ci]
+[Karta pami?ci]
+[Karta pami?ci]
+Tylko plik EMS
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nazwa pliku 
+Numer
+Typ linii
+Szybko??
+Analogowe
+4.8 Kbps
+Konto 
+Wersja sprz?tu
+Numer seryjny
+Tryb fabryczny nieustawiony
+Organizer
+?wiatowy zegar
+Zdrowie
+Zdrowie
+BMI
+Miesi?czkowy
+?wiatowy zegar
+Zmiana czasu dla zagranicznych miast
+Zmiana czasu
+Wej?cia
+Miesi?czkowy
+Ci??a
+Dzisiejsze prawdopodobie里stwo
+Data ostatniej miesi?czki
+(Dni)
+Dni: 14 ~ 99
+Poza granic?
+?redni okres
+Nast?pny ekran
+Okres
+P.P
+Miesi?czka
+
+Wprowadz poprawn? dat?
+Wynik BMI 
+M??czyzna
+Kobieta
+Wzrost (Cm)
+Waga (Kg)
+Wzrost: 55 ~ 300
+Waga: 1 ~ 300
+Wzrost: 55 ~ 300 \nWaga: 1 ~ 300
+Gruby
+Chudy
+Konwerter jednostek
+Waga
+D?ugo??
+Kg<->Funt
+Kg
+Funt
+Km<->Mile
+M<->Yard
+M<->Stopy
+Cm<->Cale
+Km
+Mile
+Cm
+cale
+Metr
+Yard
+Stopy
+Kg<->Uncja
+Uncja
+Numer przekracza 8 znak車w
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stawka wej?ciowa
+Stawka
+Wprowadzenie waluty
+Lokalne
+Zagraniczne
+
+
+
+
+
+
+
+
+
+
+
+Kalendarz
+Zadania
+Kalkulator
+Drzemka
+Powt車rz
+Raz
+Codziennie
+W dniu
+Cogodzinny
+Tygodniowy
+Co miesi?c
+
+
+
+
+
+
+
+
+
+
+Sezonowo
+Planowanie W??cz./Wy??cz. Zasilanie
+
+Status
+Unieruchom
+Uruchom
+Konflikt
+
+Co roku
+W??czy??
+Drzemka (min.)
+Kalendarz ksi??ycowy
+Pd
+W
+Pn
+Z
+M
+D
+Id? do daty
+B??d daty
+Prawid?owa data to 2000~2031
+Tydzie里 
+Aktualizacja czasu
+Nowa strefa czasowa wykryta
+Skasuj notatke
+Wprowadz Poprawna  Date
+Lista zada里 pe?na!
+Notatka
+Przypominacz
+U?yj szablonu
+Skasuj
+Skasuj wszystko
+Umowi? si? z kim? na randk?
+Spotkanie we wtorek
+Zadzwo里 do kogo?
+I?? z kim? na zakupy
+Wys?a? eMail do kogo?
+Pami?ta? ?eby co? przynie??
+Kupi? co?
+Odebra? dziecko o 12:00
+Czyje? urodziny
+Rocznica ?lubu
+
+Niedz.
+Pon.
+Wt.
+?r.
+Czw.
+Pt.
+Sob.
+Notatka
+Powt車rz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wygaszacz ekranu
+System
+Okre?lenie u?ytkownika
+5 sek
+15 sek
+30 sek
+1 minuta
+Status:
+Oczekiwanie:
+Display Time
+Kompozytor
+Pr?dko?? odtwarzania
+Wybierz instrument
+Szybki
+Normalny
+
+Pianino
+Gitara
+Skrzypce
+Saksofon
+Perkusja
+Flet
+Harmonijka
+Tr?bka
+Katarynka
+Ksylofon
+Skasuj d?wi?k dzwonka
+Niszcz
+Akceptuj
+WML Pogwa?cenie dost?pu
+WML Pogwa?cenie skryptu dost?pu
+Konto danych
+W??cz profil
+Adres
+Dodaj zak?adk?
+Zawsze
+Pytaj
+Wstecz
+Zak?adki
+Opcje wybierania
+Podr?czny
+Podr?czny bufor trybu
+Podr?czny bufor rozmiaru
+Anuluj
+Certyfikaty
+Zmie里 kod PIN autoryzacji
+Zmie里 kod PIN podpisywania tekstu
+Wyczy?? bufor podr?czny
+Wyczy?? bufor podr?czny
+Wyczy?? cookies
+Wyczy?? cookies
+B??d po??czenia
+Bezpo??czeniowe
+Typ po??czenia
+Umowy
+Cookies
+Bie??cy certyfikat
+Profil
+Skasuj
+Skasuj
+Skasuj wszystko
+Skasuj wszystko
+Edytuj
+Edytuj zak?adk?
+Edytuj profil
+
+
+
+Uruchom Cookies
+Enable Cookies?
+Disable Cookies?
+Enable Cache?
+Disable Cache?
+
+OK
+Delete
+Help
+Options
+Back
+Reset
+Nieznany
+Wprowadz adres
+Lista zak?adek jest pe?na
+Nieprawid?owy adres IP 
+
+Prosz? wybra? najpierw profil.
+
+Niesprecyzowany bli?ej b??d
+Wyjd?
+Zapisz obrazek
+
+
+Ulega przedawnieniu:
+Od:
+Adres IP
+Strona domowa
+
+Nieznany host
+Je?li na tym samym hoscie
+Poka? obrazki
+Wewn?trzny b??d
+Nieprawid?owe wej?cie
+Zarz?dzaj zak?adkami
+Wiadomo??:
+D?wi?k wiadomo?ci
+Nigdy
+
+
+
+
+
+
+Nowa wiadomo?? serwisowa
+Wy??czony
+Ok
+W??czony
+Opcja
+Pami?? pe?na!
+Nieprawid?owy format zawarto?ci
+
+Instaluj ustawienia WAP?
+Instaluj ustawienia MMS?
+Adres proxy 
+Port proxy 
+Has?o
+Nazwa u?ytkownika
+Skrzynka us?ug
+Skrzynka
+Zawsze akceptuj
+Akceptuj uwierzytelnione lub zaufane
+Nigdy nie akceptuj
+Akceptuj wiadomo?ci PUSH nie pochodzace z WAP
+Pobieraj wiadomo?ci typu PUSH Sl
+Zabezpieczenia Push
+Ustawienia wiadomo?ci serwisowych
+Ustawienia wiadomo?ci typu PUSH SL
+Ostatnio otwierane strony
+Od?wie?
+Zmie里 nazw? profilu
+Zadanie chwilowo przerwane
+Ta strona wymaga obs?ug? ramek
+U?yj opcji od?wie?ania
+Ustaw jako strone domow?
+Schemat nie obs?ugiwany
+Zabezpieczenie
+Informacja o zabezpieczeniach
+Wyczy?? sesj?
+B??d bezpiecznego po??czenia
+Wybierz zak?adk?
+Wybierz profil
+
+
+
+
+
+Sesja informacyjna
+Ustawienia
+Konto
+Konto danych
+Brak kont danych
+
+
+
+
+
+Odtwarzaj d?wi?ki
+
+
+Us?ugi internetowe
+Przerwa
+Tytu?
+Nieznany 
+B??d skryptu WML
+Skasuj
+Czytaj
+<Skasuj>
+B??d zapisywania
+Operacja anulowana
+Tak
+Nie
+
+Nieprawid?owy adres bramki IP
+Zaufane certyfikaty
+Od??cz podczas d?u?szej bezczynno?ci
+Dane GSM
+
+
+
+
+
+
+Zapisywanie...
+Wybierz
+Wy?lij DTMF
+Dodaj
+Uprawnienie otrzymane
+Strony w trybie offline
+Zapisz jako stron? offline
+Zapisywanie strony offline nie powiod?o si?
+Strona offline istnieje, aktualizowa??
+Strona offline pe?na
+
+Spis telefon車w pe?ny!
+20 sek
+30 sek
+60 sek
+2 min
+Usuwanie
+Usuwanie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIM1
+SIM2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Przycisk
+Anuluj
+Nie
+Tak
+Wy?lij informacje o telefonie kom車rkowym?
+Przynajmniej jedno pole jest ?le ukszta?towane
+Ok
+Otrzymano przeadresowane zadanie. Ponownie wprowadzi? dane u?ytkownika?
+Ponownie chcesz wprowadzi? dane u?ytkownika?
+Zrestartuj
+Wprowadz
+Chcesz pobra? ten obiekt?
+B??d w po??czeniu
+
+SIM1
+SIM2
+
+
+Niedost?pny
+
+
+
+
+
+
+
+
+
+
+
+Przynajmniej jedno pole adresowe musi by? wype?nione.
+Dodaj eMail
+Dodaj obrazek
+Dodaj obiekt medialny
+Dodaj numer
+Dodaj odbiorc?
+Odbiorcy
+
+Wiadomo?? zawiera zablokowane informacje i nie mo?e by? edytowana
+Dodaj tekst
+
+??????? ???????????? ?????????????
+Prze?lij dalej
+Przeslany dalej.
+Od
+Generowanie
+Port HTTP 
+Natychmiastowy
+Skrzynka
+Nieoznaczony.
+Wprowadz nowy slajd
+
+
+i
+Prosz? wprowadzi? jaka? warto?? pomi?dzy 
+Nieprawid?owy od adresu!
+Wiadomo?? nieprawid?owa!
+Numer wersji MMSC jest nieprawid?owy.
+Nieprawid?owy adres proxy!
+Nieprawid?owy port proxy!
+Nieprawid?owy schemat proxy!
+Nieprawid?owy adres odbiorcy!
+Nieprawid?owe wprowadzenie warto?ci!
+Nieprawid?owy adres bramki WAP!
+
+
+Login
+Max Rozmiar (KB)
+menu
+Wys?ane
+Aplikacja Messenger'a
+Nieprawid?owy z powodu adresu lub wersji MMSC .
+Edytor wiadomo?ci
+Konto sieciowe
+Nowa wiadomo?? MMS 
+Wpisz wiadomo??
+Nowa wiadomo?? multimedialna
+Nast?pny slajd
+Wy??czony
+Niewystarczaj?ca ilo?? pami?ci, aby doko里czy? operacj?!
+Skasowane, nie odczytane.
+Niewystarcaj?ca pamie? MMS.
+Pami?? zachowanych MMS osi?gn??a prawie maksymalna liczb?
+Wy??czony
+Ok
+W??czony
+Opcja
+Skrzynka nadawcza
+B??d wewn?trzny. Aplikacja zaraz zostanie zamkni?ta.
+Has?o
+Spis telefon車w
+Przegl?dnij
+Poprzedni slajd
+W?a?ciwo?ci
+Czytaj.
+Czytanie
+Czytaj raport
+Wy?lij raport odczytu
+Dziedzina
