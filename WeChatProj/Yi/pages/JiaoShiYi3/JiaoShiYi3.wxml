@@ -1,0 +1,26 @@
+<!--pages/JiaoShiYi3/JiaoShiYi3.wxml-->
+<view class = 'YiLinCiView' style="text-align:center" >
+<!--bindtouchstart='touchStartInJiaoShiYi3' bindtouchend='touchEndInJiaoShiYi3'-->
+
+<view class='YiLinCiTitleView' style="text-align:center">
+<text class="normal_text">{{YiLinCiTitleVText}}</text>
+</view>
+
+
+
+
+<view class="YiLinGuaTuView">
+  <view style="flex:1;"> 
+  <canvas class ="YiLinGuaCanvas" style="width:120px; height: 200px;"canvas-id="GuaTuCanvas1"></canvas>
+  </view>
+  <view style="flex:1;"> 
+  <canvas class ="YiLinGuaCanvas" style="width:120px; height: 200px;"canvas-id="GuaTuCanvas2"></canvas>
+  </view>  
+</view>
+
+
+<view class='YiLinCiShow' style="text-align:left">
+<text class="normal_text">{{YiLinCi4096}}</text>
+</view>
+
+</view>

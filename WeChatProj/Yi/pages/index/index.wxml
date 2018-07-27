@@ -75,6 +75,12 @@
 </view>
 
 <view> 
+<button bindtap="GoToJiaoShiYi">
+焦氏易林
+</button>
+</view>
+
+<view> 
 <button bindtap="GoToPRE">
 历代先贤
 </button>

@@ -1,6 +1,12 @@
 // pages/Gua64/Gua64.js
+/*
+var touchDot = 0;
+var touchDotY = 0;
 
-
+var gYiJingIndex = "";
+var gYiJingIndexNext = "";
+var gFromZhanFlag = 'false';
+*/
 Page({
 
   /**
@@ -8,6 +14,11 @@ Page({
    */
 
   data: {
+    // lastX: 0,          //滑动开始x轴位置
+    // lastY: 0,          //滑动开始y轴位置
+    // text: "没有滑动",
+
+
     gua_title: '',
     gua_daxiang: '',
     guayao_1: '',
@@ -43,7 +54,8 @@ Page({
   onLoad: function (options) {
     var gua_grp = getApp().globalData.Gua_grp; 
     
-
+  //  console.error('onLoad')
+    
     this.setData({
       gua_title: getApp().globalData.Gua_title_str[options.index],
       gua_daxiang: getApp().globalData.Gua_daxiang_str[options.index],
@@ -100,7 +112,7 @@ Page({
   var yangyao_w = 180
   var yinyao_w = 70
   var yinyao_gap = 40
-  var yao1_start_x = 10
+  var yao1_start_x = 0
   var yao1_start_y = 10
 
   var j = options.index
@@ -126,7 +138,15 @@ Page({
   context.stroke()
   context.draw()
 
-
+    /*
+    if (options.FromZhanPage=='true')
+    { 
+      gFromZhanFlag = options.FromZhanPage
+    }
+   // console.log('FromZhanPage is :' + gFromZhanFlag);
+    
+    gYiJingIndex = options.index
+    */
   },
 
   /**
@@ -139,11 +159,14 @@ Page({
   /**
    * 生命周期函数--监听页面显示
    */
-  onShow: function (options) {
-   
-      
+  onShow: function () {
+  /*
+    flag_hd = true;
+    clearInterval(interval);
+    time = 0;
+    */
   },
-
+  
   /**
    * 生命周期函数--监听页面隐藏
    */
@@ -162,8 +185,112 @@ Page({
    * 页面相关事件处理函数--监听用户下拉动作
    */
   onPullDownRefresh: function () {
-  
   },
+  /*
+  guaPagesMove: function (event) {
+         var currentX = event.touches[0].pageX
+         var currentY = event.touches[0].pageY
+         var tx = currentX - this.data.lastX
+         var ty = currentY - this.data.lastY
+         var text = ""
+         //左右方向滑动
+         if (Math.abs(tx) > Math.abs(ty)) {
+             if (tx < 0)
+                 text = "向左滑动"
+             else if (tx > 0)
+               text = "向右滑动"
+    
+  } //上下方向滑动
+     else {
+           if (ty < 0)
+         text = "向上滑动"
+       else if (ty > 0)
+         text = "向下滑动"
+     }
+ 
+     //将当前坐标进行保存以进行下一次计算
+     this.data.lastX = currentX
+     this.data.lastY = currentY
+
+     this.setData({
+           text: text,
+         });
+     },
+   
+   //滑动开始事件
+  guaPagesTPstart: function (event) {
+         this.data.lastX = event.touches[0].pageX
+         this.data.lastY = event.touches[0].pageY
+         touchDot = event.touches[0].pageX
+         touchDotY = event.touches[0].pageY
+      //   console.log('guaPagesTPstart lastX:' + event.touches[0].pageX)
+      //   console.log('guaPagesTPstart lastY:' + event.touches[0].pageY)
+  },
+     //滑动结束事件
+   guaPagesTPend: function (event) {
+         
+
+      //   console.log('guaPagesTPend lastX:' + event.changedTouches[0].pageX)
+      //   console.log('guaPagesTPend lastY:' + event.changedTouches[0].pageY)
+    
+   if ((event.changedTouches[0].pageX - touchDot <= -40) && 
+      ((event.changedTouches[0].pageY - touchDotY < 20 ) ||
+      (event.changedTouches[0].pageY - touchDotY < -20) 
+      ))
+         {
+       //    console.error('left') 
+           wx.showToast({
+             title: '加载中',
+             icon: 'loading',
+             duration: 10000
+           })
+           setTimeout(function () {
+             wx.hideToast()
+           }, 2000)
+
+     if (gYiJingIndex == 63) {
+       gYiJingIndexNext = 0
+       //console.log('gYiJingIndexNext:' + gYiJingIndex);
+     } else {
+
+       gYiJingIndexNext = parseInt(gYiJingIndex) + 1
+       //console.log('gYiJingIndexNext:' + gYiJingIndex);
+     } 
+
+           wx.redirectTo({
+             url: '../Gua64/Gua64?index=' + gYiJingIndexNext
+           })
+         } else if ((event.changedTouches[0].pageX - touchDot >= 40) &&
+         (( event.changedTouches[0].pageY - touchDotY < 20)||
+          (event.changedTouches[0].pageY - touchDotY < -20) 
+          ))
+         {
+         //  console.error('right')
+           wx.showToast({
+             title: '加载中',
+             icon: 'loading',
+             duration: 10000
+           })
+           setTimeout(function () {
+             wx.hideToast()
+           }, 2000)
+
+          if (gYiJingIndex != 0) {
+            gYiJingIndexNext = parseInt(gYiJingIndex) - 1
+        //    console.log('gYiJingIndex_2:' + gYiJingIndex);
+          } else {
+
+            gYiJingIndexNext = 63
+          }
+           wx.redirectTo({
+             url: '../Gua64/Gua64?index=' + gYiJingIndexNext
+           })
+         }
+        
+         
+  },
+*/   
+
 
   /**
    * 页面上拉触底事件的处理函数

@@ -1,5 +1,6 @@
 <!--pages/YiJing1/YiJing1.wxml-->
 <scroll-view>
+<!--
 <form>
 <button class="bt_64" bindtap="gua64_1"  >
 乾
@@ -150,5 +151,81 @@
 </button>
 
 </form>
+-->
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_1">01乾</button></view>
+<view style="flex:1"> <button bindtap="gua64_2">02坤</button></view>
+</view>
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_3">03屯</button></view>
+<view style="flex:1"> <button bindtap="gua64_4">04蒙</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_5">05需</button></view>
+<view style="flex:1"> <button bindtap="gua64_6">06讼</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_7">07师</button></view>
+<view style="flex:1"> <button bindtap="gua64_8">08比</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_9">09小蓄</button></view>
+<view style="flex:1"> <button bindtap="gua64_10">10履</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_11">11泰</button></view>
+<view style="flex:1"> <button bindtap="gua64_12">12否</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_13">13同人</button></view>
+<view style="flex:1"> <button bindtap="gua64_14">14大有</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_15">15谦</button></view>
+<view style="flex:1"> <button bindtap="gua64_16">16豫</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_17">17随</button></view>
+<view style="flex:1"> <button bindtap="gua64_18">18蛊</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_19">19临</button></view>
+<view style="flex:1"> <button bindtap="gua64_20">20观</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_21">21噬嗑</button></view>
+<view style="flex:1"> <button bindtap="gua64_22">22贲</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_23">23剥</button></view>
+<view style="flex:1"> <button bindtap="gua64_24">24复</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_25">25无妄</button></view>
+<view style="flex:1"> <button bindtap="gua64_26">26大蓄</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_27">27颐</button></view>
+<view style="flex:1"> <button bindtap="gua64_28">28大过</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_29">29坎</button></view>
+<view style="flex:1"> <button bindtap="gua64_30">30离</button></view>
+</view>
+
 </scroll-view>
 

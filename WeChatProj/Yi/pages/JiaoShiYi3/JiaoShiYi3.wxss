@@ -1,0 +1,17 @@
+/* pages/JiaoShiYi3/JiaoShiYi3.wxss */
+
+.BenGuaTuView{
+
+  margin-top: 10px;
+}
+
+.YiLinGuaTuView{
+  display: flex;
+  flex-direction: row;
+}
+
+.YiLinGuaCanvas{
+  margin-top: 15px;
+  margin-left: 15px;
+  justify-content: center;
+}

@@ -286,6 +286,8 @@ Page({
      }
    }
     INDEX = INDEX - 1
+    //var FromZhanPage = 'true'
+    //url: '../Gua64/Gua64?index=' + INDEX + '&value=' + VALUE + '&FromZhanPage=' + FromZhanPage
     wx.navigateTo({
       url: '../Gua64/Gua64?index=' + INDEX + '&value=' + VALUE
     })

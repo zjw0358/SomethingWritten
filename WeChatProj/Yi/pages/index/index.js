@@ -82,6 +82,11 @@ Page({
       url: '../Pres/Pres'
     })
   },
+  GoToJiaoShiYi: function () {
+    wx.navigateTo({
+      url: '../JiaoShiYi/JiaoShiYi'
+    })
+  },
   GoToDaShang: function () {
     wx.navigateTo({
       url: '../dashang/dashang'

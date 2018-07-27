@@ -1,0 +1,163 @@
+<!--pages/JiaoShiYi2/JiaoShiYi2.wxml-->
+<view class="YLCTitleView" style="text-align:center"> 
+<text class="YLCTitleText" style='color:{{YLCTitle_color}}'>{{YiLinCiTitle}}</text>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi1">01乾</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi2">02坤</button></view>
+</view>
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi3">03屯</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi4">04蒙</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi5">05需</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi6">06讼</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi7">07师</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi8">08比</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi9">09小蓄</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi10">10履</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi11">11泰</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi12">12否</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi13">13同人</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi14">14大有</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi15">15谦</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi16">16豫</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi17">17随</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi18">18蛊</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi19">19临</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi20">20观</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi21">21噬嗑</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi22">22贲</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi23">23剥</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi24">24复</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi25">25无妄</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi26">26大蓄</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi27">27颐</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi28">28大过</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi29">29坎</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi30">30离</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi31">31咸</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi32">32恒</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi33">33遁</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi34">34大壮</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi35">35晋</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi36">36明夷</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi37">37家人</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi38">38睽</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi39">39蹇</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi40">40解</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi41">41损</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi42">42益</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi43">43夬</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi44">44姤</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi45">45萃</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi46">46升</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi47">47困</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi48">48井</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi49">49革</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi50">50鼎</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi51">51震</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi52">52艮</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi53">53渐</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi54">54归妹</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi55">55丰</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi56">56旅</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi57">57巽</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi58">58兑</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi59">59涣</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi60">60节</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi61">61中孚</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi62">62小过</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSYCi63">63既济</button></view>
+<view style="flex:1"> <button bindtap="JiaoSYCi64">64未济</button></view>
+</view>
