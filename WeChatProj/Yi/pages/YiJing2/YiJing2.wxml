@@ -254,5 +254,5 @@
 <view style="flex:1"> <button bindtap="gua64_63">63既济</button></view>
 <view style="flex:1"> <button bindtap="gua64_64">64未济</button></view>
 </view>
-
+<!--<ad unit-id="adunit-6ee2c3513aea744c"></ad>-->
 </scroll-view>

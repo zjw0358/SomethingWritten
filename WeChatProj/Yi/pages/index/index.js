@@ -38,7 +38,19 @@ Page({
       url: '../WenYan2/WenYan2'
     })
   },
-
+  /*
+  GoToXiCi: function () {
+    wx.navigateTo({
+      url: '../XiCi/XiCi'
+    })
+  },
+  
+  GoToWenYan_XuGua: function () {
+    wx.navigateTo({
+      url: '../WenYanXuGua/WenYanXuGua'
+    })
+  },
+*/
   GoToXiCi1: function () {
     wx.navigateTo({
       url: '../XiCi1/XiCi1'
@@ -87,6 +99,13 @@ Page({
       url: '../JiaoShiYi/JiaoShiYi'
     })
   },
+
+  GoToNajia: function () {
+    wx.navigateTo({
+      url: '../Najia/Najia'
+    })
+  },
+
   GoToDaShang: function () {
     wx.navigateTo({
       url: '../dashang/dashang'

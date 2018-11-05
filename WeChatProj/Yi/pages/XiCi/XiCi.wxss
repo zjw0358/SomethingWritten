@@ -1,0 +1,5 @@
+/* pages/XiCi/XiCi.wxss */
+.content{
+  display: flex;
+  flex-direction: row;
+}

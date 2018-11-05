@@ -226,6 +226,6 @@
 <view style="flex:1"> <button bindtap="gua64_29">29坎</button></view>
 <view style="flex:1"> <button bindtap="gua64_30">30离</button></view>
 </view>
-
+<!--<ad unit-id="adunit-6ee2c3513aea744c"></ad>-->
 </scroll-view>
 

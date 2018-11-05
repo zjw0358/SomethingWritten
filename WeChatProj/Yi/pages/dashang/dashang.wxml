@@ -3,17 +3,24 @@
 <view style="text-align:center" class='dashang_title'>
 <text>感谢使用本小程序\n\n</text>
 </view>
-
+<!--
 <view style="text-align:center" class='dashang_title'>
 <text>君子终日乾乾，夕惕若厉，无咎\n\n</text>
 </view>
 
 <view style="text-align:center" class='dashang_title'>
-<text>如果觉得好，也可以打赏作者^_^\n\n</text>
+<text>如果觉得好，戳下面可以支持作者^_^\n\n</text>
+</view>
+-->
+<view style="text-align:center" class='dashang_title'>
+<text>广告时间 ^_^ 后续有精彩，敬请期待。。。\n\n\n\n\n\n\n\n\n\n</text>
 </view>
 
 <view style="text-align:center" class='shoukuan_pic'>
+<ad unit-id="adunit-48d41fd16d67d4c0"></ad>
+<!-- 
 <image style="width: 300px; height: 300px; background-color: #f5f5dc;" src="{{src}}" bindtap='GotoDashang'></image>
+-->
 </view>
 <!--
     <view class="container">  

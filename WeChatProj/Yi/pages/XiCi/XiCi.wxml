@@ -1,0 +1,66 @@
+<!--pages/XiCi/XiCi.wxml-->
+<scroll-view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="xici1_1">《上 第一章》</button></view>
+<view style="flex:1"> <button bindtap="xici2_1">《下 第一章》</button></view>
+</view>
+<view class="content">
+<view style="flex:1"> <button bindtap="xici1_2">《上 第二章》</button></view>
+<view style="flex:1"> <button bindtap="xici2_2">《下 第二章》</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="xici1_3">《上 第三章》</button></view>
+<view style="flex:1"> <button bindtap="xici2_3">《下 第三章》</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="xici1_4">《上 第四章》</button></view>
+<view style="flex:1"> <button bindtap="xici2_4">《下 第四章》</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="xici1_5">《上 第五章》</button></view>
+<view style="flex:1"> <button bindtap="xici2_5">《下 第五章》</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="xici1_6">《上 第六章》</button></view>
+<view style="flex:1"> <button bindtap="xici2_6">《下 第六章》</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="xici1_7">《上 第七章》</button></view>
+<view style="flex:1"> <button bindtap="xici2_7">《下 第七章》</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="xici1_8">《上 第八章》</button></view>
+<view style="flex:1"> <button bindtap="xici2_8">《下 第八章》</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="xici1_9">《上 第九章》</button></view>
+<view style="flex:1"> <button bindtap="xici2_9">《下 第九章》</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="xici1_10">《上 第十章》</button></view>
+<view style="flex:1"> <button bindtap="xici2_10">《下 第十章》</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="xici1_11">《上 第十一章》</button></view>
+<view style="flex:1"> <button bindtap="xici2_11">《下 第十一章》</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="xici1_12">《上 第十二章》</button></view>
+<view style="flex:1"> <button bindtap="xici2_12">《下 第十二章》</button></view>
+</view>
+
+
+
+
+</scroll-view>

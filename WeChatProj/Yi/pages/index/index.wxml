@@ -1,13 +1,20 @@
 <!--index.wxml-->
+
 <navigator></navigator>
 <view style="text-align:center"> {{title}} </view>
 
 <view> 
 <button bindtap="GoToPreface">
-《序章》
+序
 </button>
 </view>
 
+<view class="content">
+<view style="flex:1"> <button bindtap="GoToYiJing1">《易 上经》</button></view>
+<view style="flex:1"> <button bindtap="GoToYiJing2">《易 下经》</button></view>
+</view>
+
+<!--
 <view> 
 <button bindtap="GoToYiJing1">
 《易 上经》
@@ -19,7 +26,8 @@
 《易 下经》
 </button>
 </view>
-
+-->
+<!--
 <view> 
 <button bindtap="GoToWenYan1">
 《文言传 乾文言》
@@ -33,6 +41,18 @@
 </view>
 
 <view> 
+<button bindtap="GoToXiCi">
+《系辞传 上 下》
+</button>
+</view>
+-->
+
+<view class="content">
+<view style="flex:1"> <button bindtap="GoToXiCi1">《系辞传 上》</button></view>
+<view style="flex:1"> <button bindtap="GoToXiCi2">《系辞传 下》</button></view>
+</view>
+<!--
+<view> 
 <button bindtap="GoToXiCi1">
 《系辞传 上》
 </button>
@@ -43,13 +63,24 @@
 《系辞传 下》
 </button>
 </view>
+-->
 
-<view>
-<button bindtap="GoToShuoGua">
-《说卦传》
-</button>
+<view class="content">
+<view style="flex:1"> <button bindtap="GoToWenYan1">《文言传 乾》</button></view>
+<view style="flex:1"> <button bindtap="GoToWenYan2">《文言传 坤》</button></view>
 </view>
 
+<view class="content">
+<view style="flex:1"> <button bindtap="GoToXuGua1">《序卦传 上》</button></view>
+<view style="flex:1"> <button bindtap="GoToXuGua2">《序卦传 下》</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="GoToShuoGua">《说卦传》</button></view>
+<view style="flex:1"> <button bindtap="GoToZaGua">《杂卦传》</button></view>
+</view>
+
+<!--
 <view> 
 <button bindtap="GoToXuGua1">
 《序卦传 上》
@@ -61,16 +92,35 @@
 《序卦传 下》
 </button>
 </view>
-
+-->
+<!--
+<view> 
+<button bindtap="GoToWenYan_XuGua">
+《文言传 + 序卦传》
+</button>
+</view>
+-->
+<!--
+<view>
+<button bindtap="GoToShuoGua">
+《说卦传》
+</button>
+</view>
 <view> 
 <button bindtap="GoToZaGua">
 《杂卦传》
 </button>
 </view>
-
+-->
 <view> 
 <button bindtap="GoToZHAN">
 极数知来
+</button>
+</view>
+
+<view> 
+<button bindtap="GoToNajia">
+纳甲筮法
 </button>
 </view>
 
@@ -91,6 +141,7 @@
 关于
 </button>
 </view>
+<ad unit-id="adunit-b9f28f30d950ab70"></ad>
 <!--
 <scroll-view bindtap='bindViewTap'>labcsdfsdf</scroll-view>
 

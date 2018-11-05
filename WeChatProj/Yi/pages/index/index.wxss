@@ -19,3 +19,8 @@
 .usermotto {
   margin-top: 100px;
 }
+
+.content{
+  display: flex;
+  flex-direction: row;
+}

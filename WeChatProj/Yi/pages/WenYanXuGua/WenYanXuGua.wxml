@@ -1,0 +1,24 @@
+<!--pages/WenYanXuGua/WenYanXuGua.wxml-->
+<view> 
+<button bindtap="GoToWenYan1">
+《文言传 乾文言》
+</button>
+</view>
+
+<view> 
+<button bindtap="GoToWenYan2">
+《文言传 坤文言》
+</button>
+</view>
+
+<view> 
+<button bindtap="GoToXuGua1">
+《序卦传 上》
+</button>
+</view>
+
+<view> 
+<button bindtap="GoToXuGua2">
+《序卦传 下》
+</button>
+</view>
