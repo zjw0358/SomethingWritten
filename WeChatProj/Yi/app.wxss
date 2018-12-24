@@ -9,12 +9,35 @@
   box-sizing: border-box;
   
 } 
-
+.red_text{
+  font-size: 15px;
+  color: red
+}
+.blue_text{
+    font-size: 16px;
+    color: blue
+}
+.lightseagreen{
+    font-size: 16px;
+    color:rgb(21, 110, 106)
+}
+.gold{
+    font-size: 16px;
+    color:brown
+}
+.title_text{
+  font-size: 22px;
+  color: red
+}
 .normal_text{
   font-size: 20px;
-
 }
-
+.middle_text{
+  font-size: 18px;
+}
+.small_text{
+  font-size: 16px;
+}
 page {  
       display: block;  
       min-height: 100%;  

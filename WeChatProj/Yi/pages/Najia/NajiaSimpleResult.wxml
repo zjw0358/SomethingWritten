@@ -1,0 +1,113 @@
+<!--pages/Najia/NajiaSimpleResult.wxml-->
+
+<view class = 'NaJiaPanView' >
+<view style="text-align:center">
+<text>{{Today}}\n</text>
+</view>
+
+<view class="content">
+<view style="flex:1;text-align:center"class='lightseagreen'> <text class="small_text">{{benguaTitle}}</text></view>
+<view style="flex:1;text-align:center"class='lightseagreen'> <text class="small_text">{{bianguaTitle}}</text></view>
+</view>
+
+<canvas style="flex:1;width: {{GuaView_width}}px" canvas-id="guatu">
+</canvas>
+
+<view class="content"style="text-align:center">
+<view style="flex:1"class='lightseagreen'><text class="small_text">{{cuoguaTitle}}</text></view>
+<view style="flex:1"class='lightseagreen'><text class="small_text">{{zongguaTitle}}</text></view>
+<view style="flex:1"class='lightseagreen'><text class="small_text">{{huguaTitle}}</text></view>
+</view>
+
+<view>
+<canvas style="flex:1;width: {{GuaView_width}}px;height:{{guatu2_height}}px" canvas-id="guatu2">
+</canvas>
+</view>
+
+
+
+
+<view><text class='blue_text'>\n卦辞、爻辞:</text></view>
+<view class='gua_title_in_view' style="text-align:center">
+<text class="middle_text">{{gua_title}}</text>
+</view>
+
+<view class='gua_daxiang_in_view' style="text-align:center">
+<text class="middle_text">{{gua_daxiang}}</text>
+</view>
+
+<view style="text-align:left">
+<text class="middle_text" style='color:{{yao1_color}}'>{{guayao_1}}</text>
+</view>
+<view style="text-align:left">
+<text class="middle_text" style='color:{{yao2_color}}'>{{guayao_2}}</text>
+</view>
+<view style="text-align:left">
+<text class="middle_text" style='color:{{yao3_color}}'>{{guayao_3}}</text>
+</view>
+<view style="text-align:left">
+<text class="middle_text" style='color:{{yao4_color}}'>{{guayao_4}}</text>
+</view>
+<view style="text-align:left">
+<text class="middle_text" style='color:{{yao5_color}}'>{{guayao_5}}</text>
+</view>
+<view style="text-align:left">
+<text class="middle_text" style='color:{{yao6_color}}'>{{guayao_6}}</text>
+</view>
+<view style="text-align:left">
+<text class="middle_text">{{yong_96}}</text>
+</view>
+<view class = 'tuan_view' style="text-align:left">
+<text class="middle_text">{{gua_tuan}}</text>
+</view>
+<view class='xiaoxiang_view' style="text-align:left">
+<text class="middle_text">{{gua_xiang}}\n</text>
+</view>
+
+<!--------------------------------------------------------------->
+
+<view class='gua_title_in_view' style="text-align:center">
+<text class="middle_text">{{gua_title_2}}</text>
+</view>
+
+<view class='gua_daxiang_in_view' style="text-align:center">
+<text class="middle_text">{{gua_daxiang_2}}</text>
+</view>
+
+<view style="text-align:left">
+<text class="middle_text" style='color:{{yao1_color}}'>{{guayao_1_2}}</text>
+</view>
+<view style="text-align:left">
+<text class="middle_text" style='color:{{yao2_color}}'>{{guayao_2_2}}</text>
+</view>
+<view style="text-align:left">
+<text class="middle_text" style='color:{{yao3_color}}'>{{guayao_3_2}}</text>
+</view>
+<view style="text-align:left">
+<text class="middle_text" style='color:{{yao4_color}}'>{{guayao_4_2}}</text>
+</view>
+<view style="text-align:left">
+<text class="middle_text" style='color:{{yao5_color}}'>{{guayao_5_2}}</text>
+</view>
+<view style="text-align:left">
+<text class="middle_text" style='color:{{yao6_color}}'>{{guayao_6_2}}</text>
+</view>
+<view style="text-align:left">
+<text class="middle_text">{{yong_96_2}}</text>
+</view>
+
+<view class='xiaoxiang_view' style="text-align:left">
+<text class="middle_text">{{gua_xiang_2}}</text>
+</view>
+
+<view class = 'tuan_view' style="text-align:left">
+<text class="middle_text">{{gua_tuan_2}}</text>
+</view>
+
+<text class='blue_text'>\n焦氏易辞:</text>
+<view class = 'JiaoShiYiCi_view' style="text-align:left">
+<text class="middle_text">{{JiaoShiYiCi}}
+
+</text>
+</view>
+</view>

@@ -1,0 +1,6 @@
+/* pages/Najia/Najia4.wxss */
+.gotoZhan_bt{
+
+background-color: goldenrod
+
+}

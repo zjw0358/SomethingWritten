@@ -55,7 +55,15 @@ Page({
     var gua_grp = getApp().globalData.Gua_grp; 
     
   //  console.error('onLoad')
-    
+    var myCanvasWidth;
+    wx.getSystemInfo({
+      success: function (res) {
+        myCanvasWidth = res.windowWidth
+        // myCanvasHeight = res.windowHeight
+        //console.error('myCanvasWidth ' + res.windowHeight)
+      }
+    })
+
     this.setData({
       gua_title: getApp().globalData.Gua_title_str[options.index],
       gua_daxiang: getApp().globalData.Gua_daxiang_str[options.index],
@@ -71,7 +79,7 @@ Page({
       gua_tuan: getApp().globalData.Gua_tuan_str[options.index],
       gua_xiang: getApp().globalData.Gua_xiaoxiang_str[options.index],
 
-      
+      canvasWidth: myCanvasWidth, 
     });
     
      if (options.value==null)
@@ -109,15 +117,14 @@ Page({
   
   var yao_h = 25
   var yao_gap = 6
-  var yangyao_w = 180
-  var yinyao_w = 70
-  var yinyao_gap = 40
-  var yao1_start_x = 0
+  var yangyao_w = myCanvasWidth/3;  //180
+    var yinyao_w = (myCanvasWidth/3)*0.4;  //70
+    var yinyao_gap = (myCanvasWidth/3)*0.2; //40
+    var yao1_start_x = myCanvasWidth / 3
   var yao1_start_y = 10
 
   var j = options.index
   var yao_group = gua_grp[j]
-
   var context = wx.createCanvasContext('guatu')
   context.setLineWidth(yao_h)
   context.beginPath()

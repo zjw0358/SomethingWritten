@@ -1,1 +1,5 @@
 /* pages/Najia/Najia.wxss */
+
+.ads{
+  bottom: 10rpx
+}

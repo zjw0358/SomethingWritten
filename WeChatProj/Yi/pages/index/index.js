@@ -18,24 +18,24 @@ Page({
 
   GoToYiJing1: function () {
     wx.navigateTo({
-      url: '../YiJing1/YiJing1'
+      url: '../YiJing/YiJing1'
     })
   },
 
   GoToYiJing2: function () {
     wx.navigateTo({
-      url: '../YiJing2/YiJing2'
+      url: '../YiJing/YiJing2'
     })
   },
 
   GoToWenYan1: function () {
     wx.navigateTo({
-      url: '../WenYan1/WenYan1'
+      url: '../WenYanXuGua/WenYan1'
     })
   },
   GoToWenYan2: function () {
     wx.navigateTo({
-      url: '../WenYan2/WenYan2'
+      url: '../WenYanXuGua/WenYan2'
     })
   },
   /*
@@ -64,12 +64,12 @@ Page({
 
   GoToXuGua1: function () {
     wx.navigateTo({
-      url: '../XuGua1/XuGua1'
+      url: '../WenYanXuGua/XuGua1'
     })
   },
   GoToXuGua2: function () {
     wx.navigateTo({
-      url: '../XuGua2/XuGua2'
+      url: '../WenYanXuGua/XuGua2'
     })
   },
 

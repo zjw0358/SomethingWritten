@@ -1,12 +1,12 @@
-<!--pages/Zhan/Zhan.wxml-->
+<!--pages/Najia/Najia4.wxml-->
 
 <view style="text-align:center" class='title_text'>
-<text >至诚之道，可以前知</text>
+<text>随心而起</text>
 </view>
 <view style="text-align:center" class='zhan_pic'>
 <image  mode="{{mode}}" src="{{src}}"></image>
 </view>
 
 <view style="text-align:center" class='zhan_bt_view'>
-<button class='gotoZhan_bt'  bindtap='GoToResult' size='mini'> 心诚则灵</button>
+<button class='gotoZhan_bt'  bindtap='GoToPaiPanFromAuto' size='mini'> 心诚则灵</button>
 </view>

@@ -1,28 +1,323 @@
-// pages/dashang/dashang.js
-var util = require('../../utils/util.js'); 
-
-
+// pages/Najia/Najia4.js
+// pages/Najia/Najia2.js
+var util = require('../../utils/util.js');
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-    src: '../../resources/shou.jpg',
-    //imglist: ['http://127.0.0.1/image/bobo.jpg']
-    show: "",  
-  },
-  imageError: function (e) {
-   // console.log('shoukuan_iamge发生error事件，携带值为', e.detail.errMsg)
-  },
-
-
-  GotoDashang: function (e){
-
-
+    src: '../../resources/tai6.jpg',
+    // ShiChenArray:['子','丑','寅','卯','辰','巳','午','未','申','酉','戌','亥'],
+    ShiChenArrayNum: ['23:00-01:00', '01:00-03:00', '03:00-05:00', '05:00-07:00', '07:00-09:00', '09:00-11:00', '11:00-13:00', '13:00-15:00', '15:00-17:00', '17:00-19:00', '19:00-21:00', '21:00-23:00'],
+    Yao1Range: ['少阳 ---', '太阳 --- O', '少阴 - -', '太阴 - - X'],
+    Yao2Range: ['少阳 ---', '太阳 --- O', '少阴 - -', '太阴 - - X'],
+    Yao3Range: ['少阳 ---', '太阳 --- O', '少阴 - -', '太阴 - - X'],
+    Yao4Range: ['少阳 ---', '太阳 --- O', '少阴 - -', '太阴 - - X'],
+    Yao5Range: ['少阳 ---', '太阳 --- O', '少阴 - -', '太阴 - - X'],
+    Yao6Range: ['少阳 ---', '太阳 --- O', '少阴 - -', '太阴 - - X'],
+    y1Index: '0', y2Index: '0', y3Index: '0', y4Index: '0', y5Index: '0', y6Index: '0',
+    index: '0',
+    date:null,
   },
   sequence: function (a, b) {
     return a - b;
+  },
+  GetShiGan: function (RiGan, qigua_flag, time_index) {
+    var JiaJiRi = ['甲', '乙', '丙', '丁', '戊', '己', '庚', '辛', '壬', '癸', '甲', '乙'];
+    var YiGengRi = ['丙', '丁', '戊', '己', '庚', '辛', '壬', '癸', '甲', '乙', '丙', '丁']
+    var BinXinRi = ['戊', '己', '庚', '辛', '壬', '癸', '甲', '乙', '丙', '丁', '戊', '己'];
+    var DingRenRi = ['庚', '辛', '壬', '癸', '甲', '乙', '丙', '丁', '戊', '己', '庚', '辛'];
+    var WuGuiRi = ['壬', '癸', '甲', '乙', '丙', '丁', '戊', '己', '庚', '辛', '壬', '癸'];
+    var shigan;
+    var index;
+    if (qigua_flag == 0) {
+      var dateTime = util.formatTime(new Date());
+      var hour = dateTime.getHours();
+      switch (hour) {
+        case 23:
+        case 0:
+          index = 0;
+          break;
+        case 1:
+        case 2:
+          index = 1;
+          break;
+        case 3:
+        case 4:
+          index = 2;
+          break;
+        case 5:
+        case 6:
+          index = 3;
+          break;
+        case 7:
+        case 8:
+          index = 4;
+          break;
+        case 9:
+        case 10:
+          index = 5;
+          break;
+        case 11:
+        case 12:
+          index = 6;
+          break;
+        case 13:
+        case 14:
+          index = 7;
+          break;
+        case 15:
+        case 16:
+          index = 8;
+          break;
+        case 17:
+        case 18:
+          index = 9;
+          break;
+        case 19:
+        case 20:
+          index = 10;
+          break;
+        case 21:
+        case 22:
+          index = 11;
+          break;
+        default:
+          break;
+      }
+    } else {
+      index = time_index;
+      //console.error('yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy'+ RiGan);
+    }
+
+    switch (RiGan) {
+      case '甲':
+      case '己':
+        shigan = JiaJiRi[index];
+        break;
+      case '乙':
+      case '庚':
+        shigan = YiGengRi[index];
+        break;
+      case '丙':
+      case '辛':
+        shigan = BinXinRi[index];
+        break;
+      case '丁':
+      case '壬':
+        shigan = DingRenRi[index];
+        break;
+      case '戊':
+      case '癸':
+        shigan = WuGuiRi[index];
+        break;
+      default:
+        break;
+    }
+
+    return shigan;
+  },
+  GetGongliTimeStr: function (qigua_flag, time_index) {
+    var timeStr;
+    if (qigua_flag == 0) // auto qigua
+    {
+      var dateTime = util.formatTime(new Date());
+      timeStr = (dateTime.getHours()).toString() + ':' + (dateTime.getMinutes()).toString() + ':' + (dateTime.getSeconds()).toString()
+    }
+    else // manual mode
+    {
+      switch (time_index) {
+        case '0':
+          timeStr = '23:00-01:00';
+          break;
+        case '1':
+          timeStr = '01:00-03:00';
+          break;
+        case '2':
+          timeStr = '03:00-05:00';
+          break;
+        case '3':
+          timeStr = '05:00-07:00';
+          break;
+        case '4':
+          timeStr = '07:00-09:00';
+          break;
+        case '5':
+          timeStr = '09:00-11:00';
+          break;
+        case '6':
+          timeStr = '11:00-13:00';
+          break;
+        case '7':
+          timeStr = '13:00-15:00';
+          break;
+        case '8':
+          timeStr = '15:00-17:00';
+          break;
+        case '9':
+          timeStr = '17:00-19:00';
+          break;
+        case '10':
+          timeStr = '19:00-21:00';
+          break;
+        case '11':
+          timeStr = '21:00-23:00';
+          break;
+        default:
+
+          break;
+      }
+    }
+    return timeStr;
+  },
+
+  GetYinLiStrShi: function (qigua_flag, time_index) {
+    var dizhi = ['子', '丑', '寅', '卯', '辰', '巳', '午', '未', '申', '酉', '戌', '亥',];
+    var tmp = ['23:00-01:00', '01:00-03:00', '03:00-05:00', '05:00-07:00', '07:00-09:00', '09:00-11:00', '11:00-13:00', '13:00-15:00', '15:00-17:00', '17:00-19:00', '19:00-21:00', '21:00-23:00'];
+    var strshi;
+    var index;
+    if (qigua_flag == 0) {
+      var dateTime = util.formatTime(new Date());
+      var hour = dateTime.getHours();
+      switch (hour) {
+        case 23:
+        case 0:
+          index = 0;
+          break;
+        case 1:
+        case 2:
+          index = 1;
+          break;
+        case 3:
+        case 4:
+          index = 2;
+          break;
+        case 5:
+        case 6:
+          index = 3;
+          break;
+        case 7:
+        case 8:
+          index = 4;
+          break;
+        case 9:
+        case 10:
+          index = 5;
+          break;
+        case 11:
+        case 12:
+          index = 6;
+          break;
+        case 13:
+        case 14:
+          index = 7;
+          break;
+        case 15:
+        case 16:
+          index = 8;
+          break;
+        case 17:
+        case 18:
+          index = 9;
+          break;
+        case 19:
+        case 20:
+          index = 10;
+          break;
+        case 21:
+        case 22:
+          index = 11;
+          break;
+        default:
+          break;
+      }
+    } else {
+      switch (time_index) {
+        case '0':
+          index = 0;
+          break;
+        case '1':
+          index = 1;
+          break;
+        case '2':
+          index = 2;
+          break;
+        case '3':
+          index = 3;
+          break;
+        case '4':
+          index = 4;
+          break;
+        case '5':
+          index = 5;
+          break;
+        case '6':
+          index = 6;
+          break;
+        case '7':
+          index = 7;
+          break;
+        case '8':
+          index = 8;
+          break;
+        case '9':
+          index = 9;
+          break;
+        case '10':
+          index = 10;
+          break;
+        case '11':
+          index = 11;
+          break;
+        default:
+          break;
+      }
+      // index = time_index;
+      //console.error('!!!!!!!!!!!!!!!!!!!!=' + time_index + index);
+    }
+    switch (index) {
+      case 0:
+        strshi = dizhi[0];
+        break;
+      case 1:
+        strshi = dizhi[1];
+        break;
+      case 2:
+        strshi = dizhi[2];
+        break;
+      case 3:
+        strshi = dizhi[3];
+        break;
+      case 4:
+        strshi = dizhi[4];
+        break;
+      case 5:
+        strshi = dizhi[5];
+        break;
+      case 6:
+        strshi = dizhi[6];
+        break;
+      case 7:
+        strshi = dizhi[7];
+        break;
+      case 8:
+        strshi = dizhi[8];
+        break;
+      case 9:
+        strshi = dizhi[9];
+        break;
+      case 10:
+        strshi = dizhi[10];
+        break;
+      case 11:
+        strshi = dizhi[11];
+        break;
+      default:
+        break;
+    }
+
+    return strshi;
   },
 
   DaysFrom1900Solar: function (nYear, nMonth, nDay) {
@@ -30,13 +325,13 @@ Page({
     var i, j;
 
     if ((nYear < 1900) || (nYear > 2049) || (nMonth > 13) || (nMonth < 1) || (nDay < 1) || (nDay > 31)) {
-     // console.error("Error!!!");
+      // console.error("Error!!!");
       return;
     }
 
     if (nYear == 1900) {
       if ((nMonth == 1) && (nDay < 31)) {
-    //    console.error("Error!!!");
+        //    console.error("Error!!!");
       }
       else if ((nMonth == 1) && (nDay == 31)) {
         ndays = 0;
@@ -92,11 +387,10 @@ Page({
       }
       ndays = 334 + ndays + nDay; // 334 is from 1900.1.31 to 1900.12.31
     }
- //   console.error("solar ndays " + ndays);
+    //   console.error("solar ndays " + ndays);
     return ndays;
 
   },
-
   LunarDay: function (nDaysFrom1900Solar) {
     var YinLiYear = [
       0x04BD8, 0x04AE0, 0x0A570, 0x054D5, 0x0D260, 0x0D950, 0x16554, 0x056A0, 0x09AD0, 0x055D2,
@@ -174,7 +468,7 @@ Page({
       if (YinLiDays[i] == nDaysFrom1900Solar)// 找到所在年
       {
         nYinLiYear = i;                     // 阴历年
-       // console.error("aaa_Year " + nYinLiYear);
+        //   console.error("aaa_Year " + nYinLiYear);
 
         if (nYinLiYear == 0) {
           diff_day = nDaysFrom1900Solar;
@@ -183,17 +477,17 @@ Page({
         }
 
 
-      //  console.error("diff_day " + diff_day);
-      //  console.error("YinLiYear[] " + YinLiYear[nYinLiYear]);
+        // console.error("diff_day " + diff_day);
+        // console.error("YinLiYear[] " + YinLiYear[nYinLiYear]);
         nMonthInThisYear = ('0000000' + YinLiYear[nYinLiYear].toString(2)).slice(-20); // for 阴历月、日
         nMonthNormalYear = nMonthInThisYear.slice(4, 16);
-     //   console.error("nStringInThisYear " + nMonthInThisYear);
-     //   console.error("nMonthInThisYear " + nMonthNormalYear);
+        //   console.error("nStringInThisYear " + nMonthInThisYear);
+        //    console.error("nMonthInThisYear " + nMonthNormalYear);
 
 
         if (YinLiYear[nYinLiYear].toString(16).slice(-1) == '0') // 无闰月
         {
-       //   console.error("No Leap month ");
+          //    console.error("No Leap month ");
 
           for (tmp = 0; tmp < 12; tmp++) {
             if (nMonthNormalYear[tmp] == '0')
@@ -203,19 +497,18 @@ Page({
 
             if ((nCountDay + nLunarDays) < diff_day) {
               nCountDay += nLunarDays;
-          //    console.error("< diff_day " + nCountDay);
-            } 
-            else if ((nCountDay + nLunarDays) == diff_day)
-            {
+              //    console.error("< diff_day " + nCountDay);
+            }
+            else if ((nCountDay + nLunarDays) == diff_day) {
               nLunarD = 1; // 1 号
               nLunarM = tmp + 2;
-          //    console.error(">= diff_day" + nCountDay); 
+              //    console.error(">= diff_day" + nCountDay); 
               break;
             }
             else {
               nLunarD = diff_day - nCountDay + 1;
               nLunarM = tmp + 1;
-         //     console.error(">= diff_day" + nCountDay);
+              //  console.error(">= diff_day" + nCountDay);
               break;
             }
 
@@ -227,13 +520,13 @@ Page({
         }
         else   // 有闰月
         {
-          //console.error("Have Leap month ");
+          //     console.error("Have Leap month ");
           if ((YinLiYear[nYinLiYear].toString(16).slice(-1)) == 'a') {
             nLunarLeapMonth = Number('10');
           } else {
             nLunarLeapMonth = Number(YinLiYear[nYinLiYear].toString(16).slice(-1));
           }
-       //   console.error("IIIIIIIIIIIIIIIII " + nLunarLeapMonth);  // 计算闰哪一个月
+          //   console.error("IIIIIIIIIIIIIIIII " + nLunarLeapMonth);  // 计算闰哪一个月
 
           var before = nMonthNormalYear.slice(0, nLunarLeapMonth);
           var after = nMonthNormalYear.slice(nLunarLeapMonth, 12);
@@ -242,11 +535,11 @@ Page({
           else
             nMonthInLeapYear = before + '1' + after;
 
-       //   console.error("12 month " + nMonthNormalYear);
+          //   console.error("12 month " + nMonthNormalYear);
 
           //  console.error("before " + before);
           //  console.error("after " + after);
-        //  console.error("13 month " + nMonthInLeapYear); // there are 13 month now
+          //  console.error("13 month " + nMonthInLeapYear); // there are 13 month now
 
           for (tmp = 0; tmp < 13; tmp++) {
             if (nMonthInLeapYear[tmp] == '0')
@@ -271,7 +564,7 @@ Page({
                   nLunarM = nLunarM - 1;
                 }
               }
-           //   console.error("cccc " + nLunarM);
+              //   console.error("cccc " + nLunarM);
               break;
             }
           }
@@ -281,63 +574,43 @@ Page({
       }
     }
 
-    //console.error("nYinLiYear " + nYinLiYear);
-    return [nYinLiYear+1900, nLunarM, nLunarD, R_flag];
+    //  console.error("nYinLiYear " + nYinLiYear);
+    return [nYinLiYear + 1900, nLunarM, nLunarD, R_flag];
   },
-  
 
-  /**
-   * 生命周期函数--监听页面加载
-   */
-  onLoad: function (options) {
-
-    var date = util.formatTime(new Date());
-  
+  ReturnGanZhi: function (nyear, nmonth, nday) {
     var JiaZi = getApp().globalData.JiaZi;
 
-    var nyear = date.getFullYear(); // tst here
-    var nmonth = date.getMonth() + 1;
-    var nday = date.getDate();
-    var sDays = this.DaysFrom1900Solar(nyear, nmonth, nday);
     var sTermInfo = [0, 21208, 42467, 63836, 85337, 107014, 128867, 150921, 173149, 195551, 218072, 240693, 263343, 285989, 308563, 331033, 353350, 375494, 397447, 419210, 440795, 462224, 483532, 504758,];// start from XiaoHan
-    var TianGan = ['0',"甲", "乙", "丙", "丁", "戊", "己", "庚", "辛", "壬", "癸"];
+    var TianGan = ['0', "甲", "乙", "丙", "丁", "戊", "己", "庚", "辛", "壬", "癸"];
     var DiZhi = ["子", "丑", "寅", "卯", "辰", "巳", "午", "未", "申", "酉", "戌", "亥"];
-    var offDate;
     var GanYue;
     var ZhiYue;
-    var index;
-    
-    var Ldate = new Array();
-    Ldate = this.LunarDay(sDays);
-    var sYear = Ldate[0];
-    var sMonth = Ldate[1];
-    var sDay = Ldate[2];
-    var sRflag = Ldate[3];
+    var offDate;
 
-   //  console.error("sYear sMonth sDay sRflag=" + sYear + ' ' + sMonth + ' ' + sDay + ' '+ sRflag); 
+    //console.error("hhhhhhhhhhhhhhhhh= " + sDay);
     var Yindex = 0;
     var Mindex = 0;
     var Dindex = 0;
 
-    if ((40 + (sDays % 60)) > 59)  // 40:1900.1.31 is 甲辰日    干支日
+    if ((40 + (nday % 60)) > 59)  // 40:1900.1.31 is 甲辰日    干支日
     {
-      Dindex = (40 + (sDays % 60)) - 60;
+      Dindex = (40 + (nday % 60)) - 60;
     } else {
 
-      Dindex = 40 + (sDays % 60);
+      Dindex = 40 + (nday % 60);
     }
     //   console.error("Today is " + JiaZi[Dindex]); 
 
-    if (((sYear - 1900) % 60 + 36) > 60)           // 36:1900.1.31 is 庚子年    干支年
+    if (((nyear - 1900) % 60 + 36) > 60)           // 36:1900.1.31 is 庚子年    干支年
     {
-      Yindex = ((sYear - 1900) % 60 + 36) - 60;
+      Yindex = ((nyear - 1900) % 60 + 36) - 60;
     }
-    else if (((sYear - 1900) % 60 + 36) == 60)
-    {
+    else if (((nyear - 1900) % 60 + 36) == 60) {
       Yindex = 0;
     }
-    else{
-      Yindex = (sYear - 1900) % 60 + 36
+    else {
+      Yindex = (nyear - 1900) % 60 + 36
     }
 
     //  console.error("This year is " + JiaZi[Yindex]); 
@@ -347,9 +620,8 @@ Page({
     if (YueGan < 0)
       YueGan = YueGan + 10;
 
-
-   // console.error("YueGan = " + YueGan); 
-   // console.error("YueGan Jiazi " + TianGan[YueGan]);
+    //console.error("YueGan = " + YueGan);
+    //console.error("YueGan Jiazi " + TianGan[YueGan]);
     //var GanIndex = YueGan - 1;    // transform to index
 
     var JieQi24 = new Array();
@@ -360,24 +632,25 @@ Page({
       JieQi24.push(offDate.getUTCDate());
       // console.error(nyear + " sTermInfo" + "[" + i + "]" + offDate.getUTCDate());
     }
-   // console.error("JieQi24 is " + JieQi24);
-
+    var xiazhi_day = JieQi24[9];
+    var dongzhi_day = JieQi24[21];
+    // console.error("JieQi24 is " + JieQi24);
+    //console.error("XiaZhi is " + JieQi24[9]);
+    //console.error("DongZhi is " + JieQi24[21]);
     switch (nmonth) {
       case 1:
-     //   console.error("yangli yue = " + nmonth); 
+        //console.error("yangli yue = " + nmonth);
         if ((nday > JieQi24[0]) || (nday == JieQi24[0])) {
           YueGan = YueGan - 1;
           if ((YueGan - 1) == 0)
-            YueGan = 10;           
+            YueGan = 10;
 
           GanYue = TianGan[YueGan];
           ZhiYue = DiZhi[1];
-      //    console.error("jie hou ");
         } else {
-      //    console.error("jie qian ");
           YueGan = YueGan - 2;
           if (YueGan < 0)
-            YueGan += 10;   
+            YueGan += 10;
 
           GanYue = TianGan[YueGan];
           ZhiYue = DiZhi[0];
@@ -392,14 +665,14 @@ Page({
         } else {
           YueGan = YueGan - 1;
           if ((YueGan - 1) == 0)
-            YueGan=10;           
+            YueGan = 10;
           GanYue = TianGan[YueGan];
           ZhiYue = DiZhi[1];
         }
         break;
       case 3:
         if ((nday > JieQi24[4]) || (nday == JieQi24[4])) {
-          YueGan = YueGan +1;
+          YueGan = YueGan + 1;
           GanYue = TianGan[YueGan];
           ZhiYue = DiZhi[3];
 
@@ -582,71 +855,196 @@ Page({
 
         break;
     }
+    var ganzhi = [JiaZi[Yindex], GanYue + ZhiYue, JiaZi[Dindex], xiazhi_day,dongzhi_day];
+
+    return ganzhi
+  },
+
+  bindPickerYao6: function (e) {
+    console.error('picker发送选择改变，携带值为', e.detail.value)
+    this.setData({
+      y6Index: e.detail.value,
+    })
+  },
+  bindPickerYao5: function (e) {
+    console.error('picker发送选择改变，携带值为', e.detail.value)
+    this.setData({
+      y5Index: e.detail.value,
+    })
+  },
+  bindPickerYao4: function (e) {
+    console.error('picker发送选择改变，携带值为', e.detail.value)
+    this.setData({
+      y4Index: e.detail.value,
+    })
+  },
+  bindPickerYao3: function (e) {
+    console.error('picker发送选择改变，携带值为', e.detail.value)
+    this.setData({
+      y3Index: e.detail.value,
+    })
+  },
+  bindPickerYao2: function (e) {
+    console.error('picker发送选择改变，携带值为', e.detail.value)
+    this.setData({
+      y2Index: e.detail.value,
+    })
+  },
+  bindPickerYao1: function (e) {
+    console.error('picker发送选择改变，携带值为', e.detail.value)
+    this.setData({
+      y1Index: e.detail.value,
+    })
+  },
 
 
+  bindPickerChange: function (e) {
+    console.error('picker发送选择改变，携带值为', e.detail.value)
+    this.setData({
+      index: e.detail.value,
+    })
+  },
+
+  bindDateChange: function (e) {
+    console.log('picker发送选择改变，携带值为', e.detail.value)
+
+    this.setData({
+      date: e.detail.value
+    })
+    console.error('index=' + e.detail.value[8] + e.detail.value[9])
+  },
+  GoToPaiPanFromAuto: function () {
     var ShengXiao = ["鼠", "牛", "虎", "兔", "龙", "蛇", "马", "羊", "猴", "鸡", "狗", "猪"];
-    var YinLiYue = ["0","正","二","三","四","五","六","七","八","九","十","十一","腊"];
-    var YinLiDay = ["0", "初一", "初二", "初三", "初四", "初五", "初六", "初七", "初八", "初九","初十", 
-                    "十一", "十二", "十三","十四","十五","十六","十七","十八","十九","二十",
-                    "廿一","廿二","廿三","廿四","廿五","廿六","廿七","廿八","廿九","三十"];
+    var YinLiYue = ["0", "正", "二", "三", "四", "五", "六", "七", "八", "九", "十", "冬", "腊"];
+    var YinLiDay = ["0", "初一", "初二", "初三", "初四", "初五", "初六", "初七", "初八", "初九", "初十",
+      "十一", "十二", "十三", "十四", "十五", "十六", "十七", "十八", "十九", "二十",
+      "廿一", "廿二", "廿三", "廿四", "廿五", "廿六", "廿七", "廿八", "廿九", "三十"];
+    var StrYinLi = [];
+    var StrDate = [];
+    var StrShiZhi;
+    var StrShiGan;
+    var timeStr;
 
-    var shengxiaoIndex = (nyear + 9) % 12;
-  
-      this.setData(
-        {
-          Today: "今天是 " + nyear + " 年" + nmonth + " 月 " + nday + " 日 ",
-          YinLi: sYear + " 年 " + YinLiYue[sMonth] + " 月 " + YinLiDay[sDay] + " 日",
-          Ganzhi: JiaZi[Yindex] + " 年 " + GanYue + ZhiYue + " 月 " + JiaZi[Dindex] + " 日" ,
-        }
-    )
+    var date = util.formatTime(new Date());
+
+    var time_index = this.data.index
+    var date_fromPicker = this.data.date
+    //console.error('pppp111 ' + date_fromPicker)
+    //console.error('pppp222 ' + parseInt(date_fromPicker.slice(0,5)) )
+    //console.error('pppp222 ' + parseInt(date_fromPicker.slice(5, 8)))
+    //console.error('pppp222 ' + parseInt(date_fromPicker.slice(8, 11)))
+    if (qigua_flag == 0)//auto
+    {
+      var nyear = date.getFullYear(); // tst here
+      var nmonth = date.getMonth() + 1;
+      var ndate = date.getDate();
+    }
+    else {
+      var nyear = parseInt(date_fromPicker.slice(0, 5));
+      var nmonth = parseInt(date_fromPicker.slice(5, 8))
+      var ndate = parseInt(date_fromPicker.slice(8, 11))
+    }
+    var ndays = this.DaysFrom1900Solar(nyear, nmonth, ndate);
+
+    var nYLymd = this.LunarDay(ndays);
+
+    var nGanZhi = this.ReturnGanZhi(nyear, nmonth, ndays);
+
+
+    var qigua_flag = 0
+    var gonglitime = this.GetGongliTimeStr(qigua_flag, time_index);
+    StrDate = date_fromPicker + ' ' + gonglitime;
+    //  console.error('RRRRRRRRRRRRRRRRRRRRRRRRRR ' + StrDate);
+    StrShiZhi = this.GetYinLiStrShi(qigua_flag, time_index)
+    // console.error('RRRRRRRRRRRRRRRRRRRRRRRRRR StrShiZhi = ' + StrShiZhi)
+
+    StrShiGan = this.GetShiGan(nGanZhi[2].slice(0, 1), qigua_flag, time_index)
+    if (nYLymd[3] == 0) {
+      StrYinLi = [nYLymd[0] + " 年 " + YinLiYue[nYLymd[1]] + " 月 " + YinLiDay[nYLymd[2]] + ' ' + StrShiZhi + '时']
+    }
+    else {
+      StrYinLi = [nYLymd[0] + " 年 " + ' 闰' + YinLiYue[nYLymd[1]] + " 月 " + YinLiDay[nYLymd[2]] + ' ' + StrShiZhi + '时']
+    }
+    //console.error('nGanZhi is        '+nGanZhi.pop())
+    //console.error('nGanZhi is        ' + nGanZhi.pop())
+    //console.error('nGanZhi is        ' + nGanZhi)
+    var xia_dong_day=[]
+    xia_dong_day.push(nGanZhi.pop())
+    xia_dong_day.push(nGanZhi.pop())
+    xia_dong_day = xia_dong_day.reverse()
+    nGanZhi = nGanZhi + ' ' + StrShiGan + StrShiZhi;
+   // console.error('StrShiGan============' + StrShiGan);
+    var default_gua = this.data.y6Index + this.data.y5Index + this.data.y4Index + this.data.y3Index + this.data.y2Index + this.data.y1Index;
+   // console.error('default_gua='+default_gua)
+   // console.error('default_gua=' + default_gua[2])
+   // console.error('default_gua=' + typeof(default_gua[2]))
+    // ppflag=2 易冒纳甲
+    wx.navigateTo({
+      url: '../Najia/NajiaPaiPan?&dateIndex=' + StrDate + '&timeIndex=' + time_index + '&YLymd=' + StrYinLi + '&ganzhiGrp=' + nGanZhi + '&qigua_flag=' + '0' + '&ppflag='+'2'+'&xiadong_day=' + xia_dong_day
+    })
+
+   // console.error('time is     ' + StrDate)
+  },
+
+  /**
+   * 生命周期函数--监听页面加载
+   */
+  onLoad: function (options) {
+    var dateTime = util.formatTime_1(new Date());
+
+    this.setData({
+      date: dateTime
+    })
+
+
   },
 
   /**
    * 生命周期函数--监听页面初次渲染完成
    */
   onReady: function () {
-  
+
   },
 
   /**
    * 生命周期函数--监听页面显示
    */
   onShow: function () {
-  
+
   },
 
   /**
    * 生命周期函数--监听页面隐藏
    */
   onHide: function () {
-  
+
   },
 
   /**
    * 生命周期函数--监听页面卸载
    */
   onUnload: function () {
-  
+
   },
 
   /**
    * 页面相关事件处理函数--监听用户下拉动作
    */
   onPullDownRefresh: function () {
-  
+
   },
 
   /**
    * 页面上拉触底事件的处理函数
    */
   onReachBottom: function () {
-  
+
   },
 
   /**
    * 用户点击右上角分享
    */
   onShareAppMessage: function () {
-  
+
   }
 })

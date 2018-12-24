@@ -1,0 +1,107 @@
+<!--pages/Najia/NajiaSimple.wxml-->
+<view class="section" style="text-align:center">
+<text class="title_text">精简排盘</text>
+</view>
+
+
+
+<view class="section">
+  <picker mode="date" value="{{date}}" start="1900-1-31" end="2049-12-31" bindchange="bindDateChange">
+    <view class="picker"class='small_text'>
+      公历日期选择: {{date}}
+    </view>
+  </picker>
+</view>
+<!-->
+<view class="section">
+<picker bindchange="bindPickerChange" value="{{index}}" range="{{ShiChenArrayNum}}">
+    <view class="picker"class='small_text'>
+      时间选择：{{ShiChenArrayNum[index]}}
+    </view>
+  </picker>
+</view>
+-->
+
+<radio-group class="radio-group" bindchange="NJxuangua_radioChange">
+                 <label class="radio" class='blue_text'>
+                  \n{{style_1}}<radio value="yao6" checked="true"/>
+              </label>
+
+<view class="section">
+<picker bindchange="bindPickerYao6" value="{{y6Index}}" range="{{Yao6Range}}">
+    <view class="picker"class='small_text'>
+      上爻：{{Yao6Range[y6Index]}}
+    </view>
+  </picker>
+<picker bindchange="bindPickerYao5" value="{{y5Index}}" range="{{Yao5Range}}">
+    <view class="picker"class='small_text'>
+      五爻：{{Yao5Range[y5Index]}}
+    </view>
+  </picker>
+<picker bindchange="bindPickerYao4" value="{{y4Index}}" range="{{Yao4Range}}">
+    <view class="picker"class='small_text'>
+      四爻：{{Yao4Range[y4Index]}}
+    </view>
+  </picker>
+<picker bindchange="bindPickerYao3" value="{{y3Index}}" range="{{Yao3Range}}">
+    <view class="picker"class='small_text'>
+      三爻：{{Yao3Range[y3Index]}}
+    </view>
+  </picker>
+<picker bindchange="bindPickerYao2" value="{{y2Index}}" range="{{Yao2Range}}">
+    <view class="picker"class='small_text'>
+      二爻：{{Yao2Range[y2Index]}}
+    </view>
+  </picker>
+<picker bindchange="bindPickerYao1" value="{{y1Index}}" range="{{Yao1Range}}">
+    <view class="picker"class='small_text'>
+      初爻：{{Yao1Range[y1Index]}}
+    </view>
+  </picker>  
+</view>
+
+ <label class="radio"class='blue_text' >
+    \n{{style_3}}<radio value="benbianupdown" checked=""/>
+  </label>
+<picker bindchange="bindPickerBenUp" value="{{benupIndex}}" range="{{BaGuaRange}}"> 
+<view class='small_text'> 本卦上卦：{{BaGuaRange[benupIndex]}}</view>
+</picker>
+ <picker bindchange="bindPickerBenDown" value="{{bendownIndex}}" range="{{BaGuaRange}}">
+ <view class='small_text'> 本卦下卦：{{BaGuaRange[bendownIndex]}}</view>
+ </picker>
+ <picker bindchange="bindPickerBianUp" value="{{bianupIndex}}" range="{{BaGuaRange}}"> 
+<view class='small_text'> 变卦上卦：{{BaGuaRange[bianupIndex]}}</view>
+</picker>
+ <picker bindchange="bindPickerBianDown" value="{{biandownIndex}}" range="{{BaGuaRange}}">
+ <view class='small_text'> 变卦下卦：{{BaGuaRange[biandownIndex]}}</view>
+ </picker>
+
+
+  <label class="radio"class='blue_text' >
+    \n{{style_2}}<radio value="benbian" checked=""/>
+  </label>
+  <picker bindchange="bindPickerBen" value="{{benguaIndex}}" range="{{GuaRange}}"> 
+<view class='small_text'> 本卦：{{GuaRange[benguaIndex]}}</view>
+</picker>
+ <picker bindchange="bindPickerBian" value="{{bianguaIndex}}" range="{{GuaRange}}">
+ <view class='small_text'> 变卦：{{GuaRange[bianguaIndex]}}</view>
+ </picker>
+</radio-group>
+<!--<view><text class='blue_text'>\n爻选择:</text></view>-->
+
+<!--
+
+<view><text class='blue_text'>\n纳甲方式:</text></view>
+<radio-group class="radio-group" bindchange="NJStyle_radioChange">
+                 <label class="radio" >
+                  {{style1}}<radio value="1" checked="true"/>
+              </label>
+              <label class="radio" >
+                  {{style2}}<radio value="2" checked=""/>
+              </label>
+   
+</radio-group>
+-->
+<view style="text-align:center" class='PaiPan_bt'>
+<button class='gotoPaiPan_bt'  bindtap='GoToPaiPanSimple' size='mini'> 排盘</button>
+</view>

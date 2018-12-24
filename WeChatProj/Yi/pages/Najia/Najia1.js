@@ -1,6 +1,4 @@
-// pages/Najia/Najia.js
-
-
+// pages/Najia/Najia1.js
 
 Page({
 
@@ -10,43 +8,29 @@ Page({
   data: {
 
   },
-  najia_tst1: function () {
-    wx.navigateTo({
-      url: '../Najia/Najia1'
-    })
-  },
-  najia_tst3: function () {
-    wx.navigateTo({
-      url: '../Najia/Najia3'
-    })
-  },
-  najia_tst2: function () {
-    wx.navigateTo({
-      url: '../Najia/Najia2'
-    })
-  },
-  najia_tst4: function () {
-    wx.navigateTo({
-      url: '../Najia/Najia4'
-    })
-  },
-  najia_tst5: function () {
-    wx.navigateTo({
-      url: '../Najia/NajiaSimple'
-    })
-  },
+
+
+  
+  
+
+  
   /**
    * 生命周期函数--监听页面加载
    */
+
   onLoad: function (options) {
- 
+
+   
+   
+   
+    
   },
 
   /**
    * 生命周期函数--监听页面初次渲染完成
    */
   onReady: function () {
-
+    
   },
 
   /**

@@ -1,7 +1,7 @@
 <!--pages/dashang/dashang.wxml-->
 
 <view style="text-align:center" class='dashang_title'>
-<text>感谢使用本小程序\n\n</text>
+<text>{{Today}}\n\n</text>
 </view>
 <!--
 <view style="text-align:center" class='dashang_title'>
@@ -13,9 +13,16 @@
 </view>
 -->
 <view style="text-align:center" class='dashang_title'>
-<text>广告时间 ^_^ 后续有精彩，敬请期待。。。\n\n\n\n\n\n\n\n\n\n</text>
+<text>{{YinLi}}\n</text>
+<text>{{Ganzhi}}\n\n\n</text>
 </view>
 
+<view style="text-align:center" class='dashang_title'>
+夫君子之行，静以修身，俭以养德。非淡泊无以明志，非宁静无以致远。
+<text>
+
+\n\n\n\n\n\n</text>
+</view>
 <view style="text-align:center" class='shoukuan_pic'>
 <ad unit-id="adunit-48d41fd16d67d4c0"></ad>
 <!-- 

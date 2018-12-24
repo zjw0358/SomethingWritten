@@ -10,62 +10,62 @@ Page({
   //事件处理函数
   xici2_1: function () {
     wx.navigateTo({
-      url: '../XiCi2_1/XiCi2_1'
+      url: '../XiCi2/XiCi2_1'
     })
   },
   xici2_2: function () {
     wx.navigateTo({
-      url: '../XiCi2_2/XiCi2_2'
+      url: '../XiCi2/XiCi2_2'
     })
   },
   xici2_3: function () {
     wx.navigateTo({
-      url: '../XiCi2_3/XiCi2_3'
+      url: '../XiCi2/XiCi2_3'
     })
   },
   xici2_4: function () {
     wx.navigateTo({
-      url: '../XiCi2_4/XiCi2_4'
+      url: '../XiCi2/XiCi2_4'
     })
   },
   xici2_5: function () {
     wx.navigateTo({
-      url: '../XiCi2_5/XiCi2_5'
+      url: '../XiCi2/XiCi2_5'
     })
   },
   xici2_6: function () {
     wx.navigateTo({
-      url: '../XiCi2_6/XiCi2_6'
+      url: '../XiCi2/XiCi2_6'
     })
   },
   xici2_7: function () {
     wx.navigateTo({
-      url: '../XiCi2_7/XiCi2_7'
+      url: '../XiCi2/XiCi2_7'
     })
   },
   xici2_8: function () {
     wx.navigateTo({
-      url: '../XiCi2_8/XiCi2_8'
+      url: '../XiCi2/XiCi2_8'
     })
   },
   xici2_9: function () {
     wx.navigateTo({
-      url: '../XiCi2_9/XiCi2_9'
+      url: '../XiCi2/XiCi2_9'
     })
   },
   xici2_10: function () {
     wx.navigateTo({
-      url: '../XiCi2_10/XiCi2_10'
+      url: '../XiCi2/XiCi2_10'
     })
   },
   xici2_11: function () {
     wx.navigateTo({
-      url: '../XiCi2_11/XiCi2_11'
+      url: '../XiCi2/XiCi2_11'
     })
   },
   xici2_12: function () {
     wx.navigateTo({
-      url: '../XiCi2_12/XiCi2_12'
+      url: '../XiCi2/XiCi2_12'
     })
   },
   /**

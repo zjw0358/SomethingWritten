@@ -138,7 +138,7 @@
 
 <view> 
 <button bindtap="GoToDaShang">
-关于
+今日之箴
 </button>
 </view>
 <ad unit-id="adunit-b9f28f30d950ab70"></ad>

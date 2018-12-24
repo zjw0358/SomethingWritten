@@ -10,57 +10,57 @@ Page({
   //事件处理函数
   shuogua_1: function () {
     wx.navigateTo({
-      url: '../ShuoGua_1/ShuoGua_1'
+      url: '../ShuoGua/ShuoGua_1'
     })
   },
   shuogua_2: function () {
     wx.navigateTo({
-      url: '../ShuoGua_2/ShuoGua_2'
+      url: '../ShuoGua/ShuoGua_2'
     })
   },
   shuogua_3: function () {
     wx.navigateTo({
-      url: '../ShuoGua_3/ShuoGua_3'
+      url: '../ShuoGua/ShuoGua_3'
     })
   },
   shuogua_4: function () {
     wx.navigateTo({
-      url: '../ShuoGua_4/ShuoGua_4'
+      url: '../ShuoGua/ShuoGua_4'
     })
   },
   shuogua_5: function () {
     wx.navigateTo({
-      url: '../ShuoGua_5/ShuoGua_5'
+      url: '../ShuoGua/ShuoGua_5'
     })
   },
   shuogua_6: function () {
     wx.navigateTo({
-      url: '../ShuoGua_6/ShuoGua_6'
+      url: '../ShuoGua/ShuoGua_6'
     })
   },
   shuogua_7: function () {
     wx.navigateTo({
-      url: '../ShuoGua_7/ShuoGua_7'
+      url: '../ShuoGua/ShuoGua_7'
     })
   },
   shuogua_8: function () {
     wx.navigateTo({
-      url: '../ShuoGua_8/ShuoGua_8'
+      url: '../ShuoGua/ShuoGua_8'
     })
   },
   shuogua_9: function () {
     wx.navigateTo({
-      url: '../ShuoGua_9/ShuoGua_9'
+      url: '../ShuoGua/ShuoGua_9'
     })
   },
   shuogua_10: function () {
     wx.navigateTo({
-      url: '../ShuoGua_10/ShuoGua_10'
+      url: '../ShuoGua/ShuoGua_10'
     })
   },
   shuogua_11: function () {
     wx.navigateTo({
-      url: '../ShuoGua_11/ShuoGua_11'
+      url: '../ShuoGua/ShuoGua_11'
     })
   },
 

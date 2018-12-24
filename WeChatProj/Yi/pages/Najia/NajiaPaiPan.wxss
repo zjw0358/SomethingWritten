@@ -1,0 +1,10 @@
+/* pages/Najia/NajiaPaiPan.wxss */
+
+.content{
+  display: flex;
+  flex-direction: row;
+}
+.black_text{
+
+  color: black
+}

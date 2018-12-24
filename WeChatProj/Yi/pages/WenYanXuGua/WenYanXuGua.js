@@ -10,22 +10,22 @@ Page({
 
   GoToWenYan1: function () {
     wx.navigateTo({
-      url: '../WenYan1/WenYan1'
+      url: '../WenYan/WenYan1'
     })
   },
   GoToWenYan2: function () {
     wx.navigateTo({
-      url: '../WenYan2/WenYan2'
+      url: '../WenYan/WenYan2'
     })
   },
   GoToXuGua1: function () {
     wx.navigateTo({
-      url: '../XuGua1/XuGua1'
+      url: '../XuGua/XuGua1'
     })
   },
   GoToXuGua2: function () {
     wx.navigateTo({
-      url: '../XuGua2/XuGua2'
+      url: '../XuGua/XuGua2'
     })
   },
 
