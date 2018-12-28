@@ -16,7 +16,10 @@
 <view style="flex:1;text-align:center"> <text class="small_text">{{benguaTitle}}</text></view>
 <view style="flex:1;text-align:center"> <text class="small_text">{{bianguaTitle}}</text></view>
 </view>
-
+<view class="content">
+<view style="flex:1;text-align:center"> <text class="small_text">{{benHCTitle}}</text></view>
+<view style="flex:1;text-align:center"> <text class="small_text">{{bianHCTitle}}</text></view>
+</view>
 <canvas style="flex:1;width: {{GuaView_width}}px" canvas-id="guatu">
 </canvas>
 

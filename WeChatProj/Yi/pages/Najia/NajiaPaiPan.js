@@ -703,7 +703,7 @@ for(var i =0;i<64;i++)
   biangua = bengua.reverse();// 求变卦前 先翻过来，从下到上
   for (var i = 0; i < 6; i++) 
   {
-    if(dongyao[i]>0)
+    if((dongyao[i]>0)||(dongyao[i]==0))
     {
       if (biangua[i]==1)
         biangua[i] = 0;
@@ -712,7 +712,7 @@ for(var i =0;i<64;i++)
     }
   }
   biangua = biangua.reverse();// 恢复从上到下
-//  console.error('biangua===' + biangua);
+  //console.error('biangua===' + biangua);
 
   for (var i = 0; i < 64; i++) {
     tempGua = gua_grp[i];
@@ -826,7 +826,7 @@ QiGuaCoin:function(){
  // console.error("DongIndexArray " + DongIndexArray);
   //console.error("DongIndexArray reverse" + DongIndexArray.reverse());
   var YaoAndDong = (YaoArray.reverse()).concat(DongIndexArray);// l六爻转变为从上到下
- // console.error("YaoAndDong " + YaoAndDong);
+//  console.error("YaoAndDong " + YaoAndDong);
   return YaoAndDong;
 },
 /*
@@ -1203,6 +1203,61 @@ return index
    // console.error('list is '+list)
     return list
   },
+
+    GetLiuHeChong:function(index){
+      var liuhe = '六合卦'
+      var liuchong = '六冲卦'
+      var name 
+
+      switch (index) {
+        case 0:
+        case 1:
+        case 28:
+        case 29:
+        case 50:
+        case 51:
+        case 56:
+        case 57:
+        case 24:
+        case 33:
+          name = liuchong
+          break;
+        case 10:
+        case 11:
+        case 59:
+        case 21:
+        case 23:
+        case 15:
+        case 46:
+        case 55:
+          name = liuhe
+          break;   
+    }
+    return name
+    },
+  showHeChongTitle: function (benIndex, bianIndex){
+    
+    var benCHName
+    var bianCHName
+
+    benCHName = this.GetLiuHeChong(benIndex)
+    bianCHName = this.GetLiuHeChong(bianIndex)
+
+    if (benCHName)
+    {
+    this.setData({
+      benHCTitle: benCHName,
+      
+    })
+    }
+    if (bianCHName){
+      this.setData({
+        bianHCTitle: bianCHName,
+
+      })      
+    }
+  },
+
 showGuaTitle:function(benIndex,bianIndex,cuoIndex,zongIndex,huIndex)
 {
 
@@ -1408,8 +1463,8 @@ for(var i=0;i<6;i++)
       ctx.moveTo(yao2_start_x + yinyao_w + yinyao_gap, yao1_start_y + (yao_h + yao_gap) * i)
       ctx.lineTo(yao2_start_x + yinyao_w * 2 + yinyao_gap, yao1_start_y + (yao_h + yao_gap) * i)
     }
-  }
-  
+  } 
+
   ctx.stroke()
   ctx.draw()
  
@@ -1539,6 +1594,8 @@ for(var i=0;i<6;i++)
     
     this.DrawGua(gua_grp[gua_index[0]], gua_grp[gua_index[1]], donglist,benLiuqin,bianLiuqin,benShiying,bianShiying,myCanvasWidth, liushen_grp);
     
+    this.showHeChongTitle(gua_index[0], gua_index[1])
+
     var gualistName = this.GetCZHgua(gua_index[0]) 
     
     this.showGuaTitle(gua_index[0], gua_index[1], gualistName[0], gualistName[1], gualistName[2]);
