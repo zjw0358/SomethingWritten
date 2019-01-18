@@ -1591,17 +1591,18 @@ for(var i=0;i<6;i++)
     
     this.showTime(options.dateIndex, options.YLymd, options.ganzhiGrp, xunkong);
     
+    //console.error('options.ganzhiGrp=' + options.ganzhiGrp)
     
-    this.DrawGua(gua_grp[gua_index[0]], gua_grp[gua_index[1]], donglist,benLiuqin,bianLiuqin,benShiying,bianShiying,myCanvasWidth, liushen_grp);
-    
-    this.showHeChongTitle(gua_index[0], gua_index[1])
-
+   
     var gualistName = this.GetCZHgua(gua_index[0]) 
     
     this.showGuaTitle(gua_index[0], gua_index[1], gualistName[0], gualistName[1], gualistName[2]);
 
-    this.DrawCZHgua(gua_grp[gualistName[0]], gua_grp[gualistName[1]], gua_grp[gualistName[2]], myCanvasWidth);
+    this.showHeChongTitle(gua_index[0], gua_index[1])
 
+    this.DrawGua(gua_grp[gua_index[0]], gua_grp[gua_index[1]], donglist, benLiuqin, bianLiuqin, benShiying, bianShiying, myCanvasWidth, liushen_grp);
+
+    this.DrawCZHgua(gua_grp[gualistName[0]], gua_grp[gualistName[1]], gua_grp[gualistName[2]], myCanvasWidth);
 
     this.showGuaShiShen(gua_index[0])    
 

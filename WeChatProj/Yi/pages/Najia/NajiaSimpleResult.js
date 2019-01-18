@@ -648,7 +648,7 @@ Page({
 
     this.setData(
       {
-        Today:  nyear + " 年" + nmonth + " 月 " + nday + " 日 ",
+        Today:  nyear + " 年 " + nmonth + " 月 " + nday + " 日 ",
       }
     )
 

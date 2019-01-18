@@ -618,7 +618,7 @@ Page({
     return [nYinLiYear + 1900, nLunarM, nLunarD, R_flag];
   },
 
-ReturnGanZhi:function(nyear,nmonth,nday){
+ReturnGanZhi:function(nyear,yyear,nmonth,nday,ydate){
   var JiaZi = getApp().globalData.JiaZi;
 
   var sTermInfo = [0, 21208, 42467, 63836, 85337, 107014, 128867, 150921, 173149, 195551, 218072, 240693, 263343, 285989, 308563, 331033, 353350, 375494, 397447, 419210, 440795, 462224, 483532, 504758,];// start from XiaoHan
@@ -656,11 +656,11 @@ ReturnGanZhi:function(nyear,nmonth,nday){
   //  console.error("This year is " + JiaZi[Yindex]); 
 
   // 干支月
-  var YueGan = (nyear % 5 - 2) * 2 - 1;  // 立春的月干  
+  var YueGan = (yyear % 5 - 2) * 2 - 1;  // 立春的月干  
   if (YueGan < 0)
     YueGan = YueGan + 10;
 
-  //console.error("YueGan = " + YueGan);
+ // console.error("YueGan = " + YueGan);
   //console.error("YueGan Jiazi " + TianGan[YueGan]);
   //var GanIndex = YueGan - 1;    // transform to index
 
@@ -668,9 +668,9 @@ ReturnGanZhi:function(nyear,nmonth,nday){
 
   for (var i = 0; i < 24; i++) // 24 节气  // 注意，是以阳历年计算
   {
-    offDate = new Date((31556925974.7 * (nyear - 1900) + sTermInfo[i] * 60000) + Date.UTC(1900, 0, 6, 2, 5));
+    offDate = new Date((31556925974.7 * (yyear - 1900) + sTermInfo[i] * 60000) + Date.UTC(1900, 0, 6, 2, 5));
     JieQi24.push(offDate.getUTCDate());
-    // console.error(nyear + " sTermInfo" + "[" + i + "]" + offDate.getUTCDate());
+    // console.error(yyear + " sTermInfo" + "[" + i + "]" + offDate.getUTCDate());
   }
   // console.error("JieQi24 is " + JieQi24);
   var xiazhi_day = JieQi24[9];
@@ -678,8 +678,8 @@ ReturnGanZhi:function(nyear,nmonth,nday){
 
   switch (nmonth) {
     case 1:
-      //console.error("yangli yue = " + nmonth);
-      if ((nday > JieQi24[0]) || (nday == JieQi24[0])) {
+    //  console.error("yangli yue = " + nmonth);
+      if ((ydate > JieQi24[0]) || (ydate == JieQi24[0])) {
         YueGan = YueGan - 1;
         if ((YueGan - 1) == 0)
           YueGan = 10;
@@ -698,7 +698,7 @@ ReturnGanZhi:function(nyear,nmonth,nday){
 
       break;
     case 2:
-      if ((nday > JieQi24[2]) || (nday == JieQi24[2])) {
+      if ((ydate > JieQi24[2]) || (ydate == JieQi24[2])) {
         GanYue = TianGan[YueGan];
         ZhiYue = DiZhi[2];
       } else {
@@ -710,7 +710,7 @@ ReturnGanZhi:function(nyear,nmonth,nday){
       }
       break;
     case 3:
-      if ((nday > JieQi24[4]) || (nday == JieQi24[4])) {
+      if ((ydate > JieQi24[4]) || (ydate == JieQi24[4])) {
         YueGan = YueGan + 1;
         GanYue = TianGan[YueGan];
         ZhiYue = DiZhi[3];
@@ -723,7 +723,7 @@ ReturnGanZhi:function(nyear,nmonth,nday){
       }
       break;
     case 4:
-      if ((nday > JieQi24[6]) || (nday == JieQi24[6])) {
+      if ((ydate > JieQi24[6]) || (ydate == JieQi24[6])) {
         YueGan = YueGan + 2;
         if (YueGan > 10)
           YueGan = YueGan % 10;
@@ -739,7 +739,7 @@ ReturnGanZhi:function(nyear,nmonth,nday){
       }
       break;
     case 5:
-      if ((nday > JieQi24[8]) || (nday == JieQi24[8])) {
+      if ((ydate > JieQi24[8]) || (ydate == JieQi24[8])) {
         YueGan = YueGan + 3;
         if (YueGan > 10)
           YueGan = YueGan % 10;
@@ -758,7 +758,7 @@ ReturnGanZhi:function(nyear,nmonth,nday){
       }
       break;
     case 6:
-      if ((nday > JieQi24[10]) || (nday == JieQi24[10])) {
+      if ((ydate > JieQi24[10]) || (ydate == JieQi24[10])) {
         YueGan = YueGan + 4;
         if (YueGan > 10)
           YueGan = YueGan % 10;
@@ -777,7 +777,7 @@ ReturnGanZhi:function(nyear,nmonth,nday){
       }
       break;
     case 7:
-      if ((nday > JieQi24[12]) || (nday == JieQi24[12])) {
+      if ((ydate > JieQi24[12]) || (ydate == JieQi24[12])) {
         YueGan = YueGan + 5;
         if (YueGan > 10)
           YueGan = YueGan % 10;
@@ -796,7 +796,7 @@ ReturnGanZhi:function(nyear,nmonth,nday){
       }
       break;
     case 8:
-      if ((nday > JieQi24[14]) || (nday == JieQi24[14])) {
+      if ((ydate > JieQi24[14]) || (ydate == JieQi24[14])) {
         YueGan = YueGan + 6;
         if (YueGan > 10)
           YueGan = YueGan % 10;
@@ -815,7 +815,7 @@ ReturnGanZhi:function(nyear,nmonth,nday){
       }
       break;
     case 9:
-      if ((nday > JieQi24[16]) || (nday == JieQi24[16])) {
+      if ((ydate > JieQi24[16]) || (ydate == JieQi24[16])) {
         YueGan = YueGan + 7;
         if (YueGan > 10)
           YueGan = YueGan % 10;
@@ -834,7 +834,7 @@ ReturnGanZhi:function(nyear,nmonth,nday){
       }
       break;
     case 10:
-      if ((nday > JieQi24[18]) || (nday == JieQi24[18])) {
+      if ((ydate > JieQi24[18]) || (ydate == JieQi24[18])) {
         YueGan = YueGan + 8;
         if (YueGan > 10)
           YueGan = YueGan % 10;
@@ -853,7 +853,7 @@ ReturnGanZhi:function(nyear,nmonth,nday){
       }
       break;
     case 11:
-      if ((nday > JieQi24[20]) || (nday == JieQi24[20])) {
+      if ((ydate > JieQi24[20]) || (ydate == JieQi24[20])) {
         YueGan = YueGan + 9;
         if (YueGan > 10)
           YueGan = YueGan % 10;
@@ -872,7 +872,7 @@ ReturnGanZhi:function(nyear,nmonth,nday){
       }
       break;
     case 12:
-      if ((nday > JieQi24[22]) || (nday == JieQi24[22])) {
+      if ((ydate > JieQi24[22]) || (ydate == JieQi24[22])) {
         YueGan = YueGan + 10;
         if (YueGan > 10)
           YueGan = YueGan % 10;
@@ -896,6 +896,11 @@ ReturnGanZhi:function(nyear,nmonth,nday){
   }
   //var ganzhi=[JiaZi[Yindex] ,  GanYue + ZhiYue ,  JiaZi[Dindex]];
   var ganzhi = [JiaZi[Yindex], GanYue + ZhiYue, JiaZi[Dindex], xiazhi_day, dongzhi_day]
+
+ // console.error('JiaZi[Yindex]', JiaZi[Yindex])
+ // console.error('GanYue', GanYue)
+ // console.error('ZhiYue', ZhiYue)
+
   return ganzhi
 },
 
@@ -1125,9 +1130,9 @@ ReturnGanZhi:function(nyear,nmonth,nday){
     
     var nYLymd = this.LunarDay(ndays);
     
-    var nGanZhi = this.ReturnGanZhi(nyear, nmonth, ndays);
+    var nGanZhi = this.ReturnGanZhi(nYLymd[0], nyear, nmonth, ndays, ndate);
 
-    
+    //console.error('nyear ' + nyear);
     var qigua_flag = 1   // manual 
     var gonglitime = this.GetGongliTimeStr(qigua_flag, time_index);
     StrDate = date_fromPicker + ' ' + gonglitime;
