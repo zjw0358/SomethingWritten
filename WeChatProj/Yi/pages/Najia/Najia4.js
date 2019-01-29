@@ -913,6 +913,64 @@ Page({
     })
     console.error('index=' + e.detail.value[8] + e.detail.value[9])
   },
+  QiGuaCoin: function () {
+    var YaoArray = new Array();
+    var DongIndexArray = new Array();
+    var coin;
+    var yao;
+    var dong_index = -1;
+
+    for (var i = 0; i < 6; i++) // 六爻六次，从下到上
+    {
+
+      var CoinArray = new Array();
+      for (var j = 0; j < 3; j++) {
+        var seed = Math.random();
+        if (seed > 0.5) {
+          CoinArray[j] = '1';
+        } else {
+          CoinArray[j] = '0';
+        }
+      }
+      var coin = CoinArray[0] + CoinArray[1] + CoinArray[2];
+      //  console.error("CoinArray " + CoinArray);
+      //  console.error("coin " + coin);
+      switch (coin) {
+        case '000':
+          yao = 'n';
+          dong_index = i.toString();
+          break;
+        case '111':
+          yao = 'y';
+          dong_index = i.toString();
+          break;
+        case '100':
+        case '010':
+        case '001':
+          yao = 'y';
+          dong_index = 'x';
+          break;
+        case '011':
+        case '101':
+        case '110':
+          yao = 'n';
+          dong_index = 'x';
+          break;
+      }
+      YaoArray.push(yao);
+      DongIndexArray.push(dong_index);
+    }
+    // console.error("YaoArray " + YaoArray );
+    //console.error("YaoArray reverse" +YaoArray.reverse());
+    // console.error("DongIndexArray " + DongIndexArray);
+    //console.error("DongIndexArray reverse" + DongIndexArray.reverse());
+    var YaoAndDong = (YaoArray.reverse()).concat(DongIndexArray);// l六爻转变为从上到下
+  //  console.error("YaoArray " + typeof(YaoArray));
+  //  console.error("DongIndexArray " + typeof (DongIndexArray));
+  //  console.error("YaoAndDong typeof " + typeof(YaoAndDong));
+    return YaoAndDong;
+  },
+
   GoToPaiPanFromAuto: function () {
     var ShengXiao = ["鼠", "牛", "虎", "兔", "龙", "蛇", "马", "羊", "猴", "鸡", "狗", "猪"];
     var YinLiYue = ["0", "正", "二", "三", "四", "五", "六", "七", "八", "九", "十", "冬", "腊"];
@@ -979,8 +1037,16 @@ Page({
    // console.error('default_gua=' + default_gua[2])
    // console.error('default_gua=' + typeof(default_gua[2]))
     // ppflag=2 易冒纳甲
+
+    var autoqigualist = this.QiGuaCoin()
+ 
+
+    
+   // console.error('autoqigualist=' + autoqigualist)
+   // console.error('autoqigualist type=' + typeof (autoqigualist))
+
     wx.navigateTo({
-      url: '../Najia/NajiaPaiPan?&dateIndex=' + StrDate + '&timeIndex=' + time_index + '&YLymd=' + StrYinLi + '&ganzhiGrp=' + nGanZhi + '&qigua_flag=' + '0' + '&ppflag='+'2'+'&xiadong_day=' + xia_dong_day
+      url: '../Najia/NajiaPaiPan?&dateIndex=' + StrDate + '&timeIndex=' + time_index + '&YLymd=' + StrYinLi + '&ganzhiGrp=' + nGanZhi + '&qigua_flag=' + '0' + '&ppflag=' + '2' + '&xiadong_day=' + xia_dong_day + '&qigualist=' + autoqigualist
     })
 
    // console.error('time is     ' + StrDate)

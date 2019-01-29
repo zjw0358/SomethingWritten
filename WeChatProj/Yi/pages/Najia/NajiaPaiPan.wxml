@@ -128,11 +128,11 @@
 </view>
 
 <view class='xiaoxiang_view' style="text-align:left">
-<text class="middle_text">{{gua_xiang_2}}</text>
+<text class="middle_text">{{gua_tuan_2}}</text>
 </view>
 
 <view class = 'tuan_view' style="text-align:left">
-<text class="middle_text">{{gua_tuan_2}}</text>
+<text class="middle_text">{{gua_xiang_2}}</text>
 </view>
 
 <text class='blue_text'>\n焦氏易辞:</text>

@@ -6,7 +6,18 @@ Page({
    * 页面的初始数据
    */
   data: {
- 
+    gOption1:'',
+    gOption2: '',
+    gOption3: '',
+    gOption4: '',
+    gOption5: '',
+    gOption6: '',
+    gOption7: '',
+    gOption8: '',
+    gOption9: '',
+    gOption10: '',
+
+    gOption11: '',//for auto qigua
   },
 LiuShenPai:function(todayRiGan){
   var liushen_grp;
@@ -660,7 +671,61 @@ GetGuaShiShen:function(guaindex){
   return dic[gong5x+yao5x] 
   
 },
+  QiGuaCoin: function () {
+    var YaoArray = new Array();
+    var DongIndexArray = new Array();
+    var coin;
+    var yao;
+    var dong_index = -1;
 
+    for (var i = 0; i < 6; i++) // 六爻六次，从下到上
+    {
+
+      var CoinArray = new Array();
+      for (var j = 0; j < 3; j++) {
+        var seed = Math.random();
+        if (seed > 0.5) {
+          CoinArray[j] = '1';
+        } else {
+          CoinArray[j] = '0';
+        }
+      }
+      var coin = CoinArray[0] + CoinArray[1] + CoinArray[2];
+      //  console.error("CoinArray " + CoinArray);
+      //  console.error("coin " + coin);
+      switch (coin) {
+        case '000':
+          yao = '0';
+          dong_index = i;
+          break;
+        case '111':
+          yao = '1';
+          dong_index = i;
+          break;
+        case '100':
+        case '010':
+        case '001':
+          yao = 1;
+          dong_index = -1;
+          break;
+        case '011':
+        case '101':
+        case '110':
+          yao = 0;
+          dong_index = -1;
+          break;
+      }
+      YaoArray.push(yao);
+      DongIndexArray.push(dong_index);
+    }
+    // console.error("YaoArray " + YaoArray );
+    //console.error("YaoArray reverse" +YaoArray.reverse());
+    // console.error("DongIndexArray " + DongIndexArray);
+    //console.error("DongIndexArray reverse" + DongIndexArray.reverse());
+    var YaoAndDong = (YaoArray.reverse()).concat(DongIndexArray);// l六爻转变为从上到下
+    //  console.error("YaoAndDong " + YaoAndDong);
+    return YaoAndDong;
+  },
 
 
 GetBenBianGua:function(coinList){
@@ -701,6 +766,7 @@ for(var i =0;i<64;i++)
 }
 
   biangua = bengua.reverse();// 求变卦前 先翻过来，从下到上
+  //biangua = bengua.split("").reverse()//.join("")
   for (var i = 0; i < 6; i++) 
   {
     if((dongyao[i]>0)||(dongyao[i]==0))
@@ -712,6 +778,7 @@ for(var i =0;i<64;i++)
     }
   }
   biangua = biangua.reverse();// 恢复从上到下
+  //biangua = biangua.split("").reverse()//.join("")
   //console.error('biangua===' + biangua);
 
   for (var i = 0; i < 64; i++) {
@@ -771,64 +838,7 @@ var bianGuaIndex;
     }
 },
 */
-QiGuaCoin:function(){
-  var YaoArray = new Array();
-  var DongIndexArray = new Array();
-  var coin;
-  var yao;
-  var dong_index = -1;
 
-  for(var i = 0;i < 6;i++) // 六爻六次，从下到上
-  {
-    
-    var CoinArray=new Array();
-    for(var j = 0;j<3;j++)
-    {
-    var seed = Math.random(); 
-      if (seed > 0.5)
-      {
-        CoinArray[j] = '1';
-      }else{
-        CoinArray[j] = '0';
-      }
-    }
-    var coin = CoinArray[0] + CoinArray[1] + CoinArray[2];
-  //  console.error("CoinArray " + CoinArray);
-  //  console.error("coin " + coin);
-    switch (coin)
-    {
-      case '000':
-        yao = '0';
-        dong_index = i;
-        break;
-      case '111':
-        yao ='1';
-        dong_index = i;
-        break;
-      case '100':
-      case '010':
-      case '001':
-        yao = 1;
-        dong_index = -1;
-        break; 
-      case '011':
-      case '101':
-      case '110':
-        yao = 0;
-        dong_index=-1;
-        break; 
-    }
-    YaoArray.push(yao);
-    DongIndexArray.push(dong_index);
-  }
- // console.error("YaoArray " + YaoArray );
-  //console.error("YaoArray reverse" +YaoArray.reverse());
- // console.error("DongIndexArray " + DongIndexArray);
-  //console.error("DongIndexArray reverse" + DongIndexArray.reverse());
-  var YaoAndDong = (YaoArray.reverse()).concat(DongIndexArray);// l六爻转变为从上到下
-//  console.error("YaoAndDong " + YaoAndDong);
-  return YaoAndDong;
-},
 /*
 transform2YinLinStr:function(str){
   switch(str)
@@ -1501,6 +1511,49 @@ for(var i=0;i<6;i++)
       '水', '火', '木', '土', '土', '金', '水', '火',
       '木', '金', '火', '水', '土', '金', '水', '火'
     ]
+  
+    //console.error('qigualist is ' + options.qigualist)
+    this.setData({ // for global var, for 转发
+      gOption1: options.qigua_flag,
+      gOption2: options.ganzhiGrp,
+      
+      gOption7: options.ppflag,
+      gOption8: options.dateIndex,
+      gOption9: options.xiadong_day,
+      gOption10: options.YLymd,
+
+    })
+    
+    if (options.xuanguaFlag!=null)
+    {
+    this.setData({
+      gOption3: options.xuanguaFlag,
+      })      
+    }
+    
+    if (options.defaultGua != null)
+    {
+    this.setData({
+      gOption4: options.defaultGua,
+    })
+    }
+    
+    if (options.benIndex != null) {
+    this.setData({
+      gOption5: options.benIndex,
+      })
+    }
+    if (options.bianIndex != null) {
+    this.setData({
+      gOption6: options.bianIndex,
+    })
+    }
+    
+    if (options.qigualist != null) {
+      this.setData({
+        gOption11: options.qigualist,    
+      })
+    }
     
     var gua_grp = getApp().globalData.Gua_grp; 
 
@@ -1528,13 +1581,49 @@ for(var i=0;i<6;i++)
       qigua_flag = 1;
 
     var liushen_grp = this.LiuShenPai(options.ganzhiGrp[6]);// 日干
+
     var xunkong = this.GetXunKong(options.ganzhiGrp[6] + options.ganzhiGrp[7])
     var gua_index=[]
     var donglist
+    var list = new Array()
     if (qigua_flag==0)// auto qi gua
     {
-    var list = this.QiGuaCoin();
-    gua_index = this.GetBenBianGua(list);//gua_index[0] is benGua,gua_index[1] is bianGua
+      var Alist = options.qigualist; //this.QiGuaCoin();
+
+     // console.error('list is ' + Alist)
+    
+      //list = parseInt(list)
+      
+      for (var i = 0; i < 11;i++)
+      { 
+        if ((Alist[i])=='y')
+        {
+          list.push(1)
+        } 
+        else if ((Alist[i]) == 'n')
+        {
+          list.push(0)
+        }
+      }
+      for (var i = 0; i < 11; i++)
+      {
+        if ((Alist[i+12]) == 'x')
+        {
+          list.push(-1)
+        }
+        else if (Alist[i + 12]==',')
+        {
+
+        }
+        else 
+        {
+          list.push(parseInt(Alist[i + 12]))
+        }
+      }
+      
+      
+    //  console.error('after list is ' + list)
+      gua_index = this.GetBenBianGua(list);//gua_index[0] is benGua,gua_index[1] is bianGua
       donglist = list.slice(6, 12)
     }
     else{
@@ -1699,6 +1788,55 @@ for(var i=0;i<6;i++)
    * 用户点击右上角分享
    */
   onShareAppMessage: function () {
+    var that = this;
+    //console.error('enter share ' + this.data.gOption3)
+    if (this.data.gOption3 == '')   // from auto qigua
+   {
+    //  console.error('hhhhh ' + this.data.gOption11)
+      return {
+        title: '',
+        path: 'pages/Najia/NajiaPaiPan?&dateIndex=' + this.data.gOption8 + '&timeIndex=' + '' + '&YLymd=' + this.data.gOption10 + '&ganzhiGrp=' + this.data.gOption2 + '&qigua_flag=' + '0' + '&ppflag=' + '2' + '&xiadong_day=' + this.data.gOption9 + '&qigualist=' + this.data.gOption11,
+        success: function (res) {
+          // 转发成功
 
+          that.shareClick();
+        },
+        fail: function (res) {
+          // 转发失败
+
+        }
+      }
+   } else{
+    if (this.data.gOption3==0){
+      return {
+        title: '',
+        path: 'pages/Najia/NajiaPaiPan?&dateIndex=' + this.data.gOption8 + '&timeIndex=' + '' + '&YLymd=' + this.data.gOption10 + '&ganzhiGrp=' + this.data.gOption2 + '&qigua_flag=' + '1' + '&defaultGua=' + this.data.gOption4 + '&ppflag=' + this.data.gOption7 + '&xiadong_day=' + this.data.gOption9 + '&xuanguaFlag=' + this.data.gOption3,
+        success: function (res) {
+          // 转发成功
+
+          that.shareClick();
+        },
+        fail: function (res) {
+          // 转发失败
+
+        }
+      }
+}
+else{
+      return {
+        title: '',
+        path: 'pages/Najia/NajiaPaiPan?&dateIndex=' + this.data.gOption8 + '&timeIndex=' + '' + '&YLymd=' + this.data.gOption10 + '&ganzhiGrp=' + this.data.gOption2 + '&qigua_flag=' + '1' + '&ppflag=' + this.data.gOption7 + '&xiadong_day=' + this.data.gOption9 + '&xuanguaFlag=' + this.data.gOption3 + '&benIndex=' + this.data.gOption5 + '&bianIndex=' + this.data.gOption6,
+        success: function (res) {
+          // 转发成功
+
+          that.shareClick();
+        },
+        fail: function (res) {
+          // 转发失败
+
+        }
+      }
+}
+   }
   }
 })
