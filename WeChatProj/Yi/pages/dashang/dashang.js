@@ -159,8 +159,8 @@ Page({
         nLunarD = 1;
         nLunarM = 1;
         nYinLiYear = i + 1;
-
-        return [nYinLiYear, nLunarM, nLunarD, R_flag];
+        //console.error('nYinLiYear = ' + nYinLiYear)
+        return [nYinLiYear + 1900, nLunarM, nLunarD, R_flag];
       }
     }
 

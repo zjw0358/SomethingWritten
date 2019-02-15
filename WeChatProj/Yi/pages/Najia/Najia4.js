@@ -454,7 +454,7 @@ Page({
         nLunarM = 1;
         nYinLiYear = i + 1;
 
-        return [nYinLiYear, nLunarM, nLunarD, R_flag];
+        return [nYinLiYear + 1900, nLunarM, nLunarD, R_flag];
       }
     }
 
