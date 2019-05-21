@@ -23,6 +23,11 @@
 
 \n\n\n\n\n\n</text>
 </view>
+
+<view style="text-align:center" class='zhan_bt_view'>
+<button class='gotoZhan_bt'  bindtap='GotoAd' size='mini'> 广告</button>
+</view>
+
 <view style="text-align:center" class='shoukuan_pic'>
 <ad unit-id="adunit-48d41fd16d67d4c0"></ad>
 <!-- 

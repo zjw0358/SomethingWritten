@@ -194,7 +194,7 @@ GetXunKong:function(ri_tiangan){
     {
       flag = 0;
      // console.error('=============');
-    }
+    } 
 
     if (ppflag=='1') 
       flag = 0
@@ -865,18 +865,18 @@ transform2YinLinStr:function(str){
       fuindex = 28;
       break;
     case 50:
-      fuindex = 51;
-      break;
-    case 51:
-      fuindex = 50;
-      break;
-    case 56:
-      fuindex = 57;
-      break;
-    case 57:
       fuindex = 56;
       break;
-    case 13:
+    case 51:
+      fuindex = 57;
+      break;
+    case 56:
+      fuindex = 50;
+      break;
+    case 57:
+      fuindex = 51;
+      break;
+    case 13://guihun
       fuindex = 11;
       break;
     case 16:
@@ -967,56 +967,57 @@ transform2YinLinStr:function(str){
   }
   return fuindex
 },
-  GetFuIndex_ym(benIndex) {
+  GetFuIndex_ym(benIndex) { // 伏神根据<京氏易传>来取，八纯互伏，一到五世伏本宫，归魂与本宫的伏相同，游魂伏五世上卦
     var fuindex
+    //console.error('aaa')
     switch (benIndex) {
-      case 0:
+      case 0:// qian
+        fuindex = 1; // kun
+        break;
+      case 1:// kun
+        fuindex = 0;// qian
+        break;
+      case 28:// kan
+        fuindex = 29;//li
+        break;
+      case 29:// li
+        fuindex = 28; // kan
+        break;
+      case 50://zhen
+        fuindex = 56;// xun
+        break;
+      case 51:// gen
+        fuindex = 57; // dui
+        break;
+      case 56: // xun
+        fuindex = 50; // zhen
+        break;
+      case 57: // dui
+        fuindex = 51; // gen
+        break;
+      case 13:// guihun      dayou
         fuindex = 1;
         break;
-      case 1:
-        fuindex = 0;
-        break;
-      case 28:
-        fuindex = 29;
-        break;
-      case 29:
-        fuindex = 28;
-        break;
-      case 50:
-        fuindex = 51;
-        break;
-      case 51:
-        fuindex = 50;
-        break;
-      case 56:
-        fuindex = 57;
-        break;
-      case 57:
+      case 16:// sui
         fuindex = 56;
         break;
-      case 13:
-        fuindex = 11;
+      case 6: // shi
+        fuindex = 29;
         break;
-      case 16:
-        fuindex = 32;
+      case 52:// jian
+        fuindex = 57;
         break;
-      case 6:
-        fuindex = 62;
+      case 7:// bi
+        fuindex = 0;
         break;
-      case 52:
-        fuindex = 40;
+      case 17:// gu
+        fuindex = 50;
         break;
-      case 7:
-        fuindex = 10;
+      case 12:// tongren
+        fuindex = 28;
         break;
-      case 17:
-        fuindex = 41;
-        break;
-      case 12:
-        fuindex = 63;
-        break;
-      case 53:
-        fuindex = 30;
+      case 53:// guimei
+        fuindex = 51;
         break;
       case 43:
       case 32:
@@ -1025,8 +1026,8 @@ transform2YinLinStr:function(str){
       case 22:      
         fuindex = 0;
         break;
-      case 34:
-        fuindex = 25;
+      case 34:// youhun
+        fuindex = 51;
         break;  
       case 15:
       case 39:
@@ -1035,8 +1036,8 @@ transform2YinLinStr:function(str){
       case 47:
         fuindex = 50;
         break;
-      case 27:
-        fuindex = 2;
+      case 27://youhun
+        fuindex = 28;
         break;  
       case 59:
       case 2:
@@ -1045,8 +1046,8 @@ transform2YinLinStr:function(str){
       case 54:
         fuindex = 28;
         break;
-      case 35:  
-        fuindex = 37;
+      case 35:  //youhun
+        fuindex = 50;
         break;
       case 21:
       case 25:
@@ -1055,8 +1056,8 @@ transform2YinLinStr:function(str){
       case 9:
         fuindex = 51;
         break;
-      case 60:
-        fuindex = 32;
+      case 60://youhun
+        fuindex = 0;
         break;
       case 23:
       case 18:
@@ -1065,8 +1066,8 @@ transform2YinLinStr:function(str){
       case 42:
         fuindex = 1;
         break;
-      case 4:
-        fuindex = 44;
+      case 4://youhun
+        fuindex = 57;
         break;  
       case 36:
       case 41:
@@ -1075,8 +1076,8 @@ transform2YinLinStr:function(str){
       case 20:
         fuindex = 56;
         break;
-      case 26:
-        fuindex = 49;
+      case 26://youhun
+        fuindex = 29;
         break;  
       case 55:
       case 49:
@@ -1085,8 +1086,8 @@ transform2YinLinStr:function(str){
       case 58:
         fuindex = 29;
         break;
-      case 5:
-        fuindex = 36;
+      case 5://youhun
+        fuindex = 56;
         break;  
       case 46:
       case 44:
@@ -1095,8 +1096,8 @@ transform2YinLinStr:function(str){
       case 14:
         fuindex = 57;
         break;
-      case 61:
-        fuindex = 18;
+      case 61://youhun
+        fuindex = 1;
         break;  
     }
     return fuindex

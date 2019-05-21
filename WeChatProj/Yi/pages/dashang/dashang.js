@@ -1,5 +1,7 @@
 // pages/dashang/dashang.js
 var util = require('../../utils/util.js'); 
+var videoAd = null
+  
 
 
 Page({
@@ -16,7 +18,18 @@ Page({
    // console.log('shoukuan_iamge发生error事件，携带值为', e.detail.errMsg)
   },
 
+  GotoAd:function(){
 
+
+    // 用户触发广告后，显示激励视频广告
+    console.error('play here')
+    if (videoAd){
+      videoAd.show().catch(err =>{
+        videoAd.load().then(() => videoAd.show())
+      })
+    }
+    
+  },
   GotoDashang: function (e){
 
 
@@ -290,6 +303,29 @@ Page({
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
+
+    if(wx.createRewardedVideoAd){
+      videoAd = wx.createRewardedVideoAd({
+        adUnitId: 'adunit-f3d29abfeac795e9'
+      })
+
+      videoAd.onError(err => {
+        console.log(err)
+      })
+
+      videoAd.onClose((status)=>{
+        if(status && status.isEnded || status == undefined)
+        {
+          // play end ,get bone
+          console.error('play end & get bonus')
+        }else{
+          // quit and mention
+          console.error('quit')
+        }
+      })
+
+    }
+    
 
     var date = util.formatTime(new Date());
   
@@ -594,11 +630,13 @@ Page({
   
       this.setData(
         {
-          Today: "今天是 " + nyear + " 年" + nmonth + " 月 " + nday + " 日 ",
+          Today: "今天是 " + nyear + " 年 " + nmonth + " 月 " + nday + " 日 ",
           YinLi: sYear + " 年 " + YinLiYue[sMonth] + " 月 " + YinLiDay[sDay] + " 日",
           Ganzhi: JiaZi[Yindex] + " 年 " + GanYue + ZhiYue + " 月 " + JiaZi[Dindex] + " 日" ,
         }
     )
+
+
   },
 
   /**
