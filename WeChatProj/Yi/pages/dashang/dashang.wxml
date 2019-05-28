@@ -1,7 +1,7 @@
 <!--pages/dashang/dashang.wxml-->
 
 <view style="text-align:center" class='dashang_title'>
-<text>{{Today}}\n\n</text>
+<text>{{Today}}\n</text>
 </view>
 <!--
 <view style="text-align:center" class='dashang_title'>
@@ -10,19 +10,38 @@
 
 <view style="text-align:center" class='dashang_title'>
 <text>如果觉得好，戳下面可以支持作者^_^\n\n</text>
+夫君子之行，静以修身，俭以养德。非淡泊无以明志，非宁静无以致远。
 </view>
 -->
 <view style="text-align:center" class='dashang_title'>
 <text>{{YinLi}}\n</text>
-<text>{{Ganzhi}}\n\n\n</text>
+<text>{{Ganzhi}}\n</text>
 </view>
 
-<view style="text-align:center" class='dashang_title'>
-夫君子之行，静以修身，俭以养德。非淡泊无以明志，非宁静无以致远。
-<text>
-
-\n\n\n\n\n\n</text>
+<view style="text-align:center" class='title_text'>
+<text>{{DutyGua}}\n</text>
 </view>
+
+
+<view class="content">
+<view style="flex:1;text-align:left"> 
+<canvas style="flex:1;width: {{guatuInDuty_width}}px;height:{{guatuInDuty_height}}px" canvas-id="guatuInDuty">
+</canvas>
+</view>
+
+<view style="flex:1;text-align:left"> 
+
+
+<view class='gua_daxiang_in_view' style="text-align:center">
+<text class="normal_text">{{gua_daxiang}}</text>
+</view>
+
+</view>
+
+</view>
+
+
+<text>\n\n\n\n\n\n</text>
 
 <view style="text-align:center" class='zhan_bt_view'>
 <button class='gotoZhan_bt'  bindtap='GotoAd' size='mini'> 广告</button>
