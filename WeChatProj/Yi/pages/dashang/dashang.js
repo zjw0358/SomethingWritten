@@ -43,10 +43,10 @@ Page({
     var gua_grp = getApp().globalData.Gua_grp; 
 
     
-    var yao_h =2
-    var yao1_start_y = 10
+    var yao_h =6
+    var yao1_start_y = 0
     var yao_gap = 2
-    var yao1_start_x = width / 3
+    var yao1_start_x = 0//width / 3
     var yangyao_w = width / 4;
 
     var yao_group = gua_grp[0]

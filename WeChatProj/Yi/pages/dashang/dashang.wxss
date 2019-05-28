@@ -1,2 +1,12 @@
 /* pages/dashang/dashang.wxss */
 
+.contentInDuty{
+  display: flex;
+  flex-direction: row;
+}
+
+.GuaCanvasInDuty{
+  margin-top: 15px;
+  margin-left: 15px;
+  justify-content: center;
+}
