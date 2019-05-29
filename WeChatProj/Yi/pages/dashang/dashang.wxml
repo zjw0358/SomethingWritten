@@ -44,7 +44,7 @@
 <view style="text-align:center" class='zhan_bt_view'>
 <button class='gotoZhan_bt'  bindtap='GotoAd' size='mini'> 支持我，请坚持15秒 ^_^</button>
 </view>
-
+<text>\n\n</text>
 <view style="text-align:center" class='shoukuan_pic'>
 <ad unit-id="adunit-48d41fd16d67d4c0"></ad>
 <!-- 
