@@ -1,8 +1,6 @@
-// pages/dashang/dashang.js
-var util = require('../../utils/util.js'); 
-var videoAd = null
-  
+// pages/JiaoShiYiZhan/JiaoShiYiZhan.js
 
+var util = require('../../utils/util.js');
 
 Page({
 
@@ -10,46 +8,34 @@ Page({
    * 页面的初始数据
    */
   data: {
-    src: '../../resources/shou.jpg',
-    //imglist: ['http://127.0.0.1/image/bobo.jpg']
-    show: "",  
+    src: '../../resources/tai5.jpg',
   },
   imageError: function (e) {
-   // console.log('shoukuan_iamge发生error事件，携带值为', e.detail.errMsg)
+    // console.log('shoukuan_iamge发生error事件，携带值为', e.detail.errMsg)
   },
 
-  GotoAd:function(){
 
-
-    // 用户触发广告后，显示激励视频广告
-  //  console.error('play here')
-    if (videoAd){
-      videoAd.show().catch(err =>{
-        videoAd.load().then(() => videoAd.show())
-      })
-    }
-    
-  },
-  GotoDashang: function (e){
-
-
-  },
   sequence: function (a, b) {
     return a - b;
   },
+  GoToYiLinZhan:function(){
+    wx.navigateTo({
+      url: '../JiaoShiYiZhanResult/JiaoShiYiZhanResult'
+    })
+  },
+  
+  DrawDutyGua: function (width, height, index) {
 
-  DrawDutyGua:function(width,height,index){
+    var gua_grp = getApp().globalData.Gua_grp;
 
-    var gua_grp = getApp().globalData.Gua_grp; 
 
-    
     var yao_h = 10
     var yao1_start_y = 10
     var yao_gap = 6
     var yao1_start_x = 0//width / 3
     var yangyao_w = width / 4
-    var yinyao_w = yangyao_w/3
-    var yinyao_gap = yangyao_w - yinyao_w*2
+    var yinyao_w = yangyao_w / 3
+    var yinyao_gap = yangyao_w - yinyao_w * 2
     var yao_group = gua_grp[index]
 
 
@@ -74,38 +60,38 @@ Page({
     ctx.draw()
   },
 
-  GetGuaIndex:function(gua_name){
-    
-      var gua_map={
-        '乾': 0, '坤': 1, '屯': 2, '蒙': 3, '需': 4, '讼': 5, '师': 6, '比': 7,
-        '小畜': 8, '履': 9, '泰': 10, '否': 11, '同人': 12, '大有': 13, '谦': 14, '豫': 15,
-        '随':16,'蛊': 17, '临': 18, '观': 19, '噬嗑': 20, '贲': 21, '剥': 22, '复': 23, 
-        '无妄': 24,'大畜': 25, '颐': 26, '大过': 27, '坎': 28, '离': 29, '咸': 30, '恒': 31,
-        '遁': 32, '大壮': 33, '晋': 34, '明夷': 35, '家人': 36, '睽': 37, '蹇': 38, '解': 39,
-        '损': 40, '益': 41, '夬': 42, '姤': 43, '萃': 44, '升': 45, '困': 46, '井': 47,
-        '革': 48, '鼎': 49, '震': 50, '艮': 51, '渐': 52, '归妹': 53, '丰': 54, '旅': 55,
-        '巽': 56, '兑': 57, '涣': 58, '节': 59, '中孚': 60, '小过': 61, '既济': 62, '未既': 63,
-      }
-    
+  GetGuaIndex: function (gua_name) {
+
+    var gua_map = {
+      '乾': 0, '坤': 1, '屯': 2, '蒙': 3, '需': 4, '讼': 5, '师': 6, '比': 7,
+      '小畜': 8, '履': 9, '泰': 10, '否': 11, '同人': 12, '大有': 13, '谦': 14, '豫': 15,
+      '随': 16, '蛊': 17, '临': 18, '观': 19, '噬嗑': 20, '贲': 21, '剥': 22, '复': 23,
+      '无妄': 24, '大畜': 25, '颐': 26, '大过': 27, '坎': 28, '离': 29, '咸': 30, '恒': 31,
+      '遁': 32, '大壮': 33, '晋': 34, '明夷': 35, '家人': 36, '睽': 37, '蹇': 38, '解': 39,
+      '损': 40, '益': 41, '夬': 42, '姤': 43, '萃': 44, '升': 45, '困': 46, '井': 47,
+      '革': 48, '鼎': 49, '震': 50, '艮': 51, '渐': 52, '归妹': 53, '丰': 54, '旅': 55,
+      '巽': 56, '兑': 57, '涣': 58, '节': 59, '中孚': 60, '小过': 61, '既济': 62, '未既': 63,
+    }
+
     return gua_map[gua_name]
   },
 
-  GetDutyGua:function(jieqi_list){
-    var gualist_1month = ['屯','谦','睽','升','临']
-    var gualist_2month = ['小过','蒙','益','渐','泰']
-    var gualist_3month = ['需','随','晋','解','大壮'] // 春分 《震》当值一日
-    var gualist_4month = ['豫','讼','蛊','革','夬']
-    var gualist_5month = ['旅','师','比','小畜','乾']
+  GetDutyGua: function (jieqi_list) {
+    var gualist_1month = ['屯', '谦', '睽', '升', '临']
+    var gualist_2month = ['小过', '蒙', '益', '渐', '泰']
+    var gualist_3month = ['需', '随', '晋', '解', '大壮'] // 春分 《震》当值一日
+    var gualist_4month = ['豫', '讼', '蛊', '革', '夬']
+    var gualist_5month = ['旅', '师', '比', '小畜', '乾']
     var gualist_6month = ['大有', '家人', '井', '咸', '姤']// 夏至 《离》当值一日
-    var gualist_7month = ['鼎','丰','涣','履','遁']
-    var gualist_8month = ['恒','节','同人','损','否']
+    var gualist_7month = ['鼎', '丰', '涣', '履', '遁']
+    var gualist_8month = ['恒', '节', '同人', '损', '否']
     var gualist_9month = ['巽', '萃', '大畜', '贲', '观']   // 秋分 《兑》当值一日
-    var gualist_10month = ['归妹','无妄','明夷','困','剥']
-    var gualist_11month = ['艮','既济','噬嗑','大过','坤']
+    var gualist_10month = ['归妹', '无妄', '明夷', '困', '剥']
+    var gualist_11month = ['艮', '既济', '噬嗑', '大过', '坤']
     var gualist_12month = ['未济', '蹇', '颐', '中孚', '复']  // 冬至 《坎》当值一日
-    
+
     var date = util.formatTime(new Date());
-    var nyear = date.getFullYear();  
+    var nyear = date.getFullYear();
     var nmonth = date.getMonth() + 1;
     var nday = date.getDate();
     var hour = date.getHours();
@@ -118,9 +104,9 @@ Page({
     var Feb; // 二月天数
     var tmp;
     var dutygua;
-   
-  //  console.error(nyear, nmonth, nday, hour, min);
-    
+
+    //  console.error(nyear, nmonth, nday, hour, min);
+
     switch (nmonth) {
       case 1:   // 小寒、大寒
         if ((nday > jieqi_list[0]) || (nday == jieqi_list[0])) {
@@ -135,7 +121,7 @@ Page({
         else // from 月初到本月第一个节气
         {
           dutygua = gualist_12month[4]  // 复卦
-        }   
+        }
         break;
       case 2:     // 立春、雨水
         if ((nday > jieqi_list[2]) || (nday == jieqi_list[2])) {
@@ -163,7 +149,7 @@ Page({
           tmp = Math.floor(yao_n / 6) + 1
           dutygua = gualist_1month[tmp - 1]
 
-        }   
+        }
         break;
       case 3:     // 惊蛰、春分
         if (nday == jieqi_list[5])
@@ -194,7 +180,7 @@ Page({
           tmp = Math.floor(yao_n / 6) + 1
           dutygua = gualist_2month[tmp - 1]
 
-        }  
+        }
         break;
       case 4:     // 清明、谷雨
         if ((nday > jieqi_list[6]) || (nday == jieqi_list[6])) {
@@ -204,7 +190,7 @@ Page({
 
           tmp = Math.floor(yao_n / 6) + 1
           dutygua = gualist_4month[tmp - 1]
-   
+
         }
         else // from 月初到本月第一个节气
         {
@@ -214,28 +200,27 @@ Page({
           tmp = Math.floor(yao_n / 6) + 1
           dutygua = gualist_3month[tmp - 1]
 
-        }   
+        }
         break;
       case 5:     // 立夏 小满               
-        if ((nday > jieqi_list[8])|| (nday == jieqi_list[8]))
-          {
+        if ((nday > jieqi_list[8]) || (nday == jieqi_list[8])) {
           tianshu5 = (31 - jieqi_list[8]) + jieqi_list[10]
           yao_min = tianshu5 * 24 * 60 / 30;
-          yao_n = Math.floor((((nday - jieqi_list[8]) * 24 * 60) + (hour * 60) + min) / yao_min)  
-         // console.error('yao_n', yao_n)
-          tmp = Math.floor(yao_n/6) + 1
+          yao_n = Math.floor((((nday - jieqi_list[8]) * 24 * 60) + (hour * 60) + min) / yao_min)
+          // console.error('yao_n', yao_n)
+          tmp = Math.floor(yao_n / 6) + 1
           dutygua = gualist_5month[tmp - 1]
-         // console.error('dutygua', dutygua)
-          }
+          // console.error('dutygua', dutygua)
+        }
         else // from 月初到本月第一个节气
         {
           tianshu4 = (30 - jieqi_list[6]) + jieqi_list[8]
           yao_min = tianshu4 * 24 * 60 / 30;
-          yao_n = Math.floor((((30 - jieqi_list[6] + 1 + nday) * 24 * 60) + (hour * 60) + min) / yao_min)  
+          yao_n = Math.floor((((30 - jieqi_list[6] + 1 + nday) * 24 * 60) + (hour * 60) + min) / yao_min)
           tmp = Math.floor(yao_n / 6) + 1
           dutygua = gualist_4month[tmp - 1]
-        
-        }   
+
+        }
         break;
       case 6:     // 芒种、夏至
         if (nday == jieqi_list[11])
@@ -257,7 +242,7 @@ Page({
           tmp = Math.floor(yao_n / 6) + 1
           dutygua = gualist_5month[tmp - 1]
 
-        }   
+        }
         break;
       case 7:     // 小暑、大暑
         if ((nday > jieqi_list[12]) || (nday == jieqi_list[12])) {
@@ -277,7 +262,7 @@ Page({
           tmp = Math.floor(yao_n / 6) + 1
           dutygua = gualist_6month[tmp - 1]
 
-        }   
+        }
         break;
       case 8:     // 立秋、处暑
         if ((nday > jieqi_list[14]) || (nday == jieqi_list[14])) {
@@ -297,7 +282,7 @@ Page({
           tmp = Math.floor(yao_n / 6) + 1
           dutygua = gualist_7month[tmp - 1]
 
-        }   
+        }
         break;
       case 9:     // 白露、秋分
         if (nday == jieqi_list[17])
@@ -319,7 +304,7 @@ Page({
           tmp = Math.floor(yao_n / 6) + 1
           dutygua = gualist_8month[tmp - 1]
 
-        }             
+        }
         break;
       case 10:    // 寒露、霜降
         if ((nday > jieqi_list[18]) || (nday == jieqi_list[18])) {
@@ -339,7 +324,7 @@ Page({
           tmp = Math.floor(yao_n / 6) + 1
           dutygua = gualist_9month[tmp - 1]
 
-        }   
+        }
         break;
       case 11:    // 立冬、小雪
         if ((nday > jieqi_list[20]) || (nday == jieqi_list[20])) {
@@ -359,7 +344,7 @@ Page({
           tmp = Math.floor(yao_n / 6) + 1
           dutygua = gualist_10month[tmp - 1]
 
-        }   
+        }
         break;
       case 12:    // 大雪、冬至
         if (nday == jieqi_list[23])
@@ -381,7 +366,7 @@ Page({
           tmp = Math.floor(yao_n / 6) + 1
           dutygua = gualist_11month[tmp - 1]
 
-        }   
+        }
         break;
     }
     //console.error('ppppp',dutygua)
@@ -393,13 +378,13 @@ Page({
     var i, j;
 
     if ((nYear < 1900) || (nYear > 2049) || (nMonth > 13) || (nMonth < 1) || (nDay < 1) || (nDay > 31)) {
-     // console.error("Error!!!");
+      // console.error("Error!!!");
       return;
     }
 
     if (nYear == 1900) {
       if ((nMonth == 1) && (nDay < 31)) {
-    //    console.error("Error!!!");
+        //    console.error("Error!!!");
       }
       else if ((nMonth == 1) && (nDay == 31)) {
         ndays = 0;
@@ -455,7 +440,7 @@ Page({
       }
       ndays = 334 + ndays + nDay; // 334 is from 1900.1.31 to 1900.12.31
     }
- //   console.error("solar ndays " + ndays);
+    //   console.error("solar ndays " + ndays);
     return ndays;
 
   },
@@ -537,7 +522,7 @@ Page({
       if (YinLiDays[i] == nDaysFrom1900Solar)// 找到所在年
       {
         nYinLiYear = i;                     // 阴历年
-       // console.error("aaa_Year " + nYinLiYear);
+        // console.error("aaa_Year " + nYinLiYear);
 
         if (nYinLiYear == 0) {
           diff_day = nDaysFrom1900Solar;
@@ -546,17 +531,17 @@ Page({
         }
 
 
-      //  console.error("diff_day " + diff_day);
-      //  console.error("YinLiYear[] " + YinLiYear[nYinLiYear]);
+        //  console.error("diff_day " + diff_day);
+        //  console.error("YinLiYear[] " + YinLiYear[nYinLiYear]);
         nMonthInThisYear = ('0000000' + YinLiYear[nYinLiYear].toString(2)).slice(-20); // for 阴历月、日
         nMonthNormalYear = nMonthInThisYear.slice(4, 16);
-     //   console.error("nStringInThisYear " + nMonthInThisYear);
-     //   console.error("nMonthInThisYear " + nMonthNormalYear);
+        //   console.error("nStringInThisYear " + nMonthInThisYear);
+        //   console.error("nMonthInThisYear " + nMonthNormalYear);
 
 
         if (YinLiYear[nYinLiYear].toString(16).slice(-1) == '0') // 无闰月
         {
-       //   console.error("No Leap month ");
+          //   console.error("No Leap month ");
 
           for (tmp = 0; tmp < 12; tmp++) {
             if (nMonthNormalYear[tmp] == '0')
@@ -566,19 +551,18 @@ Page({
 
             if ((nCountDay + nLunarDays) < diff_day) {
               nCountDay += nLunarDays;
-          //    console.error("< diff_day " + nCountDay);
-            } 
-            else if ((nCountDay + nLunarDays) == diff_day)
-            {
+              //    console.error("< diff_day " + nCountDay);
+            }
+            else if ((nCountDay + nLunarDays) == diff_day) {
               nLunarD = 1; // 1 号
               nLunarM = tmp + 2;
-          //    console.error(">= diff_day" + nCountDay); 
+              //    console.error(">= diff_day" + nCountDay); 
               break;
             }
             else {
               nLunarD = diff_day - nCountDay + 1;
               nLunarM = tmp + 1;
-         //     console.error(">= diff_day" + nCountDay);
+              //     console.error(">= diff_day" + nCountDay);
               break;
             }
 
@@ -596,7 +580,7 @@ Page({
           } else {
             nLunarLeapMonth = Number(YinLiYear[nYinLiYear].toString(16).slice(-1));
           }
-       //   console.error("IIIIIIIIIIIIIIIII " + nLunarLeapMonth);  // 计算闰哪一个月
+          //   console.error("IIIIIIIIIIIIIIIII " + nLunarLeapMonth);  // 计算闰哪一个月
 
           var before = nMonthNormalYear.slice(0, nLunarLeapMonth);
           var after = nMonthNormalYear.slice(nLunarLeapMonth, 12);
@@ -605,11 +589,6 @@ Page({
           else
             nMonthInLeapYear = before + '1' + after;
 
-       //   console.error("12 month " + nMonthNormalYear);
-
-          //  console.error("before " + before);
-          //  console.error("after " + after);
-        //  console.error("13 month " + nMonthInLeapYear); // there are 13 month now
 
           for (tmp = 0; tmp < 13; tmp++) {
             if (nMonthInLeapYear[tmp] == '0')
@@ -634,7 +613,7 @@ Page({
                   nLunarM = nLunarM - 1;
                 }
               }
-           //   console.error("cccc " + nLunarM);
+              //   console.error("cccc " + nLunarM);
               break;
             }
           }
@@ -645,41 +624,21 @@ Page({
     }
 
     //console.error("nYinLiYear " + nYinLiYear);
-    return [nYinLiYear+1900, nLunarM, nLunarD, R_flag];
+    return [nYinLiYear + 1900, nLunarM, nLunarD, R_flag];
   },
-  
+
 
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
 
-    if(wx.createRewardedVideoAd){
-      videoAd = wx.createRewardedVideoAd({
-        adUnitId: 'adunit-f3d29abfeac795e9'
-      })
-
-      videoAd.onError(err => {
-        console.log(err)
-      })
-
-      videoAd.onClose((status)=>{
-        if(status && status.isEnded || status == undefined)
-        {
-          // play end ,get bone
-          console.error('play end & get bonus')
-        }else{
-          // quit and mention
-          console.error('quit')
-        }
-      })
-
-    }
+    
 
 
 
     var date = util.formatTime(new Date());
-  
+
     var JiaZi = getApp().globalData.JiaZi;
 
     var nyear = date.getFullYear(); // tst here
@@ -687,13 +646,13 @@ Page({
     var nday = date.getDate();
     var sDays = this.DaysFrom1900Solar(nyear, nmonth, nday);
     var sTermInfo = [0, 21208, 42467, 63836, 85337, 107014, 128867, 150921, 173149, 195551, 218072, 240693, 263343, 285989, 308563, 331033, 353350, 375494, 397447, 419210, 440795, 462224, 483532, 504758,];// start from XiaoHan
-    var TianGan = ['0',"甲", "乙", "丙", "丁", "戊", "己", "庚", "辛", "壬", "癸"];
+    var TianGan = ['0', "甲", "乙", "丙", "丁", "戊", "己", "庚", "辛", "壬", "癸"];
     var DiZhi = ["子", "丑", "寅", "卯", "辰", "巳", "午", "未", "申", "酉", "戌", "亥"];
     var offDate;
     var GanYue;
     var ZhiYue;
     var index;
-    
+
     var Ldate = new Array();
     Ldate = this.LunarDay(sDays);
     var sYear = Ldate[0];
@@ -701,7 +660,7 @@ Page({
     var sDay = Ldate[2];
     var sRflag = Ldate[3];
 
-   //  console.error("sYear sMonth sDay sRflag=" + sYear + ' ' + sMonth + ' ' + sDay + ' '+ sRflag); 
+    //  console.error("sYear sMonth sDay sRflag=" + sYear + ' ' + sMonth + ' ' + sDay + ' '+ sRflag); 
     var Yindex = 0;
     var Mindex = 0;
     var Dindex = 0;
@@ -719,11 +678,10 @@ Page({
     {
       Yindex = ((sYear - 1900) % 60 + 36) - 60;
     }
-    else if (((sYear - 1900) % 60 + 36) == 60)
-    {
+    else if (((sYear - 1900) % 60 + 36) == 60) {
       Yindex = 0;
     }
-    else{
+    else {
       Yindex = (sYear - 1900) % 60 + 36
     }
 
@@ -735,8 +693,8 @@ Page({
       YueGan = YueGan + 10;
 
 
-   // console.error("YueGan = " + YueGan); 
-   // console.error("YueGan Jiazi " + TianGan[YueGan]);
+    // console.error("YueGan = " + YueGan); 
+    // console.error("YueGan Jiazi " + TianGan[YueGan]);
     //var GanIndex = YueGan - 1;    // transform to index
 
     var JieQi24 = new Array();
@@ -747,24 +705,24 @@ Page({
       JieQi24.push(offDate.getUTCDate());
       // console.error(nyear + " sTermInfo" + "[" + i + "]" + offDate.getUTCDate());
     }
-   // console.error("JieQi24 is " + JieQi24);
+    // console.error("JieQi24 is " + JieQi24);
 
     switch (nmonth) {
       case 1:
-     //   console.error("yangli yue = " + nmonth); 
+        //   console.error("yangli yue = " + nmonth); 
         if ((nday > JieQi24[0]) || (nday == JieQi24[0])) {
           YueGan = YueGan - 1;
           if ((YueGan - 1) == 0)
-            YueGan = 10;           
+            YueGan = 10;
 
           GanYue = TianGan[YueGan];
           ZhiYue = DiZhi[1];
-      //    console.error("jie hou ");
+          //    console.error("jie hou ");
         } else {
-      //    console.error("jie qian ");
+          //    console.error("jie qian ");
           YueGan = YueGan - 2;
           if (YueGan < 0)
-            YueGan += 10;   
+            YueGan += 10;
 
           GanYue = TianGan[YueGan];
           ZhiYue = DiZhi[0];
@@ -779,14 +737,14 @@ Page({
         } else {
           YueGan = YueGan - 1;
           if ((YueGan - 1) == 0)
-            YueGan=10;           
+            YueGan = 10;
           GanYue = TianGan[YueGan];
           ZhiYue = DiZhi[1];
         }
         break;
       case 3:
         if ((nday > JieQi24[4]) || (nday == JieQi24[4])) {
-          YueGan = YueGan +1;
+          YueGan = YueGan + 1;
           GanYue = TianGan[YueGan];
           ZhiYue = DiZhi[3];
 
@@ -970,14 +928,14 @@ Page({
         break;
     }
 
-    
-   // var ShengXiao = ["鼠", "牛", "虎", "兔", "龙", "蛇", "马", "羊", "猴", "鸡", "狗", "猪"];
-    var YinLiYue = ["0","正","二","三","四","五","六","七","八","九","十","冬","腊"];
-    var YinLiDay = ["0", "初一", "初二", "初三", "初四", "初五", "初六", "初七", "初八", "初九","初十", 
-                    "十一", "十二", "十三","十四","十五","十六","十七","十八","十九","二十",
-                    "廿一","廿二","廿三","廿四","廿五","廿六","廿七","廿八","廿九","三十"];
 
-   // var shengxiaoIndex = (nyear + 9) % 12;
+    // var ShengXiao = ["鼠", "牛", "虎", "兔", "龙", "蛇", "马", "羊", "猴", "鸡", "狗", "猪"];
+    var YinLiYue = ["0", "正", "二", "三", "四", "五", "六", "七", "八", "九", "十", "冬", "腊"];
+    var YinLiDay = ["0", "初一", "初二", "初三", "初四", "初五", "初六", "初七", "初八", "初九", "初十",
+      "十一", "十二", "十三", "十四", "十五", "十六", "十七", "十八", "十九", "二十",
+      "廿一", "廿二", "廿三", "廿四", "廿五", "廿六", "廿七", "廿八", "廿九", "三十"];
+
+    // var shengxiaoIndex = (nyear + 9) % 12;
 
     var myViewWidth;
     var myViewHeigt;
@@ -990,19 +948,19 @@ Page({
 
     var dutyGua = this.GetDutyGua(JieQi24);
     var gua_index = this.GetGuaIndex(dutyGua)
-   
-      this.setData(
-        {
-          guatuInDuty_width: myViewWidth/2,
-          guatuInDuty_height: myViewHeigt/3,
-          Today: "今天是 " + nyear + " 年 " + nmonth + " 月 " + nday + " 日 ",
-          YinLi: sYear + " 年 " + YinLiYue[sMonth] + " 月 " + YinLiDay[sDay] + " 日",
-          Ganzhi: JiaZi[Yindex] + " 年 " + GanYue + ZhiYue + " 月 " + JiaZi[Dindex] + " 日" ,
-          DutyGua: '《'+dutyGua+'》'+'卦值日',
-          gua_daxiang: getApp().globalData.Gua_daxiang_str[gua_index],
-        }
+
+    this.setData(
+      {
+        guatuInDuty_width: myViewWidth / 2,
+        guatuInDuty_height: myViewHeigt / 3,
+        Today: "今天是 " + nyear + " 年 " + nmonth + " 月 " + nday + " 日 ",
+        YinLi: sYear + " 年 " + YinLiYue[sMonth] + " 月 " + YinLiDay[sDay] + " 日",
+        Ganzhi: JiaZi[Yindex] + " 年 " + GanYue + ZhiYue + " 月 " + JiaZi[Dindex] + " 日",
+        DutyGua: '《' + dutyGua + '》' + '卦值日',
+        gua_daxiang: getApp().globalData.Gua_daxiang_str[gua_index],
+      }
     )
-    this.DrawDutyGua(myViewWidth, myViewHeigt,gua_index)
+    this.DrawDutyGua(myViewWidth, myViewHeigt, gua_index)
 
   },
 
@@ -1010,48 +968,48 @@ Page({
    * 生命周期函数--监听页面初次渲染完成
    */
   onReady: function () {
-  
+
   },
 
   /**
    * 生命周期函数--监听页面显示
    */
   onShow: function () {
-  
+
   },
 
   /**
    * 生命周期函数--监听页面隐藏
    */
   onHide: function () {
-  
+
   },
 
   /**
    * 生命周期函数--监听页面卸载
    */
   onUnload: function () {
-  
+
   },
 
   /**
    * 页面相关事件处理函数--监听用户下拉动作
    */
   onPullDownRefresh: function () {
-  
+
   },
 
   /**
    * 页面上拉触底事件的处理函数
    */
   onReachBottom: function () {
-  
+
   },
 
   /**
    * 用户点击右上角分享
    */
   onShareAppMessage: function () {
-  
+
   }
 })

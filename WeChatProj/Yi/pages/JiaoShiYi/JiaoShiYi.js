@@ -13,6 +13,11 @@ Page({
       url: '../JiaoShiYiPreface/JiaoShiYiPreface'
     })
   },
+  yilin_zhan: function () {
+    wx.navigateTo({
+      url: '../JiaoShiYiZhan/JiaoShiYiZhan'
+    })
+  },
   JiaoSY1: function () {
     wx.navigateTo({
       url: '../JiaoShiYi2/JiaoShiYi2?YiLinIndex=1'

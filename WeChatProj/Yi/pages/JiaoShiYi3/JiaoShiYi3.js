@@ -23,12 +23,22 @@ Page({
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-    var gua_grp = getApp().globalData.Gua_grp; 
     
-    var yao_group = gua_grp[j]
+    
+    var myViewWidth;
+    var myViewHeigt;
+    wx.getSystemInfo({
+      success: function (res) {
+        myViewWidth = res.windowWidth
+        myViewHeigt = res.windowHeight
+      }
+    })
     
 
-    this.setData({ YiLinCiTitleVText: options.BenGuaTitle + options.BianGuaId })
+    this.setData({ 
+          YiLinCiTitleVText: options.BenGuaTitle + options.BianGuaId,
+          canvasWidth: myViewWidth/2,
+          })
     
     //this.setData({ YiLinCi4096:'adslfjasdflkjsd'})
     
@@ -12842,17 +12852,18 @@ Page({
     
      // console.error('okokok')
     
-  
-    var yao_h = 25
+
+
+    var yao_h = 18
     var yao_gap = 6
-    var yangyao_w = 120
-    var yinyao_w = 50
-    var yinyao_gap = 20
-    var yao1_start_x = 0
-    var yao1_start_x = 0
+    var yangyao_w = myViewWidth/4 //120
+    var yinyao_w = yangyao_w/3 //50
+    var yinyao_gap = yangyao_w - yinyao_w *2 //20
+    var yao1_start_x = myViewWidth/8
     var yao1_start_y = 10
 
 // BenGua start
+    var gua_grp = getApp().globalData.Gua_grp; 
     var j = options.YiLinIndex - 1
     var yao_group = gua_grp[j]
 

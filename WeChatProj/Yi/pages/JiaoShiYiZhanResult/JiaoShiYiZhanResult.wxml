@@ -1,13 +1,18 @@
-<!--pages/JiaoShiYi3/JiaoShiYi3.wxml-->
-<view class = 'YiLinCiView' style="text-align:center" >
-<!--bindtouchstart='touchStartInJiaoShiYi3' bindtouchend='touchEndInJiaoShiYi3'-->
+<!--pages/JiaoShiYiZhanResult/JiaoShiYiZhanResult.wxml-->
 
-<view class='YiLinCiTitleView' style="text-align:center">
-<text class="normal_text">{{YiLinCiTitleVText}}</text>
+
+<view style="text-align:center" class='dashang_title'>
+<text>{{Today}}\n</text>
 </view>
 
+<view style="text-align:center" class='dashang_title'>
+<text>{{YinLi}}\n</text>
+<text>{{Ganzhi}}\n</text>
+</view>
 
-
+<view style="text-align:center" class='title_text'>
+<text>{{DutyGua}}\n</text>
+</view>
 
 <view class="YiLinGuaTuView">
   <view style="flex:1;"> 
@@ -18,9 +23,10 @@
   </view>  
 </view>
 
-
 <view class='YiLinCiShow' style="text-align:left">
 <text class="normal_text">{{YiLinCi4096}}</text>
 </view>
 
-</view>
+
+
+

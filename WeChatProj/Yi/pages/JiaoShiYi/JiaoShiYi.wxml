@@ -3,6 +3,9 @@
 <button bindtap="Preface_JiaoShiYi">
 焦氏易说
 </button>
+<button bindtap="yilin_zhan">
+易林占
+</button>
 </view>
 
 <view class="content">

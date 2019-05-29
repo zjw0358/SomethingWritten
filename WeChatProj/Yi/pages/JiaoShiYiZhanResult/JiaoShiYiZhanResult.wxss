@@ -1,9 +1,4 @@
-/* pages/JiaoShiYi3/JiaoShiYi3.wxss */
-
-.BenGuaTuView{
-
-  margin-top: 10px;
-}
+/* pages/JiaoShiYiZhanResult/JiaoShiYiZhanResult.wxss */
 
 .YiLinGuaTuView{
   display: flex;

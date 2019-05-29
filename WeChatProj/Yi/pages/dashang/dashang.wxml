@@ -23,9 +23,10 @@
 </view>
 
 
+<!-- width: {{guatuInDuty_width}}px;height:{{guatuInDuty_height}}px -->
 <view class="contentInDuty">
   <view style="flex:1;"> 
-  <canvas class ="GuaCanvasInDuty" style="width: {{guatuInDuty_width}}px;height:{{guatuInDuty_height}}px;"canvas-id="guatuInDuty"></canvas>
+  <canvas class ="GuaCanvasInDuty" style="width:120px; height: 120px;"canvas-id="guatuInDuty"></canvas>
   </view>
 
   <view style="flex:1;"> 
@@ -36,11 +37,12 @@
 
 
 
-
+<!--
 <text>\n\n\n\n\n\n</text>
+-->
 
 <view style="text-align:center" class='zhan_bt_view'>
-<button class='gotoZhan_bt'  bindtap='GotoAd' size='mini'> 广告</button>
+<button class='gotoZhan_bt'  bindtap='GotoAd' size='mini'> 支持我，请坚持15秒 ^_^</button>
 </view>
 
 <view style="text-align:center" class='shoukuan_pic'>

@@ -1046,7 +1046,7 @@ Page({
    // console.error('autoqigualist type=' + typeof (autoqigualist))
 
     wx.navigateTo({
-      url: '../Najia/NajiaPaiPan?&dateIndex=' + StrDate + '&timeIndex=' + time_index + '&YLymd=' + StrYinLi + '&ganzhiGrp=' + nGanZhi + '&qigua_flag=' + '0' + '&ppflag=' + '2' + '&xiadong_day=' + xia_dong_day + '&qigualist=' + autoqigualist
+      url: '../Najia/NajiaPaiPan?&dateIndex=' + StrDate + '&timeIndex=' + time_index + '&YLymd=' + StrYinLi + '&ganzhiGrp=' + nGanZhi + '&qigua_flag=' + '0' + '&ppflag=' + '1' + '&xiadong_day=' + xia_dong_day + '&qigualist=' + autoqigualist
     })
 
    // console.error('time is     ' + StrDate)

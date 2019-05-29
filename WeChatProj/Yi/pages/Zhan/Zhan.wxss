@@ -1,8 +1,6 @@
 /* pages/Zhan/Zhan.wxss */
 .gotoZhan_bt{
-
 background-color: goldenrod
-
 }
 
 .zhan_title{
