@@ -58,7 +58,12 @@
 </view>
 </view>
 
-<view><text class='blue_text'>\n卦辞、爻辞:</text></view>
+<text class='blue_text'>\n焦氏易辞:</text>
+<view class = 'JiaoShiYiCi_view' style="text-align:left">
+<text class="middle_text">{{JiaoShiYiCi}}
+</text>
+
+<view><text class='blue_text'>\n《周易》卦辞、爻辞:</text></view>
 <view class='gua_title_in_view' style="text-align:center">
 <text class="middle_text">{{gua_title}}</text>
 </view>
@@ -135,10 +140,6 @@
 <text class="middle_text">{{gua_xiang_2}}</text>
 </view>
 
-<text class='blue_text'>\n焦氏易辞:</text>
-<view class = 'JiaoShiYiCi_view' style="text-align:left">
-<text class="middle_text">{{JiaoShiYiCi}}
 
-</text>
 </view>
 </view>

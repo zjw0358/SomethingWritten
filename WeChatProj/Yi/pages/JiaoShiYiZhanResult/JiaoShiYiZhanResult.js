@@ -329,26 +329,32 @@ Page({
     return gua_map[gua_name]
   },
 
-  GetDutyGua: function (jieqi_list) {
-    var gualist_1month = ['屯', '谦', '睽', '升', '临']
-    var gualist_2month = ['小过', '蒙', '益', '渐', '泰']
-    var gualist_3month = ['需', '随', '晋', '解', '大壮'] // 春分 《震》当值一日
-    var gualist_4month = ['豫', '讼', '蛊', '革', '夬']
-    var gualist_5month = ['旅', '师', '比', '小畜', '乾']
-    var gualist_6month = ['大有', '家人', '井', '咸', '姤']// 夏至 《离》当值一日
-    var gualist_7month = ['鼎', '丰', '涣', '履', '遁']
-    var gualist_8month = ['恒', '节', '同人', '损', '否']
-    var gualist_9month = ['巽', '萃', '大畜', '贲', '观']   // 秋分 《兑》当值一日
-    var gualist_10month = ['归妹', '无妄', '明夷', '困', '剥']
-    var gualist_11month = ['艮', '既济', '噬嗑', '大过', '坤']
-    var gualist_12month = ['未济', '蹇', '颐', '中孚', '复']  // 冬至 《坎》当值一日
-
+  GetDutyGua: function (jieqi_list, year, mon, day, hr, m) {
+    var gualist_1month = ['0', '屯', '谦', '睽', '升', '临']
+    var gualist_2month = ['0', '小过', '蒙', '益', '渐', '泰']
+    var gualist_3month = ['0', '需', '随', '晋', '解', '大壮'] // 春分 《震》当值一日
+    var gualist_4month = ['0', '豫', '讼', '蛊', '革', '夬']
+    var gualist_5month = ['0', '旅', '师', '比', '小畜', '乾']
+    var gualist_6month = ['0', '大有', '家人', '井', '咸', '姤']// 夏至 《离》当值一日
+    var gualist_7month = ['0', '鼎', '丰', '涣', '履', '遁']
+    var gualist_8month = ['0', '恒', '节', '同人', '损', '否']
+    var gualist_9month = ['0', '巽', '萃', '大畜', '贲', '观']   // 秋分 《兑》当值一日
+    var gualist_10month = ['0', '归妹', '无妄', '明夷', '困', '剥']
+    var gualist_11month = ['0', '艮', '既济', '噬嗑', '大过', '坤']
+    var gualist_12month = ['0', '未济', '蹇', '颐', '中孚', '复']  // 冬至 《坎》当值一日
+    /*
     var date = util.formatTime(new Date());
-    var nyear = date.getFullYear();
+    var nyear = date.getFullYear();  
     var nmonth = date.getMonth() + 1;
     var nday = date.getDate();
     var hour = date.getHours();
     var min = date.getMinutes();
+    */
+    var nyear = year;
+    var nmonth = mon;
+    var nday = day;
+    var hour = hr;
+    var min = m;
     var tianshu1, tianshu2, tianshu3, tianshu4, tianshu5, tianshu6, tianshu7, tianshu8, tianshu9, tianshu10, tianshu11, tianshu12; // 本月节与下月节之间，相隔的天数
     var yao_day; // 一爻所占天数
     var yao_hour; // 一爻所占小时
@@ -358,22 +364,23 @@ Page({
     var tmp;
     var dutygua;
 
-    //  console.error(nyear, nmonth, nday, hour, min);
+    // console.error(jieqi_list);
+    // console.error(nyear, nmonth, nday, hour, min);
 
     switch (nmonth) {
       case 1:   // 小寒、大寒
         if ((nday > jieqi_list[0]) || (nday == jieqi_list[0])) {
           tianshu1 = (31 - jieqi_list[0]) + jieqi_list[2]
           yao_min = tianshu1 * 24 * 60 / 30;
-          yao_n = Math.floor((((nday - jieqi_list[0]) * 24 * 60) + (hour * 60) + min) / yao_min)
+          yao_n = Math.ceil((((nday - jieqi_list[0]) * 24 * 60) + (hour * 60) + min) / yao_min)
 
-          tmp = Math.floor(yao_n / 6) + 1
-          dutygua = gualist_1month[tmp - 1]
+          tmp = Math.ceil(yao_n / 6)
+          dutygua = gualist_1month[tmp]
 
         }
         else // from 月初到本月第一个节气
         {
-          dutygua = gualist_12month[4]  // 复卦
+          dutygua = gualist_12month[5]  // 复卦
         }
         break;
       case 2:     // 立春、雨水
@@ -388,33 +395,39 @@ Page({
           }
 
           yao_min = tianshu2 * 24 * 60 / 30;
-          yao_n = Math.floor((((nday - jieqi_list[2]) * 24 * 60) + (hour * 60) + min) / yao_min)
+          yao_n = Math.ceil((((nday - jieqi_list[2]) * 24 * 60) + (hour * 60) + min) / yao_min)
 
-          tmp = Math.floor(yao_n / 6) + 1
-          dutygua = gualist_2month[tmp - 1]
+          tmp = Math.ceil(yao_n / 6)
+          dutygua = gualist_2month[tmp]
 
         }
         else // from 月初到本月第一个节气
         {
           tianshu1 = (31 - jieqi_list[0]) + jieqi_list[2]
           yao_min = tianshu1 * 24 * 60 / 30;
-          yao_n = Math.floor((((31 - jieqi_list[0] + 1 + nday) * 24 * 60) + (hour * 60) + min) / yao_min)
-          tmp = Math.floor(yao_n / 6) + 1
-          dutygua = gualist_1month[tmp - 1]
+          yao_n = Math.ceil((((31 - jieqi_list[0] + 1 + nday) * 24 * 60) + (hour * 60) + min) / yao_min)
 
+          if ((yao_n > 24) || (yao_n == 24))
+            dutygua = gualist_1month[5]
+          else
+            dutygua = gualist_1month[4]
         }
         break;
       case 3:     // 惊蛰、春分
-        if (nday == jieqi_list[5])
+        if (nday == jieqi_list[5]) {
           dutygua = '震';
-
-        if ((nday > jieqi_list[4]) || (nday == jieqi_list[4])) {
-          tianshu3 = (31 - jieqi_list[4]) + jieqi_list[6]
+        }
+        else if ((nday > jieqi_list[4]) || (nday == jieqi_list[4])) {
+          tianshu3 = (31 - jieqi_list[4]) + jieqi_list[6] - 1 // 减去春分一天
           yao_min = tianshu3 * 24 * 60 / 30;
-          yao_n = Math.floor((((nday - jieqi_list[4]) * 24 * 60) + (hour * 60) + min) / yao_min)
+          if (nday < jieqi_list[5]) {
+            yao_n = Math.ceil((((nday - jieqi_list[4]) * 24 * 60) + (hour * 60) + min) / yao_min)
+          } else {
+            yao_n = Math.ceil((((nday - jieqi_list[4] - 1) * 24 * 60) + (hour * 60) + min) / yao_min)
+          }
 
-          tmp = Math.floor(yao_n / 6) + 1
-          dutygua = gualist_3month[tmp - 1]
+          tmp = Math.ceil(yao_n / 6)
+          dutygua = gualist_3month[tmp]
 
         }
         else // from 月初到本月第一个节气
@@ -429,71 +442,90 @@ Page({
           }
 
           yao_min = tianshu2 * 24 * 60 / 30;
-          yao_n = Math.floor((((Feb - jieqi_list[2] + 1 + nday) * 24 * 60) + (hour * 60) + min) / yao_min)
-          tmp = Math.floor(yao_n / 6) + 1
-          dutygua = gualist_2month[tmp - 1]
+          yao_n = Math.ceil((((Feb - jieqi_list[2] + 1 + nday) * 24 * 60) + (hour * 60) + min) / yao_min)
 
+          if ((yao_n > 24) || (yao_n == 24))
+            dutygua = gualist_2month[5]
+          else
+            dutygua = gualist_2month[4]
         }
         break;
       case 4:     // 清明、谷雨
         if ((nday > jieqi_list[6]) || (nday == jieqi_list[6])) {
           tianshu4 = (30 - jieqi_list[6]) + jieqi_list[8]
           yao_min = tianshu4 * 24 * 60 / 30;
-          yao_n = Math.floor((((nday - jieqi_list[6]) * 24 * 60) + (hour * 60) + min) / yao_min)
+          yao_n = Math.ceil((((nday - jieqi_list[6]) * 24 * 60) + (hour * 60) + min) / yao_min)
 
-          tmp = Math.floor(yao_n / 6) + 1
-          dutygua = gualist_4month[tmp - 1]
+          tmp = Math.ceil(yao_n / 6)
+          dutygua = gualist_4month[tmp]
 
         }
         else // from 月初到本月第一个节气
         {
-          tianshu3 = (31 - jieqi_list[4]) + jieqi_list[6]
+          tianshu3 = (31 - jieqi_list[4]) + jieqi_list[6] - 1 // 减去春分一天
           yao_min = tianshu3 * 24 * 60 / 30;
-          yao_n = Math.floor((((31 - jieqi_list[4] + 1 + nday) * 24 * 60) + (hour * 60) + min) / yao_min)
-          tmp = Math.floor(yao_n / 6) + 1
-          dutygua = gualist_3month[tmp - 1]
+          yao_n = Math.ceil((((31 - jieqi_list[4] + 1 + nday - 1) * 24 * 60) + (hour * 60) + min) / yao_min)
 
+
+          if ((yao_n > 24) || (yao_n == 24))
+            dutygua = gualist_3month[5]
+          else
+            dutygua = gualist_3month[4]
         }
         break;
       case 5:     // 立夏 小满               
         if ((nday > jieqi_list[8]) || (nday == jieqi_list[8])) {
           tianshu5 = (31 - jieqi_list[8]) + jieqi_list[10]
           yao_min = tianshu5 * 24 * 60 / 30;
-          yao_n = Math.floor((((nday - jieqi_list[8]) * 24 * 60) + (hour * 60) + min) / yao_min)
-          // console.error('yao_n', yao_n)
-          tmp = Math.floor(yao_n / 6) + 1
-          dutygua = gualist_5month[tmp - 1]
+          yao_n = Math.ceil((((nday - jieqi_list[8]) * 24 * 60) + (hour * 60) + min) / yao_min)
+
+          tmp = Math.ceil(yao_n / 6)
+          dutygua = gualist_5month[tmp]
           // console.error('dutygua', dutygua)
         }
         else // from 月初到本月第一个节气
         {
           tianshu4 = (30 - jieqi_list[6]) + jieqi_list[8]
           yao_min = tianshu4 * 24 * 60 / 30;
-          yao_n = Math.floor((((30 - jieqi_list[6] + 1 + nday) * 24 * 60) + (hour * 60) + min) / yao_min)
-          tmp = Math.floor(yao_n / 6) + 1
-          dutygua = gualist_4month[tmp - 1]
+          yao_n = Math.ceil((((30 - jieqi_list[6] + 1 + nday) * 24 * 60) + (hour * 60) + min) / yao_min)
 
+          if ((yao_n > 24) || (yao_n == 24))
+            dutygua = gualist_4month[5]
+          else
+            dutygua = gualist_4month[4]
         }
         break;
       case 6:     // 芒种、夏至
-        if (nday == jieqi_list[11])
-          dutygua = '离';
-        if ((nday > jieqi_list[10]) || (nday == jieqi_list[10])) {
-          tianshu6 = (30 - jieqi_list[10]) + jieqi_list[12]
+        if (nday == jieqi_list[11]) {
+          dutygua = '离'
+          //   console.error(dutygua)
+        }
+        else if ((nday > jieqi_list[10]) || (nday == jieqi_list[10])) {
+          tianshu6 = (30 - jieqi_list[10]) + jieqi_list[12] - 1 // 减去夏至一天
+
           yao_min = tianshu6 * 24 * 60 / 30;
-          yao_n = Math.floor((((nday - jieqi_list[10]) * 24 * 60) + (hour * 60) + min) / yao_min)
-
-          tmp = Math.floor(yao_n / 6) + 1
-          dutygua = gualist_6month[tmp - 1]
-
+          if (nday < jieqi_list[11]) {
+            yao_n = Math.ceil((((nday - jieqi_list[10]) * 24 * 60) + (hour * 60) + min) / yao_min)
+          }
+          else { //  夏至后的日子，要往后顺延一天
+            yao_n = Math.ceil((((nday - jieqi_list[10] - 1) * 24 * 60) + (hour * 60) + min) / yao_min)
+          }
+          tmp = Math.ceil(yao_n / 6)
+          dutygua = gualist_6month[tmp]
         }
         else // from 月初到本月第一个节气
         {
+
+          //console.error('aaa')
           tianshu5 = (31 - jieqi_list[8]) + jieqi_list[10]
           yao_min = tianshu5 * 24 * 60 / 30;
-          yao_n = Math.floor((((31 - jieqi_list[8] + 1 + nday) * 24 * 60) + (hour * 60) + min) / yao_min)
-          tmp = Math.floor(yao_n / 6) + 1
-          dutygua = gualist_5month[tmp - 1]
+          yao_n = Math.ceil((((31 - jieqi_list[8] + 1 + nday) * 24 * 60) + (hour * 60) + min) / yao_min)
+
+          console.error(yao_n)
+          if ((yao_n > 24) || (yao_n == 24))
+            dutygua = gualist_5month[5]
+          else
+            dutygua = gualist_5month[4]
 
         }
         break;
@@ -501,19 +533,22 @@ Page({
         if ((nday > jieqi_list[12]) || (nday == jieqi_list[12])) {
           tianshu7 = (31 - jieqi_list[12]) + jieqi_list[14]
           yao_min = tianshu7 * 24 * 60 / 30;
-          yao_n = Math.floor((((nday - jieqi_list[12]) * 24 * 60) + (hour * 60) + min) / yao_min)
+          yao_n = Math.ceil((((nday - jieqi_list[12]) * 24 * 60) + (hour * 60) + min) / yao_min)
 
-          tmp = Math.floor(yao_n / 6) + 1
-          dutygua = gualist_7month[tmp - 1]
+          tmp = Math.ceil(yao_n / 6)
+          dutygua = gualist_7month[tmp]
 
         }
         else // from 月初到本月第一个节气
         {
-          tianshu6 = (30 - jieqi_list[10]) + jieqi_list[12]
+          tianshu6 = (30 - jieqi_list[10]) + jieqi_list[12] - 1 // 减去夏至一天
           yao_min = tianshu6 * 24 * 60 / 30;
-          yao_n = Math.floor((((30 - jieqi_list[10] + 1 + nday) * 24 * 60) + (hour * 60) + min) / yao_min)
-          tmp = Math.floor(yao_n / 6) + 1
-          dutygua = gualist_6month[tmp - 1]
+          yao_n = Math.ceil((((30 - jieqi_list[10] + 1 + nday - 1) * 24 * 60) + (hour * 60) + min) / yao_min)
+
+          if ((yao_n > 24) || (yao_n == 24))
+            dutygua = gualist_6month[5]
+          else
+            dutygua = gualist_6month[4]
 
         }
         break;
@@ -521,61 +556,75 @@ Page({
         if ((nday > jieqi_list[14]) || (nday == jieqi_list[14])) {
           tianshu8 = (31 - jieqi_list[14]) + jieqi_list[16]
           yao_min = tianshu8 * 24 * 60 / 30;
-          yao_n = Math.floor((((nday - jieqi_list[14]) * 24 * 60) + (hour * 60) + min) / yao_min)
+          yao_n = Math.ceil((((nday - jieqi_list[14]) * 24 * 60) + (hour * 60) + min) / yao_min)
 
-          tmp = Math.floor(yao_n / 6) + 1
-          dutygua = gualist_8month[tmp - 1]
+          tmp = Math.ceil(yao_n / 6)
+          dutygua = gualist_8month[tmp]
 
         }
         else // from 月初到本月第一个节气
         {
           tianshu7 = (31 - jieqi_list[12]) + jieqi_list[14]
           yao_min = tianshu7 * 24 * 60 / 30;
-          yao_n = Math.floor((((31 - jieqi_list[12] + 1 + nday) * 24 * 60) + (hour * 60) + min) / yao_min)
-          tmp = Math.floor(yao_n / 6) + 1
-          dutygua = gualist_7month[tmp - 1]
+          yao_n = Math.ceil((((31 - jieqi_list[12] + 1 + nday) * 24 * 60) + (hour * 60) + min) / yao_min)
+
+          if ((yao_n > 24) || (yao_n == 24))
+            dutygua = gualist_7month[5]
+          else
+            dutygua = gualist_7month[4]
 
         }
         break;
       case 9:     // 白露、秋分
-        if (nday == jieqi_list[17])
+        if (nday == jieqi_list[17]) {
           dutygua = '兑';
-        if ((nday > jieqi_list[16]) || (nday == jieqi_list[16])) {
-          tianshu9 = (30 - jieqi_list[16]) + jieqi_list[18]
+        }
+        else if ((nday > jieqi_list[16]) || (nday == jieqi_list[16])) {
+          tianshu9 = (30 - jieqi_list[16]) + jieqi_list[18] - 1 // 减去秋分一天
           yao_min = tianshu9 * 24 * 60 / 30;
-          yao_n = Math.floor((((nday - jieqi_list[16]) * 24 * 60) + (hour * 60) + min) / yao_min)
+          if (nday < jieqi_list[17]) {
+            yao_n = Math.ceil((((nday - jieqi_list[16]) * 24 * 60) + (hour * 60) + min) / yao_min)
+          } else {
+            yao_n = Math.ceil((((nday - jieqi_list[16] - 1) * 24 * 60) + (hour * 60) + min) / yao_min)
+          }
 
-          tmp = Math.floor(yao_n / 6) + 1
-          dutygua = gualist_9month[tmp - 1]
+
+          tmp = Math.ceil(yao_n / 6)
+          dutygua = gualist_9month[tmp]
 
         }
         else // from 月初到本月第一个节气
         {
           tianshu8 = (31 - jieqi_list[14]) + jieqi_list[16]
           yao_min = tianshu8 * 24 * 60 / 30;
-          yao_n = Math.floor((((31 - jieqi_list[14] + 1 + nday) * 24 * 60) + (hour * 60) + min) / yao_min)
-          tmp = Math.floor(yao_n / 6) + 1
-          dutygua = gualist_8month[tmp - 1]
-
+          yao_n = Math.ceil((((31 - jieqi_list[14] + 1 + nday) * 24 * 60) + (hour * 60) + min) / yao_min)
+          //console.error(yao_n)
+          if ((yao_n > 24) || (yao_n == 24))
+            dutygua = gualist_8month[5]
+          else
+            dutygua = gualist_8month[4]
         }
         break;
       case 10:    // 寒露、霜降
         if ((nday > jieqi_list[18]) || (nday == jieqi_list[18])) {
           tianshu10 = (31 - jieqi_list[18]) + jieqi_list[20]
           yao_min = tianshu10 * 24 * 60 / 30;
-          yao_n = Math.floor((((nday - jieqi_list[18]) * 24 * 60) + (hour * 60) + min) / yao_min)
+          yao_n = Math.ceil((((nday - jieqi_list[18]) * 24 * 60) + (hour * 60) + min) / yao_min)
 
-          tmp = Math.floor(yao_n / 6) + 1
-          dutygua = gualist_10month[tmp - 1]
+          tmp = Math.ceil(yao_n / 6)
+          dutygua = gualist_10month[tmp]
 
         }
         else // from 月初到本月第一个节气
         {
-          tianshu9 = (30 - jieqi_list[16]) + jieqi_list[18]
+          tianshu9 = (30 - jieqi_list[16]) + jieqi_list[18] - 1 // 减去秋分一天
           yao_min = tianshu9 * 24 * 60 / 30;
-          yao_n = Math.floor((((30 - jieqi_list[16] + 1 + nday) * 24 * 60) + (hour * 60) + min) / yao_min)
-          tmp = Math.floor(yao_n / 6) + 1
-          dutygua = gualist_9month[tmp - 1]
+          yao_n = Math.ceil((((30 - jieqi_list[16] + 1 + nday - 1) * 24 * 60) + (hour * 60) + min) / yao_min)
+
+          if ((yao_n > 24) || (yao_n == 24))
+            dutygua = gualist_9month[5]
+          else
+            dutygua = gualist_9month[4]
 
         }
         break;
@@ -583,46 +632,57 @@ Page({
         if ((nday > jieqi_list[20]) || (nday == jieqi_list[20])) {
           tianshu11 = (30 - jieqi_list[20]) + jieqi_list[22]
           yao_min = tianshu11 * 24 * 60 / 30;
-          yao_n = Math.floor((((nday - jieqi_list[20]) * 24 * 60) + (hour * 60) + min) / yao_min)
+          yao_n = Math.ceil((((nday - jieqi_list[20]) * 24 * 60) + (hour * 60) + min) / yao_min)
 
-          tmp = Math.floor(yao_n / 6) + 1
-          dutygua = gualist_11month[tmp - 1]
+          tmp = Math.ceil(yao_n / 6)
+          dutygua = gualist_11month[tmp]
 
         }
         else // from 月初到本月第一个节气
         {
           tianshu10 = (31 - jieqi_list[18]) + jieqi_list[20]
           yao_min = tianshu10 * 24 * 60 / 30;
-          yao_n = Math.floor((((31 - jieqi_list[18] + 1 + nday) * 24 * 60) + (hour * 60) + min) / yao_min)
-          tmp = Math.floor(yao_n / 6) + 1
-          dutygua = gualist_10month[tmp - 1]
+          yao_n = Math.ceil((((31 - jieqi_list[18] + 1 + nday) * 24 * 60) + (hour * 60) + min) / yao_min)
+
+          if ((yao_n > 24) || (yao_n == 24))
+            dutygua = gualist_10month[5]
+          else
+            dutygua = gualist_10month[4]
 
         }
         break;
       case 12:    // 大雪、冬至
-        if (nday == jieqi_list[23])
+        if (nday == jieqi_list[23]) {
           dutygua = '坎';
-        if ((nday > jieqi_list[22]) || (nday == jieqi_list[22])) {
-          tianshu12 = (31 - jieqi_list[22]) + jieqi_list[0]
+        }
+        else if ((nday > jieqi_list[22]) || (nday == jieqi_list[22])) {
+          tianshu12 = (31 - jieqi_list[22]) + jieqi_list[0] - 1 //减去冬至一天
           yao_min = tianshu12 * 24 * 60 / 30;
-          yao_n = Math.floor((((nday - jieqi_list[22]) * 24 * 60) + (hour * 60) + min) / yao_min)
+          if (nday < jieqi_list[23]) {
+            yao_n = Math.ceil((((nday - jieqi_list[22]) * 24 * 60) + (hour * 60) + min) / yao_min)
+          } else {
+            yao_n = Math.ceil((((nday - jieqi_list[22] - 1) * 24 * 60) + (hour * 60) + min) / yao_min)
+          }
 
-          tmp = Math.floor(yao_n / 6) + 1
-          dutygua = gualist_12month[tmp - 1]
+
+          tmp = Math.ceil(yao_n / 6)
+          dutygua = gualist_12month[tmp]
 
         }
         else // from 月初到本月第一个节气
         {
           tianshu11 = (30 - jieqi_list[20]) + jieqi_list[22]
           yao_min = tianshu11 * 24 * 60 / 30;
-          yao_n = Math.floor((((30 - jieqi_list[20] + 1 + nday) * 24 * 60) + (hour * 60) + min) / yao_min)
-          tmp = Math.floor(yao_n / 6) + 1
-          dutygua = gualist_11month[tmp - 1]
+          yao_n = Math.ceil((((30 - jieqi_list[20] + 1 + nday) * 24 * 60) + (hour * 60) + min) / yao_min)
 
+          if ((yao_n > 24) || (yao_n == 24))
+            dutygua = gualist_11month[5]
+          else
+            dutygua = gualist_11month[4]
         }
         break;
     }
-    //console.error('ppppp',dutygua)
+    // console.error('ppppp',dutygua)
     return dutygua
   },
 
@@ -902,6 +962,8 @@ Page({
     var nyear = date.getFullYear(); // tst here
     var nmonth = date.getMonth() + 1;
     var nday = date.getDate();
+    var hour = date.getHours();
+    var min = date.getMinutes();
     var sDays = this.DaysFrom1900Solar(nyear, nmonth, nday);
     var sTermInfo = [0, 21208, 42467, 63836, 85337, 107014, 128867, 150921, 173149, 195551, 218072, 240693, 263343, 285989, 308563, 331033, 353350, 375494, 397447, 419210, 440795, 462224, 483532, 504758,];// start from XiaoHan
     var TianGan = ['0', "甲", "乙", "丙", "丁", "戊", "己", "庚", "辛", "壬", "癸"];
@@ -1206,7 +1268,7 @@ Page({
 
   
 
-    var dutyGua = this.GetDutyGua(JieQi24);
+    var dutyGua = this.GetDutyGua(JieQi24, nyear, nmonth, nday, hour, min);
     var bengua_index = this.GetGuaIndex(dutyGua)
     //console.error('bengua_index',bengua_index)
     var biangua_index = this.QiGua4YiLin()
