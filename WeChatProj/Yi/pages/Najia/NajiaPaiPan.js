@@ -205,7 +205,7 @@ GetXunKong:function(ri_tiangan){
   },
 
 
-GetLiuQin:function(guaIndex,xiadong_flag){
+GetLiuQin:function(guaIndex,xiadong_flag,qiuFuFlag){
 var gua64LiuQin=[
   ['父母壬戌土', '兄弟壬申金', '官鬼壬午火', '父母甲辰土', '妻财甲寅木', '子孙甲子水'],
   ['子孙癸酉金', '妻财癸亥水', '兄弟癸丑土', '官鬼乙卯木', '父母乙巳火', '兄弟乙未土'],
@@ -338,11 +338,43 @@ var gua64LiuQin=[
    ['兄弟戊子水', '官鬼戊戌土', '父母戊申金', '兄弟己亥水', '官鬼己丑土', '子孙己卯木'],
    ['兄弟己巳火', '子孙己未土', '妻财己酉金', '兄弟戊午火', '子孙戊辰土', '父母戊寅木']
  ]
+  var fuuu = [
+    ['妻财丙寅木', '子孙丙子水', '父母丙戌土', '父母甲辰土', '妻财甲寅木', '子孙甲子水'],// 晋 
+    ['父母戊子水', '妻财戊戌土', '官鬼戊申金', '妻财庚辰土', '兄弟庚寅木', '父母庚子水'],// 大过
+    ['官鬼庚戌土', '父母庚申金', '妻财庚午火', '妻财戊午火', '官鬼戊辰土', '子孙戊寅木'],// 明夷
+    ['兄弟壬戌土', '子孙壬申金', '父母壬午火', '子孙丙申金', '父母丙午火', '兄弟丙辰土'],//中孚
+    ['兄弟丁未土', '子孙丁酉金', '妻财丁亥水', '官鬼乙卯木', '父母乙巳火', '兄弟乙未土'], // 需 
+    ['子孙己巳火', '妻财己未土', '官鬼己酉金', '官鬼辛酉金', '父母辛亥水', '妻财辛丑土'], // 颐
+    ['父母辛卯木', '兄弟辛巳火', '子孙辛未土', '官鬼己亥水', '子孙己丑土', '父母己卯木'],// 讼
+    ['兄弟癸酉金', '子孙癸亥水', '父母癸丑土', '父母丁丑土', '妻财丁卯木', '官鬼丁巳火'],// 小过
+    ]
 
-  if (xiadong_flag ==0)
+  if (qiuFuFlag==0)//(xiadong_flag ==0)
+    {
     return gua64LiuQin[guaIndex]
-  else
-    return gua64LiuQin_YiMaoVersion[guaIndex]
+    }
+    else{
+    if (guaIndex == 34)
+      gua64LiuQin[guaIndex] = fuuu[0]
+    else if (guaIndex == 27)
+      gua64LiuQin[guaIndex] = fuuu[1]
+    else if (guaIndex == 35)
+      gua64LiuQin[guaIndex] = fuuu[2]
+    else if (guaIndex == 60)
+      gua64LiuQin[guaIndex] = fuuu[3]
+    else if (guaIndex == 4)
+      gua64LiuQin[guaIndex] = fuuu[4]
+    else if (guaIndex == 26)
+      gua64LiuQin[guaIndex] = fuuu[5]
+    else if (guaIndex == 5)
+      gua64LiuQin[guaIndex] = fuuu[6]
+    else if (guaIndex == 61)
+      gua64LiuQin[guaIndex]= fuuu[7]
+
+    return gua64LiuQin[guaIndex]
+    }
+ 
+     //return gua64LiuQin_YiMaoVersion[guaIndex]
 },
 GetShiYing:function(guaindex){
   var shiyingGrp = [
@@ -876,11 +908,12 @@ transform2YinLinStr:function(str){
     case 57:
       fuindex = 51;
       break;
+      /*
     case 13://guihun
       fuindex = 11;
       break;
     case 16:
-      fuindex = 32;
+      fuindex = 31;
       break;
     case 6:
       fuindex = 62;
@@ -900,6 +933,8 @@ transform2YinLinStr:function(str){
     case 53:
       fuindex = 30;
       break;
+      */
+    case 13:
     case 43:
     case 32:
     case 11:
@@ -914,6 +949,7 @@ transform2YinLinStr:function(str){
     case 45:
     case 47:
     case 27:
+    case 16:
       fuindex = 50;
       break;
     case 59:
@@ -922,6 +958,7 @@ transform2YinLinStr:function(str){
     case 48:
     case 54:
     case 35:
+    case 6:
       fuindex = 28;
       break;
     case 21:
@@ -930,6 +967,7 @@ transform2YinLinStr:function(str){
     case 37:
     case 9:
     case 60:
+    case 52:
       fuindex = 51;
       break;
     case 23:
@@ -938,6 +976,7 @@ transform2YinLinStr:function(str){
     case 33:
     case 42:
     case 4:
+    case 7:
       fuindex = 1;
       break;
     case 36:
@@ -946,6 +985,7 @@ transform2YinLinStr:function(str){
     case 24:
     case 20:
     case 26:
+    case 17:
       fuindex = 56;
       break;
     case 55:
@@ -954,6 +994,7 @@ transform2YinLinStr:function(str){
     case 3:
     case 58:
     case 5:
+    case 12:
       fuindex = 29;
       break;
     case 46:
@@ -962,12 +1003,13 @@ transform2YinLinStr:function(str){
     case 38:
     case 14:
     case 61:
+    case 53:
       fuindex = 57;
       break;
   }
   return fuindex
 },
-  GetFuIndex_ym(benIndex) { // 伏神根据<京氏易传>来取，八纯互伏，一到五世伏本宫，归魂与本宫的伏相同，游魂伏五世上卦
+  GetFuIndex_ym(benIndex) { // 伏神根据<京氏易传>来取，八纯互伏，一到五世伏本宫，归魂与本宫的伏相同，游魂上伏五世上卦，下伏亲宫；归魂上伏亲宫，下伏五世下卦
     var fuindex
     //console.error('aaa')
     switch (benIndex) {
@@ -996,28 +1038,28 @@ transform2YinLinStr:function(str){
         fuindex = 51; // gen
         break;
       case 13:// guihun      dayou
-        fuindex = 1;
+        fuindex = 11; // 大有 伏 否
         break;
       case 16:// sui
-        fuindex = 56;
+        fuindex = 31; // 随 伏 恒
         break;
       case 6: // shi
-        fuindex = 29;
+        fuindex = 62; // 师 伏 既济
         break;
       case 52:// jian
-        fuindex = 57;
+        fuindex = 40; // 渐 伏 损
         break;
       case 7:// bi
-        fuindex = 0;
+        fuindex = 10; // 比 伏 泰
         break;
       case 17:// gu
-        fuindex = 50;
+        fuindex = 41; // 蛊 伏 益
         break;
       case 12:// tongren
-        fuindex = 28;
+        fuindex = 63; // 同人 伏 未济
         break;
       case 53:// guimei
-        fuindex = 51;
+        fuindex = 30; // 归妹 伏 咸
         break;
       case 43:
       case 32:
@@ -1026,18 +1068,18 @@ transform2YinLinStr:function(str){
       case 22:      
         fuindex = 0;
         break;
-      case 34:// youhun
-        fuindex = 51;
+      case 34:// youhun 
+        fuindex = 25;  // 晋 伏 大畜
         break;  
       case 15:
       case 39:
       case 31:
       case 45:
-      case 47:
+      case 47: // 
         fuindex = 50;
         break;
       case 27://youhun
-        fuindex = 28;
+        fuindex = 2; // 大过 伏 屯
         break;  
       case 59:
       case 2:
@@ -1047,7 +1089,7 @@ transform2YinLinStr:function(str){
         fuindex = 28;
         break;
       case 35:  //youhun
-        fuindex = 50;
+        fuindex = 39; // 明夷 伏 解
         break;
       case 21:
       case 25:
@@ -1057,7 +1099,7 @@ transform2YinLinStr:function(str){
         fuindex = 51;
         break;
       case 60://youhun
-        fuindex = 0;
+        fuindex = 32; // 中孚 伏 遁
         break;
       case 23:
       case 18:
@@ -1067,7 +1109,7 @@ transform2YinLinStr:function(str){
         fuindex = 1;
         break;
       case 4://youhun
-        fuindex = 57;
+        fuindex = 44; // 需 伏 萃
         break;  
       case 36:
       case 41:
@@ -1077,7 +1119,7 @@ transform2YinLinStr:function(str){
         fuindex = 56;
         break;
       case 26://youhun
-        fuindex = 29;
+        fuindex = 49; // 颐 伏 鼎
         break;  
       case 55:
       case 49:
@@ -1087,7 +1129,7 @@ transform2YinLinStr:function(str){
         fuindex = 29;
         break;
       case 5://youhun
-        fuindex = 56;
+        fuindex = 36; // 讼 伏 家人
         break;  
       case 46:
       case 44:
@@ -1097,7 +1139,7 @@ transform2YinLinStr:function(str){
         fuindex = 57;
         break;
       case 61://youhun
-        fuindex = 1;
+        fuindex = 18; // 小过 伏 临
         break;  
     }
     return fuindex
@@ -1111,7 +1153,7 @@ transform2YinLinStr:function(str){
     else
       var findex = this.GetFuIndex_ym(benIndex)
 
-    var fushen = this.GetLiuQin(findex, xiadong_flag);
+    var fushen = this.GetLiuQin(findex, xiadong_flag,1);
 
 this.setData({
   fuyao6: '上爻：' + fushen[0],
@@ -1672,8 +1714,8 @@ for(var i=0;i<6;i++)
     var paipanFlag = options.ppflag;
     var flag = this.GetPaiPanFlag(options.dateIndex, options.xiadong_day, options.qigua_flag, paipanFlag)
     
-    var benLiuqin = this.GetLiuQin(gua_index[0],flag);
-    var liuqin_tmp = this.GetLiuQin(gua_index[1],flag);
+    var benLiuqin = this.GetLiuQin(gua_index[0],flag,0);
+    var liuqin_tmp = this.GetLiuQin(gua_index[1],flag,0);
     var bianLiuqin = this.GetbianLiuQ(gua64wuxing[gua_index[0]],liuqin_tmp)
     var benShiying = this.GetShiYing(gua_index[0])
     var bianShiying = this.GetShiYing(gua_index[1])
