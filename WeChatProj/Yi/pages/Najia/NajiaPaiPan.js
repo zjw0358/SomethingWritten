@@ -348,28 +348,29 @@ var gua64LiuQin=[
     ['父母辛卯木', '兄弟辛巳火', '子孙辛未土', '官鬼己亥水', '子孙己丑土', '父母己卯木'],// 讼
     ['兄弟癸酉金', '子孙癸亥水', '父母癸丑土', '父母丁丑土', '妻财丁卯木', '官鬼丁巳火'],// 小过
     ]
-
+  
   if (qiuFuFlag==0)//(xiadong_flag ==0)
     {
     return gua64LiuQin[guaIndex]
     }
     else{
-    if (guaIndex == 34)
+    if (guaIndex == 25)
       gua64LiuQin[guaIndex] = fuuu[0]
-    else if (guaIndex == 27)
+    else if (guaIndex == 2)
       gua64LiuQin[guaIndex] = fuuu[1]
-    else if (guaIndex == 35)
+    else if (guaIndex == 39)
       gua64LiuQin[guaIndex] = fuuu[2]
-    else if (guaIndex == 60)
+    else if (guaIndex == 32)
       gua64LiuQin[guaIndex] = fuuu[3]
-    else if (guaIndex == 4)
+    else if (guaIndex == 44)
       gua64LiuQin[guaIndex] = fuuu[4]
-    else if (guaIndex == 26)
+    else if (guaIndex == 49)
       gua64LiuQin[guaIndex] = fuuu[5]
-    else if (guaIndex == 5)
+    else if (guaIndex == 36)
       gua64LiuQin[guaIndex] = fuuu[6]
-    else if (guaIndex == 61)
-      gua64LiuQin[guaIndex]= fuuu[7]
+    else if (guaIndex == 18)
+      gua64LiuQin[guaIndex] = fuuu[7]
+
 
     return gua64LiuQin[guaIndex]
     }
