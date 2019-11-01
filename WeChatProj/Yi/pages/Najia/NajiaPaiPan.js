@@ -347,14 +347,25 @@ var gua64LiuQin=[
     ['子孙己巳火', '妻财己未土', '官鬼己酉金', '官鬼辛酉金', '父母辛亥水', '妻财辛丑土'], // 颐
     ['父母辛卯木', '兄弟辛巳火', '子孙辛未土', '官鬼己亥水', '子孙己丑土', '父母己卯木'],// 讼
     ['兄弟癸酉金', '子孙癸亥水', '父母癸丑土', '父母丁丑土', '妻财丁卯木', '官鬼丁巳火'],// 小过
+
+    ['兄弟癸酉金', '子孙癸亥水', '父母癸丑土', '妻财乙卯木', '官鬼乙巳火', '父母乙未土'],//  
+    ['兄弟壬戌土', '子孙壬申金', '父母壬午火', '兄弟甲辰土', '官鬼甲寅木', '妻财甲子水'],// 
+    ['妻财己巳火', '官鬼己未土', '父母己酉金', '兄弟己亥水', '官鬼己丑土', '子孙己卯木'],// 
+    ['官鬼戊子水', '子孙戊戌土', '妻财戊申金', '兄弟戊午火', '子孙戊辰土', '父母戊寅木'],// 
+    ['兄弟辛卯木', '子孙辛巳火', '妻财辛未土', '官鬼辛酉金', '父母辛亥水', '妻财辛丑土'], //  
+    ['妻财丙寅木', '子孙丙子水', '父母丙戌土', '兄弟丙申金', '官鬼丙午火', '父母丙辰土'], // 兑伏艮
+    ['妻财庚戌土', '官鬼庚申金', '子孙庚午火', '妻财庚辰土', '兄弟庚寅木', '父母庚子水'],//  
+    ['兄弟丁未土', '子孙丁酉金', '妻财丁亥水', '兄弟丁丑土', '官鬼丁卯木', '父母丁巳火'],// 艮伏兑
     ]
   
   if (qiuFuFlag==0)//(xiadong_flag ==0)
     {
+  
     return gua64LiuQin[guaIndex]
     }
     else{
-    if (guaIndex == 25)
+   
+    if (guaIndex == 25)     // youhun start
       gua64LiuQin[guaIndex] = fuuu[0]
     else if (guaIndex == 2)
       gua64LiuQin[guaIndex] = fuuu[1]
@@ -369,8 +380,23 @@ var gua64LiuQin=[
     else if (guaIndex == 36)
       gua64LiuQin[guaIndex] = fuuu[6]
     else if (guaIndex == 18)
-      gua64LiuQin[guaIndex] = fuuu[7]
-
+      gua64LiuQin[guaIndex] = fuuu[7]   // youhun end
+    else if (guaIndex == 1)             // bachun start  qian
+      gua64LiuQin[guaIndex] = fuuu[8]
+    else if (guaIndex == 0)    // kun
+      gua64LiuQin[guaIndex] = fuuu[9]
+    else if (guaIndex == 29)   // kan
+      gua64LiuQin[guaIndex] = fuuu[10]
+    else if (guaIndex == 28)  // li
+      gua64LiuQin[guaIndex] = fuuu[11]
+   // else if (guaIndex == 50) // zhen
+   //   gua64LiuQin[guaIndex] = fuuu[12]
+    else if (guaIndex == 51) // gen
+      gua64LiuQin[guaIndex] = fuuu[13]
+   // else if (guaIndex == 56)  // xun
+   //   gua64LiuQin[guaIndex] = fuuu[14] 
+    else if (guaIndex == 57)  // dui
+      gua64LiuQin[guaIndex] = fuuu[15]  // bachun end
 
     return gua64LiuQin[guaIndex]
     }
