@@ -205,7 +205,7 @@ GetXunKong:function(ri_tiangan){
   },
 
 
-GetLiuQin:function(guaIndex,xiadong_flag,qiuFuFlag){
+GetLiuQin:function(guaIndex,xiadong_flag,qiuFuFlag,qiufuVersion,feiIndex){
 var gua64LiuQin=[
   ['父母壬戌土', '兄弟壬申金', '官鬼壬午火', '父母甲辰土', '妻财甲寅木', '子孙甲子水'],
   ['子孙癸酉金', '妻财癸亥水', '兄弟癸丑土', '官鬼乙卯木', '父母乙巳火', '兄弟乙未土'],
@@ -272,7 +272,7 @@ var gua64LiuQin=[
   ['兄弟戊子水', '官鬼戊戌土', '父母戊申金', '兄弟己亥水', '官鬼己丑土', '子孙己卯木'],
   ['兄弟己巳火', '子孙己未土', '妻财己酉金', '兄弟戊午火', '子孙戊辰土', '父母戊寅木'],
 ]
- var gua64LiuQin_YiMaoVersion=[
+ /*var gua64LiuQin_YiMaoVersion=[
    ['父母甲辰土', '妻财甲寅木', '子孙甲子水', '父母壬戌土', '兄弟壬申金', '官鬼壬午火'],
    ['官鬼乙卯木', '父母乙巳火', '兄弟乙未土', '子孙癸酉金', '妻财癸亥水', '兄弟癸丑土'],
    ['兄弟戊子水', '官鬼戊戌土', '父母戊申金', '官鬼庚辰土', '子孙庚寅木', '兄弟庚子水'],
@@ -337,7 +337,7 @@ var gua64LiuQin=[
    ['父母庚戌土', '兄弟庚申金', '官鬼庚午火', '兄弟丙申金', '官鬼丙午火', '父母丙辰土'],
    ['兄弟戊子水', '官鬼戊戌土', '父母戊申金', '兄弟己亥水', '官鬼己丑土', '子孙己卯木'],
    ['兄弟己巳火', '子孙己未土', '妻财己酉金', '兄弟戊午火', '子孙戊辰土', '父母戊寅木']
- ]
+ ] */
   var fuuu = [
     ['妻财丙寅木', '子孙丙子水', '父母丙戌土', '父母甲辰土', '妻财甲寅木', '子孙甲子水'],// 晋 
     ['父母戊子水', '妻财戊戌土', '官鬼戊申金', '妻财庚辰土', '兄弟庚寅木', '父母庚子水'],// 大过
@@ -357,46 +357,119 @@ var gua64LiuQin=[
     ['妻财庚戌土', '官鬼庚申金', '子孙庚午火', '妻财庚辰土', '兄弟庚寅木', '父母庚子水'],//  
     ['兄弟丁未土', '子孙丁酉金', '妻财丁亥水', '兄弟丁丑土', '官鬼丁卯木', '父母丁巳火'],// 艮伏兑
     ]
-  
-  if (qiuFuFlag==0)//(xiadong_flag ==0)
+
+  if (qiuFuFlag == 0)//(xiadong_flag ==0)
     {
-  
+    //console.error('111 is ')
     return gua64LiuQin[guaIndex]
     }
     else{
-   
-    if (guaIndex == 25)     // youhun start
-      gua64LiuQin[guaIndex] = fuuu[0]
-    else if (guaIndex == 2)
-      gua64LiuQin[guaIndex] = fuuu[1]
-    else if (guaIndex == 39)
-      gua64LiuQin[guaIndex] = fuuu[2]
-    else if (guaIndex == 32)
-      gua64LiuQin[guaIndex] = fuuu[3]
-    else if (guaIndex == 44)
-      gua64LiuQin[guaIndex] = fuuu[4]
-    else if (guaIndex == 49)
-      gua64LiuQin[guaIndex] = fuuu[5]
-    else if (guaIndex == 36)
-      gua64LiuQin[guaIndex] = fuuu[6]
-    else if (guaIndex == 18)
-      gua64LiuQin[guaIndex] = fuuu[7]   // youhun end
-    else if (guaIndex == 1)             // bachun start  qian
-      gua64LiuQin[guaIndex] = fuuu[8]
-    else if (guaIndex == 0)    // kun
-      gua64LiuQin[guaIndex] = fuuu[9]
-    else if (guaIndex == 29)   // kan
-      gua64LiuQin[guaIndex] = fuuu[10]
-    else if (guaIndex == 28)  // li
-      gua64LiuQin[guaIndex] = fuuu[11]
-   // else if (guaIndex == 50) // zhen
-   //   gua64LiuQin[guaIndex] = fuuu[12]
-    else if (guaIndex == 51) // gen
-      gua64LiuQin[guaIndex] = fuuu[13]
-   // else if (guaIndex == 56)  // xun
-   //   gua64LiuQin[guaIndex] = fuuu[14] 
-    else if (guaIndex == 57)  // dui
-      gua64LiuQin[guaIndex] = fuuu[15]  // bachun end
+    //console.error('222 is ' + guaIndex)
+    if (qiufuVersion=='a') // chun fu dui, 7 fu ben
+    {
+      switch (guaIndex) // guaIndex means fu
+      {
+        case 0:
+          if (feiIndex==1)
+            gua64LiuQin[guaIndex] = fuuu[9]
+        break;
+        case 1:
+          if (feiIndex == 0)
+            gua64LiuQin[guaIndex] = fuuu[8]
+          break;
+        case 29:
+          if (feiIndex == 28)        
+            gua64LiuQin[guaIndex] = fuuu[10]
+          break;
+        case 28:
+          if (feiIndex == 29)
+            gua64LiuQin[guaIndex] = fuuu[11]
+          break;
+        case 51:
+          if (feiIndex == 57)
+            gua64LiuQin[guaIndex] = fuuu[13]
+          break;
+        case 57:
+          if (feiIndex == 51)
+            gua64LiuQin[guaIndex] = fuuu[15]
+          break;
+        default:
+          break;
+      }
+    
+    }
+    else{ // chun fu dui ,you fu X, gui fu Y
+     // console.error('qiufuVersion is ' + qiufuVersion)
+      switch (guaIndex) // guaIndex means fu
+      {
+        case 0:
+          if (feiIndex == 1)
+            gua64LiuQin[guaIndex] = fuuu[9]
+          break;
+        case 1:
+          if (feiIndex == 0)
+            gua64LiuQin[guaIndex] = fuuu[8]
+          break;
+        case 29:
+          if (feiIndex == 28)
+            gua64LiuQin[guaIndex] = fuuu[10]
+          break;
+        case 28:
+          if (feiIndex == 29)
+            gua64LiuQin[guaIndex] = fuuu[11]
+          break;
+        case 51:
+          if (feiIndex == 57)
+            gua64LiuQin[guaIndex] = fuuu[13]
+          break;
+        case 57:
+          if (feiIndex == 51)
+            gua64LiuQin[guaIndex] = fuuu[15]
+          break;
+
+        case 25:    // youhun start
+          console.error('a')
+          if (feiIndex==34)
+            gua64LiuQin[guaIndex] = fuuu[0]
+          break;
+        case 2:
+          console.error('b')
+          if (feiIndex == 27)
+            gua64LiuQin[guaIndex] = fuuu[1]
+          break;
+        case 39:
+          console.error('c')
+          if (feiIndex == 35)
+            gua64LiuQin[guaIndex] = fuuu[2]
+          break;
+        case 32:
+          console.error('d')
+          if (feiIndex == 60)
+            gua64LiuQin[guaIndex] = fuuu[3]
+          break;
+        case 44:
+          console.error('e')
+          if (feiIndex == 4)
+            gua64LiuQin[guaIndex] = fuuu[4]
+          break;
+        case 49:
+          console.error('f')
+          if (feiIndex == 26)
+            gua64LiuQin[guaIndex] = fuuu[5]
+          break;
+        case 36:
+          console.error('g')
+          if (feiIndex == 5)
+            gua64LiuQin[guaIndex] = fuuu[6]
+          break;
+        case 18:
+          console.error('h')
+          if (feiIndex == 61)
+            gua64LiuQin[guaIndex] = fuuu[7]    // youhun end
+        default:
+          break;
+      }
+    }
 
     return gua64LiuQin[guaIndex]
     }
@@ -1176,11 +1249,16 @@ transform2YinLinStr:function(str){
    // console.error('aaa '+typeof(benIndex))
    // console.error('aaa ' + benIndex)
     if (ifyimao == '1')
+    { 
       var findex = this.GetFuIndex(benIndex)
+      var fuVer = 'a'
+      }
     else
+    {   
       var findex = this.GetFuIndex_ym(benIndex)
-
-    var fushen = this.GetLiuQin(findex, xiadong_flag,1);
+      var fuVer = 'b'
+    }
+    var fushen = this.GetLiuQin(findex, xiadong_flag, 1, fuVer, benIndex);
 
 this.setData({
   fuyao6: '上爻：' + fushen[0],
@@ -1741,8 +1819,8 @@ for(var i=0;i<6;i++)
     var paipanFlag = options.ppflag;
     var flag = this.GetPaiPanFlag(options.dateIndex, options.xiadong_day, options.qigua_flag, paipanFlag)
     
-    var benLiuqin = this.GetLiuQin(gua_index[0],flag,0);
-    var liuqin_tmp = this.GetLiuQin(gua_index[1],flag,0);
+    var benLiuqin = this.GetLiuQin(gua_index[0], flag, 0, gua_index[0], gua_index[0]);
+    var liuqin_tmp = this.GetLiuQin(gua_index[1], flag, 0, gua_index[1], gua_index[1]);
     var bianLiuqin = this.GetbianLiuQ(gua64wuxing[gua_index[0]],liuqin_tmp)
     var benShiying = this.GetShiYing(gua_index[0])
     var bianShiying = this.GetShiYing(gua_index[1])
