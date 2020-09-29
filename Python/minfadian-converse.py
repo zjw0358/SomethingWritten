@@ -79,7 +79,14 @@ for i in range(1261): # 输出汉字表示的条数
         shiweiHAN = getHAN((int(i/10))%10)   
         baiweiHAN = getHAN((int(i/100))%10)
         qianweiHAN = getHAN((int(i/1000))%10)
-        fatiao.append('第' + qianweiHAN + '千' + baiweiHAN + '百' + shiweiHAN +'十' + geweiHAN + '条')
+        if baiweiHAN == '':
+            if shiweiHAN !='':        
+                fatiao.append('第' + qianweiHAN + '千' + '零' + shiweiHAN +'十' + geweiHAN + '条')            
+            else:
+                fatiao.append('第' + qianweiHAN + '千' + '零' + geweiHAN + '条')            
+        else:
+            fatiao.append('第' + qianweiHAN + '千' + baiweiHAN + '百' + shiweiHAN +'十' + geweiHAN + '条')
+        
 
 print(fatiao[0],fatiao[1])
 '''
@@ -114,7 +121,7 @@ for line in lines:
             break
         else:
             tmpline = line
-    term_arr.append(tmpline.strip('\n'))
+    term_arr.append(tmpline)
     #if '第七十四条' in line:
     #    print(line_item)
     #    print(str(line).replace('第七十四条' ,'#define '+ 'A'+ str(num) +' //'))
