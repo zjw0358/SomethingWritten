@@ -1,0 +1,169 @@
+<!--pages/JiaoShiYi/JiaoShiYi.wxml-->
+<view> 
+<button bindtap="Preface_JiaoShiYi">
+焦氏易说
+</button>
+<button bindtap="yilin_zhan">
+易林占
+</button>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY1">乾之第一</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY2">坤之第二</button></view>
+</view>
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY3">屯之第三</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY4">蒙之第四</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY5">需之第五</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY6">讼之第六</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY7">师之第七</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY8">比之第八</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY9">小蓄之第九</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY10">履之第十</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY11">泰之第十一</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY12">否之第十二</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY13">同人之第十三</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY14">大有之第十四</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY15">谦之第十五</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY16">豫之第十六</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY17">随之第十七</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY18">蛊之第十八</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY19">临之第十九</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY20">观之第二十</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY21">噬嗑之第二十一</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY22">贲之第二十二</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY23">剥之第二十三</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY24">复之第二十四</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY25">无妄之第二十五</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY26">大蓄之第二十六</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY27">颐之第二十七</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY28">大过之第二十八</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY29">坎之第二十九</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY30">离之第三十</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY31">咸之第三十一</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY32">恒之第三十二</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY33">遁之第三十三</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY34">大壮之第三十四</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY35">晋之第三十五</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY36">明夷之第三十六</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY37">家人之第三十七</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY38">睽之第三十八</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY39">蹇之第三十九</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY40">解之第四十</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY41">损之第四十一</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY42">益之第四十二</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY43">夬之第四十三</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY44">姤之第四十四</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY45">萃之第四十五</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY46">升之第四十六</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY47">困之第四十七</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY48">井之第四十八</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY49">革之第四十九</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY50">鼎之第五十</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY51">震之第五十一</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY52">艮之第五十二</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY53">渐之第五十三</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY54">归妹之第五十四</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY55">丰之第五十五</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY56">旅之第五十六</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY57">巽之第五十七</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY58">兑之第五十八</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY59">涣之第五十九</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY60">节之第六十</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY61">中孚之第六十一</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY62">小过之第六十二</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="JiaoSY63">既济之第六十三</button></view>
+<view style="flex:1"> <button bindtap="JiaoSY64">未济之第六十四</button></view>
+</view>
+<!--<ad unit-id="adunit-e4c85e3fed10aca6"></ad>-->

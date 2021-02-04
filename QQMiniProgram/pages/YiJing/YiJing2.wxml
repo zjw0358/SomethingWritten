@@ -1,0 +1,258 @@
+<!--pages/YiJing2/YiJing2.wxml-->
+<scroll-view>
+<!--
+<button class="bt_64" bindtap="gua64_31" >
+咸 
+</button>
+
+<button class="bt_64" bindtap="gua64_32" >
+恒
+</button>
+
+
+
+<button class="bt_64" bindtap="gua64_33" >
+遁
+</button>
+
+<button class="bt_64" bindtap="gua64_34" >
+大壮
+</button>
+
+
+
+<button class="bt_64" bindtap="gua64_35" >
+晋
+</button>
+
+<button class="bt_64" bindtap="gua64_36" >
+明夷
+</button>
+
+
+
+<button class="bt_64" bindtap="gua64_37" >
+家人
+</button>
+
+<button class="bt_64" bindtap="gua64_38" >
+睽
+</button>
+
+
+
+<button class="bt_64" bindtap="gua64_39" >
+蹇
+</button>
+
+<button class="bt_64" bindtap="gua64_40" >
+解
+</button>
+
+
+
+<button class="bt_64" bindtap="gua64_41" >
+损
+</button>
+
+<button class="bt_64" bindtap="gua64_42" >
+益
+</button>
+
+
+
+<button class="bt_64" bindtap="gua64_43" >
+夬
+</button>
+
+<button class="bt_64" bindtap="gua64_44" >
+姤
+</button>
+
+
+
+<button class="bt_64" bindtap="gua64_45" >
+萃
+</button>
+
+<button class="bt_64" bindtap="gua64_46" >
+升
+</button>
+
+
+
+<button class="bt_64" bindtap="gua64_47" >
+困
+</button>
+
+<button class="bt_64" bindtap="gua64_48" >
+井
+</button>
+
+
+
+<button class="bt_64" bindtap="gua64_49" >
+革
+</button>
+
+<button class="bt_64" bindtap="gua64_50" >
+鼎
+</button>
+
+
+
+<button class="bt_64" bindtap="gua64_51" >
+震
+</button>
+
+<button class="bt_64" bindtap="gua64_52" >
+艮
+</button>
+
+
+
+<button class="bt_64" bindtap="gua64_53" >
+渐
+</button>
+
+<button class="bt_64" bindtap="gua64_54" >
+归妹
+</button>
+
+
+
+<button class="bt_64" bindtap="gua64_55" >
+丰
+</button>
+
+<button class="bt_64" bindtap="gua64_56" >
+旅
+</button>
+
+
+
+<button class="bt_64" bindtap="gua64_57" >
+巽
+</button>
+
+<button class="bt_64" bindtap="gua64_58" >
+兑
+</button>
+
+
+
+<button class="bt_64" bindtap="gua64_59" >
+涣
+</button>
+
+<button class="bt_64" bindtap="gua64_60" >
+节
+</button>
+
+
+
+<button class="bt_64" bindtap="gua64_61" >
+中孚
+</button>
+
+<button class="bt_64" bindtap="gua64_62" >
+小过
+</button>
+
+
+
+<button class="bt_64" bindtap="gua64_63" >
+既济
+</button>
+
+<button class="bt_64" bindtap="gua64_64" >
+未济
+</button>
+-->
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_31">31咸</button></view>
+<view style="flex:1"> <button bindtap="gua64_32">32恒</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_33">33遁</button></view>
+<view style="flex:1"> <button bindtap="gua64_34">34大壮</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_35">35晋</button></view>
+<view style="flex:1"> <button bindtap="gua64_36">36明夷</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_37">37家人</button></view>
+<view style="flex:1"> <button bindtap="gua64_38">38睽</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_39">39蹇</button></view>
+<view style="flex:1"> <button bindtap="gua64_40">40解</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_41">41损</button></view>
+<view style="flex:1"> <button bindtap="gua64_42">42益</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_43">43夬</button></view>
+<view style="flex:1"> <button bindtap="gua64_44">44姤</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_45">45萃</button></view>
+<view style="flex:1"> <button bindtap="gua64_46">46升</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_47">47困</button></view>
+<view style="flex:1"> <button bindtap="gua64_48">48井</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_49">49革</button></view>
+<view style="flex:1"> <button bindtap="gua64_50">50鼎</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_51">51震</button></view>
+<view style="flex:1"> <button bindtap="gua64_52">52艮</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_53">53渐</button></view>
+<view style="flex:1"> <button bindtap="gua64_54">54归妹</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_55">55丰</button></view>
+<view style="flex:1"> <button bindtap="gua64_56">56旅</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_57">57巽</button></view>
+<view style="flex:1"> <button bindtap="gua64_58">58兑</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_59">59涣</button></view>
+<view style="flex:1"> <button bindtap="gua64_60">60节</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_61">61中孚</button></view>
+<view style="flex:1"> <button bindtap="gua64_62">62小过</button></view>
+</view>
+
+<view class="content">
+<view style="flex:1"> <button bindtap="gua64_63">63既济</button></view>
+<view style="flex:1"> <button bindtap="gua64_64">64未济</button></view>
+</view>
+<!--<ad unit-id="adunit-6ee2c3513aea744c"></ad>-->
+</scroll-view>

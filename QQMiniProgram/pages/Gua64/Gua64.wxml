@@ -1,0 +1,53 @@
+<!--pages/Gua64/Gua64.wxml-->
+<view class = 'YiJingCiView' ><!--catchtouchstart='guaPagesTPstart' catchtouchend='guaPagesTPend' catchtouchmove='guaPagesMove'-->
+
+<!--bindtouchstart='touchStartInYiJingCi' bindtouchend='touchEndInYiJingCi'-->
+<view class = 'guatu64'>
+<canvas style="flex-direction:row;{{canvasWidth}}px; height: 200px;" canvas-id="guatu"></canvas>
+</view>
+
+
+<view class='gua_title_in_view' style="text-align:center">
+<text class="normal_text">{{gua_title}}</text>
+</view>
+
+<view class='gua_daxiang_in_view' style="text-align:center">
+<text class="normal_text">{{gua_daxiang}}</text>
+</view>
+
+<view style="text-align:left">
+<text class="normal_text" style='color:{{yao1_color}}'>{{guayao_1}}</text>
+</view>
+<view style="text-align:left">
+<text class="normal_text" style='color:{{yao2_color}}'>{{guayao_2}}</text>
+</view>
+<view style="text-align:left">
+<text class="normal_text" style='color:{{yao3_color}}'>{{guayao_3}}</text>
+</view>
+<view style="text-align:left">
+<text class="normal_text" style='color:{{yao4_color}}'>{{guayao_4}}</text>
+</view>
+<view style="text-align:left">
+<text class="normal_text" style='color:{{yao5_color}}'>{{guayao_5}}</text>
+</view>
+<view style="text-align:left">
+<text class="normal_text" style='color:{{yao6_color}}'>{{guayao_6}}</text>
+</view>
+<view style="text-align:left">
+<text class="normal_text">{{yong_96}}</text>
+</view>
+
+
+<scroll-view>
+<view class = 'tuan_view' style="text-align:left">
+<text class="normal_text">{{gua_tuan}}</text>
+</view>
+
+
+
+<view class='xiaoxiang_view' style="text-align:left">
+<text class="normal_text">{{gua_xiang}}</text>
+</view>
+
+</scroll-view>
+</view>

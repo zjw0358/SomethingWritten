@@ -1,0 +1,8 @@
+/* pages/YiJing1/YiJing1.wxss */
+
+
+.content{
+  display: flex;
+  flex-direction: row;
+
+}

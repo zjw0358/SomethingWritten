@@ -1,0 +1,11 @@
+/* pages/JiaoShiYi2/JiaoShiYi2.wxss */
+.content{
+  display: flex;
+  flex-direction: row;
+}
+.YLCTitleText{
+
+font-size: 15pt;
+ 
+}
+

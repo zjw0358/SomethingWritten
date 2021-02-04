@@ -1,0 +1,11 @@
+/* pages/JiaoShiYiZhanResult/JiaoShiYiZhanResult.wxss */
+
+.YiLinGuaTuView{
+  display: flex;
+  flex-direction: row;
+}
+
+.YiLinGuaCanvas{
+
+  justify-content: center;
+}

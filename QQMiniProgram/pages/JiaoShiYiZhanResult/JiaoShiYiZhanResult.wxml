@@ -1,0 +1,32 @@
+<!--pages/JiaoShiYiZhanResult/JiaoShiYiZhanResult.wxml-->
+
+
+<view style="text-align:center" class='dashang_title'>
+<text>{{Today}}\n</text>
+</view>
+
+<view style="text-align:center" class='dashang_title'>
+<text>{{YinLi}}\n</text>
+<text>{{Ganzhi}}\n</text>
+</view>
+
+<view style="text-align:center" class='title_text'>
+<text>{{DutyGua}}\n</text>
+</view>
+
+<view class="YiLinGuaTuView">
+  <view style="flex:1;"> 
+  <canvas class ="YiLinGuaCanvas" style="width:{{canvasWidth}}px; height: 200px;"canvas-id="GuaTuCanvas1"></canvas>
+  </view>
+  <view style="flex:1;"> 
+  <canvas class ="YiLinGuaCanvas" style="width:{{canvasWidth}}px; height: 200px;"canvas-id="GuaTuCanvas2"></canvas>
+  </view>  
+</view>
+
+<view class='YiLinCiShow' style="text-align:left">
+<text class="normal_text">{{YiLinCi4096}}</text>
+</view>
+
+
+
+

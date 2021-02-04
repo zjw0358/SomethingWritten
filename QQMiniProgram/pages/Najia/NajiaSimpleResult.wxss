@@ -1,0 +1,5 @@
+/* pages/Najia/NajiaSimpleResult.wxss */
+.content{
+  display: flex;
+  flex-direction: row;
+}

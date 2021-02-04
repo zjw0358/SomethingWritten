@@ -1,0 +1,35 @@
+<!--pages/Najia/Najia.wxml-->
+<!--<text>敬请期待。。。\n\n\n\n\n\n\n\n\n\n</text>-->
+<view> 
+<button bindtap="najia_tst1">
+纳甲源流
+</button>
+</view>
+<view> 
+<button bindtap="najia_tst3">
+铜钱代蓍
+</button>
+</view>
+<view> 
+<button bindtap="najia_tst2">
+纳甲排盘
+</button>
+</view>
+
+<view> 
+<button bindtap="najia_tst5">
+精简排盘
+</button>
+</view>
+
+<view> 
+<button bindtap="najia_tst4">
+随心而起
+</button>
+
+<view class='ads' style="text-align:center" >
+  \n\n\n\n\n
+</view>
+</view>
+
+

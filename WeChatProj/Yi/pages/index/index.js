@@ -3,6 +3,18 @@
 const app = getApp()
 
 Page({
+
+  onShareAppMessage: function (res) {
+    if (res.from === 'button') {
+      // 来自页面内转发按钮
+      console.log(res.target)
+    }
+    return {
+      title: '易冒天下之道',
+      path: ''
+    }
+  },
+
   data: {
     motto: 'Hello World',
     userInfo: {},

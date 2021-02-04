@@ -1,0 +1,5 @@
+/* pages/Pres/Pres.wxss */
+
+.title_text{
+   font-size: 22px;
+}

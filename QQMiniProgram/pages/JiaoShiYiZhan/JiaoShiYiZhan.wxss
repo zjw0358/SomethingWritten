@@ -1,0 +1,22 @@
+/* pages/JiaoShiYiZhan/JiaoShiYiZhan.wxss */
+
+
+.contentInDuty{
+  margin-top: 5px;
+  display: flex;
+  flex-direction: row;
+}
+
+.GuaCanvasInDuty{
+  margin-top: 5px;
+  margin-left: 25px;
+  justify-content: center;
+}
+
+.zhan_bt_view{
+margin-top: 10px;
+}
+
+.gotoZhan_bt{
+background-color: goldenrod
+}

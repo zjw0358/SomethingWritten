@@ -1,0 +1,14 @@
+/* pages/Zhan/Zhan.wxss */
+.gotoZhan_bt{
+background-color: goldenrod
+}
+
+.zhan_title{
+margin-top: 25px;
+}
+.zhan_pic{
+margin-top: 25px;
+}
+.zhan_bt_view{
+margin-top: 25px;
+}

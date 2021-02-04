@@ -1,0 +1,7 @@
+/* pages/JiaoShiYi/JiaoShiYi.wxss */
+
+
+.content{
+  display: flex;
+  flex-direction: row;
+}
